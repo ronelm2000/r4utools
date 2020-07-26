@@ -1,11 +1,9 @@
-WSMTools (Weiss Schwarz Montage Tools)
+R4UTools (Rebirth For You Tools)
 ===========
 ![.NET Core](https://github.com/ronelm2000/r4utools/workflows/.NET%20Core/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/ronelm2000/r4utools/badge)](https://www.codefactor.io/repository/github/ronelm2000/)
 [![Gitter](https://badges.gitter.im/wsmtools/community.svg)](https://gitter.im/wsmtools/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Downloads](https://img.shields.io/github/downloads/ronelm2000/r4utools/total.svg)](https://tooomm.github.io/github-release-stats/?username=ronelm2000&repository=r4utools)
-
-Weiss Schwarz ©bushiroad All Rights Reserved.
 
 This a CLI (Command Line Interface) tool + GUI deck builder intended to parse through, process, and export R4U cards and card set d; specifically, this tool's intention is to make querying, parsing, and exporting cards from various sources easier, as
 well as provide APIs to expand on that functionality.
@@ -35,3 +33,6 @@ registering on GitHub.
 Requirements to build are:
 * Visual Studio 2019 (or greater)
 * [Avalonia for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)
+
+-----
+©BanG Dream! Project　©異世界かるてっと／ＫＡＤＯＫＡＷＡ 　©上海アリス幻樂団　©Project Revue Starlight © 2019 Ateam Inc. ©Tokyo Broadcasting System Television, Inc. ©Koi・芳文社／ご注文は製作委員会ですか？？ ©bushiroad All Rights Reserved.　illust.西あすか
