@@ -37,16 +37,18 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck
             };
             */
         }
-        public async Task Export(WeissSchwarzDeck deck, IExportInfo info)
+        public async Task Export(R4UDeck deck, IExportInfo info)
         {
             Log.Information("Serializing: {name}", deck.Name);
 
+            /*
             using (var db = _database())
             {
                 Log.Information("Replacing all foils with non-foils...");
                 foreach (var card in deck.Ratios.Keys)
                     if (card.IsFoil) deck.ReplaceCard(card, await db.FindNonFoil(card));
             }
+            */
 
             Log.Information("Creating deck.cod...");
             var cckDeck = new CockatriceDeck();
@@ -79,11 +81,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck
             };
         }
 
-        private CockatriceSerialAmountPair Translate(KeyValuePair<WeissSchwarzCard, int> cardAmountPair)
+        private CockatriceSerialAmountPair Translate(KeyValuePair<R4UCard, int> cardAmountPair)
         {
             return new CockatriceSerialAmountPair()
             {
-                Serial = WeissSchwarzCard.AsJapaneseSerial(cardAmountPair.Key.Serial),
+                Serial = cardAmountPair.Key.Serial,
                 Amount = cardAmountPair.Value
             };
         }

@@ -37,12 +37,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
                 return true;
         }
 
-        public async Task<WeissSchwarzDeck> Parse(string sourceUrlOrFile)
+        public async Task<R4UDeck> Parse(string sourceUrlOrFile)
         {
             var filePath = Path.Get(sourceUrlOrFile);
             SimpleDeck deckJSON = null;
             deckJSON = JsonSerializer.Deserialize<SimpleDeck>(filePath.ReadBytes());
-            WeissSchwarzDeck deck = new WeissSchwarzDeck();
+            R4UDeck deck = new R4UDeck();
             deck.Name = deckJSON.Name;
             deck.Remarks = deckJSON.Remarks;
             using (var db = _database())
@@ -50,12 +50,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
                 await db.Database.MigrateAsync();
                 foreach (var serial in deckJSON.Ratios.Keys)
                 {
-                    var card = await db.WeissSchwarzCards.FindAsync(serial);
+                    var card = await db.R4UCards.FindAsync(serial);
                     if (card == null)
                     {
                         Log.Error("This card is missing in your local card db: {serial}", serial);
                         Log.Error("You must obtain information about this card first using the command {cmd}", "./wstools parse");
-                        return WeissSchwarzDeck.Empty;
+                        return R4UDeck.Empty;
                     }
                     else
                     {

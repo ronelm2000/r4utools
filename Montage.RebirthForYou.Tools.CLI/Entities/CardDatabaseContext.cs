@@ -17,7 +17,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         private readonly AppConfig _config;
         private readonly ILogger Log = Serilog.Log.ForContext<CardDatabaseContext>();
 
-        public DbSet<WeissSchwarzCard> WeissSchwarzCards { get; set; }
+        public DbSet<R4UCard> R4UCards { get; set; }
         //public DbSet<MultiLanguageString> MultiLanguageStrings { get; set; }
 
         public CardDatabaseContext (AppConfig config) {
@@ -39,17 +39,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlite($"Data Source={_config.DbName}");
-
         }
 
-        internal async Task<WeissSchwarzCard> FindNonFoil(WeissSchwarzCard card)
+        internal async Task<R4UCard> FindNonFoil(R4UCard card)
         {
-            return await WeissSchwarzCards.FindAsync(WeissSchwarzCard.RemoveFoil(card.Serial));
+            return await R4UCards.FindAsync(R4UCard.RemoveFoil(card.Serial));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<WeissSchwarzCard>(b =>
+            modelBuilder.Entity<R4UCard>(b =>
             {
                 b   .HasKey(c => c.Serial);
                 b   .Property(c => c.Triggers)

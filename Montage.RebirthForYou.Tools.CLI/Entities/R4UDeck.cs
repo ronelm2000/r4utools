@@ -5,10 +5,10 @@ using System.Text;
 
 namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
-    public class WeissSchwarzDeck
+    public class R4UDeck
     {
         public string Name { get; set; }
-        public Dictionary<WeissSchwarzCard, int> Ratios { get; set; } = new Dictionary<WeissSchwarzCard, int>();
+        public Dictionary<R4UCard, int> Ratios { get; set; } = new Dictionary<R4UCard, int>();
         public string Remarks { get; set; }
 
         public int Count => Ratios.Values.Sum();
@@ -18,9 +18,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                          .ToDictionary(kyd => kyd.Serial, kyd => kyd.Value);
         }
 
-        public WeissSchwarzDeck Clone()
+        public R4UDeck Clone()
         {
-            var res = new WeissSchwarzDeck();
+            var res = new R4UDeck();
             res.Ratios = this.Ratios.ToDictionary(kyd => kyd.Key, kyd => kyd.Value);
             res.Name = this.Name;
             res.Remarks = this.Remarks;
@@ -33,7 +33,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         /// </summary>
         /// <param name="oldCard"></param>
         /// <param name="newCard"></param>
-        public bool ReplaceCard(WeissSchwarzCard oldCard, WeissSchwarzCard newCard)
+        public bool ReplaceCard(R4UCard oldCard, R4UCard newCard)
         {
             if (newCard == null)
             {
@@ -51,6 +51,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             }
         }
 
-        public static readonly WeissSchwarzDeck Empty = new WeissSchwarzDeck();
+        public static readonly R4UDeck Empty = new R4UDeck();
     }
 }

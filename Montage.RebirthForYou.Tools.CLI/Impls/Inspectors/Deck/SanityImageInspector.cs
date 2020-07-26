@@ -18,7 +18,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
 
         public int Priority => 0;
 
-        public async Task<WeissSchwarzDeck> Inspect(WeissSchwarzDeck deck, InspectionOptions options)
+        public async Task<R4UDeck> Inspect(R4UDeck deck, InspectionOptions options)
         {
             Log.Debug("Starting...");
             var keyCards = deck.Ratios.Keys.Where(c => ((!c.Images?.Any()) ?? false) && String.IsNullOrWhiteSpace(c.CachedImagePath));
@@ -31,19 +31,19 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
                     if (inspectedDeck.ReplaceCard(card, await AddImageFromConsole(card, options)))
                         Log.Information("Checking for other missing images (if any)...");
                     else
-                        return WeissSchwarzDeck.Empty;
+                        return R4UDeck.Empty;
                 }
                 else
                 {
                     Log.Information("Selected No; inspection failed.");
-                    return WeissSchwarzDeck.Empty;
+                    return R4UDeck.Empty;
                 }
             }
             Log.Debug("Finished inspection.");
             return inspectedDeck;
         }
 
-        private async Task<WeissSchwarzCard> AddImageFromConsole(WeissSchwarzCard card, InspectionOptions options)
+        private async Task<R4UCard> AddImageFromConsole(R4UCard card, InspectionOptions options)
         {
             var modifiedCard = card.Clone();
             Log.Information("Please enter a new image URL: ");

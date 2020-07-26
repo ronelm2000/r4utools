@@ -21,7 +21,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
 
         private readonly ILogger Log = Serilog.Log.ForContext<DefaultDeckParser>();
 
-        public Task<WeissSchwarzDeck> Parse(string sourceUrlOrFile)
+        public Task<R4UDeck> Parse(string sourceUrlOrFile)
         {
             Log.Error("Cannot find a compatible parser for this URL or File: {file}", sourceUrlOrFile);
             throw new NotImplementedException();

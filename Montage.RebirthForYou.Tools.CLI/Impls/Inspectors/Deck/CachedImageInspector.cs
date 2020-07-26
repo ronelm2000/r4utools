@@ -19,7 +19,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
 
         public int Priority => 1;
 
-        public async Task<WeissSchwarzDeck> Inspect(WeissSchwarzDeck deck, InspectionOptions options)
+        public async Task<R4UDeck> Inspect(R4UDeck deck, InspectionOptions options)
         {
             Log.Information("Starting...");
             var imageFolder = Path.Get(_imageCachePath);

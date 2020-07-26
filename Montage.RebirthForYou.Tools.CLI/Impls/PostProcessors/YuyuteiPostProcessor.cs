@@ -35,7 +35,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             _database = () => container.GetInstance<CardDatabaseContext>();
         }
 
-        public bool IsCompatible(List<WeissSchwarzCard> cards)
+        public bool IsCompatible(List<R4UCard> cards)
         {
             if (cards.First().Language != CardLanguage.Japanese)
                 return false;
@@ -49,7 +49,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 return true;
         }
 
-        public async IAsyncEnumerable<WeissSchwarzCard> Process(IAsyncEnumerable<WeissSchwarzCard> originalCards)
+        public async IAsyncEnumerable<R4UCard> Process(IAsyncEnumerable<R4UCard> originalCards)
         {
             var yuyuteiSellPage = "https://yuyu-tei.jp/game_ws/sell/sell_price.php?name=";
 
@@ -82,7 +82,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             Log.Information("Getting all PRs on card database without a YYT image link...");
             using (var db = _database())
             {
-                var prCards = db.WeissSchwarzCards.AsAsyncEnumerable()
+                var prCards = db.R4UCards.AsAsyncEnumerable()
                     .Where(c =>     c.ReleaseID == setCode 
                                 &&  c.Language == lang 
                                 &&  c.Rarity == "PR" 

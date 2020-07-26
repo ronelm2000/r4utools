@@ -22,7 +22,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database.Cockatrice
         public async Task Export(CardDatabaseContext database, IDatabaseExportInfo info)
         {
             Log.Information("Starting...");
-            var query = CreateQuery(database.WeissSchwarzCards, info);
+            var query = CreateQuery(database.R4UCards, info);
             var resultFile = Path.CreateDirectory(info.Destination).Combine("cockatrice_card_db.xml");
             var serializer = new XmlSerializer(typeof(CockatriceCardDatabase));
             var cardSet = await CockatriceCardDatabase.CreateFromDatabase(query);
@@ -34,7 +34,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database.Cockatrice
             Log.Information($"Done: {resultFile.FullPath}");
         }
 
-        private IAsyncEnumerable<WeissSchwarzCard> CreateQuery(IAsyncEnumerable<WeissSchwarzCard> query, IDatabaseExportInfo info)
+        private IAsyncEnumerable<R4UCard> CreateQuery(IAsyncEnumerable<R4UCard> query, IDatabaseExportInfo info)
         {
             var releaseIDLimitations = info.ReleaseIDs.ToArray();
             var result = query;
@@ -60,7 +60,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database.Cockatrice
         [XmlArrayItem("card")]
         public CockatriceCard[] Cards;
 
-        internal static async Task<CockatriceCardDatabase> CreateFromDatabase(IAsyncEnumerable<WeissSchwarzCard> query)
+        internal static async Task<CockatriceCardDatabase> CreateFromDatabase(IAsyncEnumerable<R4UCard> query)
         {
             var result = new CockatriceCardDatabase();
             var tempSetList = new Dictionary<string,CockatriceSet>();
@@ -94,7 +94,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database.Cockatrice
             return result;
         }
 
-        private static string FormatText(WeissSchwarzCard card)
+        private static string FormatText(R4UCard card)
         {
             var result = "";
             result += card.Effect.ConcatAsString("\n");
@@ -113,7 +113,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database.Cockatrice
             return mlString?.EN?.Replace(" ", "");
         }
 
-        private static CockatriceSet GetOrCreateSet(Dictionary<string, CockatriceSet> tempSetList, WeissSchwarzCard card)
+        private static CockatriceSet GetOrCreateSet(Dictionary<string, CockatriceSet> tempSetList, R4UCard card)
         {
             var rid = card.ReleaseID;
             if (tempSetList.TryGetValue(rid, out var existingSet))

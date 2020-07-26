@@ -27,7 +27,7 @@ namespace Montage.RebirthForYou.Tools.CLI.API
         /// Customized inspection options that may or may not be used by the inspector. Note that interactive inspectors must use this
         /// object.
         /// </param>
-        public Task<WeissSchwarzDeck> Inspect(WeissSchwarzDeck deck, InspectionOptions options);
+        public Task<R4UDeck> Inspect(R4UDeck deck, InspectionOptions options);
     }
 
     /// <summary>

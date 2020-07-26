@@ -24,7 +24,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
 
         public string[] Alias => new[]{ "local", "json" };
 
-        public async Task Export(WeissSchwarzDeck deck, IExportInfo info)
+        public async Task Export(R4UDeck deck, IExportInfo info)
         {
             Log.Information("Exporting as Deck JSON.");
             var jsonFilename = Path.CreateDirectory(info.Destination).Combine($"deck_{deck.Name.AsFileNameFriendly()}.json");

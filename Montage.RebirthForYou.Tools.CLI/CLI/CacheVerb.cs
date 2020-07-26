@@ -32,7 +32,7 @@ namespace Montage.Weiss.Tools.CLI
         {
             Log.Information("Starting.");
             var language = InterpretLanguage(Language);
-            IAsyncEnumerable<WeissSchwarzCard> list = null;
+            IAsyncEnumerable<R4UCard> list = null;
 
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
@@ -41,7 +41,7 @@ namespace Montage.Weiss.Tools.CLI
                 {
                     try
                     {
-                        var tuple = WeissSchwarzCard.ParseSerial(ReleaseIDorFullSerialID);
+                        var tuple = R4UCard.ParseSerial(ReleaseIDorFullSerialID);
                     }
                     catch (Exception)
                     {
@@ -49,7 +49,7 @@ namespace Montage.Weiss.Tools.CLI
                         return;
                     }
 
-                    var query = from card in db.WeissSchwarzCards.AsQueryable()
+                    var query = from card in db.R4UCards.AsQueryable()
                                 where card.Serial.ToLower() == ReleaseIDorFullSerialID.ToLower()
                                 select card;
                     list = query.ToAsyncEnumerable().Take(1);
@@ -57,7 +57,7 @@ namespace Montage.Weiss.Tools.CLI
                 else
                 {
                     var releaseID = ReleaseIDorFullSerialID.ToLower().Replace("%","");
-                    var query = from card in db.WeissSchwarzCards.AsQueryable()
+                    var query = from card in db.R4UCards.AsQueryable()
                                 where EF.Functions.Like(card.Serial.ToLower(), $"%/{releaseID}%")
                                 select card;
                     list = query.ToAsyncEnumerable().Where(c => c.Language == language.Value);
@@ -74,7 +74,7 @@ namespace Montage.Weiss.Tools.CLI
             }
         }
 
-        private async Task AddCachedImageAsync(WeissSchwarzCard card)
+        private async Task AddCachedImageAsync(R4UCard card)
         {
             try
             {

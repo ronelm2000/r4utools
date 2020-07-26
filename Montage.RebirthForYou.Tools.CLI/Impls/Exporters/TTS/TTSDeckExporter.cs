@@ -34,7 +34,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
 
         public string[] Alias => new [] { "tts", "tabletopsim" };
         
-        public async Task Export(WeissSchwarzDeck deck, IExportInfo info)
+        public async Task Export(R4UDeck deck, IExportInfo info)
         {
             var count = deck.Ratios.Keys.Count;
             int rows = (int)Math.Ceiling(deck.Count / 10d);
@@ -171,7 +171,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                 }
             }
 
-            static string FormatDescription(WeissSchwarzCard card)
+            static string FormatDescription(R4UCard card)
             {
                 return $"Type: {card.TypeToString()}\n"
                     + ((card.Type == CardType.Character) ? (

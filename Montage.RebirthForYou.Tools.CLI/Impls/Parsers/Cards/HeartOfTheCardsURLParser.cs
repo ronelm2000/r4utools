@@ -16,6 +16,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         public bool IsCompatible(IParseInfo info)
         {
+            /*
             var urlOrFile = info.URI;
             if (!Uri.TryCreate(urlOrFile, UriKind.Absolute, out Uri url))
             {
@@ -40,6 +41,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             }
             Log.Information("Selected.");
             return true;
+            */
+            return false;
         }
 
         private bool IsCompatibleAsHOTCTextFile(IParseInfo info)
@@ -51,7 +54,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             return possiblyPath.Exists && possiblyPath.Extension == ".txt";
         }
 
-        public async IAsyncEnumerable<WeissSchwarzCard> Parse(String url)
+        public async IAsyncEnumerable<R4UCard> Parse(String url)
         {
             Log.Information("Starting. URI: {url}", url);
             string textToProcess = null;
@@ -78,10 +81,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             
         }
 
-        private WeissSchwarzCard ParseHOTCText(string hotcText)
+        private R4UCard ParseHOTCText(string hotcText)
         {
             var cursor = hotcText.AsSpanCursor();
-            var res = new WeissSchwarzCard();
+            var res = new R4UCard();
 
             var cardNoText = "Card No.: ";
             var rarityText = "Rarity:";

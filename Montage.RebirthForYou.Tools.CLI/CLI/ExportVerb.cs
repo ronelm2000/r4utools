@@ -78,7 +78,7 @@ namespace Montage.Weiss.Tools.CLI
                 .ToAsyncEnumerable()
                 .AggregateAwaitAsync(deck, async (d, inspector) => await inspector.Inspect(d, inspectionOptions));
 
-            if (deck != WeissSchwarzDeck.Empty)
+            if (deck != R4UDeck.Empty)
                 await exporter.Export(deck, this);
         }
     }

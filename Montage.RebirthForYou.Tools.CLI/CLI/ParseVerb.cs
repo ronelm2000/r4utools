@@ -29,7 +29,7 @@ namespace Montage.Weiss.Tools.CLI
                 .First()
                 .Parse(URI)
                 .ToListAsync();
-            var cards = cardList.Distinct(WeissSchwarzCard.SerialComparer).ToAsyncEnumerable();
+            var cards = cardList.Distinct(R4UCard.SerialComparer).ToAsyncEnumerable();
 
             var postProcessors = container.GetAllInstances<ICardPostProcessor>()
                 .Where(procesor => procesor.IsCompatible(cardList))
@@ -45,13 +45,13 @@ namespace Montage.Weiss.Tools.CLI
                 {
                     // Do nothing for now.
                     //Log.Information("Card: {@Card}", card);
-                    var dups = db.WeissSchwarzCards.AsQueryable<WeissSchwarzCard>().Where(c => c.Serial == card.Serial).ToArray();
+                    var dups = db.R4UCards.AsQueryable<R4UCard>().Where(c => c.Serial == card.Serial).ToArray();
                     if (dups.Length > 0)
-                        db.WeissSchwarzCards.RemoveRange(dups);
+                        db.R4UCards.RemoveRange(dups);
 
                     db.Add(card);
 
-                    //db.WeissSchwarzCards.Add(card);
+                    //db.R4UCards.Add(card);
                     Log.Information("Added to DB: {serial}", card.Serial);
                 }
 

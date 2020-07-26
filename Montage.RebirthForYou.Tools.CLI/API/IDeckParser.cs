@@ -11,6 +11,6 @@ namespace Montage.RebirthForYou.Tools.CLI.API
         public string[] Alias { get; }
         public int Priority { get; }
         public bool IsCompatible(string urlOrFile);
-        public Task<WeissSchwarzDeck> Parse(string sourceUrlOrFile);
+        public Task<R4UDeck> Parse(string sourceUrlOrFile);
     }
 }

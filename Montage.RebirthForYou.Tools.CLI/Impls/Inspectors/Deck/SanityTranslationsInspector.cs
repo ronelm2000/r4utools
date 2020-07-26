@@ -21,7 +21,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
             Log = log.ForContext<SanityTranslationsInspector>();
         }
 
-        public async Task<WeissSchwarzDeck> Inspect(WeissSchwarzDeck deck, InspectionOptions options)
+        public async Task<R4UDeck> Inspect(R4UDeck deck, InspectionOptions options)
         {
             var allEmptyTranslations = deck.Ratios.Keys.Where(card => String.IsNullOrWhiteSpace(card.Name.EN))
                                                         .Select(card => card.ReleaseID)
@@ -39,7 +39,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
                     Log.Information("Operation cancelled.");
                     Log.Information("If you need to add card data from other sources, use this command: {command}", "wstools parse link_url");
                     Log.Information("For more information, please see: {url}", new Uri("https://github.com/ronelm2000/wsmtools"));
-                    return WeissSchwarzDeck.Empty;
+                    return R4UDeck.Empty;
                 }
             } else
             {

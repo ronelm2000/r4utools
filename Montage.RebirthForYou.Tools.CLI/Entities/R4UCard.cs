@@ -23,7 +23,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         private static string[] englishOriginalPrefixes = new[] { "Wx", "SX", "BSF", "BCS" };
         */
 
-        public static IEqualityComparer<R4UCard> SerialComparer { get; internal set; } = new WeissSchwarzCardSerialComparerImpl();
+        public static IEqualityComparer<R4UCard> SerialComparer { get; internal set; } = new R4USerialComparerImpl();
 
         public string Serial { get; set; }
 
@@ -52,26 +52,22 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         [NotMapped]
         public string CachedImagePath { get; set; }
 
-        //public readonly WeissSchwarzCard Empty = new WeissSchwarzCard();
+        //public readonly R4UCard Empty = new R4UCard();
 
         public R4UCard()
         {
-            Log ??= Serilog.Log.ForContext<WeissSchwarzCard>();
+            Log ??= Serilog.Log.ForContext<R4UCard>();
         }
 
         /// <summary>
         /// Gets the Full Release ID
         /// </summary>
         public string ReleaseID => ParseRID(Serial); // Serial.AsSpan().Slice(s => s.IndexOf('/') + 1); s => s.IndexOf('-')).ToString();
-        public CardLanguage Language => GetLanguage(Serial);
-        public EnglishSetType? EnglishSetType => GetEnglishSetType(Language, ReleaseID);
-        public bool IsFoil => foilRarities.Contains(Rarity);
-        //public bool IsEnglishEdited => GetIsEnglishEdited(Language, ReleaseID);
-        //public bool IsEnglishOriginal => ReleaseID is string rid && englishOriginalPrefixes.Any(c => c.StartsWith(rid));
+        public CardLanguage Language => CardLanguage.Japanese;
 
-        public WeissSchwarzCard Clone()
+        public R4UCard Clone()
         {
-            WeissSchwarzCard newCard = (WeissSchwarzCard) this.MemberwiseClone();
+            R4UCard newCard = (R4UCard) this.MemberwiseClone();
             newCard.Name = this.Name.Clone();
             newCard.Traits = this.Traits.Select(s => s.Clone()).ToList();
             return newCard;
@@ -109,41 +105,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             throw new NotImplementedException();
         }
 
-        public static EnglishSetType? GetEnglishSetType(string serial)
-        {
-            return GetEnglishSetType(GetLanguage(serial), ParseRID(serial));
-        }
-
-        private static EnglishSetType? GetEnglishSetType(CardLanguage language, string releaseID)
-        {
-            if (language != CardLanguage.English) return null;
-            else if (englishEditedPrefixes.Any(prefix => releaseID.StartsWith(prefix))) return Entities.EnglishSetType.EnglishEdition;
-            else if (englishOriginalPrefixes.Any(prefix => releaseID.StartsWith(prefix))) return Entities.EnglishSetType.EnglishOriginal;
-            else return Entities.EnglishSetType.JapaneseImport;
-        }
-
-        /// <summary>
-        /// Infers the Language of a Weiss Schwarz valid serial.
-        /// </summary>
-        /// <param name="serial"></param>
-        /// <returns></returns>
-        internal static CardLanguage GetLanguage(string serial)
-        {
-            if (serial.Contains("-E"))
-            {
-                if (!IsExceptionalSerial(serial)) return CardLanguage.English;
-                else return CardLanguage.Japanese;
-            }
-            else if (serial.Contains("-PE")) return CardLanguage.English;
-            else if (serial.Contains("-TE")) return CardLanguage.English;
-            else if (serial.Contains("/WX")) return CardLanguage.English;
-            else if (serial.Contains("/SX")) return CardLanguage.English;
-            else if (serial.Contains("/EN-")) return CardLanguage.English;
-            else if (serial.Contains("/BSF")) return CardLanguage.English; // BSF is the English version of WCS for Spring
-            else if (serial.Contains("/BCS")) return CardLanguage.English; // BCS is the English version of WCS for Winter
-            else return CardLanguage.Japanese;
-        }
-
         /// <summary>
         /// Returns a new serial which is the non-foil version.
         /// </summary>
@@ -155,17 +116,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             var regex = new Regex(@"([A-Z]*)([0-9]+)([a-z]*)([a-zA-Z]*)");
             if (regex.Match(parsedSerial.SetID) is Match m) parsedSerial.SetID = $"{m.Groups[1]}{m.Groups[2]}{m.Groups[3]}";
             return parsedSerial.AsString();
-        }
-
-        internal static string AsJapaneseSerial(string serial)
-        {
-            var lang = GetLanguage(serial);
-            var serialTuple = ParseSerial(serial);
-            if (GetEnglishSetType(lang, serialTuple.ReleaseID) != Entities.EnglishSetType.JapaneseImport) return serial;
-            var regex = new Regex(@"(P|T)?(E)(.+)");
-            var match = regex.Match(serialTuple.SetID);
-            serialTuple.SetID = $"{match.Groups[1]}{match.Groups[3]}";
-            return serialTuple.AsString();
         }
 
         public static SerialTuple ParseSerial(string serial)
