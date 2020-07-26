@@ -1,0 +1,209 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" 
+        d:DesignWidth="600" d:DesignHeight="450"
+        x:Class="Montage.RebirthForYou.Tools.GUI.MainWindow"
+        Title="R4U Deck Builder">
+  <DockPanel>
+    <!-- Main Menu -->
+    <Menu DockPanel.Dock="Top">
+      <MenuItem Header="_File">
+        <MenuItem Header="_Save Deck..."/>
+        <MenuItem Header="_Load Deck..."/>
+        <Separator/>
+        <MenuItem Header="_Exit"/>
+      </MenuItem>
+      <MenuItem Header="_Export">
+        <MenuItem Header="Tabletop Simulator"/>
+      </MenuItem>
+    </Menu>
+
+    <Grid   ColumnDefinitions="75*,10*,15*"
+            RowDefinitions="Auto,30*,Auto,Auto"  Margin="4">
+      <Border   Background="Black"
+                BorderBrush="Black"
+                BorderThickness="2"
+                CornerRadius="3"
+                Padding="4"
+                Grid.Row="0"
+                Grid.Column="0"
+                Grid.RowSpan="3"
+                >
+        <!--
+        <TextBlock Text="Deck Goes Here" Foreground="AliceBlue" />
+        -->
+        <!--
+        <ScrollViewer Name="scroller"
+                      HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollBarVisibility="Auto">
+          <ItemsRepeater Name="decklistRepeater"
+                         Background="Transparent"
+                         Items="{Binding Items}">
+            <ItemsRepeater.ItemTemplate>
+              <DataTemplate>
+                <Image Source="/Assets/gu_001b_001.png" />
+                <TextBlock Focusable="True" Height="{Binding Height}" Text="{Binding Text}"/>
+              </DataTemplate>
+            </ItemsRepeater.ItemTemplate>
+          </ItemsRepeater>
+        </ScrollViewer>
+        -->
+        <StackPanel Orientation="Vertical" MaxHeight="100" VerticalAlignment="Top" HorizontalAlignment="Center" Spacing="5">
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+          </StackPanel>
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+          </StackPanel>
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+          </StackPanel>
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+          </StackPanel>
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rr6.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+            <Image Source="/Assets/gu_001b_rer_1.png" Height="100" />
+          </StackPanel>
+          <StackPanel Orientation="Horizontal" MaxHeight="100" Spacing="5">
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+            <Image Source="/Assets/gu_001b_001.png" Height="100" />
+          </StackPanel>
+        </StackPanel>
+        <!--
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 16 0 0" Spacing="8">
+          <Button Name="left" VerticalAlignment="Center" Padding="20">
+            <Path Data="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" Fill="Black"/>
+          </Button>
+          <Carousel Name="carousel">
+            <Carousel.PageTransition>
+              <PageSlide Duration="0.25" Orientation="Vertical" />
+            </Carousel.PageTransition>
+          </Carousel>
+          <Button Name="right" VerticalAlignment="Center" Padding="20">
+            <Path Data="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z" Fill="Black"/>
+          </Button>
+        </StackPanel>
+        -->
+      </Border>
+
+      <Border   Padding="4"
+                Margin="4"
+                Grid.Row="0"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"
+                >
+        <TextBox Text="Search Bar Goes Here." />
+      </Border>
+
+      <Border   CornerRadius="3"
+                Padding="4"
+                Margin="4"
+                Grid.Row="1"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"
+                >
+        <ScrollViewer Name="databaseScroller"
+                      HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollBarVisibility="Auto"
+                      >
+          <ItemsRepeater Name="databaseRepeater"
+                          Background="Transparent"
+                          Items="{Binding DatabaseResults}">
+            <ItemsRepeater.ItemTemplate>
+              <DataTemplate>
+                <Image Source="{Binding ImageSource}" Height="{Binding Height}" />
+                <TextBlock Focusable="True" Height="{Binding Height}" Text="{Binding Text}"/>
+              </DataTemplate>
+            </ItemsRepeater.ItemTemplate>
+          </ItemsRepeater>
+        </ScrollViewer>
+        
+        <TextBox Text="Card Lists Go Here." />
+      </Border>
+      <!--
+      <TextBlock Text="Col0Row1:" Grid.Row="1" Grid.Column="0"/>
+      <TextBlock Text="Col0Row2:" Grid.Row="2" Grid.Column="0"/>
+      <CheckBox Content="Col2Row0" Grid.Row="0" Grid.Column="2"/>
+      <Button Content="SpansCol1-2Row1-2" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+      -->
+    </Grid>
+    <!--
+    <Button DockPanel.Dock="Bottom">Add an item</Button>
+    <StackPanel>
+      <CheckBox Margin="4">Walk the dog</CheckBox>
+      <CheckBox Margin="4">Buy some milk</CheckBox>
+    </StackPanel>
+
+    <StackPanel Orientation="Vertical" Spacing="4">
+      <TextBlock Classes="h1">Carousel</TextBlock>
+      <TextBlock Classes="h2">An items control that displays its items as pages that fill the control.</TextBlock>
+    </StackPanel>
+
+    <TextBlock Classes="h1">Carousel</TextBlock>
+    <TextBlock Classes="h2">An items control that displays its items as pages that fill the control.</TextBlock>
+
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 16 0 0" Spacing="8">
+      <Button Name="left" VerticalAlignment="Center" Padding="20">
+        <Path Data="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" Fill="Black"/>
+      </Button>
+      <Carousel Name="carousel">
+        <Carousel.PageTransition>
+          <PageSlide Duration="0.25" Orientation="Vertical" />
+        </Carousel.PageTransition>
+
+      </Carousel>
+      <Button Name="right" VerticalAlignment="Center" Padding="20">
+        <Path Data="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z" Fill="Black"/>
+      </Button>
+    </StackPanel>
+    -->
+  </DockPanel>
+</Window>
