@@ -32,5 +32,5 @@ jobs:
       with:
         name: r4utools
         path: |
-          Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/r4utools.exe
-          Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/deckbuilder4u.exe
+          Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/*.exe
+          Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/*.exe
