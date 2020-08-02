@@ -38,7 +38,7 @@ jobs:
     - name: Upload Artifact (deckbuilder4u)
       uses: actions/upload-artifact@v2
       with:
-        name: r4utools
+        name: deckbuilder4u
         if-no-files-found: warn
         path: |
           Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/*.dll
