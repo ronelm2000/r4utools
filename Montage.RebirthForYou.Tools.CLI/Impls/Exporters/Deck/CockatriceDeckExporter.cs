@@ -64,6 +64,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck
                                     System.IO.FileShare.ReadWrite
                                     );
             Log.Information($"Saved: {resultDeck.FullPath}");
+            await Task.CompletedTask;
         }
 
         private Type[] _exclusionFilters = new[]

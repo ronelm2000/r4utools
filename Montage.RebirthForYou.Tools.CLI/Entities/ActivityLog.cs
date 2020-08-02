@@ -11,8 +11,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
     public class ActivityLog
     {
-        internal static readonly IEqualityComparer<ActivityLog> ByCommand;
-
         public int LogID { get; set; }
         public ActivityType Activity { get; set; }
         public string Target { get; set; }
