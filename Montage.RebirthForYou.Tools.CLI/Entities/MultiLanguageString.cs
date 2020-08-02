@@ -42,7 +42,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         /// Attempts to resolve this object into a string as much as it can.
         /// </summary>
         /// <returns></returns>
-        internal string AsNonEmptyString()
+        public string AsNonEmptyString()
         {
             StringBuilder sb = new StringBuilder();
             if (EN != null)

@@ -1,5 +1,4 @@
 ﻿using Montage.RebirthForYou.Tools.CLI.Entities;
-using Montage.Weiss.Tools.CLI;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.API
@@ -8,6 +7,5 @@ namespace Montage.RebirthForYou.Tools.CLI.API
     {
         public string[] Alias { get; }
         public Task Export(R4UDeck deck, IExportInfo info);// destinationFolderOrURL);
-
     }
 }

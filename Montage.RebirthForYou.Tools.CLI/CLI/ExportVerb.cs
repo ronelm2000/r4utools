@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Montage.Weiss.Tools.CLI
+namespace Montage.RebirthForYou.Tools.CLI.CLI
 {
     [Verb("export", HelpText = "Exports a file from one format to another, typically into files for Tabletop Simulator, for example.")]
     public class ExportVerb : IVerbCommand, IExportInfo

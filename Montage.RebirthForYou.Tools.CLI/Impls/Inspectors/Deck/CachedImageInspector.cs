@@ -38,7 +38,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Inspectors.Deck
                         if (serialImage != null)
                         {
                             Log.Information($"Using cached image: {serialImage}");
-                            card.CachedImagePath = serialImage.FullPath;
+//                            card.CachedImagePath = serialImage.FullPath;
                         }
                     } catch (InvalidOperationException)
                     {

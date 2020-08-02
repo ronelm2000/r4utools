@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Montage.Weiss.Tools.Test.Commons
+namespace Montage.RebirthForYou.Tools.Test.Commons
 {
     internal class TestUtils
     {

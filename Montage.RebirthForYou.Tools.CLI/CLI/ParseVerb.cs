@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Montage.Weiss.Tools.CLI
+namespace Montage.RebirthForYou.Tools.CLI.CLI
 {
     [Verb("parse", HelpText = "Exports a card release set into the local database, so that it may be used to export decks later.")]
     public class ParseVerb : IVerbCommand, IParseInfo
@@ -40,26 +40,18 @@ namespace Montage.Weiss.Tools.CLI
             using (var db = container.GetInstance<CardDatabaseContext>())
             {
                 await db.Database.MigrateAsync();
-
                 await foreach (var card in cards)
                 {
-                    // Do nothing for now.
-                    //Log.Information("Card: {@Card}", card);
-                    var dups = db.R4UCards.AsQueryable<R4UCard>().Where(c => c.Serial == card.Serial).ToArray();
+                    var dupQuery = db.R4UCards.AsQueryable<R4UCard>().Where(c => c.Serial == card.Serial || c.NonFoil.Serial == card.Serial).AsEnumerable();
+                    var dups = dupQuery.ToArray();
                     if (dups.Length > 0)
                         db.R4UCards.RemoveRange(dups);
-
-                    db.Add(card);
-
-                    //db.R4UCards.Add(card);
+                    await db.AddAsync(card);                    
                     Log.Information("Added to DB: {serial}", card.Serial);
                 }
 
                 await db.SaveChangesAsync();
             }
-
-//            foreach (var pp in postProcessors)
-//                cards = pp.Process(cards);
 
             Log.Information("Successfully parsed: {uri}", URI);
         }

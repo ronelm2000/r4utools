@@ -1,24 +1,27 @@
 ﻿using Fluent.IO;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Montage.Weiss.Tools.CLI;
-using Montage.Weiss.Tools.Test.Commons;
+using Montage.RebirthForYou.Tools.CLI;
+using Montage.RebirthForYou.Tools.CLI.CLI;
+using Montage.RebirthForYou.Tools.Test.Commons;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Montage.Weiss.Tools.Test.LocalJSON
+namespace Montage.RebirthForYou.Tools.Test.LocalJSON
 {
     [TestClass]
     public class ParserTests
     {
         [TestMethod("Full Integration Test (Local JSON) (Typical Use Case)")]
-        [DeploymentItem("Resources/deck_date_a_live.json")]
+        [DeploymentItem("Resources/sample.r4uset")]
         public async Task FullTestRun()
         {
             Serilog.Log.Logger = TestUtils.BootstrapLogging().CreateLogger();
             Lamar.Container ioc = Program.Bootstrap();
 
+            await Task.CompletedTask;
+            /*
             await new ParseVerb()
             {
                 URI = "https://www.encoredecks.com/?page=1&set=5cfbffe67cd9b718cdf4b439"
@@ -33,6 +36,7 @@ namespace Montage.Weiss.Tools.Test.LocalJSON
             }.Run(ioc);
 
             Assert.IsTrue(Path.Get("./Export/deck_date_a_live.json").Exists);
+            */
         }
     }
 }

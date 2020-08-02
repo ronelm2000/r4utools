@@ -2,42 +2,22 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>deckbuilder4u</AssemblyName>
+    <Authors>ronelm2000</Authors>
+    <Company>ronelm2000</Company>
+    <Product>Deck Builder for Rebirth For You (deckbuilder4u)</Product>
+    <Description>Included GUI for making decks for R4U.</Description>
+    <Copyright>Copyright (c) 2020 ronelm2000 / Rebirth For You (c) Bushiroad All Rights Reserved.</Copyright>
+    <Version>0.1.0</Version>
+    <RepositoryUrl>https://github.com/ronelm2000/r4utools</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.10.0-preview2" />
     <PackageReference Include="Avalonia.Desktop" Version="0.10.0-preview2" />
+    <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.0-preview2" />
+    <PackageReference Include="MessageBox.Avalonia" Version="0.10.0-prev1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <AvaloniaResource Include="Assets\*" />
-    <None Update="Assets\gu_001b_001.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rer4.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rer_1.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rr4.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rr6.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rr7.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rrr6.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rrr8.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
-    <None Update="Assets\gu_001b_rr_1.png">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 </Project>

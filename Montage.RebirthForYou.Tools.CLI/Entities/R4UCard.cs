@@ -7,7 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Diagnostics.CodeAnalysis;
+using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -17,57 +19,67 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
     public class R4UCard : IExactCloneable<R4UCard>
     {
         private static ILogger Log;
-        /*
-        private static string[] foilRarities = new[] { "SR", "SSR", "RRR", "SPM", "SPa", "SPb", "SP", "SSP", "SEC", "XR", "BDR" };
-        private static string[] englishEditedPrefixes = new[] { "EN-", "S25", "W30" };
-        private static string[] englishOriginalPrefixes = new[] { "Wx", "SX", "BSF", "BCS" };
-        */
 
         public static IEqualityComparer<R4UCard> SerialComparer { get; internal set; } = new R4USerialComparerImpl();
+        private readonly static string _imageCachePath = "./Images/";
 
         public string Serial { get; set; }
-
+        public ICollection<R4UCard> Alternates { get; set; }
+        public R4UCard NonFoil { get; set; }
         public MultiLanguageString Name { get; set; }
         public List<MultiLanguageString> Traits { get; set; }
         public CardType Type { get; set; }
         public CardColor Color { get; set; }
-        public CardSide Side { get; set; }
         public string Rarity { get; set; }
 
-        public int? Level { get; set; }
         public int? Cost { get; set; }
-        public int? Soul { get; set; }
-        public int? Power { get; set; }
-        public Trigger[] Triggers { get; set; }
-        public string Flavor { get; set; }
-        public string[] Effect { get; set; }
+        public int? ATK { get; set; }
+        public int? DEF { get; set; }
+
+        public MultiLanguageString Flavor { get; set; }
+        public MultiLanguageString[] Effect { get; set; }
         public List<Uri> Images { get; set; } = new List<Uri>();
         public string Remarks { get; set; }
-        
+        public CardLanguage Language { get; set; } = CardLanguage.Japanese;
+        public R4UReleaseSet Set { get; set; }
+
         /// <summary>
         /// File Path Relative Link into a cached image. This property is usually assigned exactly once by
         /// <see cref="IExportedDeckInspector">Deck Inspectors</see>
         /// </summary>
-        [JsonIgnore]
-        [NotMapped]
-        public string CachedImagePath { get; set; }
+        public string CachedImagePath
+        {
+            get
+            {
+                try
+                {
+                    var serialImage = Fluent.IO.Path.Get(_imageCachePath)
+                                                            .Files($"{Serial.AsFileNameFriendly()}.*", true)
+                                                            .WhereExtensionIs(".png", ".jpeg", ".jpg", "jfif")
+                                                            .FirstOrDefault(null);
+                    if (serialImage == null) return null;
+                    else return _imageCachePath + serialImage.FileName;
+                } catch (DirectoryNotFoundException)
+                {
+                    return null;
+                } catch (Exception e)
+                {
+                    Log.Warning("Error occurred.", e);
+                    return null;
+                }
+            }
+        }
 
-        //public readonly R4UCard Empty = new R4UCard();
+        public bool IsCached => CachedImagePath != null;
 
         public R4UCard()
         {
             Log ??= Serilog.Log.ForContext<R4UCard>();
         }
 
-        /// <summary>
-        /// Gets the Full Release ID
-        /// </summary>
-        public string ReleaseID => ParseRID(Serial); // Serial.AsSpan().Slice(s => s.IndexOf('/') + 1); s => s.IndexOf('-')).ToString();
-        public CardLanguage Language => CardLanguage.Japanese;
-
         public R4UCard Clone()
         {
-            R4UCard newCard = (R4UCard) this.MemberwiseClone();
+            R4UCard newCard = (R4UCard)this.MemberwiseClone();
             newCard.Name = this.Name.Clone();
             newCard.Traits = this.Traits.Select(s => s.Clone()).ToList();
             return newCard;
@@ -89,111 +101,39 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 catch (Exception) { }
             do try
                 {
-                    return await Images.Last().WithImageHeaders().GetStreamAsync();
+                    return await Images?.Last().WithImageHeaders().GetStreamAsync() ?? await new Flurl.Url("https://vignette.wikia.nocookie.net/rebirth-for-you/images/1/13/TH-001B-075.png/revision/latest?cb=20200621090840").GetStreamAsync();
                 }
                 catch (Exception e) {
                     if (retry++ > 9) throw e;
-                } 
+                }
             while (true);
         }
-        
-        private static bool IsExceptionalSerial(string serial)
-        {
-            var (NeoStandardCode, ReleaseID, SetID) = ParseSerial(serial);
-            if (ReleaseID == "W02" && SetID.StartsWith("E")) return true; // https://heartofthecards.com/code/cardlist.html?pagetype=ws&cardset=wslbexeb is an exceptional serial.
-            else return false;
-            throw new NotImplementedException();
-        }
+
+        public string TypeToString() => this.Type.AsShortString();
+        public bool IsFoil => new string[] { }.Contains(Rarity); //TODO
+        public string ReleaseID => Set?.ReleaseCode;
 
         /// <summary>
-        /// Returns a new serial which is the non-foil version.
+        /// Automatically fills up the card with any missing details, usually sourced from a Non Foil version.
         /// </summary>
-        /// <param name="serial"></param>
-        /// <returns></returns>
-        internal static string RemoveFoil(string serial)
+        public void FillProxy()
         {
-            var parsedSerial = ParseSerial(serial);
-            var regex = new Regex(@"([A-Z]*)([0-9]+)([a-z]*)([a-zA-Z]*)");
-            if (regex.Match(parsedSerial.SetID) is Match m) parsedSerial.SetID = $"{m.Groups[1]}{m.Groups[2]}{m.Groups[3]}";
-            return parsedSerial.AsString();
-        }
-
-        public static SerialTuple ParseSerial(string serial)
-        {
-            SerialTuple res = new SerialTuple();
-            res.NeoStandardCode = serial.Substring(0, serial.IndexOf('/'));
-            var slice = serial.AsSpan().Slice(serial.IndexOf('/'));
-            res.ReleaseID = ParseRID(serial);
-            slice = slice.Slice(res.ReleaseID.Length + 2);
-            res.SetID = slice.ToString();
-            //res.
-            return res;
-        }
-
-        private static string ParseRID(string serial)
-        {
-            var span = serial.AsSpan().Slice(s => s.IndexOf('/') + 1);
-            var endAdjustment = (span.StartsWith("EN")) ? 3 : 0;
-            return span.Slice(0, span.Slice(endAdjustment).IndexOf('-') + endAdjustment).ToString();
-        }
-
-        public static string GetSerial(string subset, string side, string lang, string releaseID, string setID)
-        {
-            string fullSetID = subset;
-            if (TryGetExceptionalSetFormat(lang, side + releaseID, out var formatter))
-            {
-                return formatter((subset, side, lang, releaseID, setID));
-            }
-            else if (TryGetExceptionalCardFormat(lang, releaseID, setID, out var formatter2))
-            {
-                return formatter2((subset, side, lang, releaseID, setID));
-            }
-            else if (lang == "EN" && !setID.Contains("E") && !releaseID.StartsWith("X"))
-            {
-                return $"{subset}/EN-{side}{releaseID}-{setID}"; // This is a DX set serial adjustment.
-            }
-            else
-            {
-                return $"{subset}/{side}{releaseID}-{setID}";
-            }
-        }
-
-        private static bool TryGetExceptionalSetFormat(string lang, string fullReleaseID, out Func<(string subset, string side, string lang, string releaseID, string setID), string> formatter)
-        {
-            formatter = (lang, fullReleaseID) switch {
-                ("EN", "S04") => (tuple) => $"{tuple.subset}/EN-{tuple.side}{tuple.releaseID}-{tuple.setID}",
-                _ => null
-            };
-            return formatter != null;
-        }
-
-        private static bool TryGetExceptionalCardFormat(string lang, string releaseID, string setID, out Func<(string subset, string side, string lang, string releaseID, string setID), string> formatter)
-        {
-            formatter = (lang, releaseID, setID) switch
-            {
-                ("EN", "X01", "X02") => (tuple) => "BNJ/BCS2019-02",
-                var tuple when tuple.lang == "EN" && tuple.setID.Contains("-") => (tuple) => $"{tuple.subset}/{tuple.setID}",
-                _ => null
-            };
-            return formatter != null;
-        }
-
-        public string TypeToString(){
-            string res = "";
-            switch(this.Type){
-                case CardType.Character:
-                    res = "CH";
-                    break; 
-                case CardType.Event:
-                    res = "EV";
-                    break; 
-                case CardType.Climax:
-                    res = "CX";
-                    break; 
-            }
-            return res;
+            if (NonFoil == null) return;
+            Name = NonFoil.Name;
+            Traits = NonFoil.Traits;
+            Type = NonFoil.Type;
+            Color = NonFoil.Color;
+            Rarity = NonFoil.Rarity;
+            Cost = NonFoil.Cost;
+            ATK = NonFoil.ATK;
+            DEF = NonFoil.DEF;
+            Flavor = NonFoil.Flavor;
+            Effect = NonFoil.Effect;
+            Language = NonFoil.Language;
+            Set = NonFoil.Set;
         }
     }
+
 
     internal class R4USerialComparerImpl : IEqualityComparer<R4UCard>
     {
@@ -253,60 +193,31 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public static string AsShortString(this CardType cardType) => cardType switch
         {
             CardType.Character => "CH",
-            CardType.Event => "EV",
-            CardType.Climax => "CX",
+            CardType.Rebirth => "RB",
             var str => throw new Exception($"Cannot parse {typeof(CardType).Name} from {str}")
         };
     }
 
-    public enum EnglishSetType
-    {
-        JapaneseImport,
-        EnglishEdition,
-        EnglishOriginal
-    }
-
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum CardType
     {
         Character,
-        Event,
-        Climax
+        Rebirth
     }
 
-
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum CardColor
     {
         Yellow,
         Green,
-        Red,
-        Blue,
-        Purple
+        Blue
     }
 
-    public enum Trigger
-    {
-        Soul,
-        Shot,
-        Bounce,
-        Choice,
-        GoldBar,
-        Bag,
-        Door,
-        Standby,
-        Book,
-        Gate
-    }
-
-    public enum CardSide
-    {
-        Weiss,
-        Schwarz,
-        Both
-    }
-
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum CardLanguage
     {
         English,
         Japanese
-    }
+    }   
+
 }

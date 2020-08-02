@@ -1,5 +1,6 @@
 ﻿using CommandLine;
 using Fluent.IO;
+using Flurl.Http;
 using Lamar;
 using Microsoft.EntityFrameworkCore;
 using Montage.RebirthForYou.Tools.CLI.API;
@@ -14,7 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Montage.Weiss.Tools.CLI
+namespace Montage.RebirthForYou.Tools.CLI.CLI
 {
     [Verb("cache", HelpText = "Downloads all related images and updates it into a file; also edits the image metadata to show proper attribution.")]
     public class CacheVerb : IVerbCommand
@@ -37,18 +38,9 @@ namespace Montage.Weiss.Tools.CLI
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
                 await db.Database.MigrateAsync();
+                
                 if (language == null)
                 {
-                    try
-                    {
-                        var tuple = R4UCard.ParseSerial(ReleaseIDorFullSerialID);
-                    }
-                    catch (Exception)
-                    {
-                        Log.Error("Serial cannot be parsed properly. Did you mean to cache a release set? If so, please indicate the language (EN/JP) as well.");
-                        return;
-                    }
-
                     var query = from card in db.R4UCards.AsQueryable()
                                 where card.Serial.ToLower() == ReleaseIDorFullSerialID.ToLower()
                                 select card;
@@ -56,14 +48,13 @@ namespace Montage.Weiss.Tools.CLI
                 } 
                 else
                 {
-                    var releaseID = ReleaseIDorFullSerialID.ToLower().Replace("%","");
-                    var query = from card in db.R4UCards.AsQueryable()
-                                where EF.Functions.Like(card.Serial.ToLower(), $"%/{releaseID}%")
-                                select card;
-                    list = query.ToAsyncEnumerable().Where(c => c.Language == language.Value);
+                    var setResult = from set in db.R4UReleaseSets.AsQueryable()
+                                    where set.ReleaseCode.ToLower() == ReleaseIDorFullSerialID.ToLower()
+                                    select set;
+                    list = (await setResult.FirstAsync()).Cards.ToAsyncEnumerable();
                 }
 
-                await foreach (var card in list)
+                await foreach (var card in list.Where(c => !c.IsCached))
                     await AddCachedImageAsync(card);
 
                 Log.Information("Done.");
@@ -74,13 +65,13 @@ namespace Montage.Weiss.Tools.CLI
             }
         }
 
-        private async Task AddCachedImageAsync(R4UCard card)
+        public async Task AddCachedImageAsync(R4UCard card)
         {
             try
             {
                 var imgURL = card.Images.Last();
                 Log.Information("Caching: {imgURL}", imgURL);
-                using (System.IO.Stream netStream = await card.GetImageStreamAsync())
+                using (System.IO.Stream netStream = await imgURL.WithImageHeaders().GetStreamAsync()) // card.GetImageStreamAsync())
                 using (Image img = Image.Load(netStream))
                 {
                     var imageDirectoryPath = Path.Get(_IMAGE_CACHE_PATH);
@@ -89,7 +80,7 @@ namespace Montage.Weiss.Tools.CLI
                     img.Metadata.ExifProfile ??= new ExifProfile();
                     img.Metadata.ExifProfile.SetValue(SixLabors.ImageSharp.Metadata.Profiles.Exif.ExifTag.Copyright, card.Images.Last().Authority);
                     var savePath = Path.Get(_IMAGE_CACHE_PATH).Combine($"{card.Serial.Replace('-', '_').AsFileNameFriendly()}.jpg");
-                    savePath.Open(img.SaveAsJpeg);
+                    savePath.Open(img.SaveAsJpeg,System.IO.FileMode.OpenOrCreate, System.IO.FileAccess.ReadWrite, System.IO.FileShare.ReadWrite);
                 }
             } catch (InvalidOperationException e) when (e.Message == "Sequence contains no elements")
             {

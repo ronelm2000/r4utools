@@ -173,6 +173,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
 
             static string FormatDescription(R4UCard card)
             {
+                //TODO: Change this
+                throw new NotImplementedException();
+                /*
                 return $"Type: {card.TypeToString()}\n"
                     + ((card.Type == CardType.Character) ? (
                         $"Traits: {card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString(" - ")}\n"
@@ -180,6 +183,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                         ) : "")
                     + ((card.Type != CardType.Climax) ? $"Lv/Co: {card.Level}/{card.Cost}\n" : $"Triggers: {card.Triggers.Select(c => c.ToString()).ConcatAsString(" - ")}\n")
                     + $"Effect: {card.Effect.ConcatAsString("\n")}";
+                */
             }
         }
     }

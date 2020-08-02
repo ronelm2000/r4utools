@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "Cards": [
+      {
+          "Serial": "RS/001T-001",
+          "Alternates": [
+            {
+              "Serial": "RS/001T-001SN",
+              "Rarity": "SNR",
+              "Images": ["https://rebirthforyourenegades.files.wordpress.com/2020/07/rs001t_001sn.png"]
+            }  
+          ],
+          "Name": {
+              "EN": "New Revue, Karen",
+              "JP": "新たなるレヴュー 華恋"
+          },
+          "Traits": [
+              {
+                  "EN": "Stage Girl",
+                  "JP": "舞台少女"
+              },
+              {
+                  "EN": "Seisho Music Academy",
+                  "JP": "聖翔音楽学園"
+              }
+          ],
+          "Type": "Character",
+          "Color": "Blue",
+          "Rarity": "TD",
+          "Cost": 2,
+          "ATK": 3,
+          "DEF": 6,
+          "Flavor": {
+              "EN": null,
+              "JP": "まだまだ！からだ、動かし足りないよ～！！"
+          },
+          "Effect": [
+              {
+                  "EN": "[AUTO](Member):When this character supports, [Rest (1) Energy], choose one of your opponent’s entries with 2 or more DEF, and that character gets ±0/-1 until end of turn.",
+                  "JP": "【自】【メンバー】：このキャラがサポートした時、あなたはエネ①することで、相手のエントリーからDEF２以上のキャラを１枚選び、このアタック中、そのキャラを±０/－１。"
+              }
+          ],
+          "Images": ["https://rebirthforyourenegades.files.wordpress.com/2020/07/rs001t_001.png"],
+          "Remarks": "",
+          "Set": {
+              "ReleaseCode": "RS/001T",
+              "Name": "Trial Start Deck Revue Starlight -Re LIVE-",
+              "Description": "Saving Starlight with their own strength, the stage girls make their appearance on stage!"
+          }
+      }
+  ]
+}

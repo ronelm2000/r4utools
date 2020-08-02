@@ -5,19 +5,20 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>r4utools</AssemblyName>
     <RootNamespace>Montage.RebirthForYou.Tools.CLI</RootNamespace>
-    <Product>Weiss Schwarz Montage Tools (wsmtools)</Product>
-    <AssemblyVersion>0.4.0.0</AssemblyVersion>
+    <Product>Rebirth For You Tools (r4utools)</Product>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
     <FileVersion>0.3.0.0</FileVersion>
     <VersionSuffix>$(VersionSuffix)</VersionSuffix>
-    <Version>0.4.0</Version>
+    <Version>0.1.0</Version>
     <Version Condition=" '$(VersionSuffix)' != '' ">$(Version)-$(VersionSuffix)</Version>
 
     <PackageId>wsmtools</PackageId>
     <Authors>ronelm2000</Authors>
     <Company>ronelm2000</Company>
     <NoWin32Manifest>true</NoWin32Manifest>
-    <Copyright>Copyright (c) 2020 ronelm2000 / Weiss Schwarz (c) Bushiroad All Rights Reserved.</Copyright>
-    <Description>This a CLI (Command Line Interface) tool intended to parse through, process, and export data regarding to Weiss Schwarz cards; specifically, this tool's intention is to make querying, parsing, and exporting cards from various sources easier, as well as provide APIs to expand on that functionality.</Description>
+    <Copyright>Copyright (c) 2020 ronelm2000 / Rebirth For You (c) Bushiroad All Rights Reserved.</Copyright>
+    <Description>This a CLI (Command Line Interface) tool intended to parse through, process, and export data regarding to R4u cards; specifically, this tool's intention is to make querying, parsing, and exporting cards from various sources easier, as well as provide APIs to expand on that functionality.</Description>
+    <RepositoryUrl>https://github.com/ronelm2000/r4utools</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -33,6 +34,20 @@
     <Compile Remove="Migrations\20200328175703_SecondInitialSetup.Designer.cs" />
     <Compile Remove="Migrations\20200328183816_ThirdInitialSetup.cs" />
     <Compile Remove="Migrations\20200328183816_ThirdInitialSetup.Designer.cs" />
+    <Compile Remove="Migrations\20200731110804_CreateInitialDatabase.cs" />
+    <Compile Remove="Migrations\20200731110804_CreateInitialDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20200731182047_CreateInitialDatabase.cs" />
+    <Compile Remove="Migrations\20200731182047_CreateInitialDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20200731182315_CreateInitialDatabase.cs" />
+    <Compile Remove="Migrations\20200731182315_CreateInitialDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20200801032109_CreateInitialDatabase.cs" />
+    <Compile Remove="Migrations\20200801032109_CreateInitialDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20200801032745_CreateInitialDatabase.cs" />
+    <Compile Remove="Migrations\20200801032745_CreateInitialDatabase.Designer.cs" />
+    <None Remove="sample.r4uset" />
+    <Content Include="sample.r4uset">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <TrimmerRootAssembly Include="System.Net.WebClient" />
     <TrimmerRootAssembly Include="System.Web.HttpUtility" />
   </ItemGroup>
@@ -84,14 +99,11 @@
     <None Update="app.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="cards.db">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="API\Entities\" />
-    <Folder Include="Migrations\" />
+    <Folder Include="Impls\Exporters\Database\" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>

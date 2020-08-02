@@ -26,6 +26,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         private static readonly string cardUnitListItemSelector = "#main .card_unit";
         private static readonly string cardUnitImageSelector = ".image_box > a > .image > img";
         private static readonly string cardUnitSerialSelector = ".headline > p.id";
+        private static readonly string yuyuteiSellPagePrefix = "https://yuyu-tei.jp/game_re/sell/sell_price.php?name=";
 
         // Dependencies
         private readonly Func<CardDatabaseContext> _database;
@@ -51,7 +52,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
         public async IAsyncEnumerable<R4UCard> Process(IAsyncEnumerable<R4UCard> originalCards)
         {
-            var yuyuteiSellPage = "https://yuyu-tei.jp/game_ws/sell/sell_price.php?name=";
 
             var firstCard = await originalCards.FirstAsync();
             var setCode = firstCard.ReleaseID;
@@ -65,7 +65,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
             Log.Information("Starting...");
 
-            yuyuteiSellPage += HttpUtility.UrlEncode(setCode);
+            var yuyuteiSellPage = yuyuteiSellPagePrefix + HttpUtility.UrlEncode(setCode);
             Log.Information("Loading: {yuyuteiSellPage}", yuyuteiSellPage);
 
             IDocument yuyuteiSearchPage = await new Uri(yuyuteiSellPage).DownloadHTML(("Referer", "https://yuyu-tei.jp/")).WithRetries(10);

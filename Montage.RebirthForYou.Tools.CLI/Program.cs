@@ -82,7 +82,7 @@ namespace Montage.RebirthForYou.Tools.CLI
                                 );
             else
                 config = config.WriteTo.File(
-                        "./wstools.out.log",
+                        "./r4utools.out.log",
                         restrictedToMinimumLevel: LogEventLevel.Information,
                         outputTemplate: "[{Timestamp:HH:mm:ss} {Level:u3}] [{SourceContext:l}] {Message}{NewLine}{Exception}"
                         );

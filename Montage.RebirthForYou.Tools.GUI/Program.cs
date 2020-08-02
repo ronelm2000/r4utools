@@ -10,9 +10,8 @@ namespace Montage.RebirthForYou.Tools.GUI
         public static void Main(string[] args) => BuildAvaloniaApp()
             .With(new SkiaOptions()
             {
-                
+                MaxGpuResourceSizeBytes = 1073741824
             })
-
             .StartWithClassicDesktopLifetime(args);
 
         // Avalonia configuration, don't remove; also used by visual designer.

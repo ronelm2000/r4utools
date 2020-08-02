@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Montage.Weiss.Tools.CLI
+namespace Montage.RebirthForYou.Tools.CLI.CLI
 {
     [Verb("export-db", HelpText = "Exports the card database using a specified exporter algorithm.")]
     public class DatabaseExportVerb : IVerbCommand, IDatabaseExportInfo
