@@ -25,8 +25,8 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
     - name: Publish
       run: |
-        dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -r win-x64 -c Release /p:PublishSingleFile=true --version-suffix 'rc${{ github.run_number }}'
-        dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -r win-x64 -c Release /p:PublishSingleFile=true --version-suffix 'rc${{ github.run_number }}'
+        dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
+        dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
     - name: Upload Artifact (r4utools)
       uses: actions/upload-artifact@v2
       with:
