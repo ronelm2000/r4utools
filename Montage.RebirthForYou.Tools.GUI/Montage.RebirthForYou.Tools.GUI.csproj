@@ -10,6 +10,7 @@
     <Copyright>Copyright (c) 2020 ronelm2000 / Rebirth For You (c) Bushiroad All Rights Reserved.</Copyright>
     <Version>0.1.0</Version>
     <RepositoryUrl>https://github.com/ronelm2000/r4utools</RepositoryUrl>
+    <RuntimeIdentifiers>win-x64;linux-x64;osx-x64</RuntimeIdentifiers>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.10.0-preview2" />

@@ -19,6 +19,8 @@
     <Copyright>Copyright (c) 2020 ronelm2000 / Rebirth For You (c) Bushiroad All Rights Reserved.</Copyright>
     <Description>This a CLI (Command Line Interface) tool intended to parse through, process, and export data regarding to R4u cards; specifically, this tool's intention is to make querying, parsing, and exporting cards from various sources easier, as well as provide APIs to expand on that functionality.</Description>
     <RepositoryUrl>https://github.com/ronelm2000/r4utools</RepositoryUrl>
+
+    <RuntimeIdentifiers>win-x64;linux-x64;osx-x64</RuntimeIdentifiers>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
