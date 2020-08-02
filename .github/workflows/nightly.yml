@@ -26,11 +26,11 @@ jobs:
     - name: Publish
       run: 
         - dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -r win-x64 -c Release /p:PublishSingleFile=true --version-suffix 'rc${{ github.run_number }}'
-        - dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.CLI.csproj -r win-x64 -c Release /p:PublishSingleFile=true --version-suffix 'rc${{ github.run_number }}'
+        - dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -r win-x64 -c Release /p:PublishSingleFile=true --version-suffix 'rc${{ github.run_number }}'
     - name: Upload Artifact
       uses: actions/upload-artifact@v1
       with:
         name: r4utools
-        path: 
-          - Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/r4utools.exe
-          - Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/deckbuilder4u.exe
+        path: |
+          Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/r4utools.exe
+          Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/deckbuilder4u.exe
