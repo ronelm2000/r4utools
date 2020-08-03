@@ -53,18 +53,24 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             {
                 try
                 {
+                    Log.Debug("Trying to get a cached image path.");
+                    
                     var serialImage = Fluent.IO.Path.Get(_imageCachePath)
-                                                            .Files($"{Serial.AsFileNameFriendly()}.*", true)
-                                                            .WhereExtensionIs(".png", ".jpeg", ".jpg", "jfif")
-                                                            .FirstOrDefault(null);
-                    if (serialImage == null) return null;
-                    else return _imageCachePath + serialImage.FileName;
+                            .AllFiles()
+                            .Where( p => p.FileNameWithoutExtension.ToLower() == Serial.Replace('-', '_').AsFileNameFriendly().ToLower() )
+                            .WhereExtensionIs(".png", ".jpeg", ".jpg", ".jfif")
+                            .Append(null)
+                            .First();
+                    if (serialImage == null) 
+                        return null;
+                    else
+                        return serialImage.FullPath;
                 } catch (DirectoryNotFoundException)
                 {
                     return null;
                 } catch (Exception e)
                 {
-                    Log.Warning("Error occurred.", e);
+                    Log.Warning("Error occurred: {message}", e);
                     return null;
                 }
             }
