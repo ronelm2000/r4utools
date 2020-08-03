@@ -12,7 +12,7 @@ namespace Montage.RebirthForYou.Tools.GUI
 {
     public class App : Application
     {
-        private ILogger _logger = BootstrapLogging().CreateLogger();
+        private ILogger _logger = (Serilog.Log.Logger = BootstrapLogging().CreateLogger());
         private IContainer _container = BootstrapIOC();
 
         public override void Initialize()
