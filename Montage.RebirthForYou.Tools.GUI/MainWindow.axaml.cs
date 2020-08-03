@@ -14,10 +14,12 @@ using DynamicData;
 using Lamar;
 using Microsoft.EntityFrameworkCore;
 using Montage.RebirthForYou.Tools.CLI.Entities;
+using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using Serilog;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -32,6 +34,8 @@ namespace Montage.RebirthForYou.Tools.GUI
         private readonly ScrollViewer _databaseScroller;
         private readonly Func<MainWindowViewModel> _dataContext;
         private readonly IContainer _ioc;
+        private readonly SaveFileDialog _saveFileDialog;
+        private readonly OpenFileDialog _openFileDialog;
 
         public ILogger Log { get; }
 
@@ -51,18 +55,6 @@ namespace Montage.RebirthForYou.Tools.GUI
             await Task.CompletedTask;
             _searchBarTextBox.IsEnabled = false;
             await _dataContext().InitializeDatabase();
-            /*
-            using (var db = _ioc.GetInstance<CardDatabaseContext>())
-            {
-                await db.Database.MigrateAsync();
-                var query = db.R4UCards.SelectAwait<R4UCard, CardEntry>(c => CardEntry.From(c));
-                await foreach (var cardEntry in query)
-                {
-                    cardEntry.Text = cardEntry.Card.Name.AsNonEmptyString();
-                    _dataContext.Invoke().DatabaseResults?.Add(cardEntry);//.AddRange(list);
-                }
-            }
-            */
             _searchBarTextBox.IsEnabled = true;
         }
 
@@ -100,6 +92,20 @@ namespace Montage.RebirthForYou.Tools.GUI
                 Orientation = Orientation.Vertical,
                 Spacing = 4
             };
+
+            _saveFileDialog = new SaveFileDialog
+            {
+                DefaultExtension = "r4udek",
+                Title = "Save R4U Deck..."
+            };
+            _saveFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
+
+            _openFileDialog = new OpenFileDialog
+            {
+                AllowMultiple = false,
+                Title = "Load R4U Deck..."
+            };
+            _openFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
             DataContext = new MainWindowViewModel();
             _dataContext = () => DataContext as MainWindowViewModel;
@@ -166,6 +172,32 @@ namespace Montage.RebirthForYou.Tools.GUI
         private async void SearchBarText_OnTextChanged(string newText)
         {
             await _dataContext().ApplyFilter((card) => (card.Name.EN ?? "").Contains(newText) || (card.Name.JP ?? "").Contains(newText));
+        }
+
+        public async void SaveDeckMenuItem_Pressed(object sender, PointerPressedEventArgs args)
+        {
+            var saveFilePath = await _saveFileDialog.ShowAsync(this);
+            if (!String.IsNullOrWhiteSpace(saveFilePath))
+            {
+                var result = await _dataContext().SaveDeck(saveFilePath);
+                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
+            }
+        }
+
+        public async void LoadDeckMenuItem_Pressed(object sender, PointerPressedEventArgs args)
+        {
+            var loadFilePath = await _openFileDialog.ShowAsync(this);
+            if (loadFilePath?.Length > 0)
+            {
+                var result = await _dataContext().LoadDeck(loadFilePath?[0]);
+                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
+            }
+        }
+
+        public async void ExportTTSMenuItem_Pressed(object sender, PointerPressedEventArgs args)
+        {
+            var result = await _dataContext().Export<TTSDeckExporter>();
+            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
         }
         public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
     }

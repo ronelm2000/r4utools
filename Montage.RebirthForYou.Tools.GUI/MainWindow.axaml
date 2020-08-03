@@ -10,13 +10,13 @@
     <!-- Main Menu -->
     <Menu DockPanel.Dock="Top">
       <MenuItem Header="_File">
-        <MenuItem Header="_Save Deck..."/>
-        <MenuItem Header="_Load Deck..."/>
+        <MenuItem Header="_Save Deck..." PointerPressed="SaveDeckMenuItem_Pressed" />
+        <MenuItem Header="_Load Deck..." PointerPressed="LoadDeckMenuItem_Pressed" />
         <Separator/>
         <MenuItem Header="_Exit"/>
       </MenuItem>
       <MenuItem Header="_Export">
-        <MenuItem Header="Tabletop Simulator"/>
+        <MenuItem Header="Tabletop Simulator" PointerPressed="ExportTTSMenuItem_Pressed" />
       </MenuItem>
     </Menu>
 

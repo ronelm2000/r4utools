@@ -194,6 +194,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         {
             CardType.Character => "CH",
             CardType.Rebirth => "RB",
+            CardType.Partner => "PTNR",
             var str => throw new Exception($"Cannot parse {typeof(CardType).Name} from {str}")
         };
     }
@@ -202,7 +203,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
     public enum CardType
     {
         Character,
-        Rebirth
+        Rebirth,
+        Partner
     }
 
     [JsonConverter(typeof(JsonStringEnumConverter))]

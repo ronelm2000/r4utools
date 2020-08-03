@@ -28,22 +28,27 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
         {
             Log.Information("Exporting as Deck JSON.");
             var jsonFilename = Path.CreateDirectory(info.Destination).Combine($"deck_{deck.Name.AsFileNameFriendly()}.json");
+            await Export(deck, info, jsonFilename);
+        }
+
+        public async Task Export(R4UDeck deck, IExportInfo info, Path jsonFilename)
+        {
             var simplifiedDeck = new
             {
                 Name = deck.Name,
                 Remarks = deck.Remarks,
                 Ratios = deck.AsSimpleDictionary()
             };
-                
+
             jsonFilename.Open(
                 async s => await JsonSerializer.SerializeAsync(s, simplifiedDeck, options: _defaultOptions),
-                System.IO.FileMode.Create, 
-                System.IO.FileAccess.Write, 
+                System.IO.FileMode.Create,
+                System.IO.FileAccess.Write,
                 System.IO.FileShare.ReadWrite
             );
             Log.Information($"Done: {jsonFilename.FullPath}");
 
-            if (!String.IsNullOrWhiteSpace(info.OutCommand))
+            if (!String.IsNullOrWhiteSpace(info?.OutCommand))
                 await ExecuteCommandAsync(info.OutCommand, jsonFilename);
         }
 
