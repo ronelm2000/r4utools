@@ -52,9 +52,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             get
             {
                 try
-                {
-                    Log.Debug("Trying to get a cached image path.");
-                    
+                {                    
                     var serialImage = Fluent.IO.Path.Get(_imageCachePath)
                             .AllFiles()
                             .Where( p => p.FileNameWithoutExtension.ToLower() == Serial.Replace('-', '_').AsFileNameFriendly().ToLower() )
