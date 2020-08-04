@@ -7,6 +7,10 @@
     "Parse Sample Set": {
       "commandName": "Project",
       "commandLineArgs": "parse ./sample.r4uset"
+    },
+    "Parse GochiUsa": {
+      "commandName": "Project",
+      "commandLineArgs": "parse ./Sets/gochiusa_bp.r4uset"
     }
   }
 }
