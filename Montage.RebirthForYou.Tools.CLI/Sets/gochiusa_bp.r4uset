@@ -936,41 +936,148 @@
             "Description": null
         }
     },
-	{
-		"Serial": "GU/001B-091",
-		"Alternates": [],
-		"Name": {
-		  "EN": "Full Face Smile",
-		  "JP": "満面の笑み"
-		},
-		"Traits": [],
-		"Type": "Rebirth",
-		"Color": "Yellow",
-		"Rarity": "ReR",
-		"Cost": null,
-		"ATK": null,
-		"DEF": null,
-		"Flavor": {
-		  "EN": null,
-		  "JP": null
-		},
-		"Effect": [
-		  {
-			  "EN": "[Spark]:Heal one.",
-			  "JP": null
-		  },
-		  {
-			  "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
-			  "JP": null
-		  }
-		],
-		"Images": ["https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_025.png"],
-		"Remarks": "",
-		"Set": {
-		  "ReleaseCode": "GU/001B",
-		  "Name": "Is the Order a Rabbit? Booster Pack",
-		  "Description": null
-		}
+    {
+      "Serial": "GU/001B-091",
+      "Alternates": [],
+      "Name": {
+        "EN": "Full Face Smile",
+        "JP": "満面の笑み"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": null
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_025.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-037",
+      "Alternates": [],
+      "Name": {
+        "EN": "Light One-Piece, Chiya",
+        "JP": "軽やかなワンピース 千夜"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "甘兎庵ス"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \"Ama Usa An’s Signboard Girl\"][Skill Showcase Level 5][1/Turn]:When this character attacks, choose two each of each player’s members, and put them into the waiting room. Choose an <Ama Usa An> or <Fleur de Lapin> from your waiting room, and put it onto your member area.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rrr7.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-092",
+      "Alternates": [],
+      "Name": {
+        "EN": "Ama Usa An’s Signboard Girl",
+        "JP": "甘兎庵の看板娘"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": null
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rer4.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-038",
+      "Alternates": [],
+      "Name": {
+        "EN": "Is the Order a Rebirth? Chiya",
+        "JP": "ご注文はReバースですか？ 千夜"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "甘兎庵ス"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5]:At the end of this character’s attack, choose a character from your waiting room, and you may put it onto your entry area.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr7.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
     }
   ]
 }
