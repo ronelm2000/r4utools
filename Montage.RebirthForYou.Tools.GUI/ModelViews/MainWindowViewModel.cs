@@ -38,6 +38,16 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private ObservableCollection<CardEntry> deckResults = new ObservableCollection<CardEntry>(new CardEntry[] { });
         private IContainer ioc;
         private Predicate<R4UCard> filter = (card) => true;
+        private string deckName;
+        private string deckRemarks;
+        private string isSaved;
+        #endregion
+
+        #region Observers
+        private readonly IObservable<string> _deckNameObserver;
+        private readonly IObservable<string> _deckRemarkObserver;
+        public readonly IObservable<string> SavedObserver;
+
         #endregion
 
         public ObservableCollection<Bitmap> Items { get; set; }
@@ -51,6 +61,22 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             get => deckResults;
             set => this.RaiseAndSetIfChanged(ref deckResults, value);
         }
+        public string DeckName
+        {
+            get => deckName;
+            set => this.RaiseAndSetIfChanged(ref deckName, value);
+        }
+        public string DeckRemarks
+        {
+            get => deckRemarks;
+            set => this.RaiseAndSetIfChanged(ref deckRemarks, value);
+        }
+        public string Saved
+        {
+            get => isSaved;
+            set => this.RaiseAndSetIfChanged(ref isSaved, value);
+        }
+
         public CardEntry SelectedDatabaseCardEntry { get; internal set; }
         public Predicate<R4UCard> Filter { 
             get => filter; 
@@ -62,13 +88,24 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public MainWindowViewModel(IContainer ioc)
         {
             this.ioc = ioc;
+
+            _deckNameObserver = this.WhenValueChanged(x => x.DeckName);
+            _deckRemarkObserver = this.WhenValueChanged(x => x.DeckRemarks);
+            SavedObserver = this.WhenValueChanged(dc => dc.Saved);
+            _deckNameObserver.Subscribe(s => this.Saved = "*");
+            _deckRemarkObserver.Subscribe(s => this.Saved = "*");
+
+            //    dataContext.WhenValueChanged(x => x.DeckRemarks).Subscribe(s => _dataContext().Saved = "*");
+            //    dataContext.WhenValueChanged(dc => dc.Saved).Subscribe(ChangeWindowTitle);
         }
 
         internal async Task InitializeDatabase()
         {
             using (var db = ioc.GetInstance<CardDatabaseContext>())
+            using (_ = this.SuppressChangeNotifications())
             {
                 await db.Database.MigrateAsync();
+                await new UpdateVerb().Run(ioc);
                 await foreach (var card in GetCardDatabase(db))
                 {
                     this._database.Add(card.Card.Serial, card);
@@ -127,13 +164,16 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var exporter = ioc.GetInstance<LocalDeckJSONExporter>();
             try
             {
-                await exporter.Export(GenerateDeck(deckResults), null, Fluent.IO.Path.Get(saveFilePath));
-            } catch (Exception e)
+                await exporter.Export(GenerateDeck(deckResults, deckName, deckRemarks), null, Fluent.IO.Path.Get(saveFilePath));
+                Saved = "";
+                var nonNulldeckName = string.IsNullOrWhiteSpace(deckName) ? "An unnamed deck" : deckName;
+                return ("Success", $"{deckName} was saved successfully!");
+            }
+            catch (Exception e)
             {
                 Log.Error("Deck failed to be exported.", e);
                 return ("Failed", "You aren't supposed to see this message, please contact me on Discord / GitHub to file a bug.");
             }
-            return ("Success!", "Deck was saved successfully!");
         }
 
         internal async Task<(string Title, string Details)> LoadDeck(string loadFilePath)
@@ -142,8 +182,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             {
                 var exporter = ioc.GetInstance<LocalDeckJSONParser>();
                 var deck = await exporter.Parse(loadFilePath);
+                var deckName = string.IsNullOrWhiteSpace(deck.Name) ? "An unnamed deck": deck.Name;
                 ApplyDeck(deck);
-                return ("Success", $"{deck.Name} was loaded successfully!");
+                return ("Success", $"{deckName} was loaded successfully!");
             }
             catch (DeckParsingException e)
             {
@@ -158,27 +199,24 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 .SelectMany(c => Enumerable.Range(0, deck.Ratios[c]).Select(i => c.Serial))
                 .Select(serial => _database[serial]);
             DeckResults.AddRange(range);
+            DeckName = deck.Name;
+            DeckRemarks = deck.Remarks;
+            Saved = "";
         }
 
-        private static R4UDeck GenerateDeck(ObservableCollection<CardEntry> deckResults)
+        private static R4UDeck GenerateDeck(ObservableCollection<CardEntry> deckResults, string deckName, string deckRemarks)
         {
             var result = new R4UDeck();
-            result.Name = "[Placeholder]";
-            result.Remarks = "[Placeholder]";
+            result.Name = deckName;
+            result.Remarks = deckRemarks;
             result.Ratios = deckResults.Select(ce => ce.Card).GroupBy(card => card).ToDictionary(g => g.Key, g => g.Count());
-            /*
-            foreach (var card in deckResults.Select(ce => ce.Card))
-            {
-                if (result.Ratios.TryGetValue(card, out int oldVal)) result.Ratios[card] = oldVal++;
-                else result.Ratios[card] = 1;
-            }
-            */
             return result;
         }
 
         internal async Task<(string Title, string Details)> Export<T>() where T : IDeckExporter
         {
-            var deck = GenerateDeck(deckResults);
+            var newDeckName = (string.IsNullOrWhiteSpace(deckName)) ? "[Placeholder for a Deck Name]" : deckName; 
+            var deck = GenerateDeck(deckResults, newDeckName, deckRemarks);
             var exporter = ioc.GetInstance<T>();
             await exporter.Export(deck, new MockInfo());
             return ("Success", $"{deck.Name} was exported successfully!");
@@ -189,15 +227,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
     {
         public string Source => null;
         public string Destination => "./Export/";
-
         public string Parser => "";
-
         public string Exporter => "";
-
         public string OutCommand => "";
-
         public IEnumerable<string> Flags => new[] { "upscaling" };
-
         public bool NonInteractive => true;
     }
 
@@ -215,8 +248,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             set => this.RaiseAndSetIfChanged(ref text, value);
         }
 
+        public string Name => Card.Name.AsNonEmptyString();
         public string ATKDEF => $"{Card.ATK}/{Card.DEF}";
         public string Traits => $"{Card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString("\n")}";
+        public string Effects => Card.Effect.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n");
+        public string Flavor => Card.Flavor?.AsNonEmptyString();
         public R4UCard Card { get; set; }
 
         public CardEntry()

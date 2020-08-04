@@ -11,8 +11,14 @@ using Avalonia.Markup.Xaml.Templates;
 using Avalonia.Media;
 using Avalonia.Threading;
 using DynamicData;
+using DynamicData.Binding;
 using Lamar;
+using MessageBox.Avalonia.DTO;
+using MessageBox.Avalonia.Enums;
+using MessageBox.Avalonia.Models;
+using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
@@ -21,6 +27,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI
@@ -47,7 +54,11 @@ namespace Montage.RebirthForYou.Tools.GUI
             _ioc = ioc;
             Log = Serilog.Log.ForContext<MainWindow>();
             DataContext = new MainWindowViewModel(ioc);
+            var dataContext = _dataContext();
             Dispatcher.UIThread.InvokeAsync(MainWindow_Initialized);
+
+            dataContext.DeckResults.CollectionChanged += (s, e) => _dataContext().Saved = "*";
+            dataContext.SavedObserver.Subscribe(ChangeWindowTitle);
         }
 
         private async Task MainWindow_Initialized()//object sender, EventArgs e)
@@ -56,6 +67,8 @@ namespace Montage.RebirthForYou.Tools.GUI
             _searchBarTextBox.IsEnabled = false;
             await _dataContext().InitializeDatabase();
             _searchBarTextBox.IsEnabled = true;
+
+            _dataContext().Saved = "";
         }
 
         /// <summary>
@@ -107,14 +120,39 @@ namespace Montage.RebirthForYou.Tools.GUI
             };
             _openFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
-            DataContext = new MainWindowViewModel();
+            var dataContext = new MainWindowViewModel();
+            DataContext = dataContext;
             _dataContext = () => DataContext as MainWindowViewModel;
-
+            
             _searchBarTextBox.GetObservable(TextBox.TextProperty).Subscribe(SearchBarText_OnTextChanged); //text => { /* Will be called with Text each time it's changed */ });
 
+            _originalTitle = this.Title;
+
+            Closing += MainWindow_Closing;
 #if DEBUG
             //this.AttachDevTools();
 #endif
+        }
+
+        private async void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            e.Cancel = _dataContext().Saved == "*";
+            if (_dataContext().Saved == "*")
+            {
+                var task = await MessageBox.Avalonia.MessageBoxManager
+                    .GetMessageBoxStandardWindow("Save", "You still have unsaved changes. Are you sure you want to exit?", @enum: MessageBox.Avalonia.Enums.ButtonEnum.YesNo)
+                    .ShowDialog(this);
+                if (task == ButtonResult.Yes)
+                {
+                    _dataContext().Saved = "";
+                    this.Close();
+                }
+            }
+        }
+
+        private void ChangeWindowTitle(string saved)
+        {
+            this.Title = _originalTitle + saved;
         }
 
         private void InitializeComponent()
@@ -129,6 +167,8 @@ namespace Montage.RebirthForYou.Tools.GUI
         }
 
         private Dictionary<Border, IBrush> oldBrush = new Dictionary<Border, IBrush>();
+        private string _originalTitle;
+        private Task<ButtonResult> task;
 
         public void Item_OnPointerEnter(object sender, PointerEventArgs e)
         {
@@ -180,7 +220,8 @@ namespace Montage.RebirthForYou.Tools.GUI
             if (!String.IsNullOrWhiteSpace(saveFilePath))
             {
                 var result = await _dataContext().SaveDeck(saveFilePath);
-                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
+                var prms = GenerateStandardMessageParams(result.Title, result.Details);
+                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms).Show();//(this);
             }
         }
 
@@ -190,8 +231,24 @@ namespace Montage.RebirthForYou.Tools.GUI
             if (loadFilePath?.Length > 0)
             {
                 var result = await _dataContext().LoadDeck(loadFilePath?[0]);
-                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
+                var prms = GenerateStandardMessageParams(result.Title, result.Details);
+                var msgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms);// (result.Title, result.Details);
+                await msgBox.Show();// (this);
             }
+        }
+
+        private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
+        {
+            var result = new MessageBoxStandardParams();
+            result.Window = new MsBoxStandardWindow
+            {
+                MinWidth = 400
+            };
+            result.ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.Ok;
+            result.ContentTitle = title;
+            result.ContentMessage = details;
+            result.ShowInCenter = true;
+            return result;
         }
 
         public async void ExportTTSMenuItem_Pressed(object sender, PointerPressedEventArgs args)

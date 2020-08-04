@@ -5,7 +5,8 @@
         mc:Ignorable="d" 
         d:DesignWidth="600" d:DesignHeight="450"
         x:Class="Montage.RebirthForYou.Tools.GUI.MainWindow"
-        Title="R4U Deck Builder">
+        Title="R4U Deck Builder (deckbuilder4u)"
+        >
   <DockPanel>
     <!-- Main Menu -->
     <Menu DockPanel.Dock="Top">
@@ -19,7 +20,7 @@
         <MenuItem Header="Tabletop Simulator" PointerPressed="ExportTTSMenuItem_Pressed" />
       </MenuItem>
     </Menu>
-
+ 
     <Grid   ColumnDefinitions="75*,10*,15*"
             RowDefinitions="Auto,30*,Auto,Auto"  Margin="4">
       <Border   Background="Black"
@@ -34,7 +35,8 @@
         
         <ScrollViewer Name="deckScroller"
                       HorizontalScrollBarVisibility="Auto"
-                      VerticalScrollBarVisibility="Auto">
+                      VerticalScrollBarVisibility="Auto"
+                      >
           <ItemsRepeater Name="decklistRepeater"
                          Background="Transparent"
                          Items="{Binding DeckResults}">
@@ -49,13 +51,15 @@
         </ScrollViewer>
       </Border>
 
-      <Border   Padding="4"
+      <Border   Padding="0"
                 Margin="4"
                 Grid.Row="0"
                 Grid.Column="1"
                 Grid.ColumnSpan="2"
                 >
-        <TextBox  Name="searchBarTextBox" />
+        <TextBox  Name="searchBarTextBox">
+          <TextBox.Watermark>Search...</TextBox.Watermark>
+        </TextBox>
       </Border>
       <Border   CornerRadius="3"
                 Padding="4"
@@ -64,6 +68,7 @@
                 Grid.Row="1"
                 Grid.Column="1"
                 Grid.ColumnSpan="2"
+                Grid.RowSpan="3"
                 >
         <Border.Background>
           <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
@@ -94,6 +99,13 @@
                           PointerLeave="Item_OnPointerLeave"
                           PointerReleased="Item_OnPointerReleased"
                           >
+                <ToolTip.Tip>
+                  <StackPanel MaxWidth="300">
+                    <TextBlock Classes="h1" Text="{Binding Name}" />
+                    <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
+                    <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
+                  </StackPanel>
+                </ToolTip.Tip>
      
                 <Border.Background>
                   <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
@@ -140,7 +152,6 @@
                           Grid.Column="2"
                           Grid.RowSpan="5" 
                           />
-                  <!-- Previously had Height="{Binding Height}" -->
                   <TextBlock  Text="Cost"
                               Grid.Row="1"
                               Grid.Column="0"
@@ -188,6 +199,33 @@
         <!--
         <TextBox Text="Card Lists Go Here." />
         -->
+      </Border>
+      <Border Padding="0"
+              Margin="0"
+              Grid.Row="3"
+              Grid.Column="0"
+              >
+        <Grid ColumnDefinitions="25*,75*"
+              RowDefinitions="Auto,Auto"
+              >
+          <Border Padding="2">
+            <Grid.Row>0</Grid.Row>
+            <Grid.Column>0</Grid.Column>
+            <Grid.ColumnSpan>2</Grid.ColumnSpan>
+            <TextBox Name="deckNameTextBox" Text="{Binding DeckName}">
+              <TextBox.Watermark>Deck Name</TextBox.Watermark>
+            </TextBox>
+          </Border>
+
+          <Border Padding="2">
+            <Grid.Row>1</Grid.Row>
+            <Grid.Column>0</Grid.Column>
+            <Grid.ColumnSpan>2</Grid.ColumnSpan>
+            <TextBox Name="deckRemarksTextBox" Text="{Binding DeckRemarks}" AcceptsReturn="True" TextWrapping="Wrap" Height="NaN" MaxHeight="200" Width="{Binding $parent.Width}">
+              <TextBox.Watermark>Deck Remarks</TextBox.Watermark>
+            </TextBox>
+          </Border>
+        </Grid>
       </Border>
       <!--
       <TextBlock Text="Col0Row1:" Grid.Row="1" Grid.Column="0"/>

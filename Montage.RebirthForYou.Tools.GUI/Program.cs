@@ -1,4 +1,5 @@
 ﻿using Avalonia;
+using Avalonia.ReactiveUI;
 
 namespace Montage.RebirthForYou.Tools.GUI
 {
@@ -17,6 +18,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         // Avalonia configuration, don't remove; also used by visual designer.
         public static AppBuilder BuildAvaloniaApp()
             => AppBuilder.Configure<App>()
+                .UseReactiveUI()
                 .UsePlatformDetect()
                 .LogToDebug();
     }

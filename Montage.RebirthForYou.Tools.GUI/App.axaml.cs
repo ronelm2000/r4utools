@@ -4,6 +4,7 @@ using Avalonia.Markup.Xaml;
 using Lamar;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
+using ReactiveUI;
 using Serilog;
 using Serilog.Events;
 using System;
