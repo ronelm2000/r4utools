@@ -131,7 +131,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         private bool IsDeckConstructionValid(CardEntry cardEntry)
         {
-            return DeckResults.Where(cr => cr.Card.Name.JP == cardEntry.Card.Name.JP).Count() < 4;
+            return DeckResults.Where(cr => cr.Card.Name.JP == cardEntry.Card.Name.JP).Count() < 4
+                && DeckResults.Count < 50
+                && ((cardEntry.Card.Type == CardType.Rebirth) ? DeckResults.Count(cr => cr.Card.Type == CardType.Rebirth) < 8 : true)
+                && ((cardEntry.Card.Type == CardType.Partner) ? DeckResults.Count(cr => cr.Card.Type == CardType.Partner) < 3 : true)
+                ;
         }
 
         private void SortDeck()
