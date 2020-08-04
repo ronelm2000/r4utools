@@ -85,7 +85,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         {
             R4UCard newCard = (R4UCard)this.MemberwiseClone();
             newCard.Name = this.Name.Clone();
-            newCard.Traits = this.Traits.Select(s => s.Clone()).ToList();
+            newCard.Traits = this.Traits?.Select(s => s?.Clone()).ToList() ?? new List<MultiLanguageString>();
             return newCard;
         }
 
@@ -216,7 +216,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
     {
         Yellow,
         Green,
-        Blue
+        Blue,
+        Red
     }
 
     [JsonConverter(typeof(JsonStringEnumConverter))]
