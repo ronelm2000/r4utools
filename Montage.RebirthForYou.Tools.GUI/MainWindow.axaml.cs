@@ -19,14 +19,17 @@ using MessageBox.Avalonia.Models;
 using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
+using ReactiveUI;
 using Serilog;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reactive;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -41,10 +44,10 @@ namespace Montage.RebirthForYou.Tools.GUI
         private readonly ScrollViewer _databaseScroller;
         private readonly Func<MainWindowViewModel> _dataContext;
         private readonly IContainer _ioc;
-        private readonly SaveFileDialog _saveFileDialog;
-        private readonly OpenFileDialog _openFileDialog;
 
+        #region Public Properties
         public ILogger Log { get; }
+        #endregion
 
         public MainWindow(IContainer ioc) : this()
         {
@@ -53,7 +56,7 @@ namespace Montage.RebirthForYou.Tools.GUI
             // messageBoxStandardWindow.Show();
             _ioc = ioc;
             Log = Serilog.Log.ForContext<MainWindow>();
-            DataContext = new MainWindowViewModel(ioc);
+            DataContext = _ioc.GetService<MainWindowViewModel>();
             var dataContext = _dataContext();
             Dispatcher.UIThread.InvokeAsync(MainWindow_Initialized);
 
@@ -75,15 +78,13 @@ namespace Montage.RebirthForYou.Tools.GUI
         /// This method is needed to make the WYSIWYG editor work.
         /// The actual execution method uses the one with IOC.
         /// </summary>
-        public MainWindow()
+           public MainWindow()
         {
             InitializeComponent();
             _searchBarTextBox = this.FindControl<TextBox>("searchBarTextBox");
 
             _decklistRepeater = this.FindControl<ItemsRepeater>("decklistRepeater");
             _deckScroller = this.FindControl<ScrollViewer>("deckScroller");
-
-            _decklistRepeater.PointerPressed += RepeaterClick;
 
             _deckScroller.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
             _deckScroller.VerticalScrollBarVisibility = ScrollBarVisibility.Auto;
@@ -105,20 +106,6 @@ namespace Montage.RebirthForYou.Tools.GUI
                 Orientation = Orientation.Vertical,
                 Spacing = 4
             };
-
-            _saveFileDialog = new SaveFileDialog
-            {
-                DefaultExtension = "r4udek",
-                Title = "Save R4U Deck..."
-            };
-            _saveFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
-
-            _openFileDialog = new OpenFileDialog
-            {
-                AllowMultiple = false,
-                Title = "Load R4U Deck..."
-            };
-            _openFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
             var dataContext = new MainWindowViewModel();
             DataContext = dataContext;
@@ -160,15 +147,8 @@ namespace Montage.RebirthForYou.Tools.GUI
             AvaloniaXamlLoader.Load(this);
         }
 
-        private void RepeaterClick(object sender, PointerPressedEventArgs e)
-        {
-            var item = (e.Source as StyledElement)?.DataContext as CardEntry;
-            _dataContext().DeckResults = _dataContext().DeckResults;
-        }
-
         private Dictionary<Border, IBrush> oldBrush = new Dictionary<Border, IBrush>();
         private string _originalTitle;
-        private Task<ButtonResult> task;
 
         public void Item_OnPointerEnter(object sender, PointerEventArgs e)
         {
@@ -213,49 +193,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         {
             await _dataContext().ApplyFilter((card) => (card.Name.EN ?? "").Contains(newText) || (card.Name.JP ?? "").Contains(newText));
         }
-
-        public async void SaveDeckMenuItem_Pressed(object sender, PointerPressedEventArgs args)
-        {
-            var saveFilePath = await _saveFileDialog.ShowAsync(this);
-            if (!String.IsNullOrWhiteSpace(saveFilePath))
-            {
-                var result = await _dataContext().SaveDeck(saveFilePath);
-                var prms = GenerateStandardMessageParams(result.Title, result.Details);
-                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms).Show();//(this);
-            }
-        }
-
-        public async void LoadDeckMenuItem_Pressed(object sender, PointerPressedEventArgs args)
-        {
-            var loadFilePath = await _openFileDialog.ShowAsync(this);
-            if (loadFilePath?.Length > 0)
-            {
-                var result = await _dataContext().LoadDeck(loadFilePath?[0]);
-                var prms = GenerateStandardMessageParams(result.Title, result.Details);
-                var msgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms);// (result.Title, result.Details);
-                await msgBox.Show();// (this);
-            }
-        }
-
-        private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
-        {
-            var result = new MessageBoxStandardParams();
-            result.Window = new MsBoxStandardWindow
-            {
-                MinWidth = 400
-            };
-            result.ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.Ok;
-            result.ContentTitle = title;
-            result.ContentMessage = details;
-            result.ShowInCenter = true;
-            return result;
-        }
-
-        public async void ExportTTSMenuItem_Pressed(object sender, PointerPressedEventArgs args)
-        {
-            var result = await _dataContext().Export<TTSDeckExporter>();
-            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(this);
-        }
         public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
+
     }
 }

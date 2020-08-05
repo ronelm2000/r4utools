@@ -33,10 +33,12 @@ namespace Montage.RebirthForYou.Tools.GUI
 
         private static IContainer BootstrapIOC()
         {
-            return new Container(x =>
+            var res = new Container(x =>
             {
                 //x.AddLogging(l => l.AddSerilog(Serilog.Log.Logger, dispose: true));
                 x.AddSingleton<ILogger>(Serilog.Log.Logger);
+                x.AddSingleton<IAvaloniaObject, MainWindow>();
+                x.AddSingleton<IAvaloniaObject, App>();
                 x.Scan(s =>
                 {
                     s.AssemblyContainingType<Montage.RebirthForYou.Tools.GUI.Program>();
@@ -44,8 +46,9 @@ namespace Montage.RebirthForYou.Tools.GUI
                     s.WithDefaultConventions();
                     s.RegisterConcreteTypesAgainstTheFirstInterface();
                 });
-
             });
+            Log.Information(res.WhatDoIHave());
+            return res;
         }
         public static LoggerConfiguration BootstrapLogging()
         {

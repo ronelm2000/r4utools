@@ -11,13 +11,13 @@
     <!-- Main Menu -->
     <Menu DockPanel.Dock="Top">
       <MenuItem Header="_File">
-        <MenuItem Header="_Save Deck..." PointerPressed="SaveDeckMenuItem_Pressed" />
-        <MenuItem Header="_Load Deck..." PointerPressed="LoadDeckMenuItem_Pressed" />
+        <MenuItem Header="_Save Deck..." Command="{Binding SaveDeckCommand}" />
+        <MenuItem Header="_Load Deck..." Command="{Binding LoadDeckCommand}" />
         <Separator/>
-        <MenuItem Header="_Exit"/>
+        <MenuItem Header="_Exit" Command="{Binding ExitCommand}" />
       </MenuItem>
       <MenuItem Header="_Export">
-        <MenuItem Header="Tabletop Simulator" PointerPressed="ExportTTSMenuItem_Pressed" />
+        <MenuItem Header="Tabletop Simulator" Command="{Binding ExportViaTTSCommand}" />
       </MenuItem>
     </Menu>
  
@@ -32,7 +32,6 @@
                 Grid.Column="0"
                 Grid.RowSpan="3"
                 >
-        
         <ScrollViewer Name="deckScroller"
                       HorizontalScrollBarVisibility="Auto"
                       VerticalScrollBarVisibility="Auto"
@@ -43,7 +42,15 @@
             <ItemsRepeater.ItemTemplate>
               <DataTemplate>
                 <StackPanel>
-                  <Image Source="{Binding ImageSource}" Width="100" PointerReleased="DeckItem_OnPointerReleased"/>
+                  <Image Source="{Binding ImageSource}" Width="100" PointerReleased="DeckItem_OnPointerReleased">
+                    <ToolTip.Tip>
+                      <StackPanel MaxWidth="300">
+                        <TextBlock Classes="h1" Text="{Binding Name}" />
+                        <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
+                        <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
+                      </StackPanel>
+                    </ToolTip.Tip>
+                  </Image>
                 </StackPanel>
               </DataTemplate>
             </ItemsRepeater.ItemTemplate>
@@ -191,9 +198,6 @@
                 </Border>
               </DataTemplate>
             </ItemsRepeater.ItemTemplate>
-            <!--
-
-            -->
           </ItemsRepeater>
         </ScrollViewer>
         <!--

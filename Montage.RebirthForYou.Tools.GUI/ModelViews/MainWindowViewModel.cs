@@ -8,12 +8,16 @@ using Avalonia.VisualTree;
 using DynamicData;
 using DynamicData.Binding;
 using Lamar;
+using MessageBox.Avalonia.DTO;
+using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Entities.Exceptions;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters;
+using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Octokit;
@@ -24,6 +28,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Reactive;
 using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -33,6 +38,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
     public class MainWindowViewModel : ReactiveObject
     {
         #region Private Fields
+        private readonly SaveFileDialog _saveFileDialog;
+        private readonly OpenFileDialog _openFileDialog;
+        private readonly Func<MainWindow> _parent;
+
         private Dictionary<string,CardEntry> _database = new Dictionary<string,CardEntry>();
         private ObservableCollection<CardEntry> databaseResults = new ObservableCollection<CardEntry>();
         private ObservableCollection<CardEntry> deckResults = new ObservableCollection<CardEntry>(new CardEntry[] { });
@@ -82,18 +91,42 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             get => filter; 
             set => this.RaiseAndSetIfChanged(ref filter, value); 
         }
+        public ReactiveCommand<Unit,Unit> SaveDeckCommand { get; }
+        public ReactiveCommand<Unit, Unit> LoadDeckCommand { get; }
+        public ReactiveCommand<Unit, Unit> ExitCommand { get; }
+        public ReactiveCommand<Unit, Unit> ExportViaTTSCommand { get; }
+
         public MainWindowViewModel()
         {
         }
         public MainWindowViewModel(IContainer ioc)
         {
             this.ioc = ioc;
-
+            _parent = () => ioc.GetService<MainWindow>();
             _deckNameObserver = this.WhenValueChanged(x => x.DeckName);
             _deckRemarkObserver = this.WhenValueChanged(x => x.DeckRemarks);
             SavedObserver = this.WhenValueChanged(dc => dc.Saved);
             _deckNameObserver.Subscribe(s => this.Saved = "*");
             _deckRemarkObserver.Subscribe(s => this.Saved = "*");
+
+            SaveDeckCommand = ReactiveCommand.CreateFromTask(SaveDeck);
+            LoadDeckCommand = ReactiveCommand.CreateFromTask(LoadDeck);
+            ExitCommand = ReactiveCommand.Create(Exit);
+            ExportViaTTSCommand = ReactiveCommand.CreateFromTask(async()=> await ExportWithResult<TTSDeckExporter>());
+
+            _saveFileDialog = new SaveFileDialog
+            {
+                DefaultExtension = "r4udek",
+                Title = "Save R4U Deck..."
+            };
+            _saveFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
+
+            _openFileDialog = new OpenFileDialog
+            {
+                AllowMultiple = false,
+                Title = "Load R4U Deck..."
+            };
+            _openFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
             //    dataContext.WhenValueChanged(x => x.DeckRemarks).Subscribe(s => _dataContext().Saved = "*");
             //    dataContext.WhenValueChanged(dc => dc.Saved).Subscribe(ChangeWindowTitle);
@@ -114,12 +147,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             }
         }
 
-        internal void RemoveDeckCard(CardEntry cardEntry)
-        {
-            DeckResults.Remove(cardEntry);
-            SortDeck();
-        }
-
+        #region View Methods
         internal void AddDeckCard(CardEntry cardEntry)
         {
             if (IsDeckConstructionValid(cardEntry))
@@ -128,6 +156,43 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 SortDeck();
             }
         }
+        internal void RemoveDeckCard(CardEntry cardEntry)
+        {
+            DeckResults.Remove(cardEntry);
+            SortDeck();
+        }
+        private async Task SaveDeck()
+        {
+            var saveFilePath = await _saveFileDialog.ShowAsync(_parent());
+            if (!String.IsNullOrWhiteSpace(saveFilePath))
+            {
+                var result = await SaveDeck(saveFilePath);
+                var prms = GenerateStandardMessageParams(result.Title, result.Details);
+                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms).Show();//(this);
+            }
+        }
+        private async Task LoadDeck()
+        {
+            var loadFilePath = await _openFileDialog.ShowAsync(_parent());
+            if (loadFilePath?.Length > 0)
+            {
+                var result = await LoadDeck(loadFilePath?[0]);
+                var prms = GenerateStandardMessageParams(result.Title, result.Details);
+                var msgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms);// (result.Title, result.Details);
+                await msgBox.Show();// (this);
+            }
+        }
+        private void Exit()
+        {
+            _parent().Close();
+            
+        }
+        private async Task ExportWithResult<T>() where T : IDeckExporter
+        {
+            var result = await Export<T>();
+            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(_parent());
+        }
+        #endregion
 
         private bool IsDeckConstructionValid(CardEntry cardEntry)
         {
@@ -224,6 +289,19 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var exporter = ioc.GetInstance<T>();
             await exporter.Export(deck, new MockInfo());
             return ("Success", $"{deck.Name} was exported successfully!");
+        }
+        private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
+        {
+            var result = new MessageBoxStandardParams();
+            result.Window = new MsBoxStandardWindow
+            {
+                MinWidth = 400
+            };
+            result.ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.Ok;
+            result.ContentTitle = title;
+            result.ContentMessage = details;
+            result.ShowInCenter = true;
+            return result;
         }
     }
 
