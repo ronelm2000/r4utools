@@ -4,6 +4,7 @@ using Avalonia.Controls.Shapes;
 using Avalonia.Input;
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
+using Avalonia.OpenGL;
 using Avalonia.VisualTree;
 using DynamicData;
 using DynamicData.Binding;
@@ -41,15 +42,18 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private readonly SaveFileDialog _saveFileDialog;
         private readonly OpenFileDialog _openFileDialog;
         private readonly Func<MainWindow> _parent;
+        private readonly ILogger Log;
 
         private Dictionary<string,CardEntry> _database = new Dictionary<string,CardEntry>();
         private ObservableCollection<CardEntry> databaseResults = new ObservableCollection<CardEntry>();
         private ObservableCollection<CardEntry> deckResults = new ObservableCollection<CardEntry>(new CardEntry[] { });
         private IContainer ioc;
+
         private Predicate<R4UCard> filter = (card) => true;
         private string deckName;
         private string deckRemarks;
         private string isSaved;
+        private bool isShareXFlagged = true;
         #endregion
 
         #region Observers
@@ -85,6 +89,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             get => isSaved;
             set => this.RaiseAndSetIfChanged(ref isSaved, value);
         }
+        public bool IsShareXFlagged {
+            get => isShareXFlagged; 
+            set => this.RaiseAndSetIfChanged(ref isShareXFlagged, value); 
+        }
 
         public CardEntry SelectedDatabaseCardEntry { get; internal set; }
         public Predicate<R4UCard> Filter { 
@@ -102,6 +110,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public MainWindowViewModel(IContainer ioc)
         {
             this.ioc = ioc;
+            Log = Serilog.Log.ForContext<MainWindowViewModel>();
             _parent = () => ioc.GetService<MainWindow>();
             _deckNameObserver = this.WhenValueChanged(x => x.DeckName);
             _deckRemarkObserver = this.WhenValueChanged(x => x.DeckRemarks);
@@ -130,6 +139,17 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
             //    dataContext.WhenValueChanged(x => x.DeckRemarks).Subscribe(s => _dataContext().Saved = "*");
             //    dataContext.WhenValueChanged(dc => dc.Saved).Subscribe(ChangeWindowTitle);
+        }
+        public void ToggleFlag(string flagID)
+        {
+            Log.Information("Toggling {flag}", flagID);
+            switch (flagID.ToLower())
+            {
+                case "sharex":
+                    IsShareXFlagged = !IsShareXFlagged;
+                    break;
+                default: break;
+            } 
         }
 
         internal async Task InitializeDatabase()
@@ -287,7 +307,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var newDeckName = (string.IsNullOrWhiteSpace(deckName)) ? "[Placeholder for a Deck Name]" : deckName; 
             var deck = GenerateDeck(deckResults, newDeckName, deckRemarks);
             var exporter = ioc.GetInstance<T>();
-            await exporter.Export(deck, new MockInfo());
+            var outCommand = (isShareXFlagged) ? "sharex" : "";
+            await exporter.Export(deck, new GUIBasedExportInfo(outCommand));
             return ("Success", $"{deck.Name} was exported successfully!");
         }
         private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
@@ -305,15 +326,20 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
     }
 
-    internal class MockInfo : IExportInfo
+    internal class GUIBasedExportInfo : IExportInfo
     {
         public string Source => null;
         public string Destination => "./Export/";
         public string Parser => "";
         public string Exporter => "";
-        public string OutCommand => "";
+        public string OutCommand { get; }
         public IEnumerable<string> Flags => new[] { "upscaling" };
         public bool NonInteractive => true;
+
+        public GUIBasedExportInfo(string outCommand)
+        {
+            OutCommand = outCommand;
+        }
     }
 
     public class CardEntry : ReactiveObject
