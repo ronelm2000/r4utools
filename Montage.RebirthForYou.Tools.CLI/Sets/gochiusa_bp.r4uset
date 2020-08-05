@@ -1193,6 +1193,231 @@
         "Name": "Is the Order a Rabbit? Booster Pack",
         "Description": null
       }
+    },
+    {
+      "Serial": "GU/001B-077",
+      "Alternates": [],
+      "Name": {
+        "EN": "Light One-Piece, “Blue Mountain” Aoyama",
+        "JP": "軽やかなワンピース 青山ブルーマウンテン"
+      },
+      "Traits": [
+        {
+          "EN": "Novelist",
+          "JP": "小説家"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo “Escaping from Deadlines“][1/Turn]:[Rest (1) Energy], choose any number of characters with [Cancel] from your waiting room, and return them to your hand.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu001b-077.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-096",
+      "Alternates": [],
+      "Name": {
+        "EN": "Escaping from Deadlines",
+        "JP": "締め切りからの逃亡"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel] (If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": null
+        },
+        {
+          "EN": "[CONT]: Your entry gets +1/+1.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://i.imgur.com/724bQP7.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-078",
+      "Alternates": [],
+      "Name": {
+        "EN": "Is the Order a Rebirth? “Blue Mountain” Aoyama",
+        "JP": "ご注文はReバースですか？ 青山ブルーマウンテン"
+      },
+      "Traits": [
+        {
+          "EN": "Novelist",
+          "JP": "小説家"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "\"[Spark][Skill Showcase Level 3]:[Put a card from your hand into your waiting room], and set a Rebirth from your waiting room.,",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu001b-078.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-057",
+      "Alternates": [],
+      "Name": {
+        "EN": "Hardworking Honor Student, Sharo",
+        "JP": "努力家な優等生 シャロ"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "フルール ド ラパン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards (If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-057.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-079",
+      "Alternates": [],
+      "Name": {
+        "EN": "Everyone in Yukatas, “Blue Mountain” Aoyama",
+        "JP": "みんなで浴衣 青山ブルーマウンテン"
+      },
+      "Traits": [
+        {
+          "EN": "Novelist",
+          "JP": "小説家"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[[Cancel]:[Spark] of non-Rebirth cards (If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-079-2.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-080",
+      "Alternates": [],
+      "Name": {
+        "EN": "Laid-back, “Blue Mountain” Aoyama",
+        "JP": "まったり 青山ブルーマウンテン"
+      },
+      "Traits": [
+        {
+          "EN": "Novelist",
+          "JP": "小説家"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4][1/Turn]:When you use [Cancel], choose one of your entries with “”Blue Mountain” Aoyama” in its card name, and it gets +3/+3 until end of turn.",
+          "JP": null
+        },
+        {
+          "EN": "[ACT](Member)[1/Turn]:][Rest (2) Energy], choose one of your opponent’s entries, and put it into your waiting room.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-080-2.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
     }
   ]
 }
