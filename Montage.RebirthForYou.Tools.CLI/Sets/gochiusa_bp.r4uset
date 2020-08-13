@@ -1533,6 +1533,201 @@
         "Name": "Is the Order a Rabbit? Booster Pack",
         "Description": null
       }
+    },
+    {
+      "Serial": "GU/001B-011",
+      "Alternates": [],
+      "Name": {
+        "EN": "Loves Her Older Sister, Cocoa",
+        "JP": "お姉ちゃん大好き ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a member with “Mocha” in its card name, draw a card, and put a card from your hand into your waiting room.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-011.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-084",
+      "Alternates": [],
+      "Name": {
+        "EN": "Everyone in Yukatas, Mocha",
+        "JP": "みんなで浴衣 モ"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is placed onto your entry area from hand, choose a card with “Cocoa” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-084.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-082",
+      "Alternates": [],
+      "Name": {
+        "EN": "Light One-Piece, Mocha",
+        "JP": "軽やかなワンピース モカ"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):All of your characters in your entry, member, and retire areas other than characters with “Mocha” in their card names get <Little Sister>.",
+          "JP": null
+        },
+        {
+          "EN": "[AUTO](Member):When this character supports, [Rest (1) Energy], and the supported character gets +1/±0 until end of that attack.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_rr_16.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-083",
+      "Alternates": [],
+      "Name": {
+        "EN": "Is the Order a Rebirth? Mocha",
+        "JP": "ご注文はReバースですか？ モカ"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo “Yearned Sister“]:If you have two or more <Little Sister> members, this character gets +5/±0.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_r_29.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-097",
+      "Alternates": [],
+      "Name": {
+        "EN": "Adored Older Sister",
+        "JP": "憧れのお姉ちゃん"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": null
+        },
+        {
+          "EN": "[CONT]:Your entry gets +1/+1.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://i.imgur.com/l6LZxDl.png?1" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
     }
+
+
+
   ]
 }
