@@ -68,7 +68,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
                         .WithCss()
                         ;
                 var context = BrowsingContext.New(config);
-                return await context.OpenAsync(req => req.Content(content));
+                return await context.OpenAsync(req =>
+                {
+                    req.Content(content);
+                    req.Address(uri);
+                });
             }
         }
 

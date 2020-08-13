@@ -47,6 +47,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         /// File Path Relative Link into a cached image. This property is usually assigned exactly once by
         /// <see cref="IExportedDeckInspector">Deck Inspectors</see>
         /// </summary>
+        [JsonIgnore]
         public string CachedImagePath
         {
             get
@@ -74,6 +75,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             }
         }
 
+        [JsonIgnore]
         public bool IsCached => CachedImagePath != null;
 
         public R4UCard()

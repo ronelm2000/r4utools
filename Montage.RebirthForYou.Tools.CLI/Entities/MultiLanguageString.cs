@@ -1,4 +1,5 @@
-﻿using Montage.RebirthForYou.Tools.CLI.Utilities;
+﻿using AngleSharp.Common;
+using Montage.RebirthForYou.Tools.CLI.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -21,12 +22,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 
         public string EN
         {
-            get { return resources["en"]; }
+            get { return resources.GetOrDefault("en", null); }
             set { resources["en"] = value; }
         }
         public string JP
         {
-            get { return resources["jp"]; }
+            get { return resources.GetOrDefault("jp", null); }
             set { resources["jp"] = value; }
         }
 
