@@ -338,3 +338,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Montage.RebirthForYou.Tools.GUI/cards.db

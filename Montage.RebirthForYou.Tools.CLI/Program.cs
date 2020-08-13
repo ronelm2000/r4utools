@@ -44,9 +44,9 @@ namespace Montage.RebirthForYou.Tools.CLI
         {
             try
             {
-                var github = new GitHubClient(new ProductHeaderValue("wsmtools"));
+                var github = new GitHubClient(new ProductHeaderValue("r4utools"));
                 //var user = await github.User.Get("ronelm2000");
-                var wsmtoolsLatestRelease = await github.Repository.Release.GetLatest("ronelm2000", "wsmtools");
+                var wsmtoolsLatestRelease = await github.Repository.Release.GetLatest("ronelm2000", "r4utools");
                 if (wsmtoolsLatestRelease.CreatedAt.DateTime > AppReleaseDate)
                 //if (wsmtoolsLatestRelease.TagName != $"v{Program.AppVersion}")
                 {
