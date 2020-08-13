@@ -1418,6 +1418,121 @@
         "Name": "Is the Order a Rabbit? Booster Pack",
         "Description": null
       }
+    },
+    {
+      "Serial": "GU/001B-014",
+      "Alternates": [],
+      "Name": {
+        "EN": "Is the Order a Rebirth? Chino",
+        "JP": "ご注文はReバースですか？ チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "ChiMaMe Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 2,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 6 <Chimame Corps>][1/Turn]:[Rest (1) Energy & Put this character on the bottom of your deck], draw two cards, and put a card from your hand on the bottom of your deck.",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_014.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-064",
+      "Alternates": [],
+      "Name": {
+        "EN": "Full of Energy, Maya",
+        "JP": "元気いっぱい マヤ"
+      },
+      "Traits": [
+        {
+          "EN": "ChiMaMe Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker <Chimame Corps>] (If you discard it from hand, the damage from one attack to your allied <Chimame Corps> character becomes zero)",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_r_24.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-076",
+      "Alternates": [],
+      "Name": {
+        "EN": "Chimame Corps, Megu",
+        "JP": "コマメ隊 メグ"
+      },
+      "Traits": [
+        {
+          "EN": "ChiMaMe Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": null
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is placed onto your entry area from hand, choose a card with “Maya” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": null
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_c_28.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
     }
   ]
 }
