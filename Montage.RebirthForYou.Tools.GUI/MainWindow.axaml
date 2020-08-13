@@ -17,8 +17,17 @@
         <MenuItem Header="_Exit" Command="{Binding ExitCommand}" />
       </MenuItem>
       <MenuItem Header="_Export">
-        <MenuItem Header="Tabletop Simulator" Command="{Binding ExportViaTTSCommand}">
+        <MenuItem Header="_Flags">
+          <MenuItem Header="_Upload to ShareX" Command="{Binding ToggleFlag}" CommandParameter="ShareX">
+            <MenuItem.Icon>
+              <CheckBox BorderThickness="0"
+                        IsHitTestVisible="False"
+                        IsChecked="{Binding IsShareXFlagged}"
+                        />
+            </MenuItem.Icon>
+          </MenuItem>
         </MenuItem>
+        <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
       </MenuItem>
     </Menu>
  

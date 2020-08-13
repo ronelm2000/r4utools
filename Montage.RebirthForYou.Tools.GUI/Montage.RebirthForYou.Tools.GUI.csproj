@@ -21,4 +21,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Update="cards.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
