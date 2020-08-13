@@ -1,6 +1,7 @@
 ﻿using AngleSharp.Common;
 using AngleSharp.Media.Dom;
 using Fluent.IO;
+using Flurl.Http;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
@@ -9,8 +10,10 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Cache;
 using System.Text;
 using System.Text.Json;
+using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
@@ -21,13 +24,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         public bool IsCompatible(IParseInfo info)
         {
-            return Fluent.IO.Path.Get(info.URI).Extension == ".r4uset";
+            if (Uri.TryCreate(info.URI, UriKind.Absolute, out var uri))
+            {
+                return uri.LocalPath.EndsWith(".r4uset");
+            }
+            else
+            {
+                return Fluent.IO.Path.Get(info.URI).Extension == ".r4uset";
+            }
         }
 
         public async IAsyncEnumerable<R4UCard> Parse(string urlOrLocalFile)
         {
             Log.Information("Starting...");
-            using (Stream s = Fluent.IO.Path.Get(urlOrLocalFile).GetStream())
+            using (Stream s = await GetStreamFromURIOrFile(urlOrLocalFile))
             {
                 var jsonObject = await JsonSerializer.DeserializeAsync<InternalCardSet>(s);
                 var sets = jsonObject.Cards
@@ -49,6 +59,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     }
                 }
             }
+        }
+        private static async Task<Stream> GetStreamFromURIOrFile(string urlOrLocalFile)
+        {
+            if (Uri.TryCreate(urlOrLocalFile, UriKind.Absolute, out var uri))
+            {
+                return await urlOrLocalFile.WithRESTHeaders().GetStreamAsync();
+            }
+            else
+                return Fluent.IO.Path.Get(urlOrLocalFile).GetStream();
         }
     }
 

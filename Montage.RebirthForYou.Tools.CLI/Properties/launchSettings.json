@@ -15,6 +15,10 @@
     "Parse GU TD from Fandom": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
+    },
+    "Parse GUBP from GH": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset"
     }
   }
 }
