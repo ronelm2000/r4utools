@@ -14,8 +14,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public int LogID { get; set; }
         public ActivityType Activity { get; set; }
         public string Target { get; set; }
-        public bool IsDone { get; set; }
-        public DateTime DateAdded { get; set; }
+        public bool IsDone { get; set; } = false;
+        public DateTime DateAdded { get; set; } = DateTime.Now;
 
         public IVerbCommand ToCommand()
         {

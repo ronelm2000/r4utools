@@ -93,9 +93,21 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             modelBuilder.Entity<ActivityLog>(b =>
             {
                 b.HasKey(a => a.LogID);
+                b.HasData(
+                    new ActivityLog
+                    {
+                        LogID = 1,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset"
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 2,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
+                    }
+                    );
             });
-           // modelBuilder.Entity<MultiLanguageString>().HasKey(s => s.JP);
-
         }
     }
 }
