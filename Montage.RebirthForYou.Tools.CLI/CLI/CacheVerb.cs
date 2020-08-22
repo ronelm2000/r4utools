@@ -70,7 +70,7 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
             try
             {
                 var imgURL = card.Images.Last();
-                Log.Information("Caching: {imgURL}", imgURL);
+                Log.Information("Caching [{serial}]: {imgURL}", card.Serial, imgURL);
                 using (System.IO.Stream netStream = await imgURL.WithImageHeaders().GetStreamAsync()) // card.GetImageStreamAsync())
                 using (Image img = Image.Load(netStream))
                 {
