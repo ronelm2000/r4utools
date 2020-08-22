@@ -19,6 +19,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
     public class R4UCard : IExactCloneable<R4UCard>
     {
         private static ILogger Log;
+        private static readonly Uri EmptyURL = new Uri("https://i.imgur.com/31iwAc9.jpg");
 
         public static IEqualityComparer<R4UCard> SerialComparer { get; internal set; } = new R4USerialComparerImpl();
         private readonly static string _imageCachePath = "./Images/";
@@ -88,6 +89,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             R4UCard newCard = (R4UCard)this.MemberwiseClone();
             newCard.Name = this.Name.Clone();
             newCard.Traits = this.Traits?.Select(s => s?.Clone()).ToList() ?? new List<MultiLanguageString>();
+            newCard.Images = this.Images.ToList();
             return newCard;
         }
 
@@ -107,7 +109,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 catch (Exception) { }
             do try
                 {
-                    return await Images?.Last().WithImageHeaders().GetStreamAsync() ?? await new Flurl.Url("https://vignette.wikia.nocookie.net/rebirth-for-you/images/1/13/TH-001B-075.png/revision/latest?cb=20200621090840").GetStreamAsync();
+                    return await Images?.Prepend(EmptyURL).Last().WithImageHeaders().GetStreamAsync() ?? await EmptyURL.WithImageHeaders().GetStreamAsync();
                 }
                 catch (Exception e) {
                     if (retry++ > 9) throw e;
