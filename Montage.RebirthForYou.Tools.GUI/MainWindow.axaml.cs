@@ -59,19 +59,24 @@ namespace Montage.RebirthForYou.Tools.GUI
             DataContext = _ioc.GetService<MainWindowViewModel>();
             var dataContext = _dataContext();
             Dispatcher.UIThread.InvokeAsync(MainWindow_Initialized);
-
+            //Task.Run(MainWindow_Initialized);
             dataContext.DeckResults.CollectionChanged += (s, e) => _dataContext().Saved = "*";
             dataContext.SavedObserver.Subscribe(ChangeWindowTitle);
         }
 
-        private async Task MainWindow_Initialized()//object sender, EventArgs e)
+        private void MainWindow_Initialized()//object sender, EventArgs e)
         {
-            await Task.CompletedTask;
             _searchBarTextBox.IsEnabled = false;
-            await _dataContext().InitializeDatabase();
-            _searchBarTextBox.IsEnabled = true;
-
             _dataContext().Saved = "";
+            var context = _dataContext();
+            Task.Run(async() => {
+                await context.InitializeDatabase();
+                await Dispatcher.UIThread.InvokeAsync(() =>
+                {
+                    _searchBarTextBox.IsEnabled = true;
+                });
+            });
+            //_searchBarTextBox.IsEnabled = true;
         }
 
         /// <summary>

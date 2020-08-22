@@ -5,6 +5,7 @@ using Avalonia.Input;
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.OpenGL;
+using Avalonia.Threading;
 using Avalonia.VisualTree;
 using DynamicData;
 using DynamicData.Binding;
@@ -154,17 +155,21 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         internal async Task InitializeDatabase()
         {
+            await Task.Yield();
             using (var db = ioc.GetInstance<CardDatabaseContext>())
-            using (_ = this.SuppressChangeNotifications())
+            //using (_ = this.SuppressChangeNotifications())
             {
                 await db.Database.MigrateAsync();
                 await new UpdateVerb().Run(ioc);
                 await foreach (var card in GetCardDatabase(db))
                 {
                     this._database.Add(card.Card.Serial, card);
-                    this.DatabaseResults.Add(card);
                 }
             }
+            await Dispatcher.UIThread.InvokeAsync(() =>
+            {
+                this.DatabaseResults.AddRange(_database.Values);
+            });
         }
 
         #region View Methods
@@ -359,7 +364,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public string Name => Card.Name.AsNonEmptyString();
         public string ATKDEF => $"{Card.ATK}/{Card.DEF}";
         public string Traits => $"{Card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString("\n")}";
-        public string Effects => Card.Effect.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n");
+        public string Effects => Card.Effect?.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n");
         public string Flavor => Card.Flavor?.AsNonEmptyString();
         public R4UCard Card { get; set; }
 

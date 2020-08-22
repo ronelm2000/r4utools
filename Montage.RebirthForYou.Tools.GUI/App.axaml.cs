@@ -25,7 +25,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         {
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
-                desktop.MainWindow = _container.GetInstance<MainWindow>();
+                desktop.MainWindow = _container.GetService<MainWindow>();
             }
 
             base.OnFrameworkInitializationCompleted();
