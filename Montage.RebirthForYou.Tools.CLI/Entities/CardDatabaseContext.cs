@@ -98,15 +98,31 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     {
                         LogID = 1,
                         Activity = ActivityType.Parse,
-                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset"
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset",
+                        DateAdded = new DateTime(2020, 8, 13, 17, 7, 23, 534, DateTimeKind.Local).AddTicks(9446)
                     },
                     new ActivityLog
                     {
                         LogID = 2,
                         Activity = ActivityType.Parse,
-                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM",
+                        DateAdded = new DateTime(2020, 8, 13, 17, 7, 23, 536, DateTimeKind.Local).AddTicks(1375)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 3,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._0th_Gen)",
+                        DateAdded = new DateTime(2020, 8, 23, 0, 43, 53, 205, DateTimeKind.Local)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 4,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._1st_Gen)",
+                        DateAdded = new DateTime(2020, 8, 23, 0, 43, 53, 206, DateTimeKind.Local)
                     }
-                    );
+                    ) ;
             });
         }
     }

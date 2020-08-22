@@ -48,6 +48,10 @@
     <Compile Remove="Migrations\20200801032745_CreateInitialDatabase.Designer.cs" />
     <Compile Remove="Migrations\20200813085718_AddsInitialGochiUsaSet.cs" />
     <Compile Remove="Migrations\20200813085718_AddsInitialGochiUsaSet.Designer.cs" />
+    <Compile Remove="Migrations\20200822164035_AddedHololiveTrialDecksWave1.cs" />
+    <Compile Remove="Migrations\20200822164035_AddedHololiveTrialDecksWave1.Designer.cs" />
+    <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.cs" />
+    <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.Designer.cs" />
     <None Remove="sample.r4uset" />
     <Content Include="sample.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
