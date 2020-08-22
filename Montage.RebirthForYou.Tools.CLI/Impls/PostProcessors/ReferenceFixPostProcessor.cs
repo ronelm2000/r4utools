@@ -1,5 +1,6 @@
 ﻿using Lamar;
 using Microsoft.EntityFrameworkCore.Internal;
+using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Migrations;
@@ -18,7 +19,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
         public ReferenceFixPostProcessor(IContainer ioc)
         {
-            _database = () => ioc.GetInstance<CardDatabaseContext>();
+            _database = () => ioc.GetService<CardDatabaseContext>();
         }
 
         public bool IsCompatible(List<R4UCard> cards)
@@ -33,7 +34,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             var db = _database();
             var dbSets = await db.R4UReleaseSets.ToAsyncEnumerable().Where(s => sets.ContainsKey(s.ReleaseCode)).ToListAsync();
             db.R4UReleaseSets.RemoveRange(dbSets);
-           
+
             foreach (var card in result.Values)
             {
                 if (card.NonFoil != null)

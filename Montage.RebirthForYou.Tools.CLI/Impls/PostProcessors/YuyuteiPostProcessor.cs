@@ -76,7 +76,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 .Select(div => this.CreateTrio(div))
                 .Select(trio => this.Serialize(trio))
                 .Distinct(trio => trio.Serial + " " + trio.Rarity)             // Dev Notes: https://yuyu-tei.jp/game_ws/sell/sell_price.php?name=BD%2fW54 gave me cancer.
-                .ToDictionary(trio => (trio.Serial, trio.Rarity), pair => pair.ImageUri)
+                .ToDictionary(trio => $"{trio.Serial}|{trio.Rarity}", pair => pair.ImageUri)
                 ;
 
             Log.Information("Getting all PRs on card database without a YYT image link...");
@@ -90,7 +90,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     );
                 await foreach (var prCard in prCards)
                 {
-                    if (serialImageTriplets.TryGetValue((prCard.Serial, prCard.Rarity), out var urlLink))
+                    if (serialImageTriplets.TryGetValue($"{prCard.Serial}|{prCard.Rarity}", out var urlLink))
                     {
                         var imgUrl = new Uri(urlLink);
                         prCard.Images.Add(imgUrl);
@@ -104,7 +104,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             await foreach (var originalCard in originalCards)
             {
                 var res = originalCard.Clone();
-                if (serialImageTriplets.TryGetValue( (res.Serial, res.Rarity), out var urlLink)) {
+                if (serialImageTriplets.TryGetValue($"{res.Serial}|{res.Rarity}", out var urlLink)) {
                     var imgUrl = new Uri(urlLink);
                     res.Images.Add(imgUrl);
                     Log.Information("Attached to {serial}: {imgUrl}", res.Serial, urlLink);
@@ -131,7 +131,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             var res = ( Serial: trio.serialDiv.InnerHtml.Trim(),
                         Rarity: trio.rarityClass,
-                        ImageUri: trio.imageDiv.Source.Replace("ws/90_126", "ws/front")
+                        ImageUri: trio.imageDiv.Source.Replace("re/90_126", "re/front")
                         );
             return res switch {
                 // Fix Exceptional Serial on GU/57 caused by the serial being the same serial in SEC and in normal rarity.
