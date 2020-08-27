@@ -42,7 +42,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         #region Private Fields
         private readonly SaveFileDialog _saveFileDialog;
         private readonly OpenFileDialog _openFileDialog;
-        private readonly Func<MainWindow> _parent;
         private readonly ILogger Log;
 
         private Dictionary<string,CardEntry> _database = new Dictionary<string,CardEntry>();
@@ -104,6 +103,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public ReactiveCommand<Unit, Unit> LoadDeckCommand { get; }
         public ReactiveCommand<Unit, Unit> ExitCommand { get; }
         public ReactiveCommand<Unit, Unit> ExportViaTTSCommand { get; }
+        public MainWindow Parent { get; internal set; }
 
         public MainWindowViewModel()
         {
@@ -112,7 +112,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         {
             this.ioc = ioc;
             Log = Serilog.Log.ForContext<MainWindowViewModel>();
-            _parent = () => ioc.GetService<MainWindow>();
             _deckNameObserver = this.WhenValueChanged(x => x.DeckName);
             _deckRemarkObserver = this.WhenValueChanged(x => x.DeckRemarks);
             SavedObserver = this.WhenValueChanged(dc => dc.Saved);
@@ -188,7 +187,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         private async Task SaveDeck()
         {
-            var saveFilePath = await _saveFileDialog.ShowAsync(_parent());
+            var saveFilePath = await _saveFileDialog.ShowAsync(Parent);
             if (!String.IsNullOrWhiteSpace(saveFilePath))
             {
                 var result = await SaveDeck(saveFilePath);
@@ -198,7 +197,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         private async Task LoadDeck()
         {
-            var loadFilePath = await _openFileDialog.ShowAsync(_parent());
+            var loadFilePath = await _openFileDialog.ShowAsync(Parent);
             if (loadFilePath?.Length > 0)
             {
                 var result = await LoadDeck(loadFilePath?[0]);
@@ -209,13 +208,13 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         private void Exit()
         {
-            _parent().Close();
+            Parent.Close();
             
         }
         private async Task ExportWithResult<T>() where T : IDeckExporter
         {
             var result = await Export<T>();
-            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(_parent());
+            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(Parent);
         }
         #endregion
 
