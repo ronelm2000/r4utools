@@ -139,11 +139,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
 
             static string FormatDescription(R4UCard card)
             {
-                if (card.Type == CardType.Partner) return $"{card.Flavor.AsNonEmptyString()}";
+                if (card.Type == CardType.Partner) return $"{card.Flavor?.AsNonEmptyString() ?? ""}";
                 else return $"Type: {card.Type} || Color: {card.Color}\n" +
-                        ((card.Type == CardType.Character) ? $"ATK/DEF: {card.ATK}/{card.DEF} || Cost: {card.Cost}\nTraits: {card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString(" - ")}" : "") +
+                        ((card.Type == CardType.Character) ? $"ATK/DEF: {card.ATK}/{card.DEF} || Cost: {card.Cost}\nTraits: {card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString(" - ")}\n" : "") +
                         $"Effect: {card.Effect.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n")}" +
-                        $"\n{card.Flavor.AsNonEmptyString()}";
+                        $"\n{card.Flavor?.AsNonEmptyString() ?? ""}";
             }
         }
 
