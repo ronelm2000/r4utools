@@ -103,7 +103,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 .ChildNodes //
                 .Where(x => x is IHtmlTableElement) //
                 .Select(x => x as IHtmlTableElement) //
-                .Select(t => (t.Rows[0].Cells[0].TextContent, t.Rows[1].Cells[0].TextContent)) //
+                .Select(t => (t.Rows[0].Cells[0].TextContent, t.Rows[1].Cells[0].GetInnerText())) //
                 .ToDictionary(p => p.Item1.Trim().ToLower(), p => p.Item2.Trim());
 
             var cardContext = new WikiCardContext { ExtraInfoBox = extraInfoBox, MainInfoBox = mainInfoBox, RawMainInfoBox = rawMainInfoBox };
