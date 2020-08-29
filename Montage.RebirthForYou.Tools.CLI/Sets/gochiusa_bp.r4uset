@@ -3,7 +3,15 @@
   "Cards": [
     {
       "Serial": "GU/001B-001",
-      "Alternates": [],
+      "Alternates": [
+        {
+          "Serial": "GU/001B-001SP",
+          "Rarity": "SP",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_001sp.png" ],
+          "Flavor": null,
+          "Remarks": "illust：ceco/ルノテオ"
+        }
+      ],
       "Name": {
         "EN": "Light One-Piece, Cocoa",
         "JP": "軽やかなワンピース ココア"
@@ -24,18 +32,15 @@
       "Cost": 5,
       "ATK": 7,
       "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
+      "Flavor": null,
       "Effect": [
         {
           "EN": "[AUTO](Entry)[ReCombo \"Big Sister and Little Sister\"][Skill Showcase Level 5][1/Turn]:When this character attacks, choose one of your Cost 3 or greater <Rabbit House> members, and exchange its position with a <Rabbit House> from your hand.",
-          "JP": null
+          "JP": "【自】【エントリー】【Reコンボ】《お姉ちゃんと妹》【本領発揮Lv５】【ターン１】：このキャラがアタックした時、あなたは自分のメンバーからコスト３以上の〔ラビットハウス〕を１枚選び、手札の〔ラビットハウス〕１枚と入れ替える。"
         }
       ],
-      "Images": [ "https://cdn.discordapp.com/attachments/658969181923835924/733519872012582942/gu_001b_001.png" ],
-      "Remarks": "",
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_001.png" ],
+      "Remarks": "illust：ceco/ルノテオ",
       "Set": {
         "ReleaseCode": "GU/001B",
         "Name": "Is the Order a Rabbit? Booster Pack",
@@ -44,7 +49,15 @@
     },
     {
       "Serial": "GU/001B-002",
-      "Alternates": [],
+      "Alternates": [
+        {
+          "Serial": "GU/001B-002S",
+          "Rarity": "RRR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_002s.png" ],
+          "Flavor": null,
+          "Remarks": "illust：ceco/ルノテオ"
+        }
+      ],
       "Name": {
         "EN": "Is the Order a Rebirth? Cocoa",
         "JP": "ご注文はReバースですか？ ココア"
@@ -67,12 +80,12 @@
       "DEF": 5,
       "Flavor": {
         "EN": null,
-        "JP": null
+        "JP": "お姉ちゃんの座をかけて勝負だよ！"
       },
       "Effect": [
         {
           "EN": "[Spark][Skill Showcase Level 4]:Choose a character from your hand, and you may exchange its position with your entry.",
-          "JP": null
+          "JP": "【スパーク】【本領発揮Lv４】：あなたは自分の手札からキャラを１枚選び、エントリーと入れ替えてよい。"
         }
       ],
       "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu-001b-002.png" ],
@@ -85,7 +98,14 @@
     },
     {
       "Serial": "GU/001B-003",
-      "Alternates": [],
+      "Alternates": [
+        {
+          "Serial": "GU/001B-003S",
+          "Rarity": "RR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_003s.png" ],
+          "Flavor": null
+        }
+      ],
       "Name": {
         "EN": "Everyone in Yukatas, Cocoa",
         "JP": "みんなで浴衣 ココア"
@@ -106,18 +126,18 @@
       "Cost": 4,
       "ATK": 7,
       "DEF": 3,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
+      "Flavor": null,
       "Effect": [
         {
           "EN": "[AUTO]:When this character is placed onto your entry area from hand, if you have a <Rabbit House> member, draw a card.",
-          "JP": null
+          "JP": "【自】：このキャラが手札からエントリーに置かれた時、あなたのメンバーに〔ラビットハウス〕がいるなら、あなたは１枚引く。"
         }
       ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr_1.png" ],
-      "Remarks": "",
+      "Images": [
+        "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr_1.png",
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_003.png"
+      ],
+      "Remarks": "illust：chisato/ルノテオ",
       "Set": {
         "ReleaseCode": "GU/001B",
         "Name": "Is the Order a Rabbit? Booster Pack",
@@ -126,7 +146,17 @@
     },
     {
       "Serial": "GU/001B-004",
-      "Alternates": [],
+      "Alternates": [
+        {
+          "Serial": "GU/001B-004S",
+          "Rarity": "RR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_004s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "このマジシャンうさぎ大切にするよ"
+          }
+        }
+      ],
       "Name": {
         "EN": "Honest and Bright, Cocoa",
         "JP": "素直で明るい ココア"
@@ -147,14 +177,11 @@
       "Cost": 3,
       "ATK": 5,
       "DEF": 3,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
+      "Flavor": null,
       "Effect": [
         {
           "EN": "[Spark][Skill Showcase Level 5]:Choose one of your members, and you may return it to your hand.",
-          "JP": null
+          "JP": "【スパーク】【本領発揮Lv５】：あなたは自分のメンバーから１枚選び、手札に戻してよい。"
         }
       ],
       "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr_2.png" ],
@@ -166,8 +193,172 @@
       }
     },
     {
+      "Serial": "GU/001B-005",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-005S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_005s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "今いるお客さんたちのために真心を込めてコーヒーを入れなきゃ！"
+          }
+        }
+      ],
+      "Name": {
+        "EN": "Welcome to Rabbit House, Cocoa",
+        "JP": "ラビットハウスへようこそ ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo “Welcome to Wood-Framed Town“][1/Turn]:[Rest (3) Energy], if you have “Chino”, “Rize”, “Chiya”, and “Sharo” cards on your member or retire areas, and your opponent has five or less cards in his or her retire area, choose one of your opponent’s entries, and put it into the retire area.",
+          "JP": "【起】【エントリー】【Reコンボ】《ようこそ木組みの街へ》【ターン１】：［エネ③］あなたの、メンバーかリタイアに、《チノ》と《リゼ》と《千夜》と《シャロ》がいて、相手のリタイアが５枚以下なら、あなたは相手のエントリーから１枚選び、リタイアに置く。"
+        }
+      ],
+      "Images": [
+        "https://rebirthforyourenegades.files.wordpress.com/2020/08/gu_001b_r_1.png",
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_005.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-006",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-006S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_006s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "タカヒロ「笑顔にさせるのは君の仕事さ」"
+          }
+        }
+      ],
+      "Name": {
+        "EN": "Makes Friends with Everyone, Cocoa",
+        "JP": "誰とでも仲良く ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": null,
+        "JP": "私のモットーは会って３秒で友達だからね"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3 <Rabbit House>]:During this character’s first attack each turn, this character gets +5/±0.",
+          "JP": "【永】【エントリー】【本領発揮Lv３】〔ラビットハウス〕：各ターンこのキャラの１回目のアタック中、このキャラを＋５/±０。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_006.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-007",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-007S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_007s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "モフモフ気持ちいい～"
+          }
+        }
+      ],
+      "Name": {
+        "EN": "Fluffy, Cocoa",
+        "JP": "モフモフ ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):This character cannot be supported by a character with “Mocha” in its card name, and if you do not have a member with “Mocha” in its card name, this character cannot be put onto your member area.",
+          "JP": "【永】【エントリー】：このキャラは《モカ》からサポートされず、あなたのメンバーに《モカ》がいないなら、このキャラはメンバーに置けない。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_007.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
       "Serial": "GU/001B-008",
-      "Alternates": [],
+      "Alternates": [
+        {
+          "Serial": "GU/001B-008S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_008s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "そう、うさぎだよ！ぴょんぴょんっと"
+          }
+        }
+      ],
       "Name": {
         "EN": "Mood Maker, Cocoa",
         "JP": "ムードメーカー ココア"
@@ -188,17 +379,17 @@
       "Cost": 3,
       "ATK": 4,
       "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
+      "Flavor": null,
       "Effect": [
         {
           "EN": "[Spark][Skill Showcase Level 3 <Rabbit House>]: Draw a card.",
-          "JP": null
+          "JP": "【スパーク】【本領発揮Lv３】〔ラビットハウス〕：あなたは１枚引く。"
         }
       ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_r_4.png" ],
+      "Images": [
+        "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_r_4.png",
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_008.png"
+      ],
       "Remarks": "",
       "Set": {
         "ReleaseCode": "GU/001B",
@@ -206,6 +397,892 @@
         "Description": null
       }
     },
+    {
+      "Serial": "GU/001B-009",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-009S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_009s.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "Comame Corps, Cocoa",
+        "JP": "コマメ隊 ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have members with “Maya” and “Megu” in their card names, your entry with “Chino” in its card name gets ±0/+1.",
+          "JP": "【永】【メンバー】：あなたのメンバーに、《マヤ》と《メグ》がいるなら、あなたのエントリーの《チノ》を±０/＋１。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_009.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-010",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-010S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_010s.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "What’s in the Box? Cocoa",
+        "JP": "箱の中身は？ ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets +2/±0 until end of turn.",
+          "JP": "【スパーク】：このターン中、このキャラを＋２/±０。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_010.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-011",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-011S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_011s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "聞いてほしいお話がたくさんあるんだよ"
+          }
+        }
+      ],
+      "Name": {
+        "EN": "Loves Her Older Sister, Cocoa",
+        "JP": "お姉ちゃん大好き ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": "聞いてほしいお話がたくさんあるんだよ"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a member with “Mocha” in its card name, draw a card, and put a card from your hand into your waiting room.",
+          "JP": "【スパーク】：あなたのメンバーに《モカ》がいるなら、あなたは１枚引き、自分の手札から１枚控え室に置く。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_011.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-012",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-012S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_012s.png" ]
+        }
+      ],
+      "Name": {
+        "EN": "2 People Who Get Along, Cocoa",
+        "JP": "気の合う二人 ココア"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Bread",
+          "JP": "パン"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": "まだまだ私と踊ってもらうよ"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character with “Chiya” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《千夜》を１枚選び、メンバーに【レスト】で置いてよい。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_012.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-013",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-013SP",
+          "Rarity": "SP",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_013sp.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "Light One-Piece, Chino",
+        "JP": "軽やかなワンピース チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 9,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo “3 People Together“]:[Skill Showcase Level 4]:If you have three or more <Chimame Corps> members, your opponent cannot use [Blocker].",
+          "JP": "【永】【エントリー】【Reコンボ】《３人いっしょに》【本領発揮Lv４】：あなたのメンバーに〔チマメ隊〕が３枚以上いるなら、相手は【ブロッカー】を使えない。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_013.png"
+      ],
+      "Remarks": "illust：ceco/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-014",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-013S",
+          "Rarity": "RRR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_014s.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "Is the Order a Rebirth? Chino",
+        "JP": "ご注文はReバースですか？ チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 2,
+      "Flavor": {
+        "EN": null,
+        "JP": "私が勝ったらココアさんに私をお姉さんと呼んでもらうことにしましょう"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 6 <Chimame Corps>][1/Turn]:[Rest (1) Energy & Put this character on the bottom of your deck], draw two cards, and put a card from your hand on the bottom of your deck.",
+          "JP": "【起】【メンバー】【本領発揮Lv６】〔チマメ隊〕【ターン１】：［エネ①、このキャラをデッキの下に置く］あなたは２枚引き、自分の手札から１枚デッキの下に置く。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_014.png" ],
+      "Remarks": "illust：ceco/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-015",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-013S",
+          "Rarity": "RR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_015s.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "Everyone in Yukatas, Chino",
+        "JP": " みんなで浴衣 チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 7,
+      "ATK": 7,
+      "DEF": 7,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (7) Energy], if you have cards with “Cocoa”, “Rize”, “Chino”, “Sharo”, “Maya”, and “Megu” in their card names, heal 1.",
+          "JP": "【起】【エントリー】：［エネ⑦］ あなたの、メンバーかリタイアに、《ココア》と《リゼ》と《千夜》と《シャロ》と《マヤ》と《メグ》がいるなら、あなたは１点回復する。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_015.png" ],
+      "Remarks": "illust：chisato/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-016",
+      "Alternates": [
+        {
+          "Serial": "GU/001B-016S",
+          "Rarity": "RR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_016s.png" ],
+          "Flavor": null
+        }
+      ],
+      "Name": {
+        "EN": "Encounter in a Dream, Chino",
+        "JP": "夢の中での出会い チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": "カフェラテ！カフェモカ！！カプチ～～ノ！！！"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, if it is supporting “Cocoa” or “Rize”, choose one of your allied members, and you may put it into your waiting room. If it is supporting “Maya” or “Megu”, you may put this card onto your energy area as [Rest].",
+          "JP": "【自】【メンバー】【本領発揮Lv５】：このキャラがサポートした時、《ココア》か《リゼ》をサポートしたら、あなたは味方のメンバーから１枚選び、控え室に置いてよい。《マヤ》か《メグ》をサポートしたら、あなたはこのキャラをエネルギーに【レスト】で置いてよい。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_016.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "GU/001B-017",
+      "Name": {
+        "EN": "Reception, Chino",
+        "JP": "お出迎え チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If you have three or more [Relaxing] members, this character gets +4/±0.",
+          "JP": "【永】【エントリー】【本領発揮Lv４】：あなたのメンバーに【のびしろ】が３枚以上いるなら、このキャラを＋４/±０。"
+        },
+        {
+          "EN": "[ACT](Entry):[Rest (3) Energy], choose a [Relaxing] from your hand, and put it onto your member area.",
+          "JP": "【起】【エントリー】：［エネ③］ あなたは自分の手札から【のびしろ】を１枚選び、メンバーに置く。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_017.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-017S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_017s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "いらっしゃいませ"
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-018",
+      "Name": {
+        "EN": "A Little Timid Signboard Girl, Chino",
+        "JP": "ちょっぴり内気な看板娘 チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "ココアさんみたいにもっと笑ったら、お客さん来てくれる……？",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a [Relaxing] member, look at three cards from the top of your deck, reveal any number of [Relaxing] cards from among them and put them into your hand, and put the rest into your waiting room.",
+          "JP": "【スパーク】：あなたのメンバーに【のびしろ】がいるなら、あなたは自分のデッキの上から３枚見て、その中から【のびしろ】を望む枚数公開して手札に加え、残りを控え室に置く。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_018.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-018S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_018s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "み、みなさん、よろしくお願いします。"
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-019",
+      "Name": {
+        "EN": "Laid-back, Chino",
+        "JP": "まったり チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a <Chimame Corps> from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "【スパーク】：あなたは自分の手札から〔チマメ隊〕を１枚控え室に置くことで、控え室からReバースを１枚セットする。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_019.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-018S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_019s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "電話……こなかった"
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-020",
+      "Name": {
+        "JP": "夢は立派なバリスタ チノ",
+        "EN": "Dream to Be a Good Barista, Chino"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \"Shutter Chance\"][Skill Showcase Level 4 <Rabbit House>]:When this character supports, [Rest (2) Energy], draw a card, and put the top card of your deck onto your energy area as [Rest].",
+          "JP": "【自】【メンバー】【Reコンボ】《シャッターチャンス》【本領発揮Lv４】〔ラビットハウス〕：このキャラがサポートした時、あなたはエネ②することで、１枚引き、自分のデッキの上から１枚エネルギーに【レスト】で置く。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_020.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-020S",
+          "Rarity": "R+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_020s.png" ],
+          "Flavor": null
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-021",
+      "Name": {
+        "EN": "Original Blend, Chino",
+        "JP": "オリジナルブレンド チノ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": null,
+        "JP": "ウチのオリジナルブレンドです"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Put a card from your hand into your waiting room], if you have three or more <Chimame Corps> members, and you have less cards in your retire area than your opponent, return this character to your hand, and draw a card.",
+          "JP": "【起】【メンバー】【本領発揮Lv３】：［手札から１枚控え室に置く］あなたのメンバーに〔チマメ隊〕が３枚以上いて、リタイアが相手より少ないなら、あなたはこのキャラを手札に戻し、１枚引く。"
+        }
+      ],
+      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/08/gu001b-021.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-021S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_021s.png" ],
+          "Flavor": {
+            "JP": "ウチのオリジナルブレンドで",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-022",
+      "Name": {
+        "JP": "箱の中身は？ チノ",
+        "EN": "What’s in the Box? Chino"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a <Rabbit House>, [put this character on the bottom of your deck], and the supported character gets +1/±0 until end of that attack.",
+          "JP": "【自】【メンバー】：このキャラが〔ラビットハウス〕をサポートした時、あなたはこのキャラをデッキの下に置くことで、このアタック中、サポートされたキャラを＋１/±０。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_022.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-022S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_022s.png" ],
+          "Flavor": null
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-023",
+      "Name": {
+        "JP": "オバケは苦手 チノ",
+        "EN": "Bad With Ghosts, Chino"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "この喫茶店には白いフワフワしたオバケが彷徨ってるんですよ",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have three or more [Rest] members, this character gets +1/+1.",
+          "JP": "【永】【エントリー】：あなたの【レスト】しているメンバーが３枚以上なら、このキャラを＋１/＋１。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_023.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-023S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_022s.png" ],
+          "Flavor": {
+            "JP": "この喫茶店には白いフワフワしたオバケが彷徨ってるんですよ",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-024",
+      "Name": {
+        "JP": "おじいちゃんと孫娘 チノ",
+        "EN": "Grandfather and Granddaughter, Chino"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character with “Tippy” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《ティッピー》を１枚選び、メンバーに【レスト】で置いてよい。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_024.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-024S",
+          "Rarity": "C+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_024s.png" ],
+          "Flavor": {
+            "JP": "この喫茶店には白いフワフワしたオバケが彷徨ってるんですよ",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-025",
+      "Name": {
+        "EN": "Light One-Piece, Rize",
+        "JP": "軽やかなワンピース リゼ"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \"Full Face Smile\"][Skill Showcase Level 3][1/Turn]:[Rest (1) Energy], choose a <Rabbit House> from your hand, and exchange its position with your entry.",
+          "JP": "【起】【メンバー】【Reコンボ】《満面の笑み》【本領発揮Lv３】【ターン１】：［エネ①］あなたは自分の手札から〔ラビットハウス〕を１枚選び、エントリーと入れ替える。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_025.png" ],
+      "Remarks": "illust：ceco/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-025SP",
+          "Rarity": "SP",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_025sp.png" ],
+          "Flavor": null
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-026",
+      "Name": {
+        "JP": "ご注文はReバースですか？ リゼ",
+        "EN": "Is the Order a Rebirth? Rize"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "ラビットハウス"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "悪いが今回ばかりは譲れそうにないな",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \"Manipulated Squad\"][Skill Showcase Level 4][1/Turn]:[Rest (1) Energy], draw a card, choose two of your opponent’s members, and put them into the waiting room.",
+          "JP": "【起】【エントリー】【Reコンボ】《振り回され隊》【本領発揮Lv４】【ターン１】：［エネ①］ あなたは１枚引き、相手のメンバーから２枚選び、控え室に置く。"
+        },
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When your member is put into your waiting room by an effect, choose a character from your hand, and put it onto your member area.",
+          "JP": "【自】【エントリー】【ターン１】：あなたのメンバーが効果で控え室に置かれた時、あなたは自分の手札からキャラを１枚選び、メンバーに置く。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_026.png"
+      ],
+      "Remarks": "illust：ceco/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-026S",
+          "Rarity": "RRR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_026s.png" ],
+          "Flavor": null
+        }
+      ]
+    },
+
+
+
+
+
+
     {
       "Serial": "GU/001B-029",
       "Alternates": [],
@@ -217,10 +1294,6 @@
         {
           "EN": "Rabbit House",
           "JP": "ラビットハウス"
-        },
-        {
-          "EN": "Bread",
-          "JP": "パン"
         }
       ],
       "Type": "Character",
@@ -359,84 +1432,6 @@
       }
     },
     {
-      "Serial": "GU/001B-016",
-      "Alternates": [],
-      "Name": {
-        "EN": "Encounter in a Dream, Chino",
-        "JP": "夢の中での出会い チノ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "ChiMaMe Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 3,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, if it is supporting “Cocoa” or “Rize”, choose one of your allied members, and you may put it into your waiting room. If it is supporting “Maya” or “Megu”, you may put this card onto your energy area as [Rest].",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr4.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GU/001B-025",
-      "Alternates": [],
-      "Name": {
-        "EN": "Light One-Piece, Rize",
-        "JP": "軽やかなワンピース リゼ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RRR",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Member)[ReCombo “Full Face Smile“][Skill Showcase Level 3][1/Turn]:[Rest (1) Energy], choose a <Rabbit House> from your hand, and exchange its position with your entry.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_025.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
       "Serial": "GU/001B-031",
       "Alternates": [],
       "Name": {
@@ -466,83 +1461,6 @@
         }
       ],
       "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_r_11.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GU/001B-089",
-      "Alternates": [],
-      "Name": {
-        "EN": "Older Sister and Younger Sister",
-        "JP": "お姉ちゃんと妹"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReR",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
-          "JP": null
-        },
-        {
-          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://i.imgur.com/SpGXaWU.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GU/001B-005",
-      "Alternates": [],
-      "Name": {
-        "EN": "Welcome to Rabbit House, Cocoa",
-        "JP": "ラビットハウスへようこそ ココア"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 5,
-      "ATK": 5,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Entry)[ReCombo “Welcome to Wood-Framed Town“][1/Turn]:[Rest (3) Energy], if you have “Chino”, “Rize”, “Chiya”, and “Sharo” cards on your member or retire areas, and your opponent has five or less cards in his or her retire area, choose one of your opponent’s entries, and put it into the retire area.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/08/gu_001b_r_1.png" ],
       "Remarks": "",
       "Set": {
         "ReleaseCode": "GU/001B",
@@ -822,47 +1740,6 @@
       }
     },
     {
-      "Serial": "GU/001B-015",
-      "Alternates": [],
-      "Name": {
-        "EN": "Everyone in Yukatas, Chino",
-        "JP": " みんなで浴衣 チノ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "ChiMaMe Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 7,
-      "ATK": 7,
-      "DEF": 7,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Entry):[Rest (7) Energy], if you have cards with “Cocoa”, “Rize”, “Chino”, “Sharo”, “Maya”, and “Megu” in their card names, heal 1.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu-001b-015.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
       "Serial": "GU/001B-071",
       "Alternates": [],
       "Name": {
@@ -937,42 +1814,6 @@
       }
     },
     {
-      "Serial": "GU/001B-091",
-      "Alternates": [],
-      "Name": {
-        "EN": "Full Face Smile",
-        "JP": "満面の笑み"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReR",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Heal one.",
-          "JP": null
-        },
-        {
-          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://i.imgur.com/eJh4tZ9.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
       "Serial": "GU/001B-037",
       "Alternates": [],
       "Name": {
@@ -1000,42 +1841,6 @@
       ],
       "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rrr7.png" ],
       "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GU/001B-092",
-      "Alternates": [],
-      "Name": {
-        "EN": "Ama Usa An’s Signboard Girl",
-        "JP": "甘兎庵の看板娘"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReR",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]: Put two cards from the top of your deck onto your energy area as [Rest].",
-          "JP": null
-        },
-        {
-          "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://i.imgur.com/qsvsbz9.jpg" ],
-      "Remarks": null,
       "Set": {
         "ReleaseCode": "GU/001B",
         "Name": "Is the Order a Rabbit? Booster Pack",
@@ -1073,47 +1878,6 @@
       ],
       "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_rr7.png" ],
       "Remarks": null,
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GU/001B-021",
-      "Alternates": [],
-      "Name": {
-        "EN": "Original Blend, Chino",
-        "JP": "オリジナルブレンド チノ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "ChiMaMe Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Put a card from your hand into your waiting room], if you have three or more <Chimame Corps> members, and you have less cards in your retire area than your opponent, return this character to your hand, and draw a card.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/08/gu001b-021.png" ],
-      "Remarks": "",
       "Set": {
         "ReleaseCode": "GU/001B",
         "Name": "Is the Order a Rabbit? Booster Pack",
@@ -1420,47 +2184,6 @@
       }
     },
     {
-      "Serial": "GU/001B-014",
-      "Alternates": [],
-      "Name": {
-        "EN": "Is the Order a Rebirth? Chino",
-        "JP": "ご注文はReバースですか？ チノ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "ChiMaMe Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RRR",
-      "Cost": 1,
-      "ATK": 1,
-      "DEF": 2,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Member)[Skill Showcase Level 6 <Chimame Corps>][1/Turn]:[Rest (1) Energy & Put this character on the bottom of your deck], draw two cards, and put a card from your hand on the bottom of your deck.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/gu_001b_014.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
-    {
       "Serial": "GU/001B-064",
       "Alternates": [],
       "Name": {
@@ -1534,47 +2257,7 @@
         "Description": null
       }
     },
-    {
-      "Serial": "GU/001B-011",
-      "Alternates": [],
-      "Name": {
-        "EN": "Loves Her Older Sister, Cocoa",
-        "JP": "お姉ちゃん大好き ココア"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:If you have a member with “Mocha” in its card name, draw a card, and put a card from your hand into your waiting room.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/uploads/2020/08/GU001B-011.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      }
-    },
+
     {
       "Serial": "GU/001B-084",
       "Alternates": [],
@@ -1725,6 +2408,416 @@
         "Name": "Is the Order a Rabbit? Booster Pack",
         "Description": null
       }
+    },
+    {
+      "Serial": "GU/001B-089",
+      "Name": {
+        "EN": "Older Sister and Younger Sister",
+        "JP": "お姉ちゃんと妹"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": "チノ「妹じゃないです」"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
+          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。"
+        }
+      ],
+      "Images": [ "https://i.imgur.com/SpGXaWU.png" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-089aSR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/Q8Hx8uj.png?1" ],
+          "Flavor": {
+            "JP": "チノ「お姉ちゃんのねぼすけ」",
+            "EN": null
+          }
+        },
+        {
+          "Serial": "GU/001B-089bSR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/6Rxahuc.png?1" ],
+          "Flavor": {
+            "JP": "ココア「お姉ちゃんにまかせなさい」",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-090",
+      "Name": {
+        "JP": "３人いっしょに",
+        "EN": "3 People Together"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "JP": "メグ「チノちゃん、緊張してる？」\nマヤ「体が少し震えてるよ」",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets +2/+3.",
+          "JP": "【永】：あなたのエントリーを＋２/＋３。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/xV3SzTX.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-090SR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/XyvCetE.png?1" ],
+          "Flavor": null
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-091",
+      "Name": {
+        "EN": "Full Face Smile",
+        "JP": "満面の笑み"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": "Nico~!",
+        "JP": "ニコッ！"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "【スパーク】：あなたは１点回復する。"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。"
+        }
+      ],
+      "Images": [ "https://i.imgur.com/fYUNV39.png?1" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-091SR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/IiwixTG.png?1" ],
+          "Flavor": {
+            "JP": "マヤ、メグ「最高の笑顔ー」",
+            "EN": "Maya & Megu: The greatest smile~"
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-092",
+      "Name": {
+        "EN": "Ama Usa An’s Signboard Girl",
+        "JP": "甘兎庵の看板娘"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "EN": null,
+        "JP": "どう、似合うかしら？甘兎庵浴衣週間！"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "【スパーク】：あなたは自分のデッキの上から２枚エネルギーに【レスト】で置く。"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋３/±０。"
+        }
+      ],
+      "Images": [ "https://i.imgur.com/G8LCc1z.png?1" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-092SR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/LGyvmEo.png?1" ],
+          "Flavor": {
+            "JP": "第一回、カラオケ大会！ＩＮ甘兎庵～",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-093",
+      "Name": {
+        "JP": "カフェインハイテンション",
+        "EN": "Caffeine High Tension"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "【スパーク】：あなたは１点回復する。"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/IiLa67U.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-093SR+",
+          "Rarity": "ReR+",
+          "Images": [ "https://i.imgur.com/crTDsQd.png?1" ],
+          "Flavor": {
+            "JP": "掛け声が聞こえないぞ～？",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-094",
+      "Name": {
+        "JP": "甘え上手",
+        "EN": "Good at Pampering"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent’s entries or members, and put it into the waiting room.",
+          "JP": "【自】：このReバースがセットされた時、あなたのリタイアが３枚以上なら、あなたは相手の、エントリーかメンバーから１枚選び、控え室に置く。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/NF8CPbW.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-094SR+",
+          "Rarity": "ReC+",
+          "Images": [ "https://i.imgur.com/Qey59Ae.png?1" ],
+          "Flavor": {
+            "JP": "二人と仕事してるチノがうらやましくて私が代わりをしたかったの",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-095",
+      "Name": {
+        "JP": "楽しく過ぎる時間",
+        "EN": "Time to Have Fun"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "JP": "もう何がなんだかだよ",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent’s [Rest] members, and put it into the waiting room.",
+          "JP": "【スパーク】：あなたは相手の【レスト】しているメンバーから１枚選び、控え室に置く。"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "【自】：このReバースがセットされた時、あなたは自分の控え室からキャラを１枚選び、手札に戻してよい。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/1svU4ml.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-095SR+",
+          "Rarity": "ReC+",
+          "Images": [ "https://i.imgur.com/cd3CJDF.png?1" ],
+          "Flavor": {
+            "JP": "二羽兎の刑事だね！",
+            "EN": null
+          }
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-099",
+      "Name": {
+        "JP": "シャッターチャンス",
+        "EN": "Shutter Chance"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent’s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "【スパーク】：あなたは相手の、エントリーとメンバーから、あなたのリタイアと同じ枚数選び、控え室に置く。（選べる限り選ぶ）"
+        },
+        {
+          "EN": "[CONT]:Your entry gets +1/+1.",
+          "JP": "【永】：あなたのエントリーを＋１/＋１。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/8KLqI82.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-099SR+",
+          "Rarity": "ReC+",
+          "Images": [ "https://i.imgur.com/cd3CJDF.png?1" ],
+          "Flavor": null
+        }
+      ]
+    },
+    {
+      "Serial": "GU/001B-100",
+      "Name": {
+        "JP": "振り回され隊",
+        "EN": "Manipulated Squad"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent’s entries or members, and put it into the waiting room.",
+          "JP": "【自】：このReバースがセットされた時、あなたのリタイアが３枚以上なら、あなたは相手の、エントリーかメンバーから１枚選び、控え室に置く。"
+        }
+      ],
+      "Images": [
+        "https://i.imgur.com/8KLqI82.png?1"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "GU/001B",
+        "Name": "Is the Order a Rabbit? Booster Pack",
+        "Description": null
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-100SR+",
+          "Rarity": "ReC+",
+          "Images": [ "https://i.imgur.com/cd3CJDF.png?1" ],
+          "Flavor": null
+        }
+      ]
     }
 
 
