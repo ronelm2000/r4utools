@@ -37,8 +37,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
             foreach (var card in result.Values)
             {
+                if (card.Alternates?.Count > 0)
+                {
+                    card.Alternates = result.Select(x => x.Value).Where(c => c.NonFoil?.Serial == card.Serial).ToList();
+                }
                 if (card.NonFoil != null)
+                {
                     card.NonFoil = result[card.NonFoil.Serial];
+                }
                 if (card.Set != null)
                     card.Set = sets[card.Set.ReleaseCode];
                 yield return card;
