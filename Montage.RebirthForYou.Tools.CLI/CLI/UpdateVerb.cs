@@ -34,6 +34,7 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                     act.IsDone = true;
                 }
                 Log.Information("Done!");
+                await db.SaveChangesAsync();
             }
         }
     }
