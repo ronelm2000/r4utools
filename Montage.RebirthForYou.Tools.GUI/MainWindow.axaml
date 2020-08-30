@@ -30,29 +30,93 @@
         <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
       </MenuItem>
     </Menu>
- 
-    <Grid   ColumnDefinitions="75*,10*,15*"
-            RowDefinitions="Auto,30*,Auto,Auto"  Margin="4">
-      <Border   Background="Black"
-                BorderBrush="Black"
-                BorderThickness="2"
-                CornerRadius="3"
-                Padding="4"
-                Grid.Row="0"
-                Grid.Column="0"
-                Grid.RowSpan="3"
+
+    <Grid>
+      <Grid   ColumnDefinitions="75*,10*,15*"
+              RowDefinitions="Auto,30*,Auto,Auto"  Margin="4">
+        <Border   Background="Black"
+                  BorderBrush="Black"
+                  BorderThickness="2"
+                  CornerRadius="3"
+                  Padding="4"
+                  Grid.Row="0"
+                  Grid.Column="0"
+                  Grid.RowSpan="3"
                 >
-        <ScrollViewer Name="deckScroller"
-                      HorizontalScrollBarVisibility="Auto"
-                      VerticalScrollBarVisibility="Auto"
+          <ScrollViewer Name="deckScroller"
+                        HorizontalScrollBarVisibility="Auto"
+                        VerticalScrollBarVisibility="Auto"
                       >
-          <ItemsRepeater Name="decklistRepeater"
-                         Background="Transparent"
-                         Items="{Binding DeckResults}">
-            <ItemsRepeater.ItemTemplate>
-              <DataTemplate>
-                <StackPanel>
-                  <Image Source="{Binding ImageSource}" Width="100" PointerReleased="DeckItem_OnPointerReleased">
+            <ItemsRepeater Name="decklistRepeater"
+                           Background="Transparent"
+                           Items="{Binding DeckResults}">
+              <ItemsRepeater.ItemTemplate>
+                <DataTemplate>
+                  <StackPanel>
+                    <Image Source="{Binding ImageSource}" Width="100" PointerReleased="DeckItem_OnPointerReleased">
+                      <ToolTip.Tip>
+                        <StackPanel MaxWidth="300">
+                          <TextBlock Classes="h1" Text="{Binding Name}" />
+                          <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
+                          <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
+                        </StackPanel>
+                      </ToolTip.Tip>
+                    </Image>
+                  </StackPanel>
+                </DataTemplate>
+              </ItemsRepeater.ItemTemplate>
+            </ItemsRepeater>
+          </ScrollViewer>
+        </Border>
+
+        <Border   Padding="0"
+                  Margin="4"
+                  Grid.Row="0"
+                  Grid.Column="1"
+                  Grid.ColumnSpan="2"
+                >
+          <TextBox  Name="searchBarTextBox">
+            <TextBox.Watermark>Search...</TextBox.Watermark>
+          </TextBox>
+        </Border>
+        <Border   CornerRadius="3"
+                  Padding="4"
+                  Margin="4"
+                  BorderThickness="2"
+                  Grid.Row="1"
+                  Grid.Column="1"
+                  Grid.ColumnSpan="2"
+                  Grid.RowSpan="3"
+                >
+          <Border.Background>
+            <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
+              <GradientStop Offset="0" Color="#D0D0D0" />
+              <GradientStop Offset="1" Color="#909090" />
+            </LinearGradientBrush>
+          </Border.Background>
+          <Border.BorderBrush>
+            <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
+              <GradientStop Offset="1" Color="#909090" />
+              <GradientStop Offset="0" Color="#D0D0D0" />
+            </LinearGradientBrush>
+          </Border.BorderBrush>
+
+          <ScrollViewer Name="databaseScroller"
+                        HorizontalScrollBarVisibility="Auto"
+                        VerticalScrollBarVisibility="Auto"
+                      >
+            <ItemsRepeater Name="databaseRepeater"
+                            Background="Transparent"
+                            Items="{Binding DatabaseResults}"
+                         >
+              <ItemsRepeater.ItemTemplate>
+                <DataTemplate>
+                  <Border   Padding="5"
+                            Margin="2"
+                            PointerEnter="Item_OnPointerEnter"
+                            PointerLeave="Item_OnPointerLeave"
+                            PointerReleased="Item_OnPointerReleased"
+                          >
                     <ToolTip.Tip>
                       <StackPanel MaxWidth="300">
                         <TextBlock Classes="h1" Text="{Binding Name}" />
@@ -60,193 +124,143 @@
                         <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
                       </StackPanel>
                     </ToolTip.Tip>
-                  </Image>
-                </StackPanel>
-              </DataTemplate>
-            </ItemsRepeater.ItemTemplate>
-          </ItemsRepeater>
-        </ScrollViewer>
-      </Border>
 
-      <Border   Padding="0"
-                Margin="4"
-                Grid.Row="0"
-                Grid.Column="1"
-                Grid.ColumnSpan="2"
-                >
-        <TextBox  Name="searchBarTextBox">
-          <TextBox.Watermark>Search...</TextBox.Watermark>
-        </TextBox>
-      </Border>
-      <Border   CornerRadius="3"
-                Padding="4"
-                Margin="4"
-                BorderThickness="2"
-                Grid.Row="1"
-                Grid.Column="1"
-                Grid.ColumnSpan="2"
-                Grid.RowSpan="3"
-                >
-        <Border.Background>
-          <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
-            <GradientStop Offset="0" Color="#D0D0D0" />
-            <GradientStop Offset="1" Color="#909090" />
-          </LinearGradientBrush>
-        </Border.Background>
-        <Border.BorderBrush>
-          <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
-            <GradientStop Offset="1" Color="#909090" />
-            <GradientStop Offset="0" Color="#D0D0D0" />
-          </LinearGradientBrush>
-        </Border.BorderBrush>
-        
-        <ScrollViewer Name="databaseScroller"
-                      HorizontalScrollBarVisibility="Auto"
-                      VerticalScrollBarVisibility="Auto"
-                      >
-          <ItemsRepeater Name="databaseRepeater"
-                          Background="Transparent"
-                          Items="{Binding DatabaseResults}"
-                         >
-            <ItemsRepeater.ItemTemplate>
-              <DataTemplate>
-                <Border   Padding="5"
-                          Margin="2"
-                          PointerEnter="Item_OnPointerEnter"
-                          PointerLeave="Item_OnPointerLeave"
-                          PointerReleased="Item_OnPointerReleased"
-                          >
-                <ToolTip.Tip>
-                  <StackPanel MaxWidth="300">
-                    <TextBlock Classes="h1" Text="{Binding Name}" />
-                    <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
-                    <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
-                  </StackPanel>
-                </ToolTip.Tip>
-     
-                <Border.Background>
-                  <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
-                    <GradientStop Offset="0" Color="#D0D0D0" />
-                    <GradientStop Offset="1" Color="#909090" />
-                  </LinearGradientBrush>
-                </Border.Background>
-                <Border.BorderBrush>
-                  <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
-                    <GradientStop Offset="1" Color="#909090" />
-                    <GradientStop Offset="0" Color="#D0D0D0" />
-                  </LinearGradientBrush>
-                </Border.BorderBrush>
+                    <Border.Background>
+                      <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
+                        <GradientStop Offset="0" Color="#D0D0D0" />
+                        <GradientStop Offset="1" Color="#909090" />
+                      </LinearGradientBrush>
+                    </Border.Background>
+                    <Border.BorderBrush>
+                      <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
+                        <GradientStop Offset="1" Color="#909090" />
+                        <GradientStop Offset="0" Color="#D0D0D0" />
+                      </LinearGradientBrush>
+                    </Border.BorderBrush>
 
-                  <Border.Styles>
-                    <Style Selector="Border.Box:PointerPressed">
-                      <Style.Animations>
-                        <Animation Duration="0:0:1"
-                                   IterationCount="Infinite"
-                                   PlaybackDirection="Alternate"
-                                   Easing="QuinticEaseOut"
+                    <Border.Styles>
+                      <Style Selector="Border.Box:PointerPressed">
+                        <Style.Animations>
+                          <Animation Duration="0:0:1"
+                                     IterationCount="Infinite"
+                                     PlaybackDirection="Alternate"
+                                     Easing="QuinticEaseOut"
                                    >
-                          <KeyFrame Cue="0%"></KeyFrame>
-                          <KeyFrame Cue="100%">
-                            <Setter Property="Background" Value="White" />
-                          </KeyFrame>
-                        </Animation>
-                      </Style.Animations>
-                    </Style>
-                  </Border.Styles>
-                 
-                <Grid ColumnDefinitions="30*,45*,25*"
-                      RowDefinitions="Auto,Auto,Auto,Auto,Auto"
-                      Margin="1"
+                            <KeyFrame Cue="0%"></KeyFrame>
+                            <KeyFrame Cue="100%">
+                              <Setter Property="Background" Value="White" />
+                            </KeyFrame>
+                          </Animation>
+                        </Style.Animations>
+                      </Style>
+                    </Border.Styles>
+
+                    <Grid ColumnDefinitions="30*,45*,25*"
+                          RowDefinitions="Auto,Auto,Auto,Auto,Auto"
+                          Margin="1"
                       >
-                  <TextBlock  Focusable="True" 
-                              Text="{Binding Text}"
+                      <TextBlock  Focusable="True"
+                                  Text="{Binding Text}"
+                                  Grid.Row="0"
+                                  Grid.Column="0"
+                                  Grid.ColumnSpan="2"
+                              />
+                      <Image  Source="{Binding ImageSource}"
                               Grid.Row="0"
-                              Grid.Column="0"
-                              Grid.ColumnSpan="2" 
-                              />
-                  <Image  Source="{Binding ImageSource}" 
-                          Grid.Row="0"
-                          Grid.Column="2"
-                          Grid.RowSpan="5" 
+                              Grid.Column="2"
+                              Grid.RowSpan="5"
                           />
-                  <TextBlock  Text="Cost"
-                              Grid.Row="1"
-                              Grid.Column="0"
+                      <TextBlock  Text="Cost"
+                                  Grid.Row="1"
+                                  Grid.Column="0"
                               />
-                  <TextBlock Text="{Binding Card.Cost}"
-                             Grid.Row="1"
-                             Grid.Column="1"
+                      <TextBlock Text="{Binding Card.Cost}"
+                                 Grid.Row="1"
+                                 Grid.Column="1"
                              />
 
-                  <TextBlock Text="ATK/DEF"
-                             Grid.Row="2"
-                             Grid.Column="0"
+                      <TextBlock Text="ATK/DEF"
+                                 Grid.Row="2"
+                                 Grid.Column="0"
                              />
-                  <TextBlock Text="{Binding ATKDEF}"
-                             Grid.Row="2"
-                             Grid.Column="1"
-                             />
-
-                  <TextBlock Text= "Type"
-                             Grid.Row="3"
-                             Grid.Column="0"
-                             />
-                  <TextBlock Text="{Binding Card.Type}"
-                             Grid.Row="3"
-                             Grid.Column="1"
+                      <TextBlock Text="{Binding ATKDEF}"
+                                 Grid.Row="2"
+                                 Grid.Column="1"
                              />
 
-                  <TextBlock Text="Traits"
-                             Grid.Row="4"
-                             Grid.Column="0"
+                      <TextBlock Text= "Type"
+                                 Grid.Row="3"
+                                 Grid.Column="0"
                              />
-                  <TextBlock Text="{Binding Traits}"
-                             Grid.Row="4"
-                             Grid.Column="1"
+                      <TextBlock Text="{Binding Card.Type}"
+                                 Grid.Row="3"
+                                 Grid.Column="1"
                              />
-                </Grid>
-                </Border>
-              </DataTemplate>
-            </ItemsRepeater.ItemTemplate>
-          </ItemsRepeater>
-        </ScrollViewer>
-        <!--
+
+                      <TextBlock Text="Traits"
+                                 Grid.Row="4"
+                                 Grid.Column="0"
+                             />
+                      <TextBlock Text="{Binding Traits}"
+                                 Grid.Row="4"
+                                 Grid.Column="1"
+                             />
+                    </Grid>
+                  </Border>
+                </DataTemplate>
+              </ItemsRepeater.ItemTemplate>
+            </ItemsRepeater>
+          </ScrollViewer>
+          <!--
         <TextBox Text="Card Lists Go Here." />
         -->
-      </Border>
-      <Border Padding="0"
-              Margin="0"
-              Grid.Row="3"
-              Grid.Column="0"
+        </Border>
+        <Border Padding="0"
+                Margin="0"
+                Grid.Row="3"
+                Grid.Column="0"
               >
-        <Grid ColumnDefinitions="25*,75*"
-              RowDefinitions="Auto,Auto"
+          <Grid ColumnDefinitions="25*,75*"
+                RowDefinitions="Auto,Auto"
               >
-          <Border Padding="2">
-            <Grid.Row>0</Grid.Row>
-            <Grid.Column>0</Grid.Column>
-            <Grid.ColumnSpan>2</Grid.ColumnSpan>
-            <TextBox Name="deckNameTextBox" Text="{Binding DeckName}">
-              <TextBox.Watermark>Deck Name</TextBox.Watermark>
-            </TextBox>
-          </Border>
+            <Border Padding="2">
+              <Grid.Row>0</Grid.Row>
+              <Grid.Column>0</Grid.Column>
+              <Grid.ColumnSpan>2</Grid.ColumnSpan>
+              <TextBox Name="deckNameTextBox" Text="{Binding DeckName}">
+                <TextBox.Watermark>Deck Name</TextBox.Watermark>
+              </TextBox>
+            </Border>
 
-          <Border Padding="2">
-            <Grid.Row>1</Grid.Row>
-            <Grid.Column>0</Grid.Column>
-            <Grid.ColumnSpan>2</Grid.ColumnSpan>
-            <TextBox Name="deckRemarksTextBox" Text="{Binding DeckRemarks}" AcceptsReturn="True" TextWrapping="Wrap" Height="NaN" MaxHeight="200" Width="{Binding $parent.Width}">
-              <TextBox.Watermark>Deck Remarks</TextBox.Watermark>
-            </TextBox>
-          </Border>
-        </Grid>
-      </Border>
-      <!--
+            <Border Padding="2">
+              <Grid.Row>1</Grid.Row>
+              <Grid.Column>0</Grid.Column>
+              <Grid.ColumnSpan>2</Grid.ColumnSpan>
+              <TextBox Name="deckRemarksTextBox" Text="{Binding DeckRemarks}" AcceptsReturn="True" TextWrapping="Wrap" Height="NaN" MaxHeight="200" Width="{Binding $parent.Width}">
+                <TextBox.Watermark>Deck Remarks</TextBox.Watermark>
+              </TextBox>
+            </Border>
+          </Grid>
+        </Border>
+        <!--
       <TextBlock Text="Col0Row1:" Grid.Row="1" Grid.Column="0"/>
       <TextBlock Text="Col0Row2:" Grid.Row="2" Grid.Column="0"/>
       <CheckBox Content="Col2Row0" Grid.Row="0" Grid.Column="2"/>
       <Button Content="SpansCol1-2Row1-2" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
       -->
+      </Grid>
+      <Border Name="loadingBox" Background="White" MinWidth="600" MaxWidth="800" Height="60" Padding="2" IsVisible="true">
+        <StackPanel VerticalAlignment="Center">
+          <TextBlock  HorizontalAlignment="Center"
+                      TextWrapping="Wrap" 
+                      Text="[Initializing Database]" 
+                      Name="loadingTextbox"
+                      />
+          <Border Padding="2">
+            <ProgressBar Name="loadingProgressBar" />
+          </Border>
+        </StackPanel>
+      </Border>
     </Grid>
   </DockPanel>
 </Window>

@@ -4,6 +4,7 @@ using Montage.RebirthForYou.Tools.CLI.CLI;
 using Octokit;
 using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -30,5 +31,17 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
     public enum ActivityType
     {
         Parse = 0
+    }
+
+    public static class ActivityExtensions
+    {
+        public static string ToVerbString(this ActivityType actType)
+        {
+            return actType switch
+            {
+                ActivityType.Parse => "Parsing",
+                _ => throw new NotImplementedException()
+            };
+        }
     }
 }

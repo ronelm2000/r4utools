@@ -159,7 +159,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             //using (_ = this.SuppressChangeNotifications())
             {
                 await db.Database.MigrateAsync();
-                await new UpdateVerb().Run(ioc);
+                var updateCommand = new UpdateVerb();
+                updateCommand.OnStarting += UpdateCommand_OnStarting;
+                await updateCommand.Run(ioc);
                 await foreach (var card in GetCardDatabase(db))
                 {
                     this._database.Add(card.Card.Serial, card);
@@ -168,6 +170,16 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
                 this.DatabaseResults.AddRange(_database.Values);
+                this.Parent.LoadingBox.IsVisible = false;
+            });
+        }
+
+        private async Task UpdateCommand_OnStarting(UpdateVerb sender, UpdateEventArgs args)
+        {
+            await Dispatcher.UIThread.InvokeAsync(() =>
+            {
+                this.Parent.LoadingTextbox.Text = args.Status;
+                this.Parent.LoadingProgressBar.Value = args.UpdateProgress * 100;
             });
         }
 

@@ -47,6 +47,10 @@ namespace Montage.RebirthForYou.Tools.GUI
 
         #region Public Properties
         public ILogger Log { get; }
+        public TextBox SearchBarTextbox => _searchBarTextBox;
+        public ProgressBar LoadingProgressBar { get; }
+        public Border LoadingBox { get; }
+        public TextBlock LoadingTextbox { get; }
         #endregion
 
         public MainWindow(IContainer ioc) : this()
@@ -120,6 +124,10 @@ namespace Montage.RebirthForYou.Tools.GUI
             _searchBarTextBox.GetObservable(TextBox.TextProperty).Subscribe(SearchBarText_OnTextChanged); //text => { /* Will be called with Text each time it's changed */ });
 
             _originalTitle = this.Title;
+
+            LoadingProgressBar = this.FindControl<ProgressBar>("loadingProgressBar");
+            LoadingBox = this.FindControl<Border>("loadingBox");
+            LoadingTextbox = this.FindControl<TextBlock>("loadingTextbox");
 
             Closing += MainWindow_Closing;
 #if DEBUG
