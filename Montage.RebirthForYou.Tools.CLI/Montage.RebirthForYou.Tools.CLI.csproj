@@ -58,6 +58,7 @@
     </Content>
     <TrimmerRootAssembly Include="System.Net.WebClient" />
     <TrimmerRootAssembly Include="System.Web.HttpUtility" />
+    <TrimmerRootAssembly Include="Flurl.Http" />
   </ItemGroup>
 
   <ItemGroup>
