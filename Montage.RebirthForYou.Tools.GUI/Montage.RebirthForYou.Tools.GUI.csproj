@@ -17,6 +17,9 @@
     <PackageReference Include="Avalonia.Desktop" Version="0.10.0-preview2" />
     <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.0-preview2" />
     <PackageReference Include="MessageBox.Avalonia" Version="0.10.0-prev1" />
+    <TrimmerRootAssembly Include="System.Net.WebClient" />
+    <TrimmerRootAssembly Include="System.Web.HttpUtility" />
+    <TrimmerRootAssembly Include="Flurl.Http" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
