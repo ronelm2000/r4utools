@@ -49,7 +49,7 @@ jobs:
         draft: true
         prerelease: true
     - name: Add Release Artifact (r4utools / win-x64)
-      id: upload-release-asset 
+      id: upload-release-asset-1
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -69,7 +69,7 @@ jobs:
         asset_name: r4utools-linux-x64.zip
         asset_content_type: application/zip
     - name: Add Release Artifact (deckbuilder4u / win-x64)
-      id: upload-release-asset 
+      id: upload-release-asset-3
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -79,7 +79,7 @@ jobs:
         asset_name: deckbuilder4u.zip
         asset_content_type: application/zip
     - name: Add Release Artifact (deckbuilder4u / linux-x64)
-      id: upload-release-asset-2 
+      id: upload-release-asset-4
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
