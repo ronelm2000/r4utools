@@ -21,6 +21,7 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Publish
+      shell: pwsh
       run: |
         dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
