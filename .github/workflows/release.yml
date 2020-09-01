@@ -27,13 +27,13 @@ jobs:
         dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         cd ./Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/
-        Compress-Archive ../../../../../../r4utools.zip ./r4utools.exe
+        Compress-Archive -DestinationPath ../../../../../../r4utools.zip -Path ./r4utools.exe
         cd ../../linux-x64/publish
-        Compress-Archive ../../../../../../r4utools-linux-x64.zip ./r4utools
+        Compress-Archive -DestinationPath ../../../../../../r4utools-linux-x64.zip -Path ./r4utools
         cd ./Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/
-        Compress-Archive ../../../../../../deckbuilder4u.zip ./deckbuilder4u.exe
+        Compress-Archive -DestinationPath ../../../../../../deckbuilder4u.zip -Path ./deckbuilder4u.exe
         cd ../../linux-x64/publish
-        Compress-Archive ../../../../../../deckbuilder4u-linux-x64.zip ./deckbuilder4u
+        Compress-Archive -DestinationPath ../../../../../../deckbuilder4u-linux-x64.zip -Path ./deckbuilder4u
     - name: Create Release
       id: create_release
       uses: actions/create-release@latest
