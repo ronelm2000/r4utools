@@ -21,12 +21,13 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Publish
-      shell: pwsh
+      shell: powershell
       run: |
         dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
         dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
+        cd ./..
         cd ./Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/
         Compress-Archive -DestinationPath ../../../../../../r4utools.zip -Path ./r4utools.exe
         cd ../../linux-x64/publish
