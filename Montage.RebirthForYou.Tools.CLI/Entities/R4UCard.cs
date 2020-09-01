@@ -118,7 +118,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         }
 
         public string TypeToString() => this.Type.AsShortString();
-        public bool IsFoil => new string[] { }.Contains(Rarity); //TODO
+        public bool IsFoil => new string[] { }.Contains(Rarity); //TODO: Add the list of foil rarities.
         public string ReleaseID => Set?.ReleaseCode;
 
         /// <summary>
