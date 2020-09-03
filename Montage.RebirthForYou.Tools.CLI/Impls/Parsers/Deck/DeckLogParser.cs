@@ -5,6 +5,7 @@ using LamarCodeGeneration;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
+using Montage.RebirthForYou.Tools.CLI.Entities.Exceptions;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Newtonsoft.Json;
 using Octokit;
@@ -64,6 +65,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
             var json = JsonConvert.DeserializeObject<dynamic>(await response.Content.ReadAsStringAsync());
             //var json = JsonConverter.CreateDefault().Deserialize<dynamic>(new JsonReader(await response.Content.ReadAsStreamAsync()));
             var newDeck = new R4UDeck();
+            var missingSerials = new List<string>();
             newDeck.Name = json.title.ToString();
             newDeck.Remarks = json.memo.ToString();
             using (var db = _database())
@@ -86,12 +88,19 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
                         newDeck.Ratios.Add(card, quantity);
                     } else
                     {
+                        missingSerials.Add(serial);
+                        //throw new DeckParsingException($"MISSING_SERIAL_{serial}");
                         Log.Warning("Serial has been effectively skipped because it's not found on the local db: [{serial}]", serial);
                     }
                 }
             }
-            Log.Debug($"Result Deck: {JsonConvert.SerializeObject(newDeck.AsSimpleDictionary())}");
-            return newDeck;
+            if (missingSerials.Count > 0)
+                throw new DeckParsingException($"The following serials are missing from the DB:\n{missingSerials.ConcatAsString("\n")}");
+            else
+            {
+                Log.Debug($"Result Deck: {JsonConvert.SerializeObject(newDeck.AsSimpleDictionary())}");
+                return newDeck;
+            }
         }
     }
 }
