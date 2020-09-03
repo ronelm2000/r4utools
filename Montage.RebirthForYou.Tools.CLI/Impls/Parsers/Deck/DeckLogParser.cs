@@ -13,6 +13,7 @@ using Serilog.Core;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -67,7 +68,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
             newDeck.Remarks = json.memo.ToString();
             using (var db = _database())
             {
-                foreach (var cardJSON in json.list)
+                List<dynamic> items = new List<dynamic>();
+                items.AddRange(json.list);
+                items.AddRange(json.sub_list);
+                foreach (var cardJSON in items)
                 {
                     string serial = cardJSON.card_number.ToString();
                     serial = serial.Replace('＋', '+');
