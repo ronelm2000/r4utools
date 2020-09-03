@@ -75,6 +75,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             var serialImageTriplets = cardUnitListItems
                 .Select(div => this.CreateTrio(div))
                 .Select(trio => this.Serialize(trio))
+                .Where(trio => !trio.ImageUri.Contains("noimage_"))
                 .Distinct(trio => trio.Serial + " " + trio.Rarity)             // Dev Notes: https://yuyu-tei.jp/game_ws/sell/sell_price.php?name=BD%2fW54 gave me cancer.
                 .ToDictionary(trio => $"{trio.Serial}|{trio.Rarity}", pair => pair.ImageUri)
                 ;
