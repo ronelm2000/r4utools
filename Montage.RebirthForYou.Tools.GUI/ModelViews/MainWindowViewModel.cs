@@ -195,10 +195,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         #region View Methods
         internal void AddDeckCard(CardEntry cardEntry)
         {
+            Log.Debug("Attempting to add: {serial}", cardEntry.Card.Serial);
             if (IsDeckConstructionValid(cardEntry))
             {
                 DeckResults.Add(cardEntry);
                 SortDeck();
+            } else
+            {
+                Log.Debug("Invalid.");
             }
         }
         internal void RemoveDeckCard(CardEntry cardEntry)
@@ -295,11 +299,29 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         private bool IsDeckConstructionValid(CardEntry cardEntry)
         {
+            if (cardEntry.Card.Type == CardType.Partner)
+            {
+                return DeckResults.Count(cr => cr.Card.Type == CardType.Partner) < 3;
+            }
+            else if (DeckResults.Where(cr => cr.Card.Type != CardType.Partner).Count() >= 50 || DeckResults.Where(cr => cr.Card.Name.JP == cardEntry.Card.Name.JP).Count() >= 4)
+            {
+                return false;
+            }
+            else if (cardEntry.Card.Type == CardType.Rebirth)
+            {
+                return DeckResults.Count(cr => cr.Card.Type == CardType.Rebirth) < 8;
+            }
+            else
+            {
+                return true;
+            }
+            /*
             return DeckResults.Where(cr => cr.Card.Name.JP == cardEntry.Card.Name.JP).Count() < 4
                 && DeckResults.Where(cr => cr.Card.Type != CardType.Partner).Count() < 50
                 && ((cardEntry.Card.Type == CardType.Rebirth) ? DeckResults.Count(cr => cr.Card.Type == CardType.Rebirth) < 8 : true)
                 && ((cardEntry.Card.Type == CardType.Partner) ? DeckResults.Count(cr => cr.Card.Type == CardType.Partner) < 3 : true)
                 ;
+            */
         }
 
         private void SortDeck()
