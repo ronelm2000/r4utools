@@ -253,13 +253,17 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 try
                 {
                     Log.Information("Inserted: {resultMessage}", url);
-                    var deck = (await new ExportVerb { Source = url }.ParseDeck(ioc)).Deck;
+                    var deck = (await new ExportVerb { Source = url, NonInteractive = true, Exporter = "null" }.ParseDeck(ioc)).Deck;
                     ApplyDeck(deck);
                     resultParams = GenerateStandardMessageParams("Success!", $"[{deck.Name}] was loaded successfully!");
                 }
                 catch (NotImplementedException e) when (e.Message == "NO_PARSER")
                 {
                     resultParams = GenerateStandardMessageParams("Failed!", $"Could not find a compatible importer. Please make sure that the inputted URL is correct.");
+                }
+                catch (DeckParsingException e)
+                {
+                    resultParams = GenerateStandardMessageParams("Failed!", e.Message);
                 }
                 catch (Exception e)
                 {
@@ -366,6 +370,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             DeckName = deck.Name;
             DeckRemarks = deck.Remarks;
             Saved = "";
+            SortDeck();
         }
 
         private static R4UDeck GenerateDeck(ObservableCollection<CardEntry> deckResults, string deckName, string deckRemarks)
