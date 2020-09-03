@@ -24,7 +24,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
         public Task<R4UDeck> Parse(string sourceUrlOrFile)
         {
             Log.Error("Cannot find a compatible parser for this URL or File: {file}", sourceUrlOrFile);
-            throw new NotImplementedException();
+            throw new NotImplementedException("NO_PARSER");
         }
     }
 }

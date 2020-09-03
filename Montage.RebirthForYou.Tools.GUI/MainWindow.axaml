@@ -13,6 +13,7 @@
       <MenuItem Header="_File">
         <MenuItem Header="_Save Deck..." Command="{Binding SaveDeckCommand}" InputGesture="Ctrl + S" HotKey="Ctrl+S"/>
         <MenuItem Header="_Load Deck..." Command="{Binding LoadDeckCommand}" InputGesture="Ctrl + O" HotKey="Ctrl+O"/>
+        <MenuItem Header="_Import from Remote..." Command="{Binding ImportDeckCommand}" InputGesture="Ctrl + I" HotKey="Ctrl+I"/>
         <Separator/>
         <MenuItem Header="_Exit" Command="{Binding ExitCommand}" />
       </MenuItem>

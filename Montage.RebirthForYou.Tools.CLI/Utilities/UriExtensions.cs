@@ -1,11 +1,13 @@
 ﻿using AngleSharp;
 using AngleSharp.Dom;
+using AngleSharp.Scripting;
 using Flurl.Http;
 using Serilog;
 using System;
 using System.Collections.Specialized;
 using System.Net;
 using System.Net.Http;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -76,6 +78,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
             }
         }
 
+        public static IFlurlRequest WithReferrer(this string urlString, string referrerUrl)
+        {
+            return urlString.AllowAnyHttpStatus().WithReferrer(referrerUrl);
+        }
+
+        public static IFlurlRequest WithReferrer(this IFlurlRequest request, string referrerUrl)
+        {
+            return request.WithHeader("Referer", referrerUrl);
+        }
+
         public static IFlurlRequest WithRESTHeaders(this string urlString)
         {
             return urlString.WithHeader("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36")
@@ -132,6 +144,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
         {
             var config = Configuration.Default.WithDefaultLoader()
                     .WithCss()
+                    //.With(I)
                     ;
             var context = BrowsingContext.New(config);
             var resReq = await flurlReq;

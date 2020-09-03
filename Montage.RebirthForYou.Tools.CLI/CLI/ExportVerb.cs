@@ -55,11 +55,18 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
 
             Log.Information("Running...");
 
+            var deckExporterPair = await ParseDeck(ioc);
+
+            if (deckExporterPair.Deck != R4UDeck.Empty)
+                await deckExporterPair.Exporter.Export(deckExporterPair.Deck, this);
+        }
+
+        public async Task<(R4UDeck Deck, IDeckExporter Exporter)> ParseDeck(IContainer ioc)
+        {
             var parser = ioc.GetAllInstances<IDeckParser>()
                 .Where(parser => parser.IsCompatible(Source))
                 .OrderByDescending(parser => parser.Priority)
                 .First();
-
             var deck = await parser.Parse(Source);
             var inspectionOptions = new InspectionOptions()
             {
@@ -78,8 +85,7 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                 .ToAsyncEnumerable()
                 .AggregateAwaitAsync(deck, async (d, inspector) => await inspector.Inspect(d, inspectionOptions));
 
-            if (deck != R4UDeck.Empty)
-                await exporter.Export(deck, this);
+            return (deck, exporter);
         }
     }
 }
