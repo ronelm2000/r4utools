@@ -140,9 +140,17 @@ namespace Montage.RebirthForYou.Tools.GUI
             e.Cancel = _dataContext().Saved == "*";
             if (_dataContext().Saved == "*")
             {
-                var task = await MessageBox.Avalonia.MessageBoxManager
-                    .GetMessageBoxStandardWindow("Save", "You still have unsaved changes. Are you sure you want to exit?", @enum: MessageBox.Avalonia.Enums.ButtonEnum.YesNo)
-                    .ShowDialog(this);
+                var msgBoxParams = new MessageBoxStandardParams
+                {
+                    ContentTitle = "Save", 
+                    ContentMessage = "You still have unsaved changes. Are you sure you want to exit?", 
+                    ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.YesNo,
+                    WindowStartupLocation = WindowStartupLocation.CenterOwner
+                };
+                var window = MessageBox.Avalonia.MessageBoxManager
+                    .GetMessageBoxStandardWindow(msgBoxParams)
+                    ;
+                var task = await window.ShowDialog(this);
                 if (task == ButtonResult.Yes)
                 {
                     _dataContext().Saved = "";
