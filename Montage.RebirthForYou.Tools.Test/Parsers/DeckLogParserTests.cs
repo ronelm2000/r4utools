@@ -23,7 +23,7 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers
             await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._1st_Gen)" }.Run(ioc);
             var testSerial = await ioc.GetInstance<CardDatabaseContext>().R4UCards.FindAsync("HP/001T-013");
             var deck = await ioc.GetInstance<DeckLogParser>().Parse("https://decklog.bushiroad.com/view/3H0N");
-
+            
         }
     }
 }

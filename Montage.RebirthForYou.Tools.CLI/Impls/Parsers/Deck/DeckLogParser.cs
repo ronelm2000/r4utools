@@ -85,7 +85,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
                     int quantity = cardJSON.num;
                     if (card != null)
                     {
-                        newDeck.Ratios.Add(card, quantity);
+                        Log.Debug("Adding: {card} [{quantity}]", card?.Serial, quantity);
+                        if (newDeck.Ratios.TryGetValue(card, out int oldVal))
+                            newDeck.Ratios[card] = oldVal + quantity;
+                        else
+                            newDeck.Ratios.Add(card, quantity);
                     } else
                     {
                         missingSerials.Add(serial);
