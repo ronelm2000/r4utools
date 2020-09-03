@@ -52,6 +52,8 @@
     <Compile Remove="Migrations\20200822164035_AddedHololiveTrialDecksWave1.Designer.cs" />
     <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.cs" />
     <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.Designer.cs" />
+    <Compile Remove="Migrations\20200903013351_RedoGochiUsa.cs" />
+    <Compile Remove="Migrations\20200903013351_RedoGochiUsa.Designer.cs" />
     <None Remove="sample.r4uset" />
     <Content Include="sample.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
