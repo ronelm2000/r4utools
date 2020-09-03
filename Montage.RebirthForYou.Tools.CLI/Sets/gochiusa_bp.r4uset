@@ -644,7 +644,7 @@
       "Serial": "GU/001B-014",
       "Alternates": [
         {
-          "Serial": "GU/001B-013S",
+          "Serial": "GU/001B-014S",
           "Rarity": "RRR+",
           "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_014s.png" ],
           "Flavor": null
@@ -928,7 +928,7 @@
       },
       "Alternates": [
         {
-          "Serial": "GU/001B-018S",
+          "Serial": "GU/001B-019S",
           "Rarity": "R+",
           "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_019s.png" ],
           "Flavor": {
