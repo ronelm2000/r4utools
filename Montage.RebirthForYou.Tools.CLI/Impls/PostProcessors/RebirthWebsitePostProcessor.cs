@@ -78,7 +78,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
         private bool HasMissingInformation(R4UCard card)
         {
-            return (card?.Effect?.Any(mls => mls.JP == null) ?? false) || (card?.Name.JP == null) || (card?.Traits?.Any(mls => mls.JP == null) ?? false);
+            return (card?.Effect?.Any(mls => mls.JP == null) ?? false) || (card?.Name.JP == null) || (card?.Traits?.Any(mls => mls.JP == null) ?? false) || ((card.Images?.Count ?? 0) < 1);
         }
     }
 }
