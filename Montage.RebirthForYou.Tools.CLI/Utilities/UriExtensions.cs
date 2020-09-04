@@ -83,6 +83,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
             return urlString.AllowAnyHttpStatus().WithReferrer(referrerUrl);
         }
 
+        public static IFlurlRequest WithReferrer(this Flurl.Url urlString, string referrerUrl)
+        {
+            return urlString.AllowAnyHttpStatus().WithReferrer(referrerUrl);
+        }
+
         public static IFlurlRequest WithReferrer(this IFlurlRequest request, string referrerUrl)
         {
             return request.WithHeader("Referer", referrerUrl);
