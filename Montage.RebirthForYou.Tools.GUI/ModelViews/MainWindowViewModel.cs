@@ -478,7 +478,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             return new CardEntry()
             {
                 Card = card,
-                Text = card.Name?.AsNonEmptyString() ?? "",
+                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})",
                 ImageSource = new Bitmap(await card.GetImageStreamAsync())
             };
         }

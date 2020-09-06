@@ -11,6 +11,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 {
     public struct CardQuery
     {
+        public string Serial;
         public string Name;
         public string NeoStandardCode; //TODO: Support NS Code compatibility.
         public string Effect;
@@ -34,6 +35,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
             List<Predicate<R4UCard>> results = new List<Predicate<R4UCard>>();
             CardQuery _this = this;
+            if (Serial != null)
+                results.Add((card) => card.Serial.Contains(_this.Serial));
             if (Name != null)
                 results.Add((card) => (card.Name.EN ?? "").Contains(_this.Name) || (card.Name.JP ?? "").Contains(_this.Name));
             if (Effect != null)

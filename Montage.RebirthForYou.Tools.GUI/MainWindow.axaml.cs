@@ -218,7 +218,7 @@ namespace Montage.RebirthForYou.Tools.GUI
             if (CardQuery.TryParse(newText, out var query))
                 await _dataContext().ApplyFilter(query?.ToQuery());
             else
-                await _dataContext().ApplyFilter((card) => (card.Name.EN ?? "").Contains(newText) || (card.Name.JP ?? "").Contains(newText));
+                await _dataContext().ApplyFilter((card) => (card.Name.EN ?? "").Contains(newText) || (card.Name.JP ?? "").Contains(newText) || card.Serial.Contains(newText));
         }
         public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
 
