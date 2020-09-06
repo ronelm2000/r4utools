@@ -57,7 +57,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                     return p;
                 })
                 .SelectAwait(async (wsc) => (card: wsc, stream: await wsc.GetImageStreamAsync()))
-                .ToDictionaryAsync(p => p.card, p => Image.Load(p.stream));
+                .ToDictionaryAsync(p => p.card, p => ApplyPostProcessing(Image.Load(p.stream)));
 
             var (encoder, format) = info.Flags.Any(s => s.ToLower() == "png") == true ? _pngEncoder : _jpegEncoder;
             var newImageFilename = $"deck_{fileNameFriendlyDeckName.ToLower()}.{format.FileExtensions.First()}";
@@ -145,6 +145,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                         $"Effect: {card.Effect.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n")}" +
                         $"\n{card.Flavor?.AsNonEmptyString() ?? ""}";
             }
+        }
+
+        private Image ApplyPostProcessing(Image img)
+        {
+            if (img.Width > img.Height)
+            {
+                Log.Debug("Rotating Image as it's Cached...");
+                img.Mutate(ctx => ctx.Rotate(RotateMode.Rotate90));
+            }
+            return img;
         }
 
         private void GenerateDeckImage(IExportInfo info, int rows, List<R4UCard> serialList, Dictionary<R4UCard, Image> imageDictionary, IImageEncoder encoder, Path deckImagePath)

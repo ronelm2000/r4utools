@@ -9,6 +9,7 @@ using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Serilog;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Metadata.Profiles.Exif;
+using SixLabors.ImageSharp.Processing;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -76,7 +77,11 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                 {
                     var imageDirectoryPath = Path.Get(_IMAGE_CACHE_PATH);
                     if (!imageDirectoryPath.Exists) imageDirectoryPath.CreateDirectory();
-
+                    if (img.Width > img.Height)
+                    {
+                        Log.Debug("Rotating Image as it's Cached...");
+                        img.Mutate(ctx => ctx.Rotate(RotateMode.Rotate90));
+                    }
                     img.Metadata.ExifProfile ??= new ExifProfile();
                     img.Metadata.ExifProfile.SetValue(SixLabors.ImageSharp.Metadata.Profiles.Exif.ExifTag.Copyright, card.Images.Last().Authority);
                     var savePath = Path.Get(_IMAGE_CACHE_PATH).Combine($"{card.Serial.Replace('-', '_').AsFileNameFriendly()}.jpg");
