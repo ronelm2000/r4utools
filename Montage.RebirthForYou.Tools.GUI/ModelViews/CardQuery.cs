@@ -1,4 +1,5 @@
-﻿using Avalonia.X11;
+﻿using Avalonia.Media;
+using Avalonia.X11;
 using Microsoft.EntityFrameworkCore.Internal;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Newtonsoft.Json;
@@ -15,6 +16,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public string Name;
         public string NeoStandardCode; //TODO: Support NS Code compatibility.
         public string Effect;
+        public CardColor? Color;
         public int? Cost;
         public int? ATK;
         public int? DEF;
@@ -41,6 +43,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 results.Add((card) => (card.Name.EN ?? "").Contains(_this.Name) || (card.Name.JP ?? "").Contains(_this.Name));
             if (Effect != null)
                 results.Add((card) => card.Effect?.Any(eff => (eff.EN ?? "").Contains(_this.Effect) || (eff.JP ?? "").Contains(_this.Effect)) ?? false);
+            if (Color != null)
+                results.Add((card) => card.Color == _this.Color);
             if (Cost != null)
                 results.Add((card) => card.Cost == _this.Cost);
             if (ATK != null)
