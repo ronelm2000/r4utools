@@ -690,14 +690,6 @@
     },
     {
       "Serial": "GU/001B-015",
-      "Alternates": [
-        {
-          "Serial": "GU/001B-013S",
-          "Rarity": "RR+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_015s.png" ],
-          "Flavor": null
-        }
-      ],
       "Name": {
         "EN": "Everyone in Yukatas, Chino",
         "JP": " みんなで浴衣 チノ"
@@ -731,7 +723,15 @@
         "ReleaseCode": "GU/001B",
         "Name": "Is the Order a Rabbit? Booster Pack",
         "Description": null
-      }
+      },
+      "Alternates": [
+        {
+          "Serial": "GU/001B-015S",
+          "Rarity": "RR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_015s.png" ],
+          "Flavor": null
+        }
+      ]
     },
     {
       "Serial": "GU/001B-016",
