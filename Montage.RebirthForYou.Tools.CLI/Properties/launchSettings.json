@@ -27,6 +27,10 @@
     "Parse HP01 from Fandom": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._0th_Gen)"
+    },
+    "Parse HP003T on Fandom": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_%28ver._2nd_Gen%29"
     }
   }
 }
