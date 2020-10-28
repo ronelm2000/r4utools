@@ -26,7 +26,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     {
         private Regex fandomMatcher = new Regex(@"(.*)://rebirth-for-you\.fandom\.com/wiki/(.*)");
         private Regex effectMatcher = new Regex(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
-        private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+\w{0,4}) \((\w*\+?)\)");
+        private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+\w{0,4})(?: )?\((\w*\+?)\)");
         private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P" };
         private Func<CardDatabaseContext> _database;
 
@@ -59,6 +59,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     await foreach (var card in ParseCards(row, context))
                         yield return card;
             }
+            Log.Information("Ending...");
             //throw new NotImplementedException();
             yield break;
         }
@@ -142,7 +143,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             var mainInfoBox = context.MainInfoBox;
             var extraInfoBox = context.ExtraInfoBox;
             card.Name = new MultiLanguageString();
-            card.Name.JP = mainInfoBox["kanji"];
+            card.Name.JP = mainInfoBox.GetValueOrDefault("kanji", mainInfoBox["name"]);
             card.Name.EN = mainInfoBox["name"];
             card.Type = TranslateType(mainInfoBox["card type"]);
             card.Set = setContext.Set;
