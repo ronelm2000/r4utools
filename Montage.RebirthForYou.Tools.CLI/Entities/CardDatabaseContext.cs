@@ -151,8 +151,29 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._GAMERS)",
                         DateAdded = new DateTime(2020, 9, 25, 0, 43, 53, 206, DateTimeKind.Local)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 9,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._3rd_Gen)",
+                        DateAdded = new DateTime(2020, 10, 26, 0, 0, 1)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 10,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._4th_Gen)",
+                        DateAdded = new DateTime(2020, 10, 26, 0, 0, 2)
+                    }, 
+                    new ActivityLog
+                    {
+                        LogID = 11,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Azur_Lane",
+                        DateAdded = new DateTime(2020, 10, 26, 0, 0, 3)
                     }
-                    ) ;
+                    );
             });
         }
     }

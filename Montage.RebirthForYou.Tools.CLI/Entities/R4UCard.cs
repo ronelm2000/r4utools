@@ -107,14 +107,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     Log.Warning("Falling back on remote URL.");
                 }
                 catch (Exception) { }
-            do try
-                {
-                    return await Images?.Prepend(EmptyURL).Last().WithImageHeaders().GetStreamAsync() ?? await EmptyURL.WithImageHeaders().GetStreamAsync();
-                }
-                catch (Exception e) {
-                    if (retry++ > 9) throw e;
-                }
-            while (true);
+            var img = Images?.Prepend(EmptyURL).Last();
+            Log.Debug("Loading URL: {url}", img.AbsoluteUri);
+            var bytes = await Images?.Prepend(EmptyURL).Last().WithImageHeaders().GetAsync().WithRetries(10).ReceiveBytes() ?? await EmptyURL.WithImageHeaders().GetBytesAsync();
+            return new MemoryStream(bytes);
         }
 
         public string TypeToString() => this.Type.AsShortString();

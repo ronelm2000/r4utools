@@ -68,7 +68,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             var yuyuteiSellPage = yuyuteiSellPagePrefix + HttpUtility.UrlEncode(setCode);
             Log.Information("Loading: {yuyuteiSellPage}", yuyuteiSellPage);
 
-            IDocument yuyuteiSearchPage = await new Uri(yuyuteiSellPage).DownloadHTML(("Referer", "https://yuyu-tei.jp/")).WithRetries(10);
+            IDocument yuyuteiSearchPage = await new Uri(yuyuteiSellPage).DownloadHTML(("Referer", "https://yuyu-tei.jp/"));//.WithRetries(10);
 
             var cardUnitListItems = yuyuteiSearchPage.QuerySelectorAll(cardUnitListItemSelector);
 

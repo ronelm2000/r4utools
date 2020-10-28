@@ -72,8 +72,9 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
             {
                 var imgURL = card.Images.Last();
                 Log.Information("Caching [{serial}]: {imgURL}", card.Serial, imgURL);
-                using (System.IO.Stream netStream = await imgURL.WithImageHeaders().GetStreamAsync()) // card.GetImageStreamAsync())
-                using (Image img = Image.Load(netStream))
+                //using (System.IO.Stream netStream = await imgURL.WithImageHeaders().GetStreamAsync()) // card.GetImageStreamAsync())
+                var bytes = await imgURL.WithImageHeaders().GetAsync().WithRetries(10).ReceiveBytes();
+                using (Image img = Image.Load(bytes))
                 {
                     var imageDirectoryPath = Path.Get(_IMAGE_CACHE_PATH);
                     if (!imageDirectoryPath.Exists) imageDirectoryPath.CreateDirectory();
