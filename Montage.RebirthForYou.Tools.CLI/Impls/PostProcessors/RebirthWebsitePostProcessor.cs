@@ -26,12 +26,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             if (cards.First().Language != CardLanguage.Japanese)
                 return false;
-            var list = cards.Select(c => c.ReleaseID).Distinct().ToList();
-            if (list.Count > 1)
-            {
-                Log.Warning("Image Post-Processor is disabled for sets with multiple Release IDs; please add those images manually when prompted.");
-                return false;
-            }
             else
                 return true;
         }

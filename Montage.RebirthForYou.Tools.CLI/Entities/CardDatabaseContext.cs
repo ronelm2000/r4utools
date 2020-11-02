@@ -172,6 +172,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Azur_Lane",
                         DateAdded = new DateTime(2020, 10, 26, 0, 0, 3)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 12,
+                        Activity = ActivityType.Parse,
+                        Target = "https://rebirth-for-you.fandom.com/wiki/Promo_Cards",
+                        DateAdded = new DateTime(2020, 11, 03, 0, 0, 1)
                     }
                     );
             });

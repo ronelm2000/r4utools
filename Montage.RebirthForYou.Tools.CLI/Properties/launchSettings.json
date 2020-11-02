@@ -31,6 +31,10 @@
     "Parse HP003T on Fandom": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_%28ver._2nd_Gen%29"
+    },
+    "Parse Promo Cards": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Promo_Cards"
     }
   }
 }

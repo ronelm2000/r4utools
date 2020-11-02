@@ -3,6 +3,7 @@ using AngleSharp.Dom;
 using AngleSharp.Html.Dom;
 using CommandLine;
 using Lamar;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.VisualBasic.CompilerServices;
 using Montage.RebirthForYou.Tools.CLI.API;
@@ -14,6 +15,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices.ComTypes;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.Json;
@@ -27,7 +29,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private Regex fandomMatcher = new Regex(@"(.*)://rebirth-for-you\.fandom\.com/wiki/(.*)");
         private Regex effectMatcher = new Regex(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
         private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+\w{0,4}(?:\[\w+\])?)(?: )?\((\w*\+?)\)");
-        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P" };
+        private Regex releaseIDMatcher = new Regex(@"(?:- )?((\w+\/\w+))");
+        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P", "PR" };
         private Func<CardDatabaseContext> _database;
 
         public ILogger Log { get; }
@@ -48,10 +51,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             Log.Information("Starting...");
             var document = await new Uri(urlOrLocalFile).DownloadHTML(("Referer", "rebirth-for-you.fandom.com")).WithRetries(10);
             var table = document.QuerySelector<IHtmlTableElement>(".set-table");
-            var setData = CreateInfoBoxDataTable(document.QuerySelector(".portable-infobox"));
+            var isPRPage = document.QuerySelectorAll(".portable-infobox").Count() < 1;
+            var setData = (!isPRPage) ? CreateInfoBoxDataTable(document.QuerySelector(".portable-infobox")) : null;
+            var prSetData = (isPRPage) ? CreatePRSets(table) : null;
             Log.Verbose("Set Data: @{data}", setData);
+            Log.Verbose("PR Set Data: @{prSetData}", prSetData);
 
-            var context = new WikiSetContext { SetData = setData, URL = urlOrLocalFile, Set = ParseSet(setData) };
+            var context = new WikiSetContext { SetData = setData, URL = urlOrLocalFile, Set = ParseSet(setData), Sets = prSetData };
 
             foreach (var row in table.Rows)
             {
@@ -64,13 +70,37 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             yield break;
         }
 
+        private Dictionary<string, R4UReleaseSet> CreatePRSets(IHtmlTableElement table)
+        {
+            return table.Rows //
+                .Select(row => releaseIDMatcher.Match(row.Cells[0].TextContent).Groups[1].Value) //
+                .Distinct() //
+                .ToDictionary(rid => rid, rid => CreatePromoSet(rid)) //
+                ;
+        }
+
         private R4UReleaseSet ParseSet(Dictionary<string, string> setData)
         {
+            if (setData != null)
+            {
+                var res = new R4UReleaseSet();
+                res.ReleaseCode = setData["prefix"];
+                res.Name = setData["title"];
+                return res;
+            } else
+            {
+                return null;
+            }
+        }
+
+        private R4UReleaseSet CreatePromoSet(string releaseID)
+        {
             var res = new R4UReleaseSet();
-            res.ReleaseCode = setData["prefix"];
-            res.Name = setData["title"];
+            res.ReleaseCode = releaseID;
+            res.Name = $"{releaseID} Promotional Cards";
             return res;
         }
+
 
         private Dictionary<string, string> CreateInfoBoxDataTable(IElement element)
         {
@@ -113,7 +143,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
             var originalCard = await ParseOriginalCard(cardContext, context);
             var serialRarityPairs = serialMatcher.Matches(extraInfoBox["card set(s)"])
-                .Where(m => m.Groups[2].Value == context.SetData["prefix"])
+                .Where(m => (context.SetData != null) ? m.Groups[2].Value == context.SetData["prefix"] : true)
                 .Select(m => (Serial: m.Groups[1].Value, Rarity: m.Groups[3].Value))
                 .ToList();
 
@@ -121,6 +151,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             serialRarityPairs.Remove(originalSerialRarity);
             originalCard.Serial = originalSerialRarity.Serial;
             originalCard.Rarity = originalSerialRarity.Rarity;
+
+            if (originalCard.Set == null)
+            {
+                Log.Debug("Card was obtained from a Promo Set. trying to obtain the actual set from the serial.");
+                if (context.Sets.TryGetValue(releaseIDMatcher.Match(originalCard.Serial).Groups[1].Value, out var set))
+                    originalCard.Set = set;
+//                else
+//                    originalCard.Set = CreatePromoSet(cardContext);
+                /*
+                using (var db = _database()) {
+                    originalCard.Set = await db.R4UReleaseSets.AsQueryable().Where(set => set.ReleaseCode == releaseIDMatcher.Match(originalCard.Serial).Groups[1].Value).FirstAsync();
+                }
+                */
+            }
             yield return originalCard;
 
             foreach (var foilSRP in serialRarityPairs)
@@ -169,6 +213,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 // Assumed. All Partner cards do not have effects, and vanilla cards have [Relaxing]
                 card.Color = CardColor.Red;
             }
+
             return card;
         }
 
@@ -235,6 +280,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         internal string URL { get; set; }
         internal Dictionary<string, string> SetData { get; set; }
         internal R4UReleaseSet Set { get; set; }
+        internal Dictionary<string, R4UReleaseSet> Sets { get; set; } = new Dictionary<string, R4UReleaseSet>(); 
         internal Dictionary<string, MultiLanguageString> TraitData { get; set; } = new Dictionary<string, MultiLanguageString>();
     }
 
