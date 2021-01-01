@@ -9,7 +9,7 @@ using Montage.RebirthForYou.Tools.CLI.Entities;
 namespace Montage.RebirthForYou.Tools.CLI.Migrations
 {
     [DbContext(typeof(CardDatabaseContext))]
-    [Migration("20200813090723_AddsInitialGochiUsaSet")]
+    [Migration("20210102003446_AddsStarterDecks")]
     partial class AddsStarterDecks
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
