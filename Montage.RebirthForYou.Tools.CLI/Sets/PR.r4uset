@@ -2,7 +2,7 @@
   "Version": 2,
   "Cards": [
     {
-      "Serial": "AL/PR-001",
+      "Serial": "AL/PR-0001",
       "Name": {
         "EN": "Amazon",
         "JP": "アマゾン"
@@ -42,7 +42,7 @@
       }
     },
     {
-      "Serial": "AL/PR-002",
+      "Serial": "AL/PR-0002",
       "Name": {
         "EN": "Honolulu",
         "JP": "ホノルル"
@@ -82,10 +82,10 @@
       }
     },
     {
-      "Serial": "AL/PR-004[HP]",
+      "Serial": "AL/PR-0004[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-004SP[HP]",
+          "Serial": "AL/PR-0004SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10271.jpg" ],
           "Flavor": {
@@ -94,7 +94,7 @@
           }
         },
         {
-          "Serial": "AL/PR-004S[HP]",
+          "Serial": "AL/PR-0004S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10272.jpg" ],
           "Flavor": {
@@ -142,10 +142,10 @@
       }
     },
     {
-      "Serial": "AL/PR-005[HP]",
+      "Serial": "AL/PR-0005[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-005SP[HP]",
+          "Serial": "AL/PR-0005SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10274.jpg" ],
           "Flavor": {
@@ -154,7 +154,7 @@
           }
         },
         {
-          "Serial": "AL/PR-005S[HP]",
+          "Serial": "AL/PR-0005S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10275.jpg" ],
           "Flavor": {
@@ -202,10 +202,10 @@
       }
     },
     {
-      "Serial": "AL/PR-006[HP]",
+      "Serial": "AL/PR-0006[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-006SP[HP]",
+          "Serial": "AL/PR-0006SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10277.jpg" ],
           "Flavor": {
@@ -214,7 +214,7 @@
           }
         },
         {
-          "Serial": "AL/PR-006S[HP]",
+          "Serial": "AL/PR-0006S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10278.jpg" ],
           "Flavor": {
@@ -249,7 +249,7 @@
       },
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Spark Showcase Level 3]:During the first attack of this character, this gets ＋４/±０.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During the first attack of this character, this gets ＋４/±０.",
           "JP": "【永】エントリー【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。"
         }
       ],
@@ -262,10 +262,10 @@
       }
     },
     {
-      "Serial": "AL/PR-007[HP]",
+      "Serial": "AL/PR-0007[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-007SP[HP]",
+          "Serial": "AL/PR-0007SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10280.jpg" ],
           "Flavor": {
@@ -274,7 +274,7 @@
           }
         },
         {
-          "Serial": "AL/PR-007S[HP]",
+          "Serial": "AL/PR-0007S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10281.jpg" ],
           "Flavor": {
@@ -309,7 +309,7 @@
       },
       "Effect": [
         {
-          "EN": "(Spark)[Spark Showcase Level 3]:Choose one of your opponent's members, and put it into the waiting room",
+          "EN": "(Spark)[Skill Showcase Level 3]:Choose one of your opponent's members, and put it into the waiting room",
           "JP": "【スパーク】【本領発揮Lv３】：あなたは相手のメンバーから１枚選び、控え室に置く。"
         }
       ],
@@ -322,10 +322,10 @@
       }
     },
     {
-      "Serial": "AL/PR-008[HP]",
+      "Serial": "AL/PR-0008[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-008SP[HP]",
+          "Serial": "AL/PR-0008SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10283.jpg" ],
           "Flavor": {
@@ -334,7 +334,7 @@
           }
         },
         {
-          "Serial": "AL/PR-008S[HP]",
+          "Serial": "AL/PR-0008S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10284.jpg" ],
           "Flavor": {
@@ -369,7 +369,7 @@
       },
       "Effect": [
         {
-          "EN": "(AUTO)[Entry][Spark Showcase Level 4]:When this character attacks, until end of turn this character gets ＋１/±０.",
+          "EN": "(AUTO)[Entry][Skill Showcase Level 4]:When this character attacks, until end of turn this character gets ＋１/±０.",
           "JP": "【自】【エントリー】【本領発揮Lv４】：このキャラがアタックした時、このターン中、このキャラを＋１/±０。"
         }
       ],
@@ -382,10 +382,10 @@
       }
     },
     {
-      "Serial": "AL/PR-009[HP]",
+      "Serial": "AL/PR-0009[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-009SP[HP]",
+          "Serial": "AL/PR-0009SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10286.jpg" ],
           "Flavor": {
@@ -394,7 +394,7 @@
           }
         },
         {
-          "Serial": "AL/PR-009S[HP]",
+          "Serial": "AL/PR-0009S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10287.jpg" ],
           "Flavor": {
@@ -442,10 +442,10 @@
       }
     },
     {
-      "Serial": "AL/PR-010[HP]",
+      "Serial": "AL/PR-0010[HP]",
       "Alternates": [
         {
-          "Serial": "AL/PR-010SP[HP]",
+          "Serial": "AL/PR-0010SP[HP]",
           "Rarity": "SP",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10289.jpg" ],
           "Flavor": {
@@ -454,7 +454,7 @@
           }
         },
         {
-          "Serial": "AL/PR-010S[HP]",
+          "Serial": "AL/PR-0010S[HP]",
           "Rarity": "PR+",
           "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10290.jpg" ],
           "Flavor": {
@@ -502,7 +502,7 @@
       }
     },
     {
-      "Serial": "AL/PR-011",
+      "Serial": "AL/PR-0011",
       "Name": {
         "EN": "Looking Glass of Fact and Fiction",
         "JP": "幻想と真実の二重奏"
@@ -536,7 +536,7 @@
       }
     },
     {
-      "Serial": "GP/PR-001",
+      "Serial": "GP/PR-0001",
       "Name": {
         "EN": "BanG Dream! Garupa Pico",
         "JP": "BanG Dream! ガルパ　ピコ"
@@ -569,7 +569,7 @@
       }
     },
     {
-      "Serial": "GP/PR-002",
+      "Serial": "GP/PR-0002",
       "Name": {
         "EN": "Alibi Kasumi Touyama",
         "JP": "アリバイ証明 香澄"
@@ -611,91 +611,7 @@
       }
     },
     {
-      "Serial": "GP/PR-002",
-      "Name": {
-        "EN": "Alibi Kasumi Touyama",
-        "JP": "アリバイ証明 香澄"
-      },
-      "Traits": [
-        {
-          "EN": "Music",
-          "JP": "音楽"
-        },
-        {
-          "EN": "Poppin’Party",
-          "JP": "Poppin’Party"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "PR",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": "えっと…よく覚えてないんだよね！えへへ"
-      },
-      "Effect": [
-        {
-          "EN": "(Spark):If you have 2 or more cards in hand, until end of turn, this character gets ＋１/±０.",
-          "JP": "【スパーク】：あなたの手札２枚につき、このターン中、このキャラを＋１/±０。"
-        }
-      ],
-      "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10062.jpg"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GP/PR",
-        "Name": "BanG Dream Promo Cards",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GP/PR-002",
-      "Name": {
-        "EN": "Kasumi, Alibi",
-        "JP": "アリバイ証明 香澄"
-      },
-      "Traits": [
-        {
-          "EN": "Music",
-          "JP": "音楽"
-        },
-        {
-          "EN": "Poppin’Party",
-          "JP": "Poppin’Party"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "PR",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": "えっと…よく覚えてないんだよね！えへへ"
-      },
-      "Effect": [
-        {
-          "EN": "(Spark):If you have 2 or more cards in hand, until end of turn, this character gets ＋１/±０.",
-          "JP": "【スパーク】：あなたの手札２枚につき、このターン中、このキャラを＋１/±０。"
-        }
-      ],
-      "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10062.jpg"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GP/PR",
-        "Name": "BanG Dream Promo Cards",
-        "Description": null
-      }
-    },
-    {
-      "Serial": "GP/PR-003",
+      "Serial": "GP/PR-0003",
       "Name": {
         "EN": "Tae, Reliefed",
         "JP": "息をつく たえ"
@@ -737,7 +653,7 @@
       }
     },
     {
-      "Serial": "GP/PR-004",
+      "Serial": "GP/PR-0004",
       "Name": {
         "EN": "Rimi, Sudden Collapse",
         "JP": "さーくるの崩壊 りみ"
@@ -779,7 +695,7 @@
       }
     },
     {
-      "Serial": "GP/PR-005",
+      "Serial": "GP/PR-0005",
       "Name": {
         "EN": "Saya, Popipa Calm Down",
         "JP": "ポピパの安定剤 沙綾"
@@ -821,7 +737,7 @@
       }
     },
     {
-      "Serial": "GP/PR-006",
+      "Serial": "GP/PR-0006",
       "Name": {
         "EN": "Arisa, Weak Body",
         "JP": "全身脱力 有咲"
@@ -848,7 +764,7 @@
       },
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Spark Showcase Level 3]:This character gets ＋１/＋１.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:This character gets ＋１/＋１.",
           "JP": "【永】【エントリー】【本領発揮Lv３】：このキャラを＋１/＋１。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
         }
       ],
@@ -863,7 +779,7 @@
       }
     },
     {
-      "Serial": "GP/PR-008",
+      "Serial": "GP/PR-0008",
       "Name": {
         "EN": "Aya, Tour Guide til the end",
         "JP": "最後尾へご案内 彩"
@@ -905,7 +821,7 @@
       }
     },
     {
-      "Serial": "GP/PR-009",
+      "Serial": "GP/PR-0009",
       "Name": {
         "EN": "Kasumi, New Member?",
         "JP": "新メンバー？ 香澄"
@@ -947,7 +863,7 @@
       }
     },
     {
-      "Serial": "GU/PR-001",
+      "Serial": "GU/PR-0001",
       "Name": {
         "JP": "ご注文はうさぎですか？？",
         "EN": "Is the order a rabbit??"
@@ -980,7 +896,7 @@
       }
     },
     {
-      "Serial": "GU/PR-002",
+      "Serial": "GU/PR-0002",
       "Name": {
         "JP": "バレンタイン for you ココア",
         "EN": "Happy Valentines for you, Cocoa"
@@ -1018,7 +934,7 @@
       }
     },
     {
-      "Serial": "GU/PR-003",
+      "Serial": "GU/PR-0003",
       "Name": {
         "JP": "バレンタイン for you チノ",
         "EN": "Happy Valentines for you, Chino"
@@ -1056,7 +972,7 @@
       }
     },
     {
-      "Serial": "GU/PR-004",
+      "Serial": "GU/PR-0004",
       "Name": {
         "JP": " バレンタイン for you リゼ",
         "EN": "Happy Valentines for you, Rize"
@@ -1079,7 +995,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO](Member)[Spark Showcase Level 3]:[Rest (2) Energy] When this character supports, the supported character gets ＋２/±０ until end of attack.",
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:[Rest (2) Energy] When this character supports, the supported character gets ＋２/±０ until end of attack.",
           "JP": "【自】【メンバー】【本領発揮Lv３】：このキャラがサポートした時、あなたは2することで、このアタック中、サポートされたキャラを＋２/±０。"
         }
       ],
@@ -1094,7 +1010,7 @@
       }
     },
     {
-      "Serial": "GU/PR-005",
+      "Serial": "GU/PR-0005",
       "Name": {
         "JP": "バレンタイン for you 千夜",
         "EN": "Happy Valentines for you, Chiya"
@@ -1132,7 +1048,7 @@
       }
     },
     {
-      "Serial": "GU/PR-006",
+      "Serial": "GU/PR-0006",
       "Name": {
         "JP": "バレンタイン for you シャロ",
         "EN": "Happy Valentines for you, Sharo"
@@ -1170,7 +1086,7 @@
       }
     },
     {
-      "Serial": "GU/PR-007",
+      "Serial": "GU/PR-0007",
       "Name": {
         "JP": "バレンタイン for you マヤ",
         "EN": "Happy Valentines for you, Maya"
@@ -1208,7 +1124,7 @@
       }
     },
     {
-      "Serial": "GU/PR-008",
+      "Serial": "GU/PR-0008",
       "Name": {
         "JP": "バレンタイン for you メグ",
         "EN": "Happy Valentines for you, Megu"
@@ -1246,7 +1162,7 @@
       }
     },
     {
-      "Serial": "GU/PR-009",
+      "Serial": "GU/PR-0009",
       "Name": {
         "JP": "chimame march チノ",
         "EN": "chimame march Chino"
@@ -1270,7 +1186,7 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[Spark][Spark Showcase Level 3]: Choose a character from your waiting room, and you may put it onto your member area.",
+          "EN": "[Spark][Skill Showcase Level 3]: Choose a character from your waiting room, and you may put it onto your member area.",
           "JP": "【スパーク】【本領発揮Lv３】：あなたは自分の控え室からキャラを１枚選び、メンバーに置いてよい。\n（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
         }
       ],
@@ -1285,7 +1201,7 @@
       }
     },
     {
-      "Serial": "GU/PR-010",
+      "Serial": "GU/PR-0010",
       "Name": {
         "JP": "chimame march マヤ",
         "EN": "chimame march Maya"
@@ -1320,7 +1236,7 @@
       }
     },
     {
-      "Serial": "HP/PR-001",
+      "Serial": "HP/PR-0001",
       "Name": {
         "JP": "##アツいぞホロライブ そら",
         "EN": "#Hot Hololive Sora"
@@ -1355,7 +1271,7 @@
       }
     },
     {
-      "Serial": "HP/PR-002",
+      "Serial": "HP/PR-0002",
       "Name": {
         "JP": "#アツいぞホロライブ あくあ",
         "EN": "Hot Hololive Aqua"
@@ -1394,7 +1310,7 @@
       }
     },
     {
-      "Serial": "HP/PR-003",
+      "Serial": "HP/PR-0003",
       "Name": {
         "JP": "#アツいぞホロライブ まつり",
         "EN": "Hot Hololive Matsuri"
@@ -1418,7 +1334,7 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Spark Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
           "JP": "【永】【エントリー】【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
         }
       ],
@@ -1433,7 +1349,7 @@
       }
     },
     {
-      "Serial": "HP/PR-004",
+      "Serial": "HP/PR-0004",
       "Name": {
         "JP": "#アツいぞホロライブ ミオ",
         "EN": "Hot Hololive Mio"
@@ -1457,7 +1373,7 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Spark Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
           "JP": "【永】【エントリー】【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
         }
       ],
@@ -1472,7 +1388,7 @@
       }
     },
     {
-      "Serial": "HP/PR-005",
+      "Serial": "HP/PR-0005",
       "Name": {
         "JP": "ホロライブ",
         "EN": "Hololive Productions"
@@ -1505,7 +1421,7 @@
       }
     },
     {
-      "Serial": "HP/PR-006",
+      "Serial": "HP/PR-0006",
       "Name": {
         "JP": "バイト中 ぺこら",
         "EN": "Part-time Idol, Pekora"
@@ -1547,7 +1463,7 @@
       }
     },
     {
-      "Serial": "HP/PR-007",
+      "Serial": "HP/PR-0007",
       "Name": {
         "JP": "ホロライブ裏方 友人A",
         "EN": "Hololive Backstory Friend, A-chan"
@@ -1586,7 +1502,7 @@
       }
     },
     {
-      "Serial": "HP/PR-008",
+      "Serial": "HP/PR-0008",
       "Name": {
         "JP": "静かに怒らせる ココ",
         "EN": "Party, Coco"
@@ -1628,7 +1544,7 @@
       }
     },
     {
-      "Serial": "IQ/PR-003",
+      "Serial": "IQ/PR-0003",
       "Name": {
         "JP": "静かに怒らせる ココ",
         "EN": "Victory, Tanya"
@@ -1671,7 +1587,7 @@
       }
     },
     {
-      "Serial": "IQ/PR-004",
+      "Serial": "IQ/PR-0004",
       "Name": {
         "JP": "清い乙女 アルベド",
         "EN": "Pure Maiden, Albedo"
@@ -1710,7 +1626,7 @@
       }
     },
     {
-      "Serial": "IQ/PR-001",
+      "Serial": "IQ/PR-0001",
       "Name": {
         "JP": "異世界かるてっと",
         "EN": "Isekai Quartet"
@@ -1744,2238 +1660,21 @@
       }
     },
     {
-      "Serial": "GU/001B-043",
+      "Serial": "RE/PR-0001",
       "Name": {
-        "JP": "まったり 千夜",
-        "EN": "Laid-back, Chiya"
+        "JP": "Reバース、始動！",
+        "EN": "Rebirth, Go!"
       },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO]:When this character is put onto your member area from hand, choose one of your other <Ama Usa An> or <Fleur de Lapin> members, and you may return it to your hand.",
-          "JP": "【自】：このキャラが手札からメンバーに置かれた時、あなたは自分の他のメンバーから、〔甘兎庵〕か〔フルール・ド・ラパン〕を１枚選び、手札に戻してよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_042.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-043S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_043s.png" ],
-          "Flavor": {
-            "JP": "２人だけの秘密がばれちゃってちょっと残念",
-            "EN": "I'm a little dissapointed that our secret is out."
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-044",
-      "Name": {
-        "JP": "アイドル衣装 千夜",
-        "EN": "Idol Costume, Chiya"
-      },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO](Member):When this character is put onto your member area from waiting room, you may return this character to your hand.",
-          "JP": "【自】【メンバー】：あなたのキャラが控え室からメンバーに置かれた時、あなたはこのキャラを手札に戻してよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_044.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-044S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_044s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-045",
-      "Name": {
-        "EN": "Unusual Naming Sense, Chiya",
-        "JP": "奇抜なネーミングセンス 千夜"
-      },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": {
-        "EN": null,
-        "JP": "そうだわ！灰色だからごまぼたもちは？"
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets +2/±0 until end of that attack.",
-          "JP": "【自】【メンバー】【本領発揮Lv３】：このキャラがサポートした時、あなたはエネ②することで、このアタック中、サポートされたキャラを＋２/±０。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_045.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-045S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_045s.png" ],
-          "Flavor": {
-            "EN": null,
-            "JP": "そうだわ！灰色だからごまぼたもちは？"
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-046",
-      "Name": {
-        "JP": "箱の中身は？ 千夜",
-        "EN": "What’s in the Box? Chiya"
-      },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[CONT](Entry):If you have members with “Cocoa” and “Sharo” in their card names, this character gets +1/+1.",
-          "JP": "【永】【エントリー】：あなたのメンバーに、《ココア》と《シャロ》がいるなら、このキャラを＋１/＋１。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_046.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-046S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_046s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-047",
-      "Name": {
-        "JP": "モフモフされたい 千夜",
-        "EN": "Wants to be Fluffy, Chiya"
-      },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 4,
-      "Flavor": {
-        "JP": "私をモフモフしてください！",
-        "EN": "Fluff me up, please!"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:This character gets ±0/+2 until end of turn.",
-          "JP": "【スパーク】：このターン中、このキャラを±０/＋２。"
-        },
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a character with “Mocha” in its card name, the supported character gets +1/±0 until end of that attack.",
-          "JP": "【自】【メンバー】【本領発揮Lv３】：このキャラが《モカ》をサポートした時、このアタック中、サポートされたキャラを＋１/±０。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_047.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-047S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_047s.png" ],
-          "Flavor": {
-            "JP": "私をモフモフしてください！",
-            "EN": "Fluff me up, please!"
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-048",
-      "Name": {
-        "JP": "幼馴染 千夜",
-        "EN": "Childhood Friend, Chiya"
-      },
-      "Traits": [
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 4,
-      "DEF": 4,
-      "Flavor": {
-        "JP": "シャロちゃんの周りがにぎやかになって、なんだかとっても嬉しい",
-        "EN": "I'm quite happy to see Sharo's surroundings, buzzling with activity."
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character with “Sharo” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
-          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《シャロ》を１枚選び、メンバーに【レスト】で置いてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_048.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-048S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_048s.png" ],
-          "Flavor": {
-            "JP": "シャロちゃんの周りがにぎやかになって、なんだかとっても嬉しい",
-            "EN": "I'm quite happy to see Sharo's surroundings, buzzling with activity."
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-049",
-      "Name": {
-        "JP": "軽やかなワンピース シャロ",
-        "EN": "Light One-Piece, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RRR",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[ReCombo “Caffeine High Tension“][Skill Showcase Level 3][1/Turn]:When this character is put onto your member area, choose one of your other <Ama Usa An> or <Fleur de Lapin> members, and you may return it to your hand. (Has priority over entry in)",
-          "JP": "【自】【メンバー】【Reコンボ】《カフェインハイテンション》【本領発揮Lv３】【ターン１】：あなたのキャラがメンバーに置かれた時、あなたは自分の他のメンバーから、〔甘兎庵〕か〔フルール・ド・ラパン〕を１枚選び、手札に戻してよい。（エントリーインより優先）"
-        },
-        {
-          "EN": "[AUTO](Member):When this character supports, choose one of your allied members, and you may put it into your waiting room.",
-          "JP": "【自】【メンバー】：このキャラがサポートした時、あなたは味方のメンバーから１枚選び、控え室に置いてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_049.png"
-      ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-049SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_049sp.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-050",
-      "Name": {
-        "JP": "ご注文はReバースですか？ シャロ",
-        "EN": "Is the Order a Rebirth? Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "RR",
-      "Cost": 4,
-      "ATK": 4,
-      "DEF": 8,
-      "Flavor": {
-        "JP": "勝負しましょう！",
-        "EN": "Let's play!"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 5]:[Choose an <Ama Usa An> or <Fleur de Lapin> from your waiting room, and return it to your hand], and this character gets +2/±0 until end of turn.",
-          "JP": "【スパーク】【本領発揮Lv５】：あなたは自分の控え室から、〔甘兎庵〕か〔フルール・ド・ラパン〕を１枚選び、手札に戻すことで、このターン中、このキャラを＋２/±０。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_050.png"
-      ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-050S",
-          "Rarity": "RR+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_050s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-051",
-      "Name": {
-        "JP": "みんなで浴衣 シャロ",
-        "EN": "Everyone in Yukatas, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "RR",
-      "Cost": 3,
-      "ATK": 4,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 3 <Ama Usa An> & <Fleur de Lapin>]:[Choose a card from your energy area, and put it into your waiting room], and set a Rebirth from your waiting room.",
-          "JP": "【スパーク】【本領発揮Lv３】〔甘兎庵〕＆〔フルール・ド・ラパン〕：あなたは自分のエネルギーから１枚選び、控え室に置くことで、控え室からReバースを１枚セットする。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_051.png"
-      ],
-      "Remarks": "illust：chisato/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-051S",
-          "Rarity": "RR+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_051s.png" ],
-          "Flavor": {
-            "JP": "フルール・ド・ラパンもよろしくね～～！",
-            "EN": "Say hello to Fleur de Lapin as well~~!"
-          },
-          "Remarks": "illust：chisato/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-052",
-      "Name": {
-        "JP": "ひたむきな想い シャロ",
-        "EN": "Dedicated Thoughts, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 4,
-      "ATK": 4,
-      "DEF": 8,
-      "Flavor": {
-        "JP": "お化けが出そうな家でも心は錦なんだから！",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[CONT](Entry)[Skill Showcase Level 3 <Ama Usa An> & <Fleur de Lapin>]:During this character’s first attack each turn, this character gets +5/±0.",
-          "JP": "【永】【エントリー】【本領発揮Lv３】〔甘兎庵〕＆〔フルール・ド・ラパン〕：各ターンこのキャラの１回目のアタック中、このキャラを＋５/±０。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_052.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-052S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_052s.png" ],
-          "Flavor": {
-            "JP": "かっこいいのも可愛いのも全部含めてリゼ先輩です！",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-053",
-      "Name": {
-        "EN": "Welcome to Fleur de Lapin, Sharo",
-        "JP": "フルール・ド・ラパンへようこそ シャロ"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 3,
-      "ATK": 4,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry gets ±0/+1.",
-          "JP": "【永】【メンバー】【本領発揮Lv３】：あなたのエントリーを±０/＋１。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_053.png" ],
-      "Remarks": null,
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-053S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_053s.png" ],
-          "Flavor": {
-            "JP": "服よりもハーブティー気に入ってほしいな",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-054",
-      "Name": {
-        "JP": "意外な特技 シャロ",
-        "EN": "Unexpected Special Skill, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 3,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": {
-        "JP": "私だって吹き矢は得意なんです！",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, if supporting a character with “Rize” in its card name, the supported character gets +2/±0 until end of that attack. If supporting a character with “Chiya” in its card name, choose a character from your waiting room, and you may exchange its position with this character.",
-          "JP": "【自】【メンバー】【本領発揮Lv５】：このキャラがサポートした時、《リゼ》をサポートしたら、このアタック中、サポートされたキャラを+２/±０。《千夜》をサポートしたら、あなたは自分の控え室からキャラを１枚選び、このキャラと【レスト】で入れ替えてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_054.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-054S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_054s.png" ],
-          "Flavor": {
-            "JP": "カフェインも摂っていないのに私にこんな力が……！",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-055",
-      "Name": {
-        "JP": "意外な特技 シャロ",
-        "EN": "Scared, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "R",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose up to two of your allied members, and put it into your waiting room.",
-          "JP": "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_055.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-055S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_055s.png" ],
-          "Flavor": {
-            "JP": "物置でもいいからかくまってくれない！？",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-056",
-      "Name": {
-        "JP": "アイドル衣装 シャロ",
-        "EN": "Idol Costume, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "R",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Blocker <Ama Usa An> or <Fleur de Lapin>]\n(If you discard it from hand, the damage from one attack to your allied <Ama Usa An> or <Fleur de Lapin> character becomes zero)",
-          "JP": "【ブロッカー】〔甘兎庵〕or〔フルール・ド・ラパン〕\n（手札から控え室に置くと、味方の、〔甘兎庵〕か〔フルール・ド・ラパン〕へのアタック１回のダメージを０にする）。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_056.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-056S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_056s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-057",
-      "Name": {
-        "EN": "Hardworking Honor Student, Sharo",
-        "JP": "努力家な優等生 シャロ"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
-          "JP": "【キャンセル】：Reバース以外の【スパーク】\n（手札から控え室に置くと、Reバース以外の【スパーク】を１つ止める）"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_057.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-057S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_057s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-058",
-      "Name": {
-        "JP": "箱の中身は？ シャロ",
-        "EN": "Idol Costume, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a character with “Chiya” in its card name, the supported character gets +1/±0 until end of that attack.",
-          "JP": "【自】【メンバー】【本領発揮Lv３】：このキャラが《千夜》をサポートした時、このアタック中、サポートされたキャラを＋１/±０。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_058.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-058S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_058s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-059",
-      "Name": {
-        "JP": "お肉が付きやすい体質 シャロ",
-        "EN": "Easy to Grow Fat, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": {
-        "JP": "モカ「もっとモフモフしてていいと思うよ」",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Member)[1/Turn]:If you have an entry with “Mocha” in its card name, and this character has <Little Sister>, draw a card, and put a card from your hand into your waiting room.",
-          "JP": "【起】【メンバー】【ターン１】：あなたのエントリーに《モカ》がいて、このキャラが〔妹〕なら、あなたは１枚引き、自分の手札から１枚控え室に置く。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_059.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-059S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_059s.png" ],
-          "Flavor": {
-            "JP": "モカ「もっとモフモフしてていいと思うよ」",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-060",
-      "Name": {
-        "JP": "先輩への憧れ シャロ",
-        "EN": "Admiring Her Seniors, Sharo"
-      },
-      "Traits": [
-        {
-          "EN": "Fleur de Lapin",
-          "JP": "フルール ド ラパン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 4,
-      "DEF": 4,
-      "Flavor": {
-        "JP": "先輩の載ってる本……欲しい……",
-        "EN": "I'd like a book......about my seniors......"
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character with “Rize” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
-          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《リゼ》を１枚選び、メンバーに【レスト】で置いてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_060.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-060S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_060s.png" ],
-          "Flavor": {
-            "JP": "先輩の載ってる本……欲しい……",
-            "EN": "I'd like a book......about my seniors......"
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-061",
-      "Name": {
-        "JP": "軽やかなワンピース マヤ",
-        "EN": "Light One-piece, Maya"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[CONT](Member)[ReCombo “Good at Pampering“][Skill Showcase Level 3 <Chimame Corps>]:Your entry gets +1/±0, and your opponent cannot choose your members.",
-          "JP": "【永】【メンバー】【Reコンボ】《甘え上手》【本領発揮Lv３】〔チマメ隊〕：あなたのエントリーを＋１/±０し、あなたのメンバーは相手から選ばれない。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_061.png"
-      ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-061SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_061sp.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-062",
-      "Name": {
-        "EN": "Is the Order a Rebirth? Maya",
-        "JP": "ご注文はReバースですか？ マヤ"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 4,
-      "ATK": 6,
-      "DEF": 5,
-      "Flavor": {
-        "EN": "Get ready, 'cus I'm going to level up!",
-        "JP": "レベルアップするぞー覚悟！"
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO]:When this character is placed onto your entry area from hand, choose one of your opponent’s members, and put it into the waiting room.",
-          "JP": "【自】：このキャラが手札からエントリーに置かれた時、あなたは相手のメンバーから１枚選び、控え室に置く。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_062.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-062S",
-          "Rarity": "RR+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_062s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-063",
-      "Name": {
-        "EN": "Everyone in Yukatas, Maya",
-        "JP": " みんなで浴衣 マヤ"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "R",
-      "Cost": 3,
-      "ATK": 4,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 3 <Chimame Corps>]:Choose one of your opponent’s members, and put it into the waiting room.",
-          "JP": "【スパーク】【本領発揮Lv３】〔チマメ隊〕：あなたは相手のメンバーから１枚選び、控え室に置く。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_063.png" ],
-      "Remarks": "illust：chisato/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-063S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_063s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：chisato/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-064",
-      "Name": {
-        "JP": "元気いっぱい マヤ",
-        "EN": "Full of Energy, Maya"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "R",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": {
-        "JP": "考えるより先に手が出るタイプだから！",
-        "EN": "Because I'm the type of person who can get to you before you can think!"
-      },
-      "Effect": [
-        {
-          "EN": "[Blocker <Chimame Corps>]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
-          "JP": "【ブロッカー】〔チマメ隊〕\n（手札から控え室に置くと、味方の〔チマメ隊〕へのアタック１回のダメージを０にする）"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_064.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-064S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_064s.png" ],
-          "Flavor": {
-            "JP": "チノー！",
-            "EN": "Chino!"
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-065",
-      "Name": {
-        "JP": "まったり マヤ",
-        "EN": "Laid-back, Maya"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 3,
-      "ATK": 5,
-      "DEF": 6,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Growing](Expect growth in the future!)",
-          "JP": "【のびしろ】（今後の成長に期待！）"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_065.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-065S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_065s.png" ],
-          "Flavor": {
-            "JP": "今日はお泊りだからね",
-            "EN": "You have a sleepover tonight."
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-066",
-      "Name": {
-        "JP": "箱の中身は？ マヤ",
-        "EN": "What’s in the Box? Maya"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 4,
-      "DEF": 5,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Growing](Expect growth in the future!)",
-          "JP": "【のびしろ】（今後の成長に期待！）"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_066.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-066S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_066s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-067",
-      "Name": {
-        "EN": "Communion of Mind with Mind, Maya",
-        "JP": "以心伝心 マヤ"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 4,
-      "Flavor": {
-        "EN": "Hey, Rize, why don't you tell me more about Argentina?",
-        "JP": "ねーリゼ私にもアルゼンチン教えて"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Each player may draw a card. (Each player decides)",
-          "JP": "【スパーク】：各プレイヤーは１枚引いてよい。（そのプレイヤーが決める）"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_067.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-067S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_067s.png" ],
-          "Flavor": {
-            "EN": "Hey, Rize, why don't you tell me more about Argentina?",
-            "JP": "ねーリゼ私にもアルゼンチン教えて"
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-068",
-      "Name": {
-        "JP": "コマメ隊 マヤ",
-        "EN": "Comame Corps, Maya"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 4,
-      "DEF": 4,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character with “Megu” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
-          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《メグ》を１枚選び、メンバーに【レスト】で置いてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_068.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-068S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_068s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-069",
-      "Name": {
-        "JP": "軽やかなワンピース メグ",
-        "EN": "Light One-Piece, Megu"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[ACT](Member)[ReCombo \"Time to Have Fun\"][1/Turn]:[Rest (4) Energy], choose a <Chimame Corps> from your waiting room, and return it to your hand.",
-          "JP": "【起】【メンバー】【Reコンボ】《楽しく過ぎる時間》【ターン１】：［エネ④］ あなたは自分の控え室から〔チマメ隊〕を１枚選び、手札に戻す。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_069.png"
-      ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-069SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_069sp.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-070",
-      "Name": {
-        "EN": "Is the Order a Rebirth? Megu",
-        "JP": "ご注文はReバースですか？ メグ"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "RR",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": "わたしも教えてほしいな"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 3 <Chimame Corps>]:Draw a card.",
-          "JP": "【スパーク】【本領発揮Lv３】〔チマメ隊〕：あなたは１枚引く。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_070.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-070S",
-          "Rarity": "RR+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_070s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-071",
-      "Name": {
-        "EN": "Everyone in Yukatas, Megu",
-        "JP": " みんなで浴衣 メグ "
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "R",
-      "Cost": 3,
-      "ATK": 4,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": "こんなに取れちゃったー"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:This character gets +1/+1 for every two <ChiMaMe Corps> in your retire area until end of turn.",
-          "JP": "【スパーク】：あなたのリタイアの〔チマメ隊〕２枚につき、このターン中、このキャラを＋１/＋１。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_071.png" ],
-      "Remarks": "illust：chisato/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-071S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_071s.png" ],
-          "Flavor": {
-            "EN": null,
-            "JP": null
-          },
-          "Remarks": "illust：chisato/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-072",
-      "Name": {
-        "EN": "Gently My Pace, Megu",
-        "JP": "おっとりマイペース メグ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "R",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": "普通ってすごいんだね！"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose a card from your partner or energy area, and [Stand] it.",
-          "JP": "【スパーク】【本領発揮Lv３】：あなたは自分の、パートナーかエネルギーから１枚選び、【スタンド】する。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_072.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-072S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_072s.png" ],
-          "Flavor": {
-            "EN": null,
-            "JP": "いつも落としちゃうからチノちゃんいて助かったよー"
-          },
-          "Remarks": null
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-073",
-      "Name": {
-        "JP": "まったり メグ",
-        "EN": "Laid-back, Megu"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 4,
-      "ATK": 3,
-      "DEF": 7,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If you have a <Chimame Corps> member, attacks on this character cannot be a partner attack.",
-          "JP": "【永】【エントリー】【本領発揮Lv４】：あなたのメンバーに〔チマメ隊〕がいるなら、このキャラへのアタックはパートナーアタックにならない。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_073.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-073S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_073s.png" ],
-          "Flavor": {
-            "JP": "今年はみんなで行けそうでうれしいな",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-074",
-      "Name": {
-        "JP": "箱の中身は？ メグ",
-        "EN": "What’s in the Box? Megu"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 4,
-      "ATK": 6,
-      "DEF": 6,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Growing](Expect growth in the future!)",
-          "JP": "【のびしろ】（今後の成長に期待！）"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_074.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-074S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_074s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-075",
-      "Name": {
-        "JP": "以心伝心 メグ",
-        "EN": "Communion of Mind with Mind, Megu"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": {
-        "JP": "アルデンテの事じゃないかなぁ？",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[Growing](Expect growth in the future!)",
-          "JP": "【のびしろ】（今後の成長に期待！）"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_075.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-075S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_075s.png" ],
-          "Flavor": {
-            "JP": "アルデンテの事じゃないかなぁ？",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-076",
-      "Name": {
-        "JP": "コマメ隊 メグ",
-        "EN": "Comame Corps, Megu"
-      },
-      "Traits": [
-        {
-          "EN": "Chimame Corps",
-          "JP": "チマメ隊"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 4,
-      "DEF": 4,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a card with “Maya” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
-          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《マヤ》を１枚選び、メンバーに【レスト】で置いてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_076.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-076S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_076s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-
-    {
-      "Serial": "GU/001B-077",
-      "Name": {
-        "EN": "Light One-Piece, \"Blue Mountain\" Aoyama",
-        "JP": "軽やかなワンピース 青山ブルーマウンテン"
-      },
-      "Traits": [
-        {
-          "EN": "Novelist",
-          "JP": "小説家"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 4,
-      "ATK": 5,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Entry)[ReCombo “Escaping from Deadlines“][1/Turn]:[Rest (1) Energy], choose any number of characters with [Cancel] from your waiting room, and return them to your hand.",
-          "JP": "【起】【エントリー】【Reコンボ】《締め切りからの逃亡》【ターン１】：［エネ①］あなたは自分の控え室から【キャンセル】を持つキャラを望む枚数選び、手札に戻す。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_077.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-077SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_077sp.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-078",
-      "Name": {
-        "EN": "Is the Order a Rebirth? \"Blue Mountain\" Aoyama",
-        "JP": "ご注文はReバースですか？ 青山ブルーマウンテン"
-      },
-      "Traits": [
-        {
-          "EN": "Novelist",
-          "JP": "小説家"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Yellow",
-      "Rarity": "R",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": "楽しんでくださいね"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark][Skill Showcase Level 3]:[Put a card from your hand into your waiting room], and set a Rebirth from your waiting room.,",
-          "JP": "【スパーク】【本領発揮Lv３】：あなたは自分の手札から１枚控え室に置くことで、控え室からReバースを１枚セットする。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_078.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-078S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_078s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-079",
-      "Name": {
-        "EN": "Everyone in Yukatas, \"Blue Mountain\" Aoyama",
-        "JP": "みんなで浴衣 青山ブルーマウンテン"
-      },
-      "Traits": [
-        {
-          "EN": "Novelist",
-          "JP": "小説家"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "R",
-      "Cost": 4,
-      "ATK": 6,
-      "DEF": 4,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
-          "JP": "【キャンセル】：Reバース以外の【スパーク】\n（手札から控え室に置くと、Reバース以外の【スパーク】を１つ止める）"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_079.png" ],
-      "Remarks": "illust：chisato/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-079S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_079s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：chisato/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-080",
-      "Name": {
-        "EN": "Laid-back, \"Blue Mountain\" Aoyama",
-        "JP": "まったり 青山ブルーマウンテン"
-      },
-      "Traits": [
-        {
-          "EN": "Novelist",
-          "JP": "小説家"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 4][1/Turn]:When you use [Cancel], choose one of your entries with \"\"Blue Mountain\" Aoyama\" in its card name, and it gets +3/+3 until end of turn.",
-          "JP": "【自】【メンバー】【本領発揮Lv４】【ターン１】：あなたが【キャンセル】を使った時、あなたは自分のエントリーから《青山ブルーマウンテン》を１枚選び、このターン中、そのキャラを＋３/＋３。"
-        },
-        {
-          "EN": "[ACT](Member)[1/Turn]:][Rest (2) Energy], choose one of your opponent’s entries, and put it into your waiting room.",
-          "JP": "【起】【メンバー】ターン１回：［エネ②］あなたは相手のエントリーから１枚選び、控え室に置く。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_080.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-080S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_080s.png" ],
-          "Flavor": {
-            "JP": "ココアさんは旅行ですか？",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-081",
-      "Name": {
-        "JP": "マスターへの想い 青山ブルーマウンテン",
-        "EN": "Feelings for Master, \"Blue Mountain\" Aoyama"
-      },
-      "Traits": [
-        {
-          "EN": "Novelist",
-          "JP": "小説家"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": {
-        "JP": "もう、小説の感想を聞かせてくださることはないんですか……？",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase level 4]:When your character with “Tippy” in its card name is put onto your entry area, put that character and this character on the bottom of your deck in any order.",
-          "JP": "【自】【メンバー】【本領発揮Lv４】：あなたの《ティッピー》がエントリーに置かれた時、あなたはそのキャラとこのキャラをデッキの下に望む順で置く。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_081.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-081S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_081s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-
-    {
-      "Serial": "GU/001B-082",
-      "Name": {
-        "EN": "Light One-Piece, Mocha",
-        "JP": "軽やかなワンピース モカ"
-      },
-      "Traits": [
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "RR",
-      "Cost": 2,
-      "ATK": 3,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[CONT](Member):All of your characters in your entry, member, and retire areas other than characters with “Mocha” in their card names get <Little Sister>.",
-          "JP": "【永】【メンバー】：｛モカ｝以外のあなたの、エントリーとメンバーとリタイアにいるキャラすべてに〔妹〕を与える。"
-        },
-        {
-          "EN": "[AUTO](Member):When this character supports, [Rest (1) Energy], and the supported character gets +1/±0 until end of that attack.",
-          "JP": "【自】【メンバー】：このキャラがサポートした時、あなたはエネ①することで、このアタック中、サポートされたキャラを＋１/±０。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_082.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-082SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_082sp.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-083",
-      "Name": {
-        "EN": "Is the Order a Rebirth? Mocha",
-        "JP": "ご注文はReバースですか？ モカ"
-      },
-      "Traits": [
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 6,
-      "ATK": 5,
-      "DEF": 7,
-      "Flavor": {
-        "EN": null,
-        "JP": "わたしに挑む気？"
-      },
-      "Effect": [
-        {
-          "EN": "[CONT](Entry)[ReCombo “Yearned Sister“]:If you have two or more <Little Sister> members, this character gets +5/±0.",
-          "JP": "【永】【エントリー】【Reコンボ】《憧れのお姉ちゃん》：あなたのメンバーに〔妹〕が２枚以上いるなら、このキャラを＋５/±０。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_083.png" ],
-      "Remarks": "illust：ceco/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-083S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_083s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：ceco/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-084",
-      "Name": {
-        "EN": "Everyone in Yukatas, Mocha",
-        "JP": "みんなで浴衣 モ"
-      },
-      "Traits": [
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 4,
-      "ATK": 5,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO][Skill Showcase Level 4]:When this character is placed onto your entry area from hand, choose a card with “Cocoa” in its card name from your waiting room, and you may put it onto your member area as [Rest].",
-          "JP": "【自】【本領発揮Lv４】：このキャラが手札からエントリーに置かれた時、あなたは自分の控え室から《ココア》を１枚選び、メンバーに【レスト】で置いてよい。"
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_084.png" ],
-      "Remarks": "illust：chisato/ルノテオ",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-084S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_084s.png" ],
-          "Flavor": null,
-          "Remarks": "illust：chisato/ルノテオ"
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-085",
-      "Name": {
-        "JP": "モフモフ モカ",
-        "EN": "Fluffy, Mocha"
-      },
-      "Traits": [
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 3,
-      "ATK": 5,
-      "DEF": 5,
-      "Flavor": {
-        "JP": null,
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 3 <Little Sister>]:When your <Little Sister> entry is put onto your entry area, you may exchange this character’s position with your entry.",
-          "JP": "【自】【メンバー】【本領発揮Lv３】〔妹〕：あなたの〔妹〕がエントリーに置かれた時、あなたはこのキャラを自分のエントリーと入れ替えてよい。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_085.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-085S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_085s.png" ],
-          "Flavor": {
-            "JP": "この子たちも私へのプレゼントかな？",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-086",
-      "Name": {
-        "JP": "頼れる姉オーラ モカ",
-        "EN": "Aura of a Reliable Older Sister, Mocha"
-      },
-      "Traits": [
-        {
-          "EN": "Bread",
-          "JP": "パン"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "C",
-      "Cost": 1,
-      "ATK": 2,
-      "DEF": 3,
-      "Flavor": {
-        "JP": "チノ「こ……これが……」 リゼ「頼れる姉オーラ……」",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a character with “Cocoa” in its card name, the supported character gets +1/±0 until end of that attack.",
-          "JP": "【自】【メンバー】【本領発揮Lv３】：このキャラが《ココア》をサポートした時、このアタック中、サポートされたキャラを＋１/±０。"
-        }
-      ],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_086.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-086S",
-          "Rarity": "C+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_086s.png" ],
-          "Flavor": {
-            "JP": "チノ「こ……これが……」 リゼ「頼れる姉オーラ……」",
-            "EN": null
-          },
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-087",
-      "Name": {
-        "EN": "Tippy & Anko",
-        "JP": "ティッピー＆あんこ"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        },
-        {
-          "EN": "Ama Usa An",
-          "JP": "甘兎庵ス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Blue",
-      "Rarity": "R",
-      "Cost": 3,
-      "ATK": 3,
-      "DEF": 6,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[ACT](Waiting Room):[Rest (2) Energy], if you have a member with \"Cocoa\" in its card name, put this character onto your member area.",
-          "JP": "【起】【控え室】：［エネ②］あなたのメンバーに《ココア》がいるなら、あなたはこのキャラをメンバーに置く。"
-
-        }
-      ],
-      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_087.png" ],
-      "Remarks": null,
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-087S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_087s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-088",
-      "Name": {
-        "EN": "Tippy & Wild Geese",
-        "JP": "ティッピー＆ワイルドギース"
-      },
-      "Traits": [
-        {
-          "EN": "Rabbit House",
-          "JP": "ラビットハウス"
-        }
-      ],
-      "Type": "Character",
-      "Color": "Green",
-      "Rarity": "C",
-      "Cost": 2,
-      "ATK": 2,
-      "DEF": 5,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Blocker <Rabbit House>]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
-          "JP": "【ブロッカー】〔ラビットハウス〕\n（手札から控え室に置くと、味方の〔ラビットハウス〕へのアタック１回のダメージを０にする）"
-        }
-      ],
-      "Images": [ "https://rebirthforyourenegades.files.wordpress.com/2020/07/gu_001b_r_32.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-088S",
-          "Rarity": "R+",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_088s.png" ],
-          "Flavor": null,
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-089",
-      "Name": {
-        "EN": "Older Sister and Younger Sister",
-        "JP": "お姉ちゃんと妹"
-      },
-      "Traits": [],
+      "Traits": null,
       "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReR",
+      "Color": "Blue",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": {
-        "EN": null,
-        "JP": "チノ「妹じゃないです」"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
-          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
-        },
-        {
-          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
-          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。"
-        }
-      ],
-      "Images": [ "https://i.imgur.com/SpGXaWU.png" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-089aSR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/Q8Hx8uj.png?1" ],
-          "Flavor": {
-            "JP": "チノ「お姉ちゃんのねぼすけ」",
-            "EN": null
-          }
-        },
-        {
-          "Serial": "GU/001B-089bSR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/6Rxahuc.png?1" ],
-          "Flavor": {
-            "JP": "ココア「お姉ちゃんにまかせなさい」",
-            "EN": null
-          }
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-090",
-      "Name": {
-        "JP": "３人いっしょに",
-        "EN": "3 People Together"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Blue",
-      "Rarity": "ReR",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "JP": "メグ「チノちゃん、緊張してる？」\nマヤ「体が少し震えてるよ」",
-        "EN": null
+        "EN": "Rebirth doesnt just spark!",
+        "JP": "Reバースは、スパークするだけじゃない――！"
       },
       "Effect": [
         {
@@ -3984,133 +1683,126 @@
         }
       ],
       "Images": [
-        "https://i.imgur.com/xV3SzTX.png?1"
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10062.jpg"
       ],
-      "Remarks": "",
+      "Remarks": null,
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-090SR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/XyvCetE.png?1" ],
-          "Flavor": null
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-091",
+      "Serial": "RE/PR-0002",
       "Name": {
-        "EN": "Full Face Smile",
-        "JP": "満面の笑み"
+        "JP": "３年振りの再会",
+        "EN": "3 Years Reunion"
       },
-      "Traits": [],
+      "Traits": null,
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "ReR",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": {
-        "EN": "Nico~!",
-        "JP": "ニコッ！"
+        "EN": "Rebirth connects us together",
+        "JP": "「Reバース」がまた2人をつなぎ合わせる――"
       },
       "Effect": [
         {
-          "EN": "[Spark]:Heal one.",
-          "JP": "【スパーク】：あなたは１点回復する。"
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "【スパーク】：あなたは自分のメンバーから１枚選び、手札に戻してよい。"
         },
         {
-          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
-          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。"
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "【起】【ターン１】：あなたのパートナーをすべて【スタンド】する。"
         }
       ],
-      "Images": [ "https://i.imgur.com/fYUNV39.png?1" ],
-      "Remarks": "",
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10063.jpg"
+      ],
+      "Remarks": null,
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-091SR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/IiwixTG.png?1" ],
-          "Flavor": {
-            "JP": "マヤ、メグ「最高の笑顔ー」",
-            "EN": "Maya & Megu: The greatest smile~"
-          }
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-092",
+      "Serial": "RE/PR-0003",
       "Name": {
-        "EN": "Ama Usa An’s Signboard Girl",
-        "JP": "甘兎庵の看板娘"
+        "JP": "東山 有",
+        "EN": "Yuu Higashiyama"
       },
       "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10064.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0015",
+      "Name": {
+        "JP": "チーム名は「Go Go しちゅー’s! 」!",
+        "EN": "Team Go Go Stew's!"
+      },
+      "Traits": null,
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "ReR",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": "どう、似合うかしら？甘兎庵浴衣週間！"
-      },
+      "Flavor": null,
       "Effect": [
         {
-          "EN": "[Spark]: Put two cards from the top of your deck onto your energy area as [Rest].",
-          "JP": "【スパーク】：あなたは自分のデッキの上から２枚エネルギーに【レスト】で置く。"
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "【スパーク】：あなたは２枚引く。"
         },
         {
           "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
           "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋３/±０。"
         }
       ],
-      "Images": [ "https://i.imgur.com/G8LCc1z.png?1" ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10065.jpg"
+      ],
       "Remarks": null,
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-092SR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/LGyvmEo.png?1" ],
-          "Flavor": {
-            "JP": "第一回、カラオケ大会！ＩＮ甘兎庵～",
-            "EN": null
-          }
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-093",
+      "Serial": "RE/PR-0016",
       "Name": {
-        "JP": "カフェインハイテンション",
-        "EN": "Caffeine High Tension"
+        "JP": "チーム名は「Go Go しちゅー’s! 」!",
+        "EN": "Team TRenity!"
       },
-      "Traits": [],
+      "Traits": null,
       "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReR",
+      "Color": "Blue",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[Spark]:Heal one.",
-          "JP": "【スパーク】：あなたは１点回復する。"
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "【永】：あなたの【スパーク】は追加でもう一度発動する。"
         },
         {
           "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
@@ -4118,648 +1810,2508 @@
         }
       ],
       "Images": [
-        "https://i.imgur.com/IiLa67U.png?1"
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10306.jpg"
       ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-093SR+",
-          "Rarity": "ReR+",
-          "Images": [ "https://i.imgur.com/crTDsQd.png?1" ],
-          "Flavor": {
-            "JP": "掛け声が聞こえないぞ～？",
-            "EN": null
-          }
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-094",
-      "Name": {
-        "JP": "甘え上手",
-        "EN": "Good at Pampering"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReC",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": null,
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
-          "JP": "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。"
-        },
-        {
-          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent’s entries or members, and put it into the waiting room.",
-          "JP": "【自】：このReバースがセットされた時、あなたのリタイアが３枚以上なら、あなたは相手の、エントリーかメンバーから１枚選び、控え室に置く。"
-        }
-      ],
-      "Images": [
-        "https://i.imgur.com/NF8CPbW.png?1"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-094SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/Qey59Ae.png?1" ],
-          "Flavor": {
-            "JP": "二人と仕事してるチノがうらやましくて私が代わりをしたかったの",
-            "EN": null
-          }
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-095",
-      "Name": {
-        "JP": "楽しく過ぎる時間",
-        "EN": "Time to Have Fun"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReC",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "JP": "もう何がなんだかだよ",
-        "EN": null
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose one of your opponent’s [Rest] members, and put it into the waiting room.",
-          "JP": "【スパーク】：あなたは相手の【レスト】しているメンバーから１枚選び、控え室に置く。"
-        },
-        {
-          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
-          "JP": "【自】：このReバースがセットされた時、あなたは自分の控え室からキャラを１枚選び、手札に戻してよい。"
-        }
-      ],
-      "Images": [
-        "https://i.imgur.com/1svU4ml.png?1"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-095SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/cd3CJDF.png?1" ],
-          "Flavor": {
-            "JP": "二羽兎の刑事だね！",
-            "EN": null
-          }
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-096",
-      "Name": {
-        "EN": "Escaping from Deadlines",
-        "JP": "締め切りからの逃亡"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Green",
-      "Rarity": "ReC",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": null
-      },
-      "Effect": [
-        {
-          "EN": "[Cancel]:[Spark] or [Cancel] (If you discard it from hand, negate one [Spark] or [Cancel])",
-          "JP": null
-        },
-        {
-          "EN": "[CONT]: Your entry gets +1/+1.",
-          "JP": null
-        }
-      ],
-      "Images": [ "https://i.imgur.com/724bQP7.png" ],
       "Remarks": null,
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-096SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/r6i9OZv.png?1" ],
-          "Flavor": null
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-097",
+      "Serial": "RE/PR-0017",
       "Name": {
-        "EN": "Adored Older Sister",
-        "JP": "憧れのお姉ちゃん"
-      },
-      "Traits": [],
-      "Type": "Rebirth",
-      "Color": "Yellow",
-      "Rarity": "ReC",
-      "Cost": null,
-      "ATK": null,
-      "DEF": null,
-      "Flavor": {
-        "EN": null,
-        "JP": "お姉ちゃんにまかせなさい"
-      },
-      "Effect": [
-        {
-          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
-          "JP": "【スパーク】：あなたは自分の控え室からキャラを１枚選び、メンバーに置いてよい。"
-        },
-        {
-          "EN": "[CONT]:Your entry gets +1/+1.",
-          "JP": "【永】：あなたのエントリーを＋１/＋１。"
-        }
-      ],
-      "Images": [ "https://i.imgur.com/l6LZxDl.png?1" ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-097SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/G4WwmLe.png?1" ],
-          "Flavor": {
-            "JP": "私になろうなんて、10年早いぞ",
-            "EN": null
-          }
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-098",
-      "Name": {
-        "EN": "Welcome to Wood-Framed Town",
-        "JP": "ようこそ木組みの街へ "
+        "JP": " チーム名は「アステリズム」！",
+        "EN": "Team Asterism!"
       },
       "Traits": null,
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "ReC",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
+          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］ このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10307.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0018",
+      "Name": {
+        "JP": " チーム名は「アステリズム」！",
+        "EN": "Team Venus!"
+      },
+      "Traits": null,
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
+          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］ このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10307.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0020",
+      "Name": {
+        "JP": "WGP2020 有",
+        "EN": "WGP2020 Yuu"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "Go Go Stew's!",
+          "JP": "Go Go しちゅー’s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]: Choose 1 character with cost 3 or more from your energy, reveal it, return it to your hand.",
+          "JP": "【スパーク】：あなたは自分のエネルギーから３コスト以上のキャラを１枚まで選んで公開し、手札に戻す。（自分のエネルギーの内容はいつでも見てよい）"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10320.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0021",
+      "Name": {
+        "JP": "WGP2020 圭",
+        "EN": "WGP2020 Kei"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "トReニティ"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]: [Stand] one of your energy or partner.",
+          "JP": "【スパーク】【本領発揮Lv３】：あなたは自分の、パートナーかエネルギーから１枚選び、【スタンド】する。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10321.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0023",
+      "Name": {
+        "JP": "西本 りみ＆西尾 夕香＆進藤 あまね",
+        "EN": "Rimi Nishimoto & Yuka Nishio & Amane Shindo"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10066.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-024",
+      "Name": {
+        "JP": "東山 有",
+        "EN": "Yuu Higashiyama"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10294.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0025",
+      "Name": {
+        "JP": "若宮 千春",
+        "EN": "Chiharu Wakamiya"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10295.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0026",
+      "Name": {
+        "JP": "美濃 周子",
+        "EN": "Shuko Mino"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10296.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-027",
+      "Name": {
+        "JP": "猫ヶ洞 青",
+        "EN": "Ao Nekogahora"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10297.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0028",
+      "Name": {
+        "JP": "春日井 梢",
+        "EN": "Kozue Kasugai"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10298.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0029",
+      "Name": {
+        "JP": "岡崎 育未",
+        "EN": "Ikumi Okazaki"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10299.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0030",
+      "Name": {
+        "JP": "藤堂 圭",
+        "EN": "Kei Tōdō"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10300.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0031",
+      "Name": {
+        "JP": "愛染 京",
+        "EN": "Miyako Aizen"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10301.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0032",
+      "Name": {
+        "JP": "桜木 雪",
+        "EN": "Yuki Sakuragi"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10302.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0033",
+      "Name": {
+        "JP": "鳥越 樹里",
+        "EN": "Juri Torigoe"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10303.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0034",
+      "Name": {
+        "JP": " 駒形 豊",
+        "EN": "Yutaka Komagata"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10304.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0035",
+      "Name": {
+        "JP": " 寿 沙希",
+        "EN": "Saki Kotobuki"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": [],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/re1.0/10305.jpg"
+      ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0036a",
+      "Name": {
+        "EN": "Rebirth GO!",
+        "JP": "Reバース GO!"
+      },
+      "Trait": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "Go Go Stew's!",
+          "JP": "Go Go しちゅー’s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Yūka Nishio as Yuu Higashiyama",
+        "JP": "東山 有(CV:西尾夕香)"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:This characters first attack becomes a partner attack.",
+          "JP": "【スパーク】【本領発揮Lv５】：あなたのターンの終わりまで、このキャラの１回目のアタックはパートナーアタックになる。"
+        }
+      ],
+      "Alternative": [
+        {
+          "Serial": "RE/PR-0036b",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10309.jpg" ],
+          "Flavor": {
+            "JP": "若宮 千春(CV:西本りみ)",
+            "EN": "Rimi Nishimoto as Chiharu Wakamiya"
+          },
+          "Remarks": ""
+        },
+        {
+          "Serial": "RE/PR-0036c",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10310.jpg" ],
+          "Flavor": {
+            "JP": "美濃 周子(CV:進藤あまね)",
+            "EN": "Amane Shindō as Shuko Mino"
+          },
+          "Remarks": ""
+        }
+      ],
+      "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10308.jpg" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0037a",
+      "Name": {
+        "EN": "Rebirth GO!",
+        "JP": "Reバース GO!"
+      },
+      "Trait": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "Asterism",
+          "JP": "アステリズム"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Runa Narumi as Ao Nekogahora",
+        "JP": "猫ヶ洞 青(CV:成海瑠奈)"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:This characters first attack becomes a partner attack.",
+          "JP": "【スパーク】【本領発揮Lv５】：あなたのターンの終わりまで、このキャラの１回目のアタックはパートナーアタックになる。"
+        }
+      ],
+      "Alternative": [
+        {
+          "Serial": "RE/PR-0037b",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10312.jpg" ],
+          "Flavor": {
+            "JP": "春日井 梢(CV:佐伯伊織)",
+            "EN": "Iori Saeki as Kozue Kasugai"
+          },
+          "Remarks": ""
+        },
+        {
+          "Serial": "RE/PR-0037c",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10313.jpg" ],
+          "Flavor": {
+            "JP": "岡崎 育未(CV:尾崎由香)",
+            "EN": "Yuka Ozaki as Ikumi Okazaki"
+          },
+          "Remarks": ""
+        }
+      ],
+      "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10311.jpg" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0038a",
+      "Name": {
+        "EN": "Rebirth GO!",
+        "JP": "Reバース GO!"
+      },
+      "Trait": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "トReニティ"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Momoyo Koyama as Kei Tōdō",
+        "JP": "藤堂 圭(CV:小山百代)"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:This characters first attack becomes a partner attack.",
+          "JP": "【スパーク】【本領発揮Lv５】：あなたのターンの終わりまで、このキャラの１回目のアタックはパートナーアタックになる。"
+        }
+      ],
+      "Alternative": [
+        {
+          "Serial": "RE/PR-0038b",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10315.jpg" ],
+          "Flavor": {
+            "JP": "愛染 京(CV:遠野ひかる)",
+            "EN": "Hikaru Tohno as Miyako Aizen"
+          },
+          "Remarks": ""
+        },
+        {
+          "Serial": "RE/PR-0038c",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10316.jpg" ],
+          "Flavor": {
+            "JP": "桜木 雪(CV:岩田陽葵)",
+            "EN": "Haruki Iwata as Yuki Sakuragi"
+          },
+          "Remarks": ""
+        }
+      ],
+      "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10314.jpg" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RE/PR-0039a",
+      "Name": {
+        "EN": "Rebirth GO!",
+        "JP": "Reバース GO!"
+      },
+      "Trait": [
+        {
+          "EN": "Rebirth",
+          "JP": "りばあす"
+        },
+        {
+          "EN": "Venus",
+          "JP": "ヴィーナス"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Sae Ootsuka as Juri Torigoe",
+        "JP": "鳥越 樹里(CV:大塚紗英)"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:This characters first attack becomes a partner attack.",
+          "JP": "【スパーク】【本領発揮Lv５】：あなたのターンの終わりまで、このキャラの１回目のアタックはパートナーアタックになる。"
+        }
+      ],
+      "Alternative": [
+        {
+          "Serial": "RE/PR-0039b",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10318.jpg" ],
+          "Flavor": {
+            "JP": "駒形 豊(CV:三村遙佳)",
+            "EN": "Haruka Mimura as Yutaka Komagata"
+          },
+          "Remarks": ""
+        },
+        {
+          "Serial": "RE/PR-0039c",
+          "Rarity": "PR",
+          "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10319.jpg" ],
+          "Flavor": {
+            "JP": "寿 沙希(CV:葉月ひまり)",
+            "EN": "Himari Hazuki as Saki Kotobuki"
+          },
+          "Remarks": ""
+        }
+      ],
+      "Images": [ "https://yuyu-tei.jp/card_image/re/front/re1.0/10317.jpg" ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RE/PR",
+        "Name": "Rebirth For You! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0002",
+      "Name": {
+        "JP": "日々進化中 華恋",
+        "EN": "Evolving Daily, Karen"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "あの舞台に立つ日まで、愛城華恋はノンストップ、なのです！",
+        "EN": "Until the day she stands on that stage, Karen Aijo will not stop!"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first battle of this character each turn, this character gets +4/±0.",
+          "JP": "【永】【エントリー】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10064.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0001",
+      "Name": {
+        "JP": "少女☆歌劇 レヴュースタァライト-Re LIVE-",
+        "EN": "Shojo Kageki Revue Starlight -Re LIVE"
+      },
+      "Traits": null,
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": {
-        "EN": null,
-        "JP": null
+        "JP": "新たな舞台での幕が上がる――",
+        "EN": "The curtain rises onto the new stage"
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose the same number of cards from your opponent’s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
-          "JP": "【スパーク】：あなたは相手の、エントリーとメンバーから、あなたのリタイアと同じ枚数選び、控え室に置く。（選べる限り選ぶ）"
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "【スパーク】：あなたは２枚引く。"
         },
         {
-          "EN": "[CONT]:Your entry gets +1/+1.",
-          "JP": "【永】：あなたのエントリーを＋１/＋１。"
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋３/±０。"
         }
       ],
-      "Images": [ "https://i.imgur.com/Clzq0Dw.png?1" ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10063.jpg"
+      ],
       "Remarks": "",
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-098SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/l1ddAei.png?1" ],
-          "Flavor": null
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-099",
+      "Serial": "RS/PR-0003",
       "Name": {
-        "JP": "シャッターチャンス",
-        "EN": "Shutter Chance"
+        "JP": " 転校生 ひかり",
+        "EN": "Transfer Student, Hikari"
       },
-      "Traits": [],
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "日本とイギリスじゃ、違うことばかりよ。",
+        "EN": "Japanese and English are completely different."
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: This character gets ＋２/＋２ until end of turn",
+          "JP": "【スパーク】：このターン中、このキャラを＋２/＋２。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10065.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0004",
+      "Name": {
+        "JP": " 別れの戦記 華恋＆ひかり",
+        "EN": "The Wartime of Farewells, Karen & Hikari"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "華恋「あの子のことが忘れられない……！」",
+        "EN": "Karen: \"I can't forget about that child......!\""
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is placed on your entry area from hand, if you have a member with \"Karen\" or \"Hikari\" in its card name, draw a card, put a card from your hand into your waiting room, and this character gets +3/±0 until end of turn",
+          "JP": "【自】【メンバー】：このキャラが手札からエントリーに置かれた時、あなたのメンバーに、\n《華恋》か《ひかり》がいるなら、あなたは１枚引き、自分の手札から１枚控え室に置き、このターン中、このキャラを＋３/±０。,"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10066.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0005",
+      "Name": {
+        "JP": "サライ まひる",
+        "EN": "Salaì Mahiru"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        },
+        {
+          "EN": "Seisho Music Academy",
+          "JP": "聖翔音楽学園"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "ご存知、ダ・ヴィンチの一番弟子！知らない人は覚えてほしいな！",
+        "EN": "As you all know, I'm da Vinci's best apprentice! Those who don't know, please remember!"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: You may choose a character from your hand, place it to member area.",
+          "JP": "【スパーク】：あなたは自分の手札からキャラを１枚選び、メンバーに置いてよい。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10067.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0006",
+      "Name": {
+        "JP": "ペルセウス 晶",
+        "EN": "Perseus Akira"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        },
+        {
+          "EN": "Siegfeld Institute of Music",
+          "JP": "シークフェルト音楽学院"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "刮目せよ！これが私の演じる『英雄』だ",
+        "EN": "Pay heed! This is the hero I play."
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4][1/Turn]: When this character retires an opponents character, choose one of your opponent's lowest DEF member, put it onto the waiting room.",
+          "JP": "【自】【エントリー】【本領発揮Lv４】【ターン1】：このキャラが相手のキャラをリタイアさせた時、あなたは相手のメンバーの中で最もDEFの低いキャラから1枚選び、控え室に置く。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10318.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0007",
+      "Name": {
+        "JP": "アリス あるる",
+        "EN": "Alice Aruru"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        },
+        {
+          "EN": "Frontier School of Arts",
+          "JP": "フロンティア芸術学校"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "よーし！不思議の国へ行っちゃおう！",
+        "EN": "All right! Let's go to Wonderland!"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: This character gets ＋２/±０ until end of turn.",
+          "JP": "【スパーク】：このターン中、このキャラを＋２/±０。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10068.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "RS/PR-0008",
+      "Name": {
+        "JP": "羽根つきで勝負！？ 珠緒",
+        "EN": "Paddle Battle?! Tamao"
+      },
+      "Traits": [
+        {
+          "EN": "Stage Girl",
+          "JP": "舞台少女"
+        },
+        {
+          "EN": "Rinmeikan Girls School",
+          "JP": "凛明館女学院"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "謹賀新年。今年もこの時期が来たんですね",
+        "EN": "It's that time again... Happy New Year!"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]: This character gets ＋２/＋２.",
+          "JP": "【永】【エントリー】【Reコンボ】：このキャラを＋２/＋２。（【Reコンボ】：あなたのReバースがセットしてあれば有効）"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/rs1.0/10069.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "RS/PR",
+        "Name": "Revue Starlight, Relive! Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "TH/PR-0001",
+      "Name": {
+        "JP": "東方反転録",
+        "EN": "Touhou Revolution Record"
+      },
+      "Traits": null,
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "ReC",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": {
+        "JP": "幻想郷を飛び出し、Reバースの舞台へ――,",
+        "EN": null
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "【スパーク】：あなたは２枚引く。"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +3/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋３/±０。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/th1.0/10043.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
+    },
+    {
+      "Serial": "TH/PR-0003",
+      "Name": {
+        "JP": "宇佐見菫子",
+        "EN": "Usami Sumiko"
+      },
+      "Traits": [
+        {
+          "JP": "深秘録",
+          "EN": "Urban Legend in Limbo"
+        },
+        {
+          "JP": "人間",
+          "EN": "Human"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a card from your waiting room, and put it onto your energy area as rest.",
+          "JP": "【スパーク】【本領発揮Lv４】：あなたは自分の控え室から１枚選び、エネルギーに【レスト】で置く。（【本領発揮Lv４】：あなたの、メンバーとリタイアが合計４枚以上で有効）,"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/th1.0/10273.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
+    },
+    {
+      "Serial": "TH/PR-0004",
+      "Name": {
+        "JP": "春まつり さとり",
+        "EN": "Spring Festival Satori"
+      },
+      "Traits": [
+        {
+          "JP": "地霊殿",
+          "EN": "Subterranean Animism"
+        },
+        {
+          "JP": "妖怪",
+          "EN": "Youkai"
+        },
+        {
+          "JP": "さとり",
+          "EN": "Satori"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Rest (1) Energy] Look at the top card of your deck.",
+          "JP": "【起】【メンバー】【本領発揮Lv３】【ターン1回】：[エネ1]あなたは自分のデッキの上から1枚見る。"
+        }
+      ],
+      "Images": [
+        "https://yuyu-tei.jp/card_image/re/front/th1.0/10274.jpg"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
+    },
+    {
+      "Serial": "TH/PR-0006",
+      "Name": {
+        "JP": "秋まつり 紫",
+        "EN": "Autumn Festival Yukari"
+      },
+      "Traits": [
+        {
+          "JP": "妖々夢",
+          "EN": "Perfect Cherry Blossom"
+        },
+        {
+          "JP": "妖怪",
+          "EN": "Youkai"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
+          "JP": "【ブロッカー】（手札からすてると、味方へのアタック１回のダメージを０にする）"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/th_pr_0006.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
+    },
+    {
+      "Serial": "TH/PR-0007",
+      "Name": {
+        "JP": "白玉楼の宴",
+        "EN": "Feast at Hakugyokurou"
+      },
+      "Traits": null,
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[Spark]:Choose the same number of cards from your opponent’s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
-          "JP": "【スパーク】：あなたは相手の、エントリーとメンバーから、あなたのリタイアと同じ枚数選び、控え室に置く。（選べる限り選ぶ）"
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
         },
         {
-          "EN": "[CONT]:Your entry gets +1/+1.",
-          "JP": "【永】：あなたのエントリーを＋１/＋１。"
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
+          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。,"
         }
       ],
       "Images": [
-        "https://i.imgur.com/8KLqI82.png?1"
+        "https://yuyu-tei.jp/card_image/re/front/thex1.0/10025.jpg"
       ],
       "Remarks": "",
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-099SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/EEXvxRv.png?1" ],
-          "Flavor": null
-        }
-      ]
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
     },
     {
-      "Serial": "GU/001B-100",
+      "Serial": "TH/PR-0045",
       "Name": {
-        "JP": "振り回され隊",
-        "EN": "Manipulated Squad"
+        "JP": "陽葉学園制服 りんく",
+        "EN": "Feast at Hakugyokurou"
       },
-      "Traits": [],
+      "Traits": null,
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "ReC",
+      "Rarity": "PR",
       "Cost": null,
       "ATK": null,
       "DEF": null,
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
-          "JP": "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。"
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card’s [Spark].",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラの【スパーク】を１つまで選ぶ。このReバースをセットすることで、このカードの【スパーク】として発動させる。"
         },
         {
-          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent’s entries or members, and put it into the waiting room.",
-          "JP": "【自】：このReバースがセットされた時、あなたのリタイアが３枚以上なら、あなたは相手の、エントリーかメンバーから１枚選び、控え室に置く。"
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets +1/±0 until end of turn.",
+          "JP": "【起】【ターン１】：［エントリーから１枚控え室に置く］このターン中、次にあなたのエントリーに置かれるキャラを＋１/±０。,"
         }
       ],
       "Images": [
-        "https://i.imgur.com/8KLqI82.png?1"
+        "https://yuyu-tei.jp/card_image/re/front/thex1.0/10025.jpg"
       ],
       "Remarks": "",
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-100SR+",
-          "Rarity": "ReC+",
-          "Images": [ "https://i.imgur.com/cd3CJDF.png?1" ],
-          "Flavor": null
-        }
-      ]
+        "ReleaseCode": "TH/PR",
+        "Name": "Touhou Project Promo Cards",
+        "Description": "Illustration：高渡あゆみ"
+      }
     },
     {
-      "Serial": "GU/001B-P001",
+      "Serial": "CP/0003",
       "Name": {
-        "JP": "ココア",
-        "EN": "Cocoa"
+        "JP": "地元のお店で会える…かも！？",
+        "EN": "Claim at your local shop... Maybe?!"
       },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
+      "Traits": [
+        {
+          "EN": "Campaign",
+          "JP": "キャンペーン "
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "CP",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 3,
+      "Flavor": [
+        {
+          "EN": "Campaign",
+          "JP": "キャンペーン "
+        }
+      ],
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "【のびしろ】(今後の成長に期待！)"
+        }
+      ],
       "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p001.png"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/cp_0003.png"
       ],
       "Remarks": "",
       "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
+        "ReleaseCode": "CP/CP",
+        "Name": "Rebirth Campaign Cards",
         "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P001PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p001pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P001SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p001sp.png" ],
-          "Remarks": ""
-        }
-      ]
+      }
     },
     {
-      "Serial": "GU/001B-P002",
+      "Serial": "CP/0001",
       "Name": {
-        "JP": "チノ",
-        "EN": "Chino"
+        "JP": "金銀キャンペーン 金の当たり",
+        "EN": "Gold and Silver Campaign, Gold"
       },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p002.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
+      "Traits": [
         {
-          "Serial": "GU/001B-P002PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p002pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P002SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p002sp.png" ],
-          "Remarks": ""
+          "EN": "Campaign",
+          "JP": "キャンペーン "
         }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P003",
-      "Name": {
-        "JP": "リゼ",
-        "EN": "Rize"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p003.png"
       ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P003PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p003pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P003SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p003sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P004",
-      "Name": {
-        "JP": "千夜",
-        "EN": "Chiya"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p004.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P004PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p004pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P004SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p004sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P005",
-      "Name": {
-        "JP": "シャロ",
-        "EN": "Sharo"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p005.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P005PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p005pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P005SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p005sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P006",
-      "Name": {
-        "JP": "マヤ",
-        "EN": "Maya"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p006.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P006PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p006pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P006SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p006sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P007",
-      "Name": {
-        "JP": "マヤ",
-        "EN": "Megu"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p007.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P007PP",
-          "Rarity": "PP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p007pp.png" ],
-          "Remarks": ""
-        },
-        {
-          "Serial": "GU/001B-P007SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p007sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P008",
-      "Name": {
-        "JP": "青山ブルーマウンテン",
-        "EN": "\"Blue Mountain\" Aoyama"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p008.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P008SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p008sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    },
-    {
-      "Serial": "GU/001B-P009",
-      "Name": {
-        "JP": "モカ",
-        "EN": "Mocha"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Color": "Red",
-      "Rarity": "P",
-      "Flavor": null,
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p009.png"
-      ],
-      "Remarks": "",
-      "Set": {
-        "ReleaseCode": "GU/001B",
-        "Name": "Is the Order a Rabbit? Booster Pack",
-        "Description": null
-      },
-      "Alternates": [
-        {
-          "Serial": "GU/001B-P009SP",
-          "Rarity": "SP",
-          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUBP/gu001b_p009sp.png" ],
-          "Remarks": ""
-        }
-      ]
-    }
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "CP",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": [
 
+        {
+          "EN": "Campaign",
+          "JP": "キャンペーン "
+        }
+      ],
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
+          "JP": "【ブロッカー】（手札から控え室に置くと、味方へのアタック１回のダメージを０にする）"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/cp_0001.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "CP/CP",
+        "Name": "Rebirth Campaign Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "CP/0002",
+      "Name": {
+        "JP": "金銀キャンペーン 銀の当たり",
+        "EN": "Gold and Silver Campaign, Silver"
+      },
+      "Traits": [
+        {
+          "EN": "Campaign",
+          "JP": "キャンペーン "
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "CP",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": [
+
+        {
+          "EN": "Campaign",
+          "JP": "キャンペーン "
+        }
+      ],
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
+          "JP": "【ブロッカー】（手札から控え室に置くと、味方へのアタック１回のダメージを０にする）"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/cp_0002.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "CP/CP",
+        "Name": "Rebirth Campaign Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "DJ/PR-0045",
+      "Name": {
+        "EN": "School Uniform, Rinku",
+        "JP": "陽葉学園制服 りんく"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": null,
+        "JP": "やっとみんなで練習できるよ～！"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto a member area.",
+          "JP": "【スパーク】：あなたは自分の控え室からキャラを１枚選び、メンバーに置いてよい。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0045.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0046",
+      "Name": {
+        "EN": "School Uniform, Maho",
+        "JP": "陽葉学園制服 真秀"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": "練習始めるよ～。やること、いっぱいあるんだから！"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is placed from entry area from hand, this character gets ＋２/±０ until end of turn.",
+          "JP": "【自】：このキャラが手札からエントリーに置かれた時、このターン中、このキャラを＋２/±０。"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0046.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0018",
+      "Name": {
+        "EN": "Rinku Aimoto",
+        "JP": "愛本りんく"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0018.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0019",
+      "Name": {
+        "EN": "Maho Akashi",
+        "JP": "明石真秀"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0019.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0020",
+      "Name": {
+        "EN": "Muni Ohnaruto",
+        "JP": "大鳴門むに"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0020.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0021",
+      "Name": {
+        "EN": "Rei Togetsu",
+        "JP": "渡月 麗"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0021.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0022",
+      "Name": {
+        "EN": "Tsubaki Aoyagi",
+        "JP": "青柳 椿"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0022.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0023",
+      "Name": {
+        "EN": "Nagisa Tsukimiyama",
+        "JP": "月見山 渚"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0023.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0024",
+      "Name": {
+        "EN": "Hiiro Yano",
+        "JP": "矢野緋彩"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0024.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0025",
+      "Name": {
+        "EN": "Aoi Miyake",
+        "JP": "三宅葵依"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0025.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0025",
+      "Name": {
+        "EN": "Aoi Miyake",
+        "JP": "三宅葵依"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0025.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0026",
+      "Name": {
+        "EN": "Rika Seto",
+        "JP": "瀬戸リカ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0026.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0027",
+      "Name": {
+        "EN": "Marika Mizushima",
+        "JP": "水島茉莉花"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0027.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0027",
+      "Name": {
+        "EN": "Marika Mizushima",
+        "JP": "水島茉莉花"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0027.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0028",
+      "Name": {
+        "EN": "Saori Hidaka",
+        "JP": "日高さおり"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0028.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0029",
+      "Name": {
+        "EN": "Dalia Matsuyama",
+        "JP": "松山ダリア"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0029.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0030",
+      "Name": {
+        "EN": "Miyu Sakurada",
+        "JP": "桜田美夢"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0030.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0031",
+      "Name": {
+        "EN": "Haruna Kasuga",
+        "JP": "春日春奈"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0031.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0032",
+      "Name": {
+        "EN": "Kurumi Shiratori",
+        "JP": "白鳥胡桃"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0032.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0033",
+      "Name": {
+        "EN": "Miiko Takeshita",
+        "JP": "竹下みいこ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0033.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0034",
+      "Name": {
+        "EN": "Rinku & Maho & Muni & Rei",
+        "JP": "りんく&真秀&むに&麗"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0034.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0035",
+      "Name": {
+        "EN": "Kyoko Yamate",
+        "JP": "山手響子"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0035.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0036",
+      "Name": {
+        "EN": "Shinobu Inuyose",
+        "JP": "犬寄しのぶ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0036.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0037",
+      "Name": {
+        "EN": "Yuka Jennifer Sasago",
+        "JP": "笹子・ジェニファー・由香"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0037.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0038",
+      "Name": {
+        "EN": "Esora Shimizu",
+        "JP": "清水絵空"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0038.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0039",
+      "Name": {
+        "EN": "Rinku Aimoto",
+        "JP": "愛本りんく"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0039.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0040",
+      "Name": {
+        "EN": "Kyoko Yamate",
+        "JP": "山手響子"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0040.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0041",
+      "Name": {
+        "EN": "Saki Izumo",
+        "JP": "出雲咲姫"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0041.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0042",
+      "Name": {
+        "EN": "Rika Seto",
+        "JP": "瀬戸リカ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0042.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0043",
+      "Name": {
+        "EN": "Tsubaki Aoyagi",
+        "JP": "青柳椿"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0043.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0044",
+      "Name": {
+        "EN": "Miyu Sakurada",
+        "JP": "桜田美夢"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0044.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0014",
+      "Name": {
+        "EN": "Saki Izumo",
+        "JP": "出雲咲姫"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0014.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0015",
+      "Name": {
+        "EN": "Ibuki Niijima",
+        "JP": "新島衣舞紀"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0015.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0016",
+      "Name": {
+        "EN": "Towa Hanamaki",
+        "JP": "花巻乙和"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0016.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0008",
+      "Name": {
+        "EN": "Rinku Aimoto",
+        "JP": "愛本りんく"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0008.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0017",
+      "Name": {
+        "EN": "Noa Fukushima",
+        "JP": "福島ノア"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0016.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0009",
+      "Name": {
+        "EN": "Kyoko Yamate",
+        "JP": "山手響子"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0009.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0010",
+      "Name": {
+        "EN": "Saki Izumo",
+        "JP": "出雲咲姫"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0010.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0011",
+      "Name": {
+        "EN": "Rika Seto",
+        "JP": "瀬戸リカ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0011.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0012",
+      "Name": {
+        "EN": "Tsubaki Aoyagi",
+        "JP": "青柳 椿"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0012.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0013",
+      "Name": {
+        "EN": "Miyu Sakurada",
+        "JP": "桜田美夢"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0013.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0001",
+      "Name": {
+        "EN": "Rinku Aimoto",
+        "JP": "愛本りんく"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0001.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0002",
+      "Name": {
+        "EN": "Kyoko Yamate",
+        "JP": "山手響子"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0002.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0003",
+      "Name": {
+        "EN": "Saki Izumo",
+        "JP": "出雲咲姫"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0003.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0004",
+      "Name": {
+        "EN": "Rika Seto",
+        "JP": "瀬戸リカ"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0004.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0005",
+      "Name": {
+        "EN": "Tsubaki Aoyagi",
+        "JP": "青柳 椿"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0005.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    },
+    {
+      "Serial": "DJ/PR-0006",
+      "Name": {
+        "EN": "Miyu Sakurada",
+        "JP": "桜田美夢"
+      },
+      "Traits": null,
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Cost": null,
+      "ATK": null,
+      "DEF": null,
+      "Flavor": null,
+      "Effect": null,
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/dj_pr_0006.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "DJ/PR",
+        "Name": "D4DJ Promo Cards",
+        "Description": "illust：やちぇ"
+      }
+    }
 
 
   ]

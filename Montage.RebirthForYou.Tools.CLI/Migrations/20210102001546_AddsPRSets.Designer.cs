@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 
 namespace Montage.RebirthForYou.Tools.CLI.Migrations
 {
     [DbContext(typeof(CardDatabaseContext))]
-    partial class CardDatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20200813090723_AddsInitialGochiUsaSet")]
+    partial class AddsPRSets
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -39,110 +41,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                     b.ToTable("MigrationLog");
 
                     b.HasData(
-                        new
-                        {
-                            LogID = 1,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 2, 0, 0, 23, 534, DateTimeKind.Local).AddTicks(9446),
-                            IsDone = false,
-                            Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset"
-                        },
-                        new
-                        {
-                            LogID = 2,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 2, 0, 0, 23, 534, DateTimeKind.Local).AddTicks(9446),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
-                        },
-                        new
-                        {
-                            LogID = 3,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 8, 23, 0, 43, 53, 205, DateTimeKind.Local),
-                            IsDone = true,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._0th_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 4,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 8, 23, 0, 43, 53, 206, DateTimeKind.Local),
-                            IsDone = true,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._1st_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 5,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 4, 0, 43, 53, 205, DateTimeKind.Local),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._0th_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 6,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 4, 0, 43, 53, 206, DateTimeKind.Local),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._1st_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 7,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 25, 0, 43, 53, 206, DateTimeKind.Local),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_%28ver._2nd_Gen%29"
-                        },
-                        new
-                        {
-                            LogID = 8,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 9, 25, 0, 43, 53, 206, DateTimeKind.Local),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._GAMERS)"
-                        },
-                        new
-                        {
-                            LogID = 9,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 10, 26, 0, 0, 1, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._3rd_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 10,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 10, 26, 0, 0, 2, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._4th_Gen)"
-                        },
-                        new
-                        {
-                            LogID = 11,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 10, 26, 0, 0, 3, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Azur_Lane"
-                        },
-                        new
-                        {
-                            LogID = 12,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 12, 21, 0, 0, 4, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Azur_Lane"
-                        },
-                        new
-                        {
-                            LogID = 13,
-                            Activity = 0,
-                            DateAdded = new DateTime(2020, 10, 26, 0, 0, 5, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-                        },
                         new
                         {
                             LogID = 14,
