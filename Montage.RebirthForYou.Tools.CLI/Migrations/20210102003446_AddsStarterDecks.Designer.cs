@@ -10,7 +10,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
 {
     [DbContext(typeof(CardDatabaseContext))]
     [Migration("20200813090723_AddsInitialGochiUsaSet")]
-    partial class AddsPRSets
+    partial class AddsStarterDecks
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -152,6 +152,30 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 01, 02, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446),
                             IsDone = false,
                             Target = "https://raw.githubusercontent.com/unsiga25/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset"
+                        },
+                        new
+                        {
+                            LogID = 15,
+                            Activity = 0,
+                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 7, 0, DateTimeKind.Unspecified),
+                            IsDone = false,
+                            Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22Rebirth%22"
+                        },
+                        new
+                        {
+                            LogID = 16,
+                            Activity = 0,
+                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 8, 0, DateTimeKind.Unspecified),
+                            IsDone = false,
+                            Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22BanG_Dream!_Girls_Band_Party!%E2%98%86PICO%22"
+                        },
+                        new
+                        {
+                            LogID = 17,
+                            Activity = 0,
+                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 9, 0, DateTimeKind.Unspecified),
+                            IsDone = false,
+                            Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22Revue_Starlight_-Re_LIVE-%22"
                         });
                 });
 
