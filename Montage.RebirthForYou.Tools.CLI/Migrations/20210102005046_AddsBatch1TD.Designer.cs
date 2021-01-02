@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 
 namespace Montage.RebirthForYou.Tools.CLI.Migrations
 {
     [DbContext(typeof(CardDatabaseContext))]
-    partial class CardDatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20210102005046_AddsBatch1TD")]
+    partial class AddsBatch1TD
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -131,7 +133,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 12,
                             Activity = 0,
-                            DateAdded = new DateTime(2020, 12, 21, 0, 0, 4, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 12, 21, 0, 0, 4, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Azur_Lane"
                         },
@@ -139,7 +141,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 13,
                             Activity = 0,
-                            DateAdded = new DateTime(2020, 10, 26, 0, 0, 5, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 12, 21, 0, 0, 5, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
                         },
@@ -214,46 +216,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 01, 02, 0, 0, 14, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Revue_Starlight_-Re_LIVE-"
-                        },
-                        new
-                        {
-                            LogID = 23,
-                            Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 15, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Rebirth"
-                        },
-                        new
-                        {
-                            LogID = 24,
-                            Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 16, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO"
-                        },
-                        new
-                        {
-                            LogID = 25,
-                            Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 17, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Isekai_Quartet"
-                        },
-                        new
-                        {
-                            LogID = 26,
-                            Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 18, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project"
-                        },
-                        new
-                        {
-                            LogID = 27,
-                            Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 19, 0, DateTimeKind.Unspecified),
-                            IsDone = false,
-                            Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Revue_Starlight_-Re_LIVE-"
                         });
                 });
 
