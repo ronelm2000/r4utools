@@ -142,7 +142,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2020, 10, 26, 0, 0, 5, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-                        },
+                        }*/,
                         new
                         {
                             LogID = 14,
@@ -150,7 +150,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 01, 02, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446),
                             IsDone = false,
                             Target = "https://raw.githubusercontent.com/unsiga25/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset"
-                        }*/,
+                        },
                         new
                         {
                             LogID = 15,
