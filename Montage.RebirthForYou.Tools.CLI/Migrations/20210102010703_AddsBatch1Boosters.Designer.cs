@@ -149,7 +149,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 14,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446),
                             IsDone = false,
                             Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset"
                         },
@@ -157,7 +157,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 15,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 7, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 7, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22Rebirth%22"
                         },
@@ -165,7 +165,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 16,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 8, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 8, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22BanG_Dream!_Girls_Band_Party!%E2%98%86PICO%22"
                         },
@@ -173,7 +173,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 17,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 9, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 9, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22Revue_Starlight_-Re_LIVE-%22"
                         },
@@ -181,7 +181,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 18,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 10, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 10, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Rebirth"
                         },
@@ -189,7 +189,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 19,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 11, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 11, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO"
                         },
@@ -197,7 +197,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 20,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 12, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 12, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Isekai_Quartet"
                         },
@@ -205,7 +205,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 21,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 13, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 13, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Touhou_Project"
                         },
@@ -213,7 +213,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 22,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 14, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 14, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Revue_Starlight_-Re_LIVE-"
                         },
@@ -221,7 +221,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 23,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 15, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 15, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Rebirth"
                         },
@@ -229,7 +229,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 24,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 16, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 16, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO"
                         },
@@ -237,7 +237,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 25,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 17, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 17, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Isekai_Quartet"
                         },
@@ -245,7 +245,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 26,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 18, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 18, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project"
                         },
@@ -253,7 +253,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                         {
                             LogID = 27,
                             Activity = 0,
-                            DateAdded = new DateTime(2021, 01, 02, 0, 0, 19, 0, DateTimeKind.Unspecified),
+                            DateAdded = new DateTime(2021, 1, 2, 0, 0, 19, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Revue_Starlight_-Re_LIVE-"
                         });
