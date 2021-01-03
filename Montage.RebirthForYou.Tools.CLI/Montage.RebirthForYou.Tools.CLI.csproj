@@ -54,6 +54,8 @@
     <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.Designer.cs" />
     <Compile Remove="Migrations\20200903013351_RedoGochiUsa.cs" />
     <Compile Remove="Migrations\20200903013351_RedoGochiUsa.Designer.cs" />
+	<Compile Remove="Migrations\20210104051152_RedoPR.cs" />
+	<Compile Remove="Migrations\20210104051152_RedoGochiUsa.PR.cs" />
     <None Remove="sample.r4uset" />
     <Content Include="sample.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -113,6 +115,9 @@
     <None Update="Sets\gochiusa_bp.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+	  <None Update="Sets\PR.r4uset">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>  
   </ItemGroup>
 
   <ItemGroup>
