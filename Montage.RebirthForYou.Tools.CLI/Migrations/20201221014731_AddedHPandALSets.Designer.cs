@@ -136,7 +136,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 12, 21, 0, 0, 4, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Azur_Lane"
-                        },
+                        }/*,
                         new
                         {
                             LogID = 13,
@@ -144,7 +144,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 12, 21, 0, 0, 5, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-                        });
+                        }*/);
                 });
 
             modelBuilder.Entity("Montage.RebirthForYou.Tools.CLI.Entities.R4UCard", b =>
