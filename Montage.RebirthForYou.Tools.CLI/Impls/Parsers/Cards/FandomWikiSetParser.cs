@@ -27,7 +27,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private Regex fandomMatcher = new Regex(@"(.*)://rebirth-for-you\.fandom\.com/wiki/(.*)");
         private Regex effectMatcher = new Regex(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
         private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+\w{0,4})(?: )?\((\w*\+?)\)");
-        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P" };
+        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P", "PR", "BP", "CP" };
         private Func<CardDatabaseContext> _database;
 
         public ILogger Log { get; }
