@@ -115,9 +115,9 @@
     <None Update="Sets\gochiusa_bp.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-	  <None Update="Sets\PR.r4uset">
+    <None Update="Sets\PR.r4uset">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>  
+	</None>  
   </ItemGroup>
 
   <ItemGroup>
