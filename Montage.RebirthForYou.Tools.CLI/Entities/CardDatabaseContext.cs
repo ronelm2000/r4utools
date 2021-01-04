@@ -178,7 +178,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 14,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset",
-                        DateAdded = new DateTime(2021, 1, 2, 0, 0, 6,0, DateTimeKind.Local).AddTicks(9446)
+                        DateAdded = new DateTime(2021, 1, 2, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446)
                     }
                     );
             });

@@ -34,7 +34,7 @@
     },
     "Parse PRs": {
       "commandName": "Project",
-      "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset"
+      "commandLineArgs": "parse ./Sets/PR.r4uset"
     }
   }
 }
