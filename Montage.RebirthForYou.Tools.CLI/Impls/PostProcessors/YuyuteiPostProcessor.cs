@@ -109,6 +109,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     var imgUrl = new Uri(urlLink);
                     res.Images.Add(imgUrl);
                     Log.Information("Attached to {serial}: {imgUrl}", res.Serial, urlLink);
+                    //if(res.Serial|res.Rarity)
                 } else
                 {
                     Log.Warning("Yuyutei did not have an image for {serial}, you should check for other image sources and add it manually.", res.Serial);
