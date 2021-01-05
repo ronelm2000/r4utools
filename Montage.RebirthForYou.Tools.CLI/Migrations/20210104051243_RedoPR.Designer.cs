@@ -144,7 +144,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 12, 21, 0, 0, 5, 0, DateTimeKind.Unspecified),
                             IsDone = false,
                             Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-                        }*/,
+                        }
                         new
                         {
                             LogID = 14,
@@ -152,7 +152,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Migrations
                             DateAdded = new DateTime(2021, 1, 2, 0, 0, 6, 0, DateTimeKind.Local).AddTicks(9446),
                             IsDone = false,
                             Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset"
-                        });
+                        } */);
                 });
 
             modelBuilder.Entity("Montage.RebirthForYou.Tools.CLI.Entities.R4UCard", b =>
