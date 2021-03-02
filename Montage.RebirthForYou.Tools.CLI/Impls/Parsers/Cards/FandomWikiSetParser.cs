@@ -59,12 +59,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
             var context = new WikiSetContext { SetData = setData, URL = urlOrLocalFile, Set = ParseSet(setData), Sets = prSetData };
 
-            foreach (var row in table.Rows)
-            {
-                if (IsRowCompatible(row))
-                    await foreach (var card in ParseCards(row, context))
-                        yield return card;
-            }
+            if (table?.Rows != null)
+                foreach (var row in table.Rows)
+                {
+                    if (IsRowCompatible(row))
+                        await foreach (var card in ParseCards(row, context))
+                            yield return card;
+                }
             Log.Information("Ending...");
             //throw new NotImplementedException();
             yield break;

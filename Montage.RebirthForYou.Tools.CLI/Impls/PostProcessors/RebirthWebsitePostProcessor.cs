@@ -24,10 +24,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
         public bool IsCompatible(List<R4UCard> cards)
         {
-            if (cards.First().Language != CardLanguage.Japanese)
+            try
+            {
+                if (cards.First().Language != CardLanguage.Japanese)
+                    return false;
+                else
+                    return true;
+            } catch (InvalidOperationException)
+            {
                 return false;
-            else
-                return true;
+            }
         }
 
         public async IAsyncEnumerable<R4UCard> Process(IAsyncEnumerable<R4UCard> originalCards)
