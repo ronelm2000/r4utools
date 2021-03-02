@@ -116,7 +116,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
             {
                 get
                 {
-                    var length = _parent().Slice(_cursor + 1).IndexOf(_separator) + 1; //, _cursor + 1) - _cursor;
+                    // TODO: Port this fix to wsmtoools
+                    var line = _parent().Slice(_cursor + 1);
+                    var seperatorCount = line.IndexOf(_separator);
+                    var length = (seperatorCount == -1) ? line.Length : seperatorCount + 1; //, _cursor + 1) - _cursor;
                     Log.Debug("Length: {length}", length);
                     if (length > -1)
                         return _parent().Slice(_cursor + 1, length).TrimEnd("\r\n");

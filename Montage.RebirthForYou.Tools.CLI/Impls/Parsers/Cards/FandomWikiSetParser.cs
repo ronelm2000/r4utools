@@ -206,7 +206,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             if (extraInfoBox.TryGetValue("card abilities", out var abilities))
             {
                 card.Effect = TranslateEffect(abilities);
-                card.Color = InferFromEffect(card.Effect);
+                card.Color = CardUtils.InferFromEffect(card.Effect);
             }
             else
             {
@@ -234,16 +234,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 .Select(m => new MultiLanguageString { EN = m.Groups[0].Value })
                 .ToArray();
         }
-        private CardColor InferFromEffect(MultiLanguageString[] effect)
-        {
-            return effect?.Append(null).First() switch
-            {
-                MultiLanguageString mls when mls.EN.StartsWith("[Spark]") => CardColor.Yellow,
-                MultiLanguageString mls when mls.EN.StartsWith("[Blocker") => CardColor.Green,
-                MultiLanguageString mls when mls.EN.StartsWith("[Cancel") => CardColor.Green,
-                _ => CardColor.Blue
-            };
-        }
+
         private async Task<List<MultiLanguageString>> ParseTraits(IHtmlTableCellElement traitCell, WikiSetContext setContext)
         {
             return await traitCell.ChildNodes
