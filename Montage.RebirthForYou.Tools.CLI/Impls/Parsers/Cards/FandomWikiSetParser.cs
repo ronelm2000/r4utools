@@ -72,11 +72,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         private Dictionary<string, R4UReleaseSet> CreatePRSets(IHtmlTableElement table)
         {
-            return table.Rows //
-                .Select(row => releaseIDMatcher.Match(row.Cells[0].TextContent).Groups[1].Value) //
-                .Distinct() //
-                .ToDictionary(rid => rid, rid => CreatePromoSet(rid)) //
-                ;
+            if (table != null)
+            {
+                return table.Rows //
+                    .Select(row => releaseIDMatcher.Match(row.Cells[0].TextContent).Groups[1].Value) //
+                    .Distinct() //
+                    .ToDictionary(rid => rid, rid => CreatePromoSet(rid)) //
+                    ;
+            }
+            else
+                return new Dictionary<string, R4UReleaseSet>();
         }
 
         private R4UReleaseSet ParseSet(Dictionary<string, string> setData)
