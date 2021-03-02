@@ -16,7 +16,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
     /// <summary>
     /// Applies post-processing by searching in yuyutei for images of the cards and inserting them in.
     /// </summary>
-    public class YuyuteiPostProcessor : ICardPostProcessor
+    class YuyuteiPostProcessor : ICardPostProcessor
     {
         private readonly ILogger Log = Serilog.Log.ForContext<YuyuteiPostProcessor>();
 

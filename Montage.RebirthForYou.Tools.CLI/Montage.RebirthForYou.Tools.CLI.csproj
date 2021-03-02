@@ -110,9 +110,6 @@
     <None Update="app.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Sets\deresute_bp.r4uset">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="Sets\gochiusa_bp.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
