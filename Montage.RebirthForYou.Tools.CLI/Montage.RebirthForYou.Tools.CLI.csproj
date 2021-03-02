@@ -54,6 +54,16 @@
     <Compile Remove="Migrations\20200822164353_AddedHololiveTrialDecksWave1.Designer.cs" />
     <Compile Remove="Migrations\20200903013351_RedoGochiUsa.cs" />
     <Compile Remove="Migrations\20200903013351_RedoGochiUsa.Designer.cs" />
+    <Compile Remove="Migrations\20201221014731_AddedHPandALSets.cs" />
+    <Compile Remove="Migrations\20201221014731_AddedHPandALSets.Designer.cs" />
+    <Compile Remove="Migrations\20210102001546_AddsPRSets.cs" />
+    <Compile Remove="Migrations\20210102001546_AddsPRSets.Designer.cs" />
+    <Compile Remove="Migrations\20210102003446_AddsStarterDecks.cs" />
+    <Compile Remove="Migrations\20210102003446_AddsStarterDecks.Designer.cs" />
+    <Compile Remove="Migrations\20210102005046_AddsBatch1TD.cs" />
+    <Compile Remove="Migrations\20210102005046_AddsBatch1TD.Designer.cs" />
+    <Compile Remove="Migrations\20210102010703_AddsBatch1Boosters.cs" />
+    <Compile Remove="Migrations\20210102010703_AddsBatch1Boosters.Designer.cs" />
     <None Remove="sample.r4uset" />
     <Content Include="sample.r4uset">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
