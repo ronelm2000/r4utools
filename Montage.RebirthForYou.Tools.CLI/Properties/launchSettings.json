@@ -35,6 +35,10 @@
     "Parse Promo Cards": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Promo_Cards"
+    },
+    "Parse Promo Cards 2": {
+      "commandName": "Project",
+      "commandLineArgs": "parse ./Sets/PR.r4uset"
     }
   }
 }

@@ -3101,12 +3101,12 @@
       "Cost": 1,
       "ATK": 3,
       "DEF": 3,
-      "Flavor": [
-        {
-          "EN": null,
-          "JP": "特別キャンペーン当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう！"
-        }
-      ],
+      "Flavor": 
+      {
+        "EN": null,
+        "JP": "特別キャンペーン当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう！"
+      }
+      ,
       "Effect": [
         {
           "EN": "[Growing](Expect growth in the future!)",
@@ -3141,13 +3141,11 @@
       "Cost": 2,
       "ATK": 2,
       "DEF": 4,
-      "Flavor": [
-
-        {
+      "Flavor": 
+      {
           "EN": null,
           "JP": "３ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
-        }
-      ],
+      },
       "Effect": [
         {
           "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
@@ -3182,13 +3180,12 @@
       "Cost": 2,
       "ATK": 2,
       "DEF": 4,
-      "Flavor": [
-
-        {
-          "EN": null,
-          "JP": "１ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
-        }
-      ],
+      "Flavor": 
+      {
+        "EN": null,
+        "JP": "１ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
+      }
+      ,
       "Effect": [
         {
           "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",

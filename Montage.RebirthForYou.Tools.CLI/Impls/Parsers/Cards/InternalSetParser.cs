@@ -52,7 +52,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         card.Set = sets[card.Set.ReleaseCode];
                     yield return card;
 
-                    foreach (var alt in card.Alternates)
+                    foreach (var alt in card.Alternates ?? new R4UCard[] { })
                     {
                         alt.NonFoil = card;
                         alt.FillProxy();
