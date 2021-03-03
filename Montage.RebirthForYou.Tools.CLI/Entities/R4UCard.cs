@@ -95,7 +95,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 
         public async Task<System.IO.Stream> GetImageStreamAsync()
         {
-            int retry = 0;
+            // int retry = 0;
             if (!String.IsNullOrWhiteSpace(CachedImagePath) && !CachedImagePath.Contains(".."))
                 try
                 {

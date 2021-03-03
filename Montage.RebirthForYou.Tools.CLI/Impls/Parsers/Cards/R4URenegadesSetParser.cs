@@ -75,7 +75,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             var content = paragraph.InnerHtml;
             var text = paragraph.GetInnerText();
             var cursor = text.AsSpanCursor();
-            var space = " ";
+            // var space = " ";
 
             // Format: <Serial> <Rarity> <JP Name with Spaces> <strong>English Name with Spaces</strong><br>
             if (serialRarityJPNameMatcher.IsMatch(content))
