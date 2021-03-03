@@ -99,6 +99,7 @@
     <PackageReference Include="System.Interactive.Async" Version="4.0.0" />
     <PackageReference Include="System.Linq.Async" Version="4.0.0" />
     <PackageReference Include="YamlDotNet" Version="8.1.0" />
+    <PackageReference Include="System.Private.CoreLib" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>
