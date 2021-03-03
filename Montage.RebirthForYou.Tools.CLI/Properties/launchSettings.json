@@ -50,7 +50,19 @@
     },
     "Export DeckLog IMC": {
       "commandName": "Project",
-      "commandLineArgs": "export https://decklog.bushiroad.com/view/QM3F"
+      "commandLineArgs": "export https://decklog.bushiroad.com/view/QM3F --with sendtcp --out sharex"
+    },
+    "Parse Hololive BP": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2020/12/02/hp-001b-full-set-list/"
+    },
+    "Parse HP/004T": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._GAMERS)"
+    },
+    "Export Hololive DeckLog": {
+      "commandName": "Project",
+      "commandLineArgs": "export https://decklog.bushiroad.com/view/9S4K --out sharex --with sendtcp"
     }
   }
 }
