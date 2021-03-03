@@ -39,6 +39,18 @@
     "Parse Promo Cards 2": {
       "commandName": "Project",
       "commandLineArgs": "parse ./Sets/PR.r4uset"
+    },
+    "Parse IMC": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/02/24/imc-001b-full-set-list/"
+    },
+    "Parse IMC TD": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/27/imc-001t-full-set-list/"
+    },
+    "Export DeckLog IMC": {
+      "commandName": "Project",
+      "commandLineArgs": "export https://decklog.bushiroad.com/view/QM3F"
     }
   }
 }
