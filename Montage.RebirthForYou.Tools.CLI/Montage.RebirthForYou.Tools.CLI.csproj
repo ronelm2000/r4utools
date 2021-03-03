@@ -70,7 +70,7 @@
     </Content>
     <TrimmerRootAssembly Include="System.Net.WebClient" />
     <TrimmerRootAssembly Include="System.Web.HttpUtility" />
-    <TrimmerRootAssembly Include="System.Dynamic" />
+    <TrimmerRootAssembly Include="System.Dynamic.Runtime" />
     <TrimmerRootAssembly Include="Flurl.Http" />
   </ItemGroup>
 
