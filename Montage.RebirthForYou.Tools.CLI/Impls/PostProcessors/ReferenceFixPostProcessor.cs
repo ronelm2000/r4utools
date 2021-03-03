@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 {
@@ -15,17 +16,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
     {
         private Func<CardDatabaseContext> _database;
 
-        public int Priority => 2;
+        public int Priority => 0;
 
         public ReferenceFixPostProcessor(IContainer ioc)
         {
             _database = () => ioc.GetService<CardDatabaseContext>();
         }
 
-        public bool IsCompatible(List<R4UCard> cards)
-        {
-            return true;
-        }
+        public Task<bool> IsCompatible(List<R4UCard> cards) => Task.FromResult(true);
 
         public async IAsyncEnumerable<R4UCard> Process(IAsyncEnumerable<R4UCard> originalCards)
         {

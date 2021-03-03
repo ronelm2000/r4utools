@@ -9,6 +9,7 @@ using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
@@ -36,8 +37,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             _database = () => container.GetInstance<CardDatabaseContext>();
         }
 
-        public bool IsCompatible(List<R4UCard> cards)
+        public async Task<bool> IsCompatible(List<R4UCard> cards)
         {
+            await Task.CompletedTask;
             if (cards.First().Language != CardLanguage.Japanese)
                 return false;
             var list = cards.Select(c => c.ReleaseID).Distinct().ToList();

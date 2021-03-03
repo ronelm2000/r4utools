@@ -1,5 +1,6 @@
 ﻿using Montage.RebirthForYou.Tools.CLI.Entities;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.API
 {
@@ -19,7 +20,7 @@ namespace Montage.RebirthForYou.Tools.CLI.API
         /// </summary>
         /// <param name="cards"></param>
         /// <returns></returns>
-        public bool IsCompatible(List<R4UCard> cards);
+        public Task<bool> IsCompatible(List<R4UCard> cards);
 
         /// <summary>
         /// Applies post-processing on a card.

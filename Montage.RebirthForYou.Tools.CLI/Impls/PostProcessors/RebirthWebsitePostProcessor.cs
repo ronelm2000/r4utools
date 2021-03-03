@@ -22,8 +22,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 
         public int Priority => 1;
 
-        public bool IsCompatible(List<R4UCard> cards)
+        public async Task<bool> IsCompatible(List<R4UCard> cards)
         {
+            await Task.CompletedTask;
             try
             {
                 if (cards.First().Language != CardLanguage.Japanese)
@@ -72,8 +73,23 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 return result;
             }).ToArray();
             updatedCard.Images.Add(new Uri(imageLink));
+
+            var jpTraits = document.QuerySelectorAll(".cardlist-text") //
+                .Where(i => i.Children.ElementAt(2)?.TextContent == "属性")
+                .Select(i => i.Children.ElementAt(3).TextContent.Trim())
+                .FirstOrDefault();
+            if (!String.IsNullOrWhiteSpace(jpTraits))
+            {
+                updatedCard.Traits = updatedCard.Traits.Zip(jpTraits.Split("・"), (mls, jpTrait) => ModifiedIfJapaneseIsNull(mls, jpTrait)).ToList();
+            }
             Log.Information("After editing: {@card}", updatedCard);
             return updatedCard;
+        }
+
+        private MultiLanguageString ModifiedIfJapaneseIsNull(MultiLanguageString mls, string jpText)
+        {
+            if (mls?.JP != null) return mls;
+            else return new MultiLanguageString { EN = mls.EN, JP = jpText };
         }
 
         private bool HasMissingInformation(R4UCard card)
