@@ -24,10 +24,13 @@ registering on GitHub.
 * Local Deck JSON
 
 #### Supported Deck Parsers ####
+* [Bushiroad DeckLog](https://decklog.bushiroad.com/)
 * Local Deck JSON
 
 #### Supported Card Set Parsers ####
-* None for now.
+* Internal Set Parser (`.r4uset` format)
+* [Rebirth For You Fandom Wiki](https://rebirth-for-you.fandom.com/wiki/Rebirth_for_you_Wiki)
+* [Rebirth For You Renegades (Set List Only)](https://rebirthforyourenegades.wordpress.com/category/set-lists/)
 
 ### Build ###
 Requirements to build are:
@@ -35,4 +38,4 @@ Requirements to build are:
 * [Avalonia for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)
 
 -----
-©BanG Dream! Project　©異世界かるてっと／ＫＡＤＯＫＡＷＡ 　©上海アリス幻樂団　©Project Revue Starlight © 2019 Ateam Inc. ©Tokyo Broadcasting System Television, Inc. ©Koi・芳文社／ご注文は製作委員会ですか？？ ©bushiroad All Rights Reserved.　illust.西あすか
+©BanG Dream! Project　©異世界かるてっと／ＫＡＤＯＫＡＷＡ 　©上海アリス幻樂団　©Project Revue Starlight © 2020 Ateam Inc. ©Tokyo Broadcasting System Television, Inc. ©Koi・芳文社／ご注文はBLOOM製作委員会ですか？　© 2017-2020 cover corp. © 2017 Manjuu Co.,Ltd. & YongShi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved. © Donuts Co. Ltd. All rights reserved. ©bushiroad All Rights Reserved.　illust.西あすか　illust: やちぇ(D4DJ)　
