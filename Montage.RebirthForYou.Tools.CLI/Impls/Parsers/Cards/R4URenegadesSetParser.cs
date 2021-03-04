@@ -94,6 +94,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     card.Name = res.Name;
                     return card;
                 }).ToList();
+                if (cards.Count < 1) yield break;
                 card = cards.First();
             }
             else if (serialRarityJPNameMatcher.IsMatch(content))
@@ -208,6 +209,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         (Serial: "HP/001B-091b", Rarity: "R", Name: new MultiLanguageString { EN = "勝てるかな？ わため", JP = "Can I Win? Watame" }),
                         (Serial: "HP/001B-091c", Rarity: "R", Name: new MultiLanguageString { EN = "勝てるかな？ わため", JP = "Can I Win? Watame" })
                     },
+                // Exception due to Sleeves Slideshow in Touhou EX
+                "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null
             };  
             return exceptionalResult != null;
