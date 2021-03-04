@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-
+    if: "!contains(github.event.commits[0].message, '[w/out CI]')"
     runs-on: windows-latest
 
     steps:
