@@ -41,19 +41,16 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
 
             cards = await postProcessors.AggregateAsync(cards, (pp, cs) => cs.Process(pp));
 
+            using (var db = container.GetInstance<CardDatabaseContext>()) await db.Database.MigrateAsync();
+            var finalList = await cards.ToListAsync();
+            var finalListSerials = finalList.Select(c => c.Serial);
+
             using (var db = container.GetInstance<CardDatabaseContext>())
             {
-                await db.Database.MigrateAsync();
-                await foreach (var card in cards)
-                {
-                    var dupQuery = db.R4UCards.AsQueryable<R4UCard>().Where(c => c.Serial == card.Serial || c.NonFoil.Serial == card.Serial).AsEnumerable();
-                    var dups = dupQuery.ToArray();
-                    if (dups.Length > 0)
-                        db.R4UCards.RemoveRange(dups);
-                    await db.AddAsync(card);                    
-                    Log.Information("Added to DB: {serial}", card.Serial);
-                }
-
+                var dupQuery = db.R4UCards.AsQueryable<R4UCard>().Where(c => finalListSerials.Contains(c.Serial)).AsEnumerable();
+                db.R4UCards.RemoveRange(dupQuery);
+                await db.AddRangeAsync(finalList);
+                Log.Information("Added to DB: {serials:lj}", finalListSerials);
                 await db.SaveChangesAsync();
             }
 
