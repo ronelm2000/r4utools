@@ -63,6 +63,10 @@
     "Export Hololive DeckLog": {
       "commandName": "Project",
       "commandLineArgs": "export https://decklog.bushiroad.com/view/9S4K --out sharex --with sendtcp"
+    },
+    "Parse Hololive BP from Fandom": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
     }
   }
 }

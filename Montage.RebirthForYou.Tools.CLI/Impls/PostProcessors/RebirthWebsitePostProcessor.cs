@@ -82,7 +82,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             {
                 updatedCard.Traits = updatedCard.Traits.Zip(jpTraits.Split("・"), (mls, jpTrait) => ModifiedIfJapaneseIsNull(mls, jpTrait)).ToList();
             }
-            Log.Information("After editing: {@card}", updatedCard);
+            //Log.Information("After editing: {@card}", updatedCard);
             return updatedCard;
         }
 
