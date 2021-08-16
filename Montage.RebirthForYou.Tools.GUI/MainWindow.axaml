@@ -30,6 +30,7 @@
         </MenuItem>
         <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
       </MenuItem>
+      <MenuItem Header="_About" Command="{Binding OpenAboutCommand}" />
     </Menu>
 
     <Grid>
