@@ -123,7 +123,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public void FillProxy()
         {
             if (NonFoil == null) return;
-            Name = NonFoil.Name;
+            Name = NonFoil.Name.Clone();
             Traits = NonFoil.Traits;
             Type = NonFoil.Type;
             Color = NonFoil.Color;
