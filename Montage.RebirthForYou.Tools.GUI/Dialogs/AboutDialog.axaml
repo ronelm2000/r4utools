@@ -1,0 +1,34 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Montage.RebirthForYou.Tools.GUI.Dialogs.AboutDialog"
+        Title="About...">
+  <Border Padding="4">
+    <StackPanel>
+      <TextBlock>
+        About
+      </TextBlock>
+      
+      <ScrollViewer Name="deckScroller"
+              HorizontalScrollBarVisibility="Auto"
+              VerticalScrollBarVisibility="Auto"
+                      >
+        <ItemsRepeater Name="detailsRepeater"
+                       Background="Transparent"
+                       Items="{Binding Rows}">
+          <ItemsRepeater.ItemTemplate>
+            <DataTemplate>
+              <StackPanel>
+                <TextBlock Text="{Binding Header}" />
+                <TextBlock Text="{Binding Value}" />
+              </StackPanel>
+            </DataTemplate>
+          </ItemsRepeater.ItemTemplate>
+        </ItemsRepeater>
+      </ScrollViewer>
+      
+    </StackPanel>
+  </Border>
+</Window>
