@@ -106,6 +106,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public ReactiveCommand<Unit, Unit> ExitCommand { get; }
         public ReactiveCommand<Unit, Unit> ExportViaTTSCommand { get; }
         public ReactiveCommand<Unit, Unit> ImportDeckCommand { get; }
+        public ReactiveCommand<Unit, Unit> OpenAboutCommand { get; }
         public MainWindow Parent { get; internal set; }
 
         public MainWindowViewModel()
@@ -126,6 +127,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             ExitCommand = ReactiveCommand.Create(Exit);
             ExportViaTTSCommand = ReactiveCommand.CreateFromTask(async()=> await ExportWithResult<TTSDeckExporter>());
             ImportDeckCommand = ReactiveCommand.CreateFromTask(ImportDeck);
+            OpenAboutCommand = ReactiveCommand.CreateFromTask(OpenAbout);
 
             _saveFileDialog = new SaveFileDialog
             {
@@ -145,6 +147,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             //    dataContext.WhenValueChanged(dc => dc.Saved).Subscribe(ChangeWindowTitle);
         }
 
+        private async Task OpenAbout()
+        {
+            await ioc.GetService<AboutDialog>().ShowDialog(Parent);
+        }
+
         public void ToggleFlag(string flagID)
         {
             Log.Information("Toggling {flag}", flagID);
@@ -160,13 +167,15 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         internal async Task InitializeDatabase()
         {
             await Task.Yield();
-            using (var db = ioc.GetInstance<CardDatabaseContext>())
             //using (_ = this.SuppressChangeNotifications())
+            var updateCommand = new UpdateVerb();
+            updateCommand.OnStarting += UpdateCommand_OnStarting;
+            Log.Information("Updating DB...");
+            await updateCommand.Run(ioc);
+            Log.Information("Adding DB to UI...");
+
+            using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
-                await db.Database.MigrateAsync();
-                var updateCommand = new UpdateVerb();
-                updateCommand.OnStarting += UpdateCommand_OnStarting;
-                await updateCommand.Run(ioc);
                 await foreach (var card in GetCardDatabase(db))
                 {
                     this._database.Add(card.Card.Serial, card);
@@ -176,6 +185,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                     });
                 }
             }
+
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
 //                this.DatabaseResults.AddRange(_database.Values);
@@ -315,13 +325,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             {
                 return true;
             }
-            /*
-            return DeckResults.Where(cr => cr.Card.Name.JP == cardEntry.Card.Name.JP).Count() < 4
-                && DeckResults.Where(cr => cr.Card.Type != CardType.Partner).Count() < 50
-                && ((cardEntry.Card.Type == CardType.Rebirth) ? DeckResults.Count(cr => cr.Card.Type == CardType.Rebirth) < 8 : true)
-                && ((cardEntry.Card.Type == CardType.Partner) ? DeckResults.Count(cr => cr.Card.Type == CardType.Partner) < 3 : true)
-                ;
-            */
         }
 
         private void SortDeck()
