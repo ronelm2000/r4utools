@@ -37,7 +37,6 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                     ;
                 foreach (var act in activityLog.Select((act,i)=>(ActLog: act, Index: i)))
                 {
-
                     await (OnStarting?.Invoke(this, new UpdateEventArgs(act.ActLog, act.Index, activityLog.Length)) ?? Task.CompletedTask);
                     await act.ActLog.ToCommand().Run(ioc);
                     act.ActLog.IsDone = true;

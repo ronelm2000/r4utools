@@ -107,7 +107,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             return res;
         }
 
-
         private Dictionary<string, string> CreateInfoBoxDataTable(IElement element)
         {
             Dictionary<string, string> res = new Dictionary<string, string>();
