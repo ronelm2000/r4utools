@@ -13,6 +13,7 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers
     public class FandomWikiParserTests
     {
         [TestMethod("Full Integration Test (Fandom Wiki) (Typical Use Case)")]
+        [Ignore]
         public async Task FullTestRun()
         {
             Serilog.Log.Logger = TestUtils.BootstrapLogging().CreateLogger();
