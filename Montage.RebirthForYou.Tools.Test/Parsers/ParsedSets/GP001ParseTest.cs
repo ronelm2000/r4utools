@@ -20,5 +20,16 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
 
             }
         }
+
+        [TestMethod("GP/001T - Bang Dream Girls Band Party PICO Trial Deck Parse Test")]
+        public async Task GP001TTest()
+        {
+            await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO" }.Run(_ioc);
+            using (var _db = _ioc.GetInstance<CardDatabaseContext>())
+            {
+                Assert.IsNotNull(await _db.R4UCards.FindAsync("GP/001T-010"));
+
+            }
+        }
     }
 }
