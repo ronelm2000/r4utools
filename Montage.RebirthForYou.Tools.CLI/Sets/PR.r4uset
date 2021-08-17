@@ -489,7 +489,7 @@
       },
       "Effect": [
         {
-          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied <Rabbit House> character becomes zero)",
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
           "JP": "【ブロッカー】（手札から控え室に置くと、味方へのアタック１回のダメージを０にする）"
         }
       ],
