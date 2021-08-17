@@ -15,7 +15,7 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
             await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22Rebirth%22" }.Run(_ioc);
         }
 
-        [TestMethod("RE/001B - Rebirth 4 You! Booster Deck Parse Test")]
+        [TestMethod("RE/001B - Rebirth 4 You! BP Parse Test")]
         public async Task RE001BTest()
         {
             await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Rebirth" }.Run(_ioc);
