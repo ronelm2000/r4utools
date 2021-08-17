@@ -26,7 +26,7 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
             await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Isekai_Quartet" }.Run(_ioc);
             using (var _db = _ioc.GetInstance<CardDatabaseContext>())
             {
-                Assert.IsNotNull(await _db.R4UCards.FindAsync("IQ/001B-091SR＋[YS]"));
+                Assert.IsNotNull(await _db.R4UCards.FindAsync("IQ/001B-091SR+[YS]"));
             }
         }
     }
