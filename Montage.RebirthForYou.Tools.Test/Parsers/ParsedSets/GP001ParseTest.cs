@@ -17,7 +17,6 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
             using (var _db = _ioc.GetInstance<CardDatabaseContext>())
             {
                 Assert.IsNotNull(await _db.R4UCards.FindAsync("GP/SD-0009"));
-
             }
         }
 
@@ -28,7 +27,6 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
             using (var _db = _ioc.GetInstance<CardDatabaseContext>())
             {
                 Assert.IsNotNull(await _db.R4UCards.FindAsync("GP/001T-010"));
-
             }
         }
     }
