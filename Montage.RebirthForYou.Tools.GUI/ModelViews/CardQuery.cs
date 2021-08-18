@@ -40,7 +40,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             if (Serial != null)
                 results.Add((card) => card.Serial.Contains(_this.Serial));
             if (Name != null)
-                results.Add((card) => (card.Name.EN ?? "").Contains(_this.Name) || (card.Name.JP ?? "").Contains(_this.Name));
+                results.Add((card) => (card.Name?.EN ?? "").Contains(_this.Name) || (card.Name?.JP ?? "").Contains(_this.Name));
             if (Effect != null)
                 results.Add((card) => card.Effect?.Any(eff => (eff.EN ?? "").Contains(_this.Effect) || (eff.JP ?? "").Contains(_this.Effect)) ?? false);
             if (Color != null)
