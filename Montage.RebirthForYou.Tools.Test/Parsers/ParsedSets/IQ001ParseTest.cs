@@ -3,6 +3,7 @@ using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,6 +27,7 @@ namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
             await new ParseVerb { URI = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Isekai_Quartet" }.Run(_ioc);
             using (var _db = _ioc.GetInstance<CardDatabaseContext>())
             {
+                var items = _db.R4UCards.AsQueryable().Where(c => c.Serial.StartsWith("IQ/001B-091")).ToList();
                 Assert.IsNotNull(await _db.R4UCards.FindAsync("IQ/001B-091SR+[YS]"));
             }
         }
