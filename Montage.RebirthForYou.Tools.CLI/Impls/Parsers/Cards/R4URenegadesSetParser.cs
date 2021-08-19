@@ -17,7 +17,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
     public class R4URenegadesSetParser : ICardSetParser
     {
-        private ILogger Log = Serilog.Log.ForContext<InternalSetParser>();
+        private ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
         private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<\/strong>)(?:<br>|$)");
         private Regex costSeriesTraitMatcher = new Regex(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
@@ -25,27 +25,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private Regex rubyMatcher = new Regex(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private Regex releaseIDMatcher = new Regex(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
         private Regex overflowEffectTextMatcher = new Regex(@"^((\()|i\.|ii\.|iii\.|iv\.)");
-
-//        private Func<Task<Dictionary<string, R4UReleaseSet>>> _sets;
-
-        /*
-        public R4URenegadesSetParser()
-        {
-            _sets = async () => new Dictionary<string, R4UReleaseSet>();
-        }
-
-        public R4URenegadesSetParser (IContainer ioc)
-        {
-            _sets = async () =>
-            {
-                using (var db = ioc.GetInstance<CardDatabaseContext>())
-                {
-                    return await db.R4UReleaseSets.ToDictionaryAsync(s => s.ReleaseCode);
-                }
-            };
-        }
-        
-        */
 
         public bool IsCompatible(IParseInfo parseInfo)
         {
@@ -62,7 +41,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             allDivs = allDivs.Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"));
             foreach (var figure in allDivs)
             {
-                Log.Information("Starting...");
                 var paragraph = figure.NextElementSibling as IHtmlParagraphElement;
                 if (paragraph == null)
                     throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
@@ -81,6 +59,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             var content = paragraph.InnerHtml;
             var text = paragraph.GetInnerText();
             var cursor = text.AsSpanCursor();
+
+            Log.Information("Parsing Content: {div} [...]", content.Take(30).Aggregate("", (s, c) => s + c));
+
             // var space = " ";
 
             // Format: <Serial> <Rarity> <JP Name with Spaces> <strong>English Name with Spaces</strong><br>
