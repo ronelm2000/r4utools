@@ -9,6 +9,7 @@ using System.Text;
 namespace Montage.RebirthForYou.Tools.Test.Parsers.ParsedSets
 {
     [TestClass]
+    [Ignore("Ignored during building as these can fail when being rate-limited.")]
     public partial class ParsedSetsTest
     {
         private static Container _ioc;
