@@ -29,9 +29,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             var result = await originalCards.Distinct(s => s.Serial).ToDictionaryAsync(c => c.Serial);
             var sets = await result.Values.Select(c => c.Set).ToAsyncEnumerable().Distinct(s => s.ReleaseCode).ToDictionaryAsync(s => s.ReleaseCode);
-            var db = _database();
-            var dbSets = await db.R4UReleaseSets.ToAsyncEnumerable().Where(s => sets.ContainsKey(s.ReleaseCode)).ToListAsync();
-            db.R4UReleaseSets.RemoveRange(dbSets);
+            using (var db = _database())
+            {
+                var dbSets = await db.R4UReleaseSets.ToAsyncEnumerable().Where(s => sets.ContainsKey(s.ReleaseCode)).ToListAsync();
+                //var cardsInSets = dbSets.SelectMany(s => s.Cards ?? new R4UCard[] { }).ToList();
+                //if (cardsInSets.Count > 0)
+                //    db.R4UCards.RemoveRange(cardsInSets);
+                if (dbSets.Count > 0)
+                    db.R4UReleaseSets.RemoveRange(dbSets);
+                await db.SaveChangesAsync();
+            }
 
             foreach (var card in result.Values)
             {

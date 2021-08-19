@@ -15,7 +15,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
     public class CardDatabaseContext : DbContext
     {
-        private readonly AppConfig _config;
+        private readonly AppConfig _config = new AppConfig { DbName = "cards.db" };
         private readonly ILogger Log = Serilog.Log.ForContext<CardDatabaseContext>();
 
         public DbSet<R4UCard> R4UCards { get; set; }
@@ -23,6 +23,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public DbSet<ActivityLog> MigrationLog { get; set; }
         //public DbSet<MultiLanguageString> MultiLanguageStrings { get; set; }
 
+        
         public CardDatabaseContext (AppConfig config) {
             Log.Debug("Instantiating with {@AppConfig}.", config);
             _config = config;
@@ -30,13 +31,28 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 
         public CardDatabaseContext()
         {
-            Log.Debug("Instantiating with no arguments.");
-            using (StreamReader file = File.OpenText(@"app.json"))
-            using (JsonTextReader reader = new JsonTextReader(file))
+            try
             {
-                _config = JToken.ReadFrom(reader).ToObject<AppConfig>();
+                Log.Debug("Instantiating with no arguments.");
+                using (StreamReader file = File.OpenText(@"app.json"))
+                using (JsonTextReader reader = new JsonTextReader(file))
+                {
+                    _config = JToken.ReadFrom(reader).ToObject<AppConfig>();
+                }
+            }
+            catch (Exception)
+            {
             }
         }
+
+        /*
+        public CardDatabaseContext CreateDbContext(string[] args)
+        {
+            //var optionsBuilder = new DbContextOptionsBuilder<CardDatabaseContext>();
+            //optionsBuilder.UseSqlite("Data Source=blog.db");
+            return new CardDatabaseContext();// (optionsBuilder.Options);
+        }
+        */
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
@@ -68,7 +84,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                                 ,   str => JsonConvert.DeserializeObject<MultiLanguageString>(str)
                                     );
                 //b.Property(c => c.Alternates);
-                b.HasOne(c => c.NonFoil).WithMany(c => c.Alternates);
+                b.HasOne(c => c.NonFoil).WithMany(c => c.Alternates).OnDelete(DeleteBehavior.Cascade);
                 b.HasMany(c => c.Alternates).WithOne(c => c.NonFoil);
 
                 b.OwnsMany(s => s.Traits, bb =>
@@ -87,7 +103,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             modelBuilder.Entity<R4UReleaseSet>(b =>
             {
                 b.HasKey(s => s.ReleaseID);
-                b.HasMany(s => s.Cards).WithOne(c => c.Set);
+                b.HasMany(s => s.Cards).WithOne(c => c.Set).OnDelete(DeleteBehavior.Cascade);
             });
 
             modelBuilder.Entity<ActivityLog>(b =>

@@ -2,7 +2,6 @@
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Serilog;
 using SixLabors.ImageSharp;
-using SixLabors.Shapes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
