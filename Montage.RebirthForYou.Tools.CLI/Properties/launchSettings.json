@@ -83,6 +83,22 @@
     "Export DB GP/002B": {
       "commandName": "Project",
       "commandLineArgs": "export-db --rids GP/002B"
+    },
+    "Parse IMC/001T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/03/10/gp-002b-full-set-list/"
+    },
+    "Parse DJ/001T / DJ/002T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2020/12/23/dj-001t-dj-002t-full-set-list/"
+    },
+    "Export DB DJ/001T": {
+      "commandName": "Project",
+      "commandLineArgs": "export-db --rids DJ/003T"
+    },
+    "Parse DJ/003T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/27/dj-003t-full-set-list/"
     }
   }
 }

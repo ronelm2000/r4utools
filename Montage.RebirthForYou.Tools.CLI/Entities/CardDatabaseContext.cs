@@ -340,6 +340,34 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_IMC_001T.r4uset",
                         DateAdded = new DateTime(2021, 08, 20, 18, 34, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 33,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_DJ_001T.r4uset",
+                        DateAdded = new DateTime(2021, 08, 21, 0, 15, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 34,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_DJ_002T.r4uset",
+                        DateAdded = new DateTime(2021, 08, 21, 0, 15, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 35,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TH_001E.r4uset",
+                        DateAdded = new DateTime(2021, 08, 21, 0, 15, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 36,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_DJ_003T.r4uset",
+                        DateAdded = new DateTime(2021, 08, 21, 0, 15, 0)
                     }
                 );
             });

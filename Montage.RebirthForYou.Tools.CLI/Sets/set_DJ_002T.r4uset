@@ -1,0 +1,1246 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "DJ/002T-001",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3001\u30A2\u30AC\u3063\u3066\u308B\u30FC\uFF01\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Groovy Mix, Rika",
+        "JP": "Groovy Mix \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3001\u30A2\u30AC\u3063\u3066\u308B\u30FC\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Rest (3) Energy], choose one of your entries, and put it on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T",
+        "Name": "D4DJ Merm4id / Rondo ver. Trial Deck"
+      }
+    },
+    {
+      "Serial": "DJ/002T-002",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u76DB\u308A\u4E0A\u3052\u306A\u3089\u4EFB\u305B\u3066\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Rika",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u76DB\u308A\u4E0A\u3052\u306A\u3089\u4EFB\u305B\u3066\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.\n([Skill Showcase Level 4]:Active if there are four or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-003",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u5922\u306F\u3044\u3064\u3067\u3082\u5927\u80C6\u306B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-003s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-003SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u5922\u306F\u3044\u3064\u3067\u3082\u5927\u80C6\u306B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-003sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Rika",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u5922\u306F\u3044\u3064\u3067\u3082\u5927\u80C6\u306B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B2/\u00B10.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-004",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u304B\u308F\u3044\u3044\u3001\u3067\u3059\u304B\uFF1F\u3046\u3075\u3075\u3001\u3042\u308A\u304C\u3068\u3046\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Marika",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u8309\u8389\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u304B\u308F\u3044\u3044\u3001\u3067\u3059\u304B\uFF1F\u3046\u3075\u3075\u3001\u3042\u308A\u304C\u3068\u3046\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-005",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u8309\u8389\u82B1\u306E\u304A\u306D\u304C\u3044\u3001\u304D\u3044\u3066\u304F\u308C\u308B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-005s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-005SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u8309\u8389\u82B1\u306E\u304A\u306D\u304C\u3044\u3001\u304D\u3044\u3066\u304F\u308C\u308B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-005sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Marika",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u8309\u8389\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u8309\u8389\u82B1\u306E\u304A\u306D\u304C\u3044\u3001\u304D\u3044\u3066\u304F\u308C\u308B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-006",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u9811\u5F35\u308D\u3046\u3063\u3066\u601D\u3063\u3066\u308B\u3002\u3046\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Saori",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u9811\u5F35\u308D\u3046\u3063\u3066\u601D\u3063\u3066\u308B\u3002\u3046\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-007",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3063\u3068\u6D3B\u8E8D\u3057\u3066\u3001\u3061\u3083\u3093\u3068\u8A8D\u3081\u3066\u3082\u3089\u3046\u306E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-007s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-007SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u3082\u3063\u3068\u6D3B\u8E8D\u3057\u3066\u3001\u3061\u3083\u3093\u3068\u8A8D\u3081\u3066\u3082\u3089\u3046\u306E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-007sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Saori",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3082\u3063\u3068\u6D3B\u8E8D\u3057\u3066\u3001\u3061\u3083\u3093\u3068\u8A8D\u3081\u3066\u3082\u3089\u3046\u306E"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-008",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3044\u306D\u3001\u79C1\u3082\u6DF7\u305C\u3066\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-008s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-008SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u3044\u3044\u306D\u3001\u79C1\u3082\u6DF7\u305C\u3066\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-008sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Dalia",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3044\u3044\u306D\u3001\u79C1\u3082\u6DF7\u305C\u3066\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your opponent\u2019s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are four or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-009",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30D3\u30D3\u30C3\u3068\u304D\u305F\u3093\u3060\u3088\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Dalia",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30D3\u30D3\u30C3\u3068\u304D\u305F\u3093\u3060\u3088\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-010",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306B\u306F\u3001\u3053\u306E\u6B4C\u3057\u304B\u306A\u3044\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-010s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-010SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u79C1\u306B\u306F\u3001\u3053\u306E\u6B4C\u3057\u304B\u306A\u3044\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-010sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Tsubaki",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u79C1\u306B\u306F\u3001\u3053\u306E\u6B4C\u3057\u304B\u306A\u3044\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][1/Turn]:[Put a card from your hand into your waiting room], and if you have three or more members, draw two cards.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-011",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u306A\u306B\u304B\u554F\u984C\u3042\u308B\u2026\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Groovy Mix, Tsubaki",
+        "JP": "Groovy Mix \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u306A\u306B\u304B\u554F\u984C\u3042\u308B\u2026\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card, put a card from your hand into your waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-012",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u306E\u5834\u6240\u3067\u4F5C\u308A\u51FA\u3059\u97F3\u697D\u3067\u52DD\u8CA0\u3059\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Tsubaki",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3053\u306E\u5834\u6240\u3067\u4F5C\u308A\u51FA\u3059\u97F3\u697D\u3067\u52DD\u8CA0\u3059\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-013",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30B3\u30A4\u30C4\u304C\u6700\u5F37\u306E\u76F8\u68D2\u3060\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-013s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-013SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u30B3\u30A4\u30C4\u304C\u6700\u5F37\u306E\u76F8\u68D2\u3060\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-013sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Nagisa",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u6E1A"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30B3\u30A4\u30C4\u304C\u6700\u5F37\u306E\u76F8\u68D2\u3060\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-014",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3068\u306F\u3082\u3046\u4E0A\u3092\u76EE\u6307\u3059\u3057\u304B\u306A\u3044\u3063\u3057\u3087\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Nagisa",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u6E1A"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3042\u3068\u306F\u3082\u3046\u4E0A\u3092\u76EE\u6307\u3059\u3057\u304B\u306A\u3044\u3063\u3057\u3087\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-015",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4E16\u754C\u305D\u306E\u3082\u306E\u3092\u7167\u3089\u305B\u308B\u304B\u3082\u3001\u306A\u3093\u3066\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Hiiro",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u4E16\u754C\u305D\u306E\u3082\u306E\u3092\u7167\u3089\u305B\u308B\u304B\u3082\u3001\u306A\u3093\u3066\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-016",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-016S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3089\uFF1F\u3082\u3046\u6E80\u8DB3\u3057\u3061\u3083\u3063\u305F\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-016s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-016SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u3042\u3089\uFF1F\u3082\u3046\u6E80\u8DB3\u3057\u3061\u3083\u3063\u305F\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-016sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Hiiro",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\u3089\uFF1F\u3082\u3046\u6E80\u8DB3\u3057\u3061\u3083\u3063\u305F\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During this character\u2019s first attack each turn, this character gets \u002B4/\u00B10.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-017",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-017S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u5927\u4E08\u592B\u3001\u305A\u3063\u3068\u5074\u306B\u3044\u308B\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-017s.png"
+          ]
+        },
+        {
+          "Serial": "DJ/002T-017SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u5927\u4E08\u592B\u3001\u305A\u3063\u3068\u5074\u306B\u3044\u308B\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-017sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New World Starting With D, Aoi",
+        "JP": "D\u3067\u59CB\u307E\u308B\u65B0\u4E16\u754C \u8475\u4F9D"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u5927\u4E08\u592B\u3001\u305A\u3063\u3068\u5074\u306B\u3044\u308B\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u2019s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-018",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-018S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3075\u3075\u3063\u2026\u2026\u5185\u7DD2\u3001\u304B\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aiming for the D4 FES.! Aoi",
+        "JP": "D4 FES.\u3092\u76EE\u6307\u3057\u3066\uFF01 \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3075\u3075\u3063\u2026\u2026\u5185\u7DD2\u3001\u304B\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-019",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-019S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "Merm4id\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "This is our strongest Big Wave!",
+        "JP": "\u308F\u305F\u3057\u305F\u3061\u6700\u5F37\u30D3\u30C3\u30B0\u30A6\u30A7\u30FC\u30D6\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "Merm4id\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-020",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-020S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u305F\u3061\u304C\u300C\u71D0\u821E\u66F2\u300D\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Over thousands of nights, to you pledged the blue flame",
+        "JP": "\u5E7E\u5343\u306E\u591C\u3092\u8D8A\u3048\u3001\u8CB4\u65B9\u306B\u8A93\u3046\u84BC\u304D\u708E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u79C1\u305F\u3061\u304C\u300C\u71D0\u821E\u66F2\u300D\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P01",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P01S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p01s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rika Seto",
+        "JP": "\u702C\u6238\u30EA\u30AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P02",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P02S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p02s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Marika Mizushima",
+        "JP": "\u6C34\u5CF6\u8309\u8389\u82B1"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P03",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P03S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p03s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saori Hidaka",
+        "JP": "\u65E5\u9AD8\u3055\u304A\u308A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P04",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P04S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p04s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dalia Matsuyama",
+        "JP": "\u677E\u5C71\u30C0\u30EA\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p04.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P05",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P05S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p05s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsubaki Aoyagi",
+        "JP": "\u9752\u67F3 \u693F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p05.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P06",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P06S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p06s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nagisa Tsukimiyama",
+        "JP": "\u6708\u898B\u5C71 \u6E1A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p06.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P07",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P07S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p07s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hiiro Yano",
+        "JP": "\u77E2\u91CE\u7DCB\u5F69"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p07.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    },
+    {
+      "Serial": "DJ/002T-P08",
+      "Alternates": [
+        {
+          "Serial": "DJ/002T-P08S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p08s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi Miyake",
+        "JP": "\u4E09\u5B85\u8475\u4F9D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJTD/dj002t-p08.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/002T"
+      }
+    }
+  ]
+}
