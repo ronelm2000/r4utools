@@ -3,7 +3,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" 
-        d:DesignWidth="600" d:DesignHeight="450"
+        d:DesignWidth="600" d:DesignHeight="500"
         x:Class="Montage.RebirthForYou.Tools.GUI.MainWindow"
         Title="R4U Deck Builder (deckbuilder4u)"
         >
@@ -27,6 +27,14 @@
                         />
             </MenuItem.Icon>
           </MenuItem>
+          <MenuItem Header="_Send Directly to TTS" Command="{Binding ToggleFlag}" CommandParameter="SendViaTCP">
+            <MenuItem.Icon>
+              <CheckBox BorderThickness="0"
+                        IsHitTestVisible="False"
+                        IsChecked="{Binding WillSendViaTCP}"
+                        />
+            </MenuItem.Icon>
+            </MenuItem>
         </MenuItem>
         <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
       </MenuItem>

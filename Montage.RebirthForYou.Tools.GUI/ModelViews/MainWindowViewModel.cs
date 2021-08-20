@@ -56,6 +56,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private string deckRemarks;
         private string isSaved;
         private bool isShareXFlagged = true;
+        private bool willSendViaTCP = true;
         #endregion
 
         #region Observers
@@ -94,6 +95,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public bool IsShareXFlagged {
             get => isShareXFlagged; 
             set => this.RaiseAndSetIfChanged(ref isShareXFlagged, value); 
+        }
+        public bool WillSendViaTCP
+        {
+            get => willSendViaTCP;
+            set => this.RaiseAndSetIfChanged(ref willSendViaTCP, value);
         }
 
         public CardEntry SelectedDatabaseCardEntry { get; internal set; }
@@ -173,7 +179,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             Log.Information("Updating DB...");
             await updateCommand.Run(ioc);
             Log.Information("Adding DB to UI...");
-
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
                 await foreach (var card in GetCardDatabase(db))
@@ -185,10 +190,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                     });
                 }
             }
-
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
-//                this.DatabaseResults.AddRange(_database.Values);
                 this.Parent.LoadingBox.IsVisible = false;
             });
         }
@@ -412,8 +415,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var newDeckName = (string.IsNullOrWhiteSpace(deckName)) ? "[Placeholder for a Deck Name]" : deckName; 
             var deck = GenerateDeck(deckResults, newDeckName, deckRemarks);
             var exporter = ioc.GetInstance<T>();
-            var outCommand = (isShareXFlagged) ? "sharex" : "";
-            await exporter.Export(deck, new GUIBasedExportInfo(outCommand));
+            var outCommand = isShareXFlagged ? "sharex" : "";
+            var flags = Array.Empty<string>().AsEnumerable();
+            if (willSendViaTCP) flags = flags.Append("sendtcp");
+            await exporter.Export(deck, new GUIBasedExportInfo(outCommand, flags));
             return ("Success", $"{deck.Name} was exported successfully!");
         }
         private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
@@ -440,12 +445,13 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public string Parser => "";
         public string Exporter => "";
         public string OutCommand { get; }
-        public IEnumerable<string> Flags => new[] { "upscaling" };
+        public IEnumerable<string> Flags { get; private set; }
         public bool NonInteractive => true;
 
-        public GUIBasedExportInfo(string outCommand)
+        public GUIBasedExportInfo(string outCommand, IEnumerable<string> flags)
         {
             OutCommand = outCommand;
+            Flags = new[] { "upscaling" }.Concat(flags);                                                                                
         }
     }
 
@@ -454,10 +460,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private IImage imageSource;
         private string text;
 
+        /*
         public IImage ImageSource {
             get => imageSource;
             set => this.RaiseAndSetIfChanged(ref imageSource, value);
         }
+        */
+        public IImage ImageSource => imageSource ??= new Bitmap(Card.GetImageStreamAsync().GetAwaiter().GetResult());
+
         public string Text {
             get => text;
             set => this.RaiseAndSetIfChanged(ref text, value);
@@ -481,8 +491,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             return new CardEntry()
             {
                 Card = card,
-                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})",
-                ImageSource = new Bitmap(await card.GetImageStreamAsync())
+                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})" //,
+                //ImageSource = new Bitmap(await card.GetImageStreamAsync())
             };
         }
     }
