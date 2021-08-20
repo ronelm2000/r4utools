@@ -62,7 +62,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck
             var response = await $"{deckLogApiUrlPrefix}{deckID}" //
                 .WithReferrer(sourceUrlOrFile) //
                 .PostJsonAsync(null);
-            var json = JsonConvert.DeserializeObject<dynamic>(await response.Content.ReadAsStringAsync());
+            var json = JsonConvert.DeserializeObject<dynamic>(await response.ResponseMessage.Content.ReadAsStringAsync());
             //var json = JsonConverter.CreateDefault().Deserialize<dynamic>(new JsonReader(await response.Content.ReadAsStreamAsync()));
             var newDeck = new R4UDeck();
             var missingSerials = new List<string>();

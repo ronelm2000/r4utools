@@ -67,6 +67,22 @@
     "Parse Hololive BP from Fandom": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
+    },
+    "Export DB IMC": {
+      "commandName": "Project",
+      "commandLineArgs": "export-db --rids IMC/001B"
+    },
+    "Parse IMC 2": {
+      "commandName": "Project",
+      "commandLineArgs": "parse C:\\Users\\ronelm2000\\source\\repos\\r4utools\\Montage.RebirthForYou.Tools.CLI\\bin\\Debug\\netcoreapp3.1\\Export\\set_IMC_001B.r4uset"
+    },
+    "Parse GP/002B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/03/10/gp-002b-full-set-list/"
+    },
+    "Export DB GP/002B": {
+      "commandName": "Project",
+      "commandLineArgs": "export-db --rids GP/002B"
     }
   }
 }

@@ -5,6 +5,7 @@ using System.Text.Json.Serialization;
 
 public class R4UReleaseSet
 {
+	[JsonIgnore]
 	public int ReleaseID { get; set; }
 	public string ReleaseCode { get; set; }
 	public string Name { get; set; }

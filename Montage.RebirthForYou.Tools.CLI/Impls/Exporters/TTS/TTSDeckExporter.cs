@@ -12,7 +12,6 @@ using SixLabors.ImageSharp.Formats.Jpeg;
 using SixLabors.ImageSharp.Formats.Png;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
-using SixLabors.Primitives;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -73,7 +72,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                 .ToDictionary(card => card.Serial,
                                 card => new
                                 {
-                                    Name = card.Name.AsNonEmptyString() + $" [{card.Serial}][{card.Type.AsShortString()}]",
+                                    Name = card.Name.AsNonEmptyString() + $" [{card.Serial}][{card.Type.Value.AsShortString()}]",
                                     Description = FormatDescription(card)
                                 });
 

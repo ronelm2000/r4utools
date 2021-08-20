@@ -4,6 +4,7 @@ using Fluent.IO;
 using Flurl.Http;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
+using Montage.RebirthForYou.Tools.CLI.Entities.JSON;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Serilog;
 using System;
@@ -63,18 +64,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         }
         private static async Task<Stream> GetStreamFromURIOrFile(string urlOrLocalFile)
         {
-            if (Uri.TryCreate(urlOrLocalFile, UriKind.Absolute, out var uri))
+            if (Uri.TryCreate(urlOrLocalFile, UriKind.Absolute, out var uri) && !uri.IsFile)
             {
                 return await urlOrLocalFile.WithRESTHeaders().GetStreamAsync();
             }
             else
                 return Fluent.IO.Path.Get(urlOrLocalFile).GetStream();
         }
-    }
-
-    public class InternalCardSet
-    {
-        public int Version { get; set; }
-        public List<R4UCard> Cards { get; set; }
     }
 }

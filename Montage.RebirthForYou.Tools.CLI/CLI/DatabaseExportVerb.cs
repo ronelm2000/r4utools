@@ -1,5 +1,6 @@
 ﻿using CommandLine;
 using Lamar;
+using Microsoft.EntityFrameworkCore;
 using Montage.RebirthForYou.Tools.CLI;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
@@ -26,8 +27,8 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
 
         public string Parser => null;
 
-        [Option("exporter", HelpText = "Manually sets the database exporter to use. Possible values: cockatrice", Default = "cockatrice")]
-        public string Exporter { get; set; } = "cockatrice";
+        [Option("exporter", HelpText = "Manually sets the database exporter to use. Possible values: cockatrice", Default = "local")]
+        public string Exporter { get; set; } = "local";
 
         [Option("out", HelpText = "For some exporters, gives an out command to execute after exporting.", Default = "")]
         public string OutCommand { get; set; } = "";
@@ -58,16 +59,15 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
 
             Log.Information("Running...");
 
-            using (var database = new CardDatabaseContext(new AppConfig() { DbName = Source }))
+            using (var database = ioc.GetInstance<CardDatabaseContext>())
             {
+                await database.Database.MigrateAsync();
                 var exporter = ioc.GetAllInstances<IDatabaseExporter>()
                     .Where(exporter => exporter.Alias.Contains(Exporter))
                     .First();
 
                 await exporter.Export(database, this);
             }
-
-
             /*
 
             var deck = await parser.Parse(Source);

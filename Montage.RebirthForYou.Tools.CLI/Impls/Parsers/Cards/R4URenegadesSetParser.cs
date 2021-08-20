@@ -190,8 +190,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         (Serial: "HP/001B-091b", Rarity: "R", Name: new MultiLanguageString { EN = "勝てるかな？ わため", JP = "Can I Win? Watame" }),
                         (Serial: "HP/001B-091c", Rarity: "R", Name: new MultiLanguageString { EN = "勝てるかな？ わため", JP = "Can I Win? Watame" })
                     },
-                // Exception due to Sleeves Slideshow in Touhou EX
-                "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
+                "GP/002B-061 RR大盛り一丁！ 花音 A Large Serving! Kanon"
+                    => new[] { (Serial: "GP/002B-061", Rarity: "RR", Name: new MultiLanguageString { EN = "A Large Serving! Kanon", JP = "大盛り一丁！ 花音" }) },
+                    // Exception due to Sleeves Slideshow in Touhou EX
+                    "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null
             };  
             return exceptionalResult != null;

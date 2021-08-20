@@ -86,7 +86,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 //b.Property(c => c.Alternates);
                 b.HasOne(c => c.NonFoil).WithMany(c => c.Alternates).OnDelete(DeleteBehavior.Cascade);
                 b.HasMany(c => c.Alternates).WithOne(c => c.NonFoil);
-
                 b.OwnsMany(s => s.Traits, bb =>
                  {
                      bb.Property<int>("Id").HasAnnotation("Sqlite:Autoincrement", true);
@@ -104,6 +103,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             {
                 b.HasKey(s => s.ReleaseID);
                 b.HasMany(s => s.Cards).WithOne(c => c.Set).OnDelete(DeleteBehavior.Cascade);
+                b.Navigation(s => s.Cards)
+                    .UsePropertyAccessMode(PropertyAccessMode.Property);
+                b.Property(s => s.ReleaseCode).IsRequired();
+                b.Property(s => s.Name).IsRequired(false);
+                b.Property(s => s.Description).IsRequired(false);
             });
 
             modelBuilder.Entity<ActivityLog>(b =>

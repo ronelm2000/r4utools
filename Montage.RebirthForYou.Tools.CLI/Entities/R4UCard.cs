@@ -24,12 +24,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         private readonly static string _imageCachePath = "./Images/";
 
         public string Serial { get; set; }
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public ICollection<R4UCard> Alternates { get; set; }
+        [JsonIgnore]
         public R4UCard NonFoil { get; set; }
         public MultiLanguageString Name { get; set; }
         public List<MultiLanguageString> Traits { get; set; }
-        public CardType Type { get; set; }
-        public CardColor Color { get; set; }
+        public CardType? Type { get; set; }
+        public CardColor? Color { get; set; }
         public string Rarity { get; set; }
 
         public int? Cost { get; set; }
@@ -40,7 +42,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public MultiLanguageString[] Effect { get; set; }
         public List<Uri> Images { get; set; } = new List<Uri>();
         public string Remarks { get; set; }
-        public CardLanguage Language { get; set; } = CardLanguage.Japanese;
+        public CardLanguage? Language { get; set; } = CardLanguage.Japanese;
         public R4UReleaseSet Set { get; set; }
 
         /// <summary>
@@ -112,8 +114,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             return new MemoryStream(bytes);
         }
 
-        public string TypeToString() => this.Type.AsShortString();
-        public bool IsFoil => new string[] { }.Contains(Rarity); //TODO: Add the list of foil rarities.
+        public string TypeToString() => this.Type?.AsShortString() ?? "";
+        [JsonIgnore]
+        public bool IsFoil => NonFoil != null;
+        [JsonIgnore]
         public string ReleaseID => Set?.ReleaseCode;
 
         /// <summary>
@@ -123,10 +127,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         {
             if (NonFoil == null) return;
             Name = NonFoil.Name.Clone();
-            Traits = NonFoil.Traits;
+            Traits = NonFoil.Traits?.Select(s => s?.Clone()).ToList() ?? new List<MultiLanguageString>();
             Type = NonFoil.Type;
             Color = NonFoil.Color;
-            Rarity = NonFoil.Rarity;
+            Rarity = Rarity ?? NonFoil.Rarity;
             Cost = NonFoil.Cost;
             ATK = NonFoil.ATK;
             DEF = NonFoil.DEF;
@@ -134,6 +138,22 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             Effect = NonFoil.Effect;
             Language = NonFoil.Language;
             Set = NonFoil.Set;
+        }
+
+        public R4UCard AsProxy()
+        {
+            var result = this.Clone();
+            result.Name = null;
+            result.Traits = null;
+            result.Type = null;
+            result.Color = null;
+            result.ATK = null;
+            result.DEF = null;
+            result.Cost = null;
+            result.Effect = null;
+            result.Language = null;
+            result.Set = null;
+            return result;
         }
     }
 
