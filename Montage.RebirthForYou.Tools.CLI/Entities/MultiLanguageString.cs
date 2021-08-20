@@ -56,6 +56,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             return sb.ToString();
         }
 
+        public string AsJPThenEN()
+        {
+            if (string.IsNullOrWhiteSpace(JP))
+                return EN;
+            else
+                return JP;
+        }
+
         /*
         internal MultiLanguageString ResolveConflicts(MultiLanguageString oldString)
         {
