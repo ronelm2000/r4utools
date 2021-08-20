@@ -311,6 +311,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Revue_Starlight_-Re_LIVE-",
                         DateAdded = new DateTime(2021, 01, 02, 1, 0, 19)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 29,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_002B.r4uset",
+                        DateAdded = new DateTime(2021, 08, 20, 18, 12, 19)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 30,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_IMC_001B.r4uset",
+                        DateAdded = new DateTime(2021, 08, 20, 18, 12, 20)
                     }
                 );
             });
