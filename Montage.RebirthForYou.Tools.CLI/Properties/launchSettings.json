@@ -99,6 +99,10 @@
     "Parse DJ/003T (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/27/dj-003t-full-set-list/"
+    },
+    "Parse GU/001E (Renegades COTD)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/tag/gu-001e/"
     }
   }
 }

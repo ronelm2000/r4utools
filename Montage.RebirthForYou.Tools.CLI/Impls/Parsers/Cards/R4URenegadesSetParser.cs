@@ -34,20 +34,46 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         public async IAsyncEnumerable<R4UCard> Parse(string urlOrLocalFile)
         {
             Log.Information("Starting...");
+            var uri = new Uri(urlOrLocalFile);
             var document = await new Uri(urlOrLocalFile).DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10);
+            IAsyncEnumerable<R4UCard> result = null;
+            if (document.QuerySelector(".page-title") != null)
+                result = ParseTagPage(document);
+            else
+                result = ParseSetListPage(document);
+            await foreach (var card in result)
+                yield return card;
+        }
+
+        private IAsyncEnumerable<R4UCard> ParseSetListPage(IDocument document)
+        {
+            Log.Information("Parsing as Set List page...");
             var postContent = document.QuerySelector(".post-content");
             var setMap = new Dictionary<string, R4UReleaseSet>();
             var allDivs = postContent.QuerySelectorAll(".wp-block-image").AsEnumerable();
             allDivs = allDivs.Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"));
-            foreach (var figure in allDivs)
-            {
-                var paragraph = figure.NextElementSibling as IHtmlParagraphElement;
-                if (paragraph == null)
-                    throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
-                foreach (var card in CreateBaseCards(paragraph, setMap))
-                    yield return card;
-            }
-            //throw new NotImplementedException();
+            return allDivs.ToAsyncEnumerable().SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable());
+        }
+
+        private IAsyncEnumerable<R4UCard> ParseTagPage(IDocument document)
+        {
+            Log.Information("Parsing as Tag page...");
+            var setMap = new Dictionary<string, R4UReleaseSet>();
+            return document.QuerySelectorAll(".tag-cotd").AsEnumerable()
+                .Select(a => a.QuerySelector<IHtmlAnchorElement>(".post-title > a").Href)
+                .ToAsyncEnumerable()
+                .SelectAwait(async a => await new Uri(a).DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10))
+                .SelectMany(d => d.QuerySelectorAll(".wp-block-image").Concat(d.QuerySelectorAll(".wp-block-jetpack-slideshow")).ToAsyncEnumerable())
+                .SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable())
+                ;
+        }
+
+        private IEnumerable<R4UCard> CreateBaseCards(IElement figureOrImage, Dictionary<string, R4UReleaseSet> setMap)
+        {
+            var paragraph = figureOrImage.NextElementSibling as IHtmlParagraphElement;
+            if (paragraph == null)
+                throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
+            return CreateBaseCards(paragraph, setMap);
         }
 
         private IEnumerable<R4UCard> CreateBaseCards(IHtmlParagraphElement paragraph, Dictionary<string, R4UReleaseSet> setMap)
