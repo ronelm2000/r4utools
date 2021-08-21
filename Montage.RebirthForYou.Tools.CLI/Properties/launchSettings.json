@@ -94,7 +94,7 @@
     },
     "Export DB DJ/001T": {
       "commandName": "Project",
-      "commandLineArgs": "export-db --rids DJ/003T"
+      "commandLineArgs": "export-db --rids GU/001E"
     },
     "Parse DJ/003T (Renegades)": {
       "commandName": "Project",

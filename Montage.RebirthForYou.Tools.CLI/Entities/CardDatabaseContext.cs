@@ -368,6 +368,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_DJ_003T.r4uset",
                         DateAdded = new DateTime(2021, 08, 21, 0, 15, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 37,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GU_001E.r4uset",
+                        DateAdded = new DateTime(2021, 08, 21, 13, 47, 0)
                     }
                 );
             });
