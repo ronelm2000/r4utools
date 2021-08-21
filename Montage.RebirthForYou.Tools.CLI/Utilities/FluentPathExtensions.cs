@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Utilities
 {
@@ -24,6 +25,18 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
         public static System.IO.Stream GetStream(this Path path)
         {
             return System.IO.File.OpenRead(path.FullPath);
+        }
+
+        public static System.IO.FileStream OpenStream(this Path path, System.IO.FileMode fileMode)
+        {
+            var tcs = new TaskCompletionSource<System.IO.Stream>();
+            do try
+                {
+                    return System.IO.File.Open(path.FullPath, fileMode);
+                }
+                catch (System.IO.IOException)
+                { }
+            while (true);
         }
 
         /// 

@@ -41,19 +41,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
             };
 
             var attempts = 1;
-            do try {
-                    jsonFilename.Open(
-                        async s => await JsonSerializer.SerializeAsync(s, simplifiedDeck, options: _defaultOptions),
-                        System.IO.FileMode.Create,
-                        System.IO.FileAccess.Write,
-                        System.IO.FileShare.ReadWrite
-                    );
-                    break;
-                }
-                catch (Exception)
-                {
-                    if (attempts++ > 4) throw;
-                } while (true);
+            using (var stream = jsonFilename.OpenStream(System.IO.FileMode.Create))
+                await JsonSerializer.SerializeAsync(stream, simplifiedDeck, options: _defaultOptions);
 
             Log.Information($"Done: {jsonFilename.FullPath}");
 
