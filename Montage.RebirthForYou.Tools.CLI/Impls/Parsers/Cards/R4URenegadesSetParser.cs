@@ -19,7 +19,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     {
         private ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
-        private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
+        private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>$)");
         private Regex serialTrialJPNameMatcher = new Regex(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
         private Regex costSeriesTraitMatcher = new Regex(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
         private Regex seriesRebirthMatcher = new Regex(@"(.+) \/ (.+) Rebirth");
