@@ -213,6 +213,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 14,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production",
+                        IsDone = true,
                         DateAdded = new DateTime(2020, 12, 21, 0, 0, 5)
                     },
                     new ActivityLog
@@ -425,6 +426,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_SSSS_001B.r4uset",
                         DateAdded = new DateTime(2021, 08, 23, 13, 47, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 45,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset",
+                        DateAdded = new DateTime(2021, 08, 23, 15, 16, 0)
                     }
                 );
             });
