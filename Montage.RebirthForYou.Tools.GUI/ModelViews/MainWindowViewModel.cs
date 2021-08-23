@@ -28,6 +28,7 @@ using Octokit;
 using ReactiveUI;
 using Serilog;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -46,7 +47,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private readonly OpenFileDialog _openFileDialog;
         private readonly ILogger Log;
 
-        private Dictionary<string,CardEntry> _database = new Dictionary<string,CardEntry>();
+        private ConcurrentDictionary<string,CardEntry> _database = new ConcurrentDictionary<string,CardEntry>();
         private ObservableCollection<CardEntry> databaseResults = new ObservableCollection<CardEntry>();
         private ObservableCollection<CardEntry> deckResults = new ObservableCollection<CardEntry>(new CardEntry[] { });
         private IContainer ioc;
@@ -181,19 +182,21 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             Log.Information("Adding DB to UI...");
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
-                await foreach (var card in GetCardDatabase(db))
+                GetCardDatabase(db).ForAll(async cardTask =>
                 {
-                    this._database.Add(card.Card.Serial, card);
+                    var card = await cardTask;
+                    _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
                     await Dispatcher.UIThread.InvokeAsync(() =>
                     {
                         this.DatabaseResults.Add(card);
                     });
-                }
+                });
             }
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
                 this.Parent.LoadingBox.IsVisible = false;
             });
+            Log.Information("Completed!");
         }
 
         private async Task UpdateCommand_OnStarting(UpdateVerb sender, UpdateEventArgs args)
@@ -290,14 +293,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 var resultMsgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(resultParams);
                 await resultMsgBox.ShowDialog(Parent);
             }
-            /*
-            var resultMessage = await msgBox.ShowDialog(Parent);
-            var deck = (await new ExportVerb { Source = resultMessage.Message }.ParseDeck(ioc)).Deck;
-            ApplyDeck(deck);
-            var resultParams = GenerateStandardMessageParams("asasdasoid", "asdjasdijqwd");
-            var resultMsgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(resultParams);
-            await msgBox.ShowDialog(Parent);
-            */
         }
         private void Exit()
         {
@@ -346,13 +341,16 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             if (ioc == null) return;
             await Task.CompletedTask;
             databaseResults.Clear();
-            databaseResults.AddRange(_database.Values.Where(ce => filter(ce.Card)).ToList());
+            databaseResults.AddRange(_database.Values.AsParallel().Where(ce => filter(ce.Card)).OrderBy(ce => ce.Card.Serial));
         }
 
-        public IAsyncEnumerable<CardEntry> GetCardDatabase(CardDatabaseContext db)
+        public ParallelQuery<ValueTask<CardEntry>> GetCardDatabase(CardDatabaseContext db)
         {
-            if (ioc == null) return new CardEntry[] { }.ToAsyncEnumerable();
-            return db.R4UCards.SelectAwait<R4UCard, CardEntry>(c => CardEntry.From(c));
+            if (ioc == null) return new ValueTask<CardEntry>[] { }.AsParallel();
+            return db.R4UCards.AsParallel()
+                .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
+                .WithMergeOptions(ParallelMergeOptions.NotBuffered)
+                .Select(c => CardEntry.From(c));
         }
 
         internal async Task<(string Title, string Details)> SaveDeck(string saveFilePath)
@@ -484,6 +482,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         {
         }
 
+        public async Task LoadImage()
+        {
+            imageSource ??= new Bitmap(await Card.GetImageStreamAsync());
+        }
+
         public static async ValueTask<CardEntry> From(R4UCard card)
         {
             if (!card.IsCached)
@@ -491,8 +494,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             return new CardEntry()
             {
                 Card = card,
-                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})" //,
-                //ImageSource = new Bitmap(await card.GetImageStreamAsync())
+                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})"//,
+                //imageSource = new Bitmap(await card.GetImageStreamAsync())
             };
         }
     }
