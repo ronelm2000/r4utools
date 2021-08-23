@@ -182,15 +182,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             Log.Information("Adding DB to UI...");
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
-                GetCardDatabase(db).ForAll(async cardTask =>
-                {
-                    var card = await cardTask;
-                    _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
-                    await Dispatcher.UIThread.InvokeAsync(() =>
+                var tasks = GetCardDatabase(db).Select(async cardTask =>
                     {
-                        this.DatabaseResults.Add(card);
-                    });
-                });
+                        var card = await cardTask;
+                        _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
+                        await Dispatcher.UIThread.InvokeAsync(() => DatabaseResults.Add(card));
+                    })
+                    .ToList();
+                await Task.WhenAll(tasks);
             }
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
