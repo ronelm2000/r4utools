@@ -19,7 +19,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     {
         private ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
-        private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<\/strong>)(?:<br>|$)");
+        private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
+        private Regex serialTrialJPNameMatcher = new Regex(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
         private Regex costSeriesTraitMatcher = new Regex(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
         private Regex seriesRebirthMatcher = new Regex(@"(.+) \/ (.+) Rebirth");
         private Regex rubyMatcher = new Regex(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
@@ -112,6 +113,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Name = new MultiLanguageString();
                 card.Name.JP = rubyMatcher.Replace(firstLineMatch.Groups[3].Value, "").Trim(); // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
                 card.Name.EN = firstLineMatch.Groups[4].Value.Trim();
+            }
+            else if (serialTrialJPNameMatcher.IsMatch(content))
+            {
+                var firstLineMatch = serialTrialJPNameMatcher.Match(content);
+                card.Serial = firstLineMatch.Groups[1].Value.Trim();
+                card.Rarity = "TD";
+                card.Name = new MultiLanguageString();
+                card.Name.JP = rubyMatcher.Replace(firstLineMatch.Groups[2].Value, "").Trim(); // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
+                card.Name.EN = firstLineMatch.Groups[3].Value.Trim();
             }
             else
                 throw new NotImplementedException($"The serial/rarity/JP Name line cannot be parsed. Here's the offending line: {cursor.CurrentLine.ToString()}");
@@ -222,6 +232,26 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     => new[] { (Serial: "DJ/001T-004", Rarity: "TD", Name: new MultiLanguageString { EN = "Aiming for the D4 FES.! Maho", JP = "D4 FES.を目指して！ 真秀" }) },
                 "DJ/002T-P08 TD三宅葵依 Aoi Miyake"
                     => new[] { (Serial: "DJ/002T-P08", Rarity: "TD", Name: new MultiLanguageString { EN = "Aoi Miyake", JP = "三宅葵依" }) },
+                "DJ/001B-089 楽しいことが大好き みいこ Loving Fun Things, Miiko"
+                    => new[] { (Serial: "DJ/001B-089", Rarity: "C", Name: new MultiLanguageString { EN = "Loving Fun Things, Miiko", JP = "楽しいことが大好き みいこ" }) },
+                "DJ/001B-092 Pop◎コーヒーカップ Pop Coffee Mug"
+                    => new[] { (Serial: "DJ/001B-092", Rarity: "ReR", Name: new MultiLanguageString { EN = "Pop Coffee Mug", JP = "Pop◎コーヒーカップ" }) },
+                "SSSS/001T-083 C 幽愁暗恨怪獣 ヂリバー Gloomy Grudge Kaiju, Diriver"
+                    => new[] { (Serial: "SSSS/001B-083", Rarity: "C", Name: new MultiLanguageString { EN = "Gloomy Grudge Kaiju, Diriver", JP = "幽愁暗恨怪獣 ヂリバー" }) },
+                "SSSS/001T-080 C 多事多難怪獣 ゴーヤベック Kaiju of Many Difficulties, Go’yavec"
+                    => new[] { (Serial: "SSSS/001B-080", Rarity: "C", Name: new MultiLanguageString { EN = "Kaiju of Many Difficulties, Go’yavec", JP = "多事多難怪獣 ゴーヤベック" }) },
+                /*
+            "SSSS/001T-004 宝多 六花 Rikka Takarada"
+                => new[] { (Serial: "SSSS/001T-004", Rarity: "TD", Name: new MultiLanguageString { EN = "Rikka Takarada", JP = "宝多 六花" }) },
+            "SSSS/001T-005 新条 アカネ Akane Shinjo"
+                => new[] { (Serial: "SSSS/001T-005", Rarity: "TD", Name: new MultiLanguageString { EN = "Akane Shinjo", JP = "新条 アカネ" }) },
+            "SSSS/001T-006 サムライ・キャリバー Samurai Calibur"
+                => new[] { (Serial: "SSSS/001T-006", Rarity: "TD", Name: new MultiLanguageString { EN = "Samurai Calibur", JP = "サムライ・キャリバー" }) },
+            "SSSS/001T-007 マックス Max"
+                => new[] { (Serial: "SSSS/001T-007", Rarity: "TD", Name: new MultiLanguageString { EN = "Max", JP = "マックス" }) },
+            "SSSS/001T-008 ボラー Borr"
+                => new[] { (Serial: "SSSS/001T-008", Rarity: "TD", Name: new MultiLanguageString { EN = "Borr", JP = "ボラー" }) },
+            */
                 // Exception due to Sleeves Slideshow in Touhou EX
                 "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null

@@ -1,0 +1,4550 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "DJ/001B-001",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-001SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u30DC\u30FC\u30AB\u30EB\u3068\u30C0\u30F3\u30B9\u3084\u3063\u3066\u307E\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-001sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Happy Girl, Rinku",
+        "JP": "\u30CF\u30C3\u30D4\u30FC\u30AC\u30FC\u30EB \u308A\u3093\u304F"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30DC\u30FC\u30AB\u30EB\u3068\u30C0\u30F3\u30B9\u3084\u3063\u3066\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5 \u003CHappy Around!\u003E]:If your opponent has an open member area, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Happy Around!\u3015\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B",
+        "Name": "D4DJ Booster Pack"
+      }
+    },
+    {
+      "Serial": "DJ/001B-002",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-002S",
+          "Rarity": "RRR\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\uFF5E\u3001\u3042\u308A\u304C\u3068\uFF5E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Happy Sky-High",
+        "JP": "\u307F\u3093\u306A\u3078\u306E\u611F\u8B1D \u308A\u3093\u304F \u003Cstrong\u003EAppreciation for Everyone, Rinku\u003C/strong\u003E\u003Cbr\u003ECost 5 / D4DJ / Happy Around!\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 8\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\uFF5E\u3001\u3042\u308A\u304C\u3068\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CHappy Sky-High\u201C][Skill Showcase Level 5 \u003CHappy Around!\u003E][1/Turn]:When this character attacks, if your opponent has an open member area, choose one of your allied members, [Stand] it, choose two of your opponent\u2019s members, and put them into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300AHappy\u25CE\u30B9\u30AB\u30A4\u30CF\u30A4\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Happy Around!\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-003",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-003S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Leon-kun\u266A Rinku",
+        "JP": "\u30EC\u30AA\u30F3\u304F\u3093\u266A \u308A\u3093\u304F"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5 [Growing]]:This character gets \u002B4/\u002B4.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u306E\u3073\u3057\u308D\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-004",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-004S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305F\u30FC\u3063\u304F\u3055\u3093\u76DB\u308A\u4E0A\u304C\u3063\u3066\u3082\u3089\u3048\u305F\u3089\u5B09\u3057\u3044\u306A\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Great Fun Everyday! Rinku",
+        "JP": "\u6BCE\u65E5\u304C\u30B5\u30A4\u30B3\u30FC\u306B\u697D\u3057\u3044! \u308A\u3093\u304F"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305F\u30FC\u3063\u304F\u3055\u3093\u76DB\u308A\u4E0A\u304C\u3063\u3066\u3082\u3089\u3048\u305F\u3089\u5B09\u3057\u3044\u306A\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-005",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-005SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u6614\u30D5\u30A7\u30B9\u3067\u898B\u305FDJ\u306B\u61A7\u308C\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-005sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Taking on the Challenge of Track Making, Maho",
+        "JP": "\u30C8\u30E9\u30C3\u30AF\u30E1\u30A4\u30AD\u30F3\u30B0\u306B\u6311\u6226\u4E2D \u771F\u79C0"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u6614\u30D5\u30A7\u30B9\u3067\u898B\u305FDJ\u306B\u61A7\u308C\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5 \u003CHappy Around!\u003E][1/Turn]:When this character attacks, if your opponent has an open member area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Happy Around!\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-006",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-006S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u2019m a DJ! Maho",
+        "JP": "DJ\u3067\u3059\u304B\u3089\uFF01 \u771F\u79C0"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CHappy Around!\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Happy Around!\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-007",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-007S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Electric Parade, Maho",
+        "JP": "Electoric\u25CE\u30D1\u30EC\u30FC\u30C9 \u771F\u79C0"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3][1/Turn]:When your other \u003CHappy Around!\u003E member is put into your waiting room, choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u4ED6\u306E\u3014Happy Around!\u3015\u304C\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-008",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-008S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3059\u3054\u3044\u30E6\u30CB\u30C3\u30C8\u306B\u3001\u79C1\u305F\u3061\u3082\u306A\u308A\u305F\u3044\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Start the DJ Unit! Maho",
+        "JP": "DJ\u30E6\u30CB\u30C3\u30C8\u3092\u30B9\u30BF\u30FC\u30C8\uFF01 \u771F\u79C0"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3059\u3054\u3044\u30E6\u30CB\u30C3\u30C8\u306B\u3001\u79C1\u305F\u3061\u3082\u306A\u308A\u305F\u3044\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose two of your allied members, and put them into the waiting room], choose one of your opponent\u2019s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-009",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-009SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u308F\u305F\u3057\u304C\u4E00\u756A\u3060\u3051\u3069\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-009sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Center of the Universe, Muni",
+        "JP": "\u5929\u4E0A\u5929\u4E0B\u552F\u6211\u72EC\u5C0A \u3080\u306B"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u308F\u305F\u3057\u304C\u4E00\u756A\u3060\u3051\u3069\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4 \u003CHappy Around!\u003E][1/Turn]:[Rest (2) Energy], choose one of your opponent\u2019s members, and put it into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Happy Around!\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-010",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-010S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Around Go-Round, Muni",
+        "JP": "Around\u25CE\u30B4\u30FC\u30E9\u30A6\u30F3\u30C9 \u3080\u306B"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CHappy Around!\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CHappy Around!\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Happy Around!\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Happy Around!\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-011",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-011S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u5B9F\u306F\u308F\u305F\u3057\u3001\u304A\u7802\u7CD6\u3067\u3067\u304D\u3066\u308B\u306E\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u201COne and Only\u201D Bunny Ear Girl, Muni",
+        "JP": "\u300C\u552F\u4E00\u7121\u4E8C\u300D\u306E\u30A6\u30B5\u8033\u5C11\u5973 \u3080\u306B"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u5B9F\u306F\u308F\u305F\u3057\u3001\u304A\u7802\u7CD6\u3067\u3067\u304D\u3066\u308B\u306E\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If your opponent has an open member area, this character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-012",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-012S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308A\u304C\u3068\u3046\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u2019m the best! Muni",
+        "JP": "\u79C1\u304C\u3044\u3061\u3070\u3093\uFF01 \u3080\u306B"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3042\u308A\u304C\u3068\u3046\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-013",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-013SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u597D\u304D\u306A\u30A2\u30FC\u30C6\u30A3\u30B9\u30C8\u306F\u845B\u98FE\u5317\u658E\u3055\u3093\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-013sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pop Coffee Mug",
+        "JP": "\u4F55\u306B\u3067\u3082\u8208\u5473\u6D25\u3005\u306A\u304A\u5B22\u69D8 \u9E97 \u003Cstrong\u003ECurious Elite Girl, Rei\u003Cbr\u003E\u003C/strong\u003ECost 4 / D4DJ / Happy Around!\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 6\u003Cbr\u003E[ACT](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u597D\u304D\u306A\u30A2\u30FC\u30C6\u30A3\u30B9\u30C8\u306F\u845B\u98FE\u5317\u658E\u3055\u3093\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CPop Coffee Mug\u201C][Skill Showcase Level 5][1/Turn]:[Rest (1) Energy], choose two of your opponent\u2019s members, and put them into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300APop\u25CE\u30B3\u30FC\u30D2\u30FC\u30AB\u30C3\u30D7\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Entry):If your opponent has an open member area, this character gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-014",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-014S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "First Errand, Rei",
+        "JP": "\u521D\u3081\u3066\u306E\u304A\u3064\u304B\u3044 \u9E97"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, if your opponent has an open member area, choose a \u003CHappy Around!\u003E from your hand, and you may put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Happy Around!\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-015",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-015S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30D4\u30A2\u30CE\u304C\u304D\u3063\u304B\u3051\u3067\u8A98\u308F\u308C\u305F\u306E\u3067\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Specialty is Classic Piano, Rei",
+        "JP": "\u7279\u6280\u306F\u30AF\u30E9\u30B7\u30C3\u30AF\u30D4\u30A2\u30CE \u9E97"
+      },
+      "Traits": [
+        {
+          "EN": "Happy Around!",
+          "JP": "Happy Around!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30D4\u30A2\u30CE\u304C\u304D\u3063\u304B\u3051\u3067\u8A98\u308F\u308C\u305F\u306E\u3067\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4 \u003CHappy Around!\u003E]:At the end of your turn, if your opponent has an open member area, you may return this character to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Happy Around!\u3015\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-016",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-016SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u6700\u9AD8\u306B\u30A2\u30AC\u308B\u77AC\u9593\u3092\u3068\u3069\u3051\u3066\u3042\u3052\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-016sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Universe \u2013 LOCK ON",
+        "JP": "\u5727\u5012\u7684\u306A\u30AB\u30EA\u30B9\u30DE \u97FF\u5B50 \u003Cstrong\u003EOverwhelming Charisma, Kyoko\u003Cbr\u003E\u003C/strong\u003ECost 5 / D4DJ / Peaky P-key\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 7\u003Cbr\u003E[ACT](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u6700\u9AD8\u306B\u30A2\u30AC\u308B\u77AC\u9593\u3092\u3068\u3069\u3051\u3066\u3042\u3052\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CUniverse \u2013 LOCK ON\u201C][Skill Showcase Level 5][1/Turn]:[Put one of your members and a card from the top of your deck into the waiting room], choose two \u003CPeaky P-key\u003E from your waiting room, put them onto your member area, this gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5929\u4E0A\u5929\u4E0B-LOCK ON\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u3068\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u3092\u305D\u308C\u305E\u308C\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014Peaky P-key\u3015\u3092\uFF12\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-017",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-017S",
+          "Rarity": "RRR\u002B",
+          "Flavor": {
+            "JP": "\u3048\u3044\u3084\u3001\u3063\u3066\u98DF\u3079\u308B\u306E\u304C\u3044\u3044\u3088\u306D\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Likes Hamburgers! Kyoko",
+        "JP": "\u30CF\u30F3\u30D0\u30FC\u30AC\u30FC\u304C\u597D\u304D\uFF01 \u97FF\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 9,
+      "Flavor": {
+        "JP": "\u3048\u3044\u3084\u3001\u3063\u3066\u98DF\u3079\u308B\u306E\u304C\u3044\u3044\u3088\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5 \u003CPeaky P-Key\u003E]:This character gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Peaky P-key\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5 \u003CPeaky P-Key\u003E]:At the beginning of your attack phase, [put a card from your hand into your waiting room], choose one of your entries, and exchange its position with this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Peaky P-key\u3015\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-018",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-018S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fighting Allies, Kyoko",
+        "JP": "\u6226\u3046\u76DF\u53CB \u97FF\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your waiting room, draw a card.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u63A7\u3048\u5BA4\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-019",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-019S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3044\u304A\u5E97\u304C\u3042\u3063\u305F\u3089\u6559\u3048\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Surprisingly Carefree Type, Kyoko",
+        "JP": "\u610F\u5916\u3068\u30CE\u30EA\u306F\u826F\u3044\u30BF\u30A4\u30D7 \u97FF\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3044\u3044\u304A\u5E97\u304C\u3042\u3063\u305F\u3089\u6559\u3048\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (1) Energy], choose a [Growing] from your retire area, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-020",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-020SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u30A2\u30F3\u30BF\u306E\u76F8\u624B\u304C\u3067\u304D\u308B\u306E\u306A\u3093\u3066\u3001\u4E16\u754C\u4E2D\u3067\u30A2\u30BF\u30B7\u3060\u3051\u3060\u3063\u3066\u306E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-020sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No Brainer \u2013 CUT IN",
+        "JP": "DJ\u30AF\u30CE\u30A4\u30C1 \u3057\u306E\u3076 \u003Cstrong\u003EDJ Kunoichi, Shinobu\u003C/strong\u003E\u003Cbr\u003ECost 4 / D4DJ / Peaky P-key\u003Cbr\u003EATK 4\u003Cbr\u003EDEF 7\u003Cbr\u003E[ACT](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30A2\u30F3\u30BF\u306E\u76F8\u624B\u304C\u3067\u304D\u308B\u306E\u306A\u3093\u3066\u3001\u4E16\u754C\u4E2D\u3067\u30A2\u30BF\u30B7\u3060\u3051\u3060\u3063\u3066\u306E"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CNo Brainer \u2013 CUT IN\u201C][Skill Showcase Level 5][1/Turn]:[Put one of your members into your waiting room], choose the same number of \u003CPeaky P-Key\u003E from your waiting room as your open member areas, put them onto your open member areas.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5FEB\u5200\u4E71\u9EBB-CUT IN\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u3068\u540C\u3058\u679A\u6570\u3014Peaky P-key\u3015\u3092\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-021",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-021S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Damn these teammates, Shinobu",
+        "JP": "\u3053\u306E\u30E1\u30F3\u30C4\u3060\u3063\u305F\u3089 \u3057\u306E\u3076"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-022",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-022S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30A2\u30BF\u30B7\u306E\u3053\u3068\u3060\u3051\u3069\u3001\u3088\u304F\u77E5\u3063\u3066\u308B\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Has The Most Common Sense in the Unit, Shinobu",
+        "JP": "\u30E6\u30CB\u30C3\u30C8\u5185\u3067\u4E00\u756A\u306E\u5E38\u8B58\u4EBA \u3057\u306E\u3076"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30A2\u30BF\u30B7\u306E\u3053\u3068\u3060\u3051\u3069\u3001\u3088\u304F\u77E5\u3063\u3066\u308B\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CPeaky P-key\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Peaky P-key\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-023",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-023SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u4F53\u3092\u4ED5\u4E0A\u3052\u3066\u304A\u304B\u306A\u304D\u3083\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-023sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gym Trainer Parents, Yuka",
+        "JP": "\u4E21\u89AA\u304C\u30B8\u30E0\u30C8\u30EC\u30FC\u30CA\u30FC \u7531\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4F53\u3092\u4ED5\u4E0A\u3052\u3066\u304A\u304B\u306A\u304D\u3083\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5 \u003CPeaky P-key\u003E]:Draw two cards, and put a card from your hand into your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Peaky P-key\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-024",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-024S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Allure \u2013 SPOTLIGHT, Yuka",
+        "JP": "\u5929\u8863\u7121\u7E2B-SPOT LIGHT \u7531\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3 \u003CPeaky P-key\u003E]:[Put this character on the bottom of your deck, and put a card from the top of your deck into your waiting room], choose one of your energy, and [Stand] it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Peaky P-key\u3015\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304D\u3001\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-025",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-025S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6700\u9AD8\u306E\u4EF2\u9593\u3060\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Best Friend! Yuka",
+        "JP": "\u30D9\u30B9\u30C8\u30FB\u30D5\u30EC\u30F3\u30C9\uFF01 \u7531\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6700\u9AD8\u306E\u4EF2\u9593\u3060\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4]:When this character attacks, [choose two of your allied members, and put them into the waiting room], and this character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-026",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-026S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30B9\u30B7\u3001\u30C6\u30F3\u30D7\u30FC\u30E9"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Life and Soul of the Unit Keeping Everyone\u2019s Spirits Up, Yuka",
+        "JP": "\u30E6\u30CB\u30C3\u30C8\u3092\u652F\u3048\u308B\u30E0\u30FC\u30C9\u30E1\u30FC\u30AB\u30FC \u7531\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30B9\u30B7\u3001\u30C6\u30F3\u30D7\u30FC\u30E9"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-027",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-027SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u305B\u30FC\u306E\u3001\u30E9\u30D6\u30EA\u30FC\uFF01\u3088\u304F\u3067\u304D\u307E\u3057\u305F\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-027sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lovely In-charge (Self-Proclaimed), Esora",
+        "JP": "\u30E9\u30D6\u30EA\u30FC\u62C5\u5F53(\u81EA\u79F0) \u7D75\u7A7A"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u305B\u30FC\u306E\u3001\u30E9\u30D6\u30EA\u30FC\uFF01\u3088\u304F\u3067\u304D\u307E\u3057\u305F\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your member area from your waiting room, choose one of your \u003CPeaky P-key\u003E entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u63A7\u3048\u5BA4\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014Peaky P-key\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-028",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-028S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Vainglory \u2013 3 OUT, Esora",
+        "JP": "\u552F\u6211\u72EC\u5C0A-THREE OUT \u7D75\u7A7A"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CPeaky P-key\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CPeaky P-key\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Peaky P-key\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Peaky P-key\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-029",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-029S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u91D1\u3067\u624B\u306B\u5165\u308B\u3082\u306E\u306A\u3093\u3066\u2026\u2026\u306D\u3048\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Skilled at Getting People to Speak Their Minds, Esora",
+        "JP": "\u672C\u97F3\u3092\u5F15\u304D\u51FA\u3059\u7B56\u7565\u5BB6 \u7D75\u7A7A"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u304A\u91D1\u3067\u624B\u306B\u5165\u308B\u3082\u306E\u306A\u3093\u3066\u2026\u2026\u306D\u3048\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-030",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-030S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3082\u3001\u30D4\u30AD\u30D4\u30AD\u3092\u305A\uFF5E\u3063\u3068\u5FDC\u63F4\u3057\u3066\u306D\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Natural-born Entertainer, Esora\u003C/strong\u003E",
+        "JP": "\u6839\u3063\u304B\u3089\u306E\u30A8\u30F3\u30BF\u30FC\u30C6\u30A3\u30CA\u30FC \u7D75\u7A7A \u003Cstrong\u003E"
+      },
+      "Traits": [
+        {
+          "EN": "Peaky P-key",
+          "JP": "Peaky P-key"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3082\u3001\u30D4\u30AD\u30D4\u30AD\u3092\u305A\uFF5E\u3063\u3068\u5FDC\u63F4\u3057\u3066\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have three or more [Rest] members, this character gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-031",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-031SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "DJ\u3092\u3055\u305B\u3066\u3082\u3089\u3048\u308B\u306E\u306F\u3001\u3068\u3063\u3066\u3082\u5149\u6804\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-031sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Anthem Maiden",
+        "JP": "\u30E6\u30CB\u30C3\u30C8\u552F\u4E00\u306E1\u5E74\u751F \u54B2\u59EB \u003Cstrong\u003EThe Only 1st Year in the Unit, Saki\u003C/strong\u003E\u003Cbr\u003ECost 5 / D4DJ / Photon Maiden\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 7\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "DJ\u3092\u3055\u305B\u3066\u3082\u3089\u3048\u308B\u306E\u306F\u3001\u3068\u3063\u3066\u3082\u5149\u6804\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CAnthem Maiden\u201C][Skill Showcase Level 7 \u003CPhoton Maiden\u003E][1/Turn]:When this character attacks, [choose three of your partners, and [Rest] them], and until end of turn, this character gets \u002B3/\u00B10, and your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300AAnthemMaiden\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014Photon Maiden\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-032",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-032S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Circle of Friends, Saki",
+        "JP": "\u53CB\u9054\u306E\u8F2A \u54B2\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4 \u003CPhoton Maiden\u003E]:When this character supports, [put this character on the bottom of your deck], choose one of your partners, [Stand] it, choose one of your allied members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Photon Maiden\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-033",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-033S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3057\u3066\u2026\u79C1\u306F\u305D\u306E\u5148\u304C\u307F\u305F\u3044\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Outstanding Performance, Saki",
+        "JP": "\u5353\u8D8A\u3057\u305F\u30D1\u30D5\u30A9\u30FC\u30DE\u30F3\u30B9 \u54B2\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u305D\u3057\u3066\u2026\u79C1\u306F\u305D\u306E\u5148\u304C\u307F\u305F\u3044\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports a [Growing], [put this character on the bottom of your deck], choose two [Growing] from your waiting room, and return them to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF12\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-034",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-034S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u97F3\u697D\u305D\u306E\u3082\u306E\u306B\u300C\u8272\u300D\u304C\u898B\u3048\u308B\u3093\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Having \u201CSynesthesia\u201D, Saki",
+        "JP": "\u300E\u5171\u611F\u899A\u300F\u306E\u6301\u3061\u4E3B \u54B2\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 9,
+      "Flavor": {
+        "JP": "\u3053\u308C\u304B\u3089\u5148\u3069\u3046\u306A\u308B\u306E\u304B\u3001\u79C1\u3082\u697D\u3057\u307F\u306B\u3057\u3066\u3044\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-035",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-035SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "Photon Maiden\u306E\u30EA\u30FC\u30C0\u30FC\u3001\u65B0\u5CF6\u8863\u821E\u7D00\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-035sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cutting Edge",
+        "JP": "\u30E6\u30CB\u30C3\u30C8\u306E\u983C\u308C\u308B\u30EA\u30FC\u30C0\u30FC \u8863\u821E\u7D00 \u003Cstrong\u003EReliable Leader of the Unit, Ibuki\u003C/strong\u003E\u003Cbr\u003ECost 4 / D4DJ / Photon Maiden\u003Cbr\u003EATK 4\u003Cbr\u003EDEF 8\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "Photon Maiden\u306E\u30EA\u30FC\u30C0\u30FC\u3001\u65B0\u5CF6\u8863\u821E\u7D00\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CCutting Edge\u201C][Skill Showcase Level 5 \u003CPhoton Maiden\u003E][1/Turn]:When this character attacks, [choose three of your partners, and [Rest] them], choose a card from your waiting room, return it to your hand, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300ACuttingEdge\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Photon Maiden\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001 \u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-036",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-036S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Karaoke Situation, Ibuki",
+        "JP": "\u30AB\u30E9\u30AA\u30B1\u4E8B\u60C5 \u8863\u821E\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CPhoton Maiden\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CPhoton Maiden\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Photon Maiden\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Photon Maiden\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-037",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-037S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3055\u3042\u3001\u7DF4\u7FD2\u7DF4\u7FD2\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sparing no effort every day, Ibuki",
+        "JP": "\u65E5\u3005\u306E\u52AA\u529B\u306F\u60DC\u3057\u307E\u306A\u3044 \u8863\u821E\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3055\u3042\u3001\u7DF4\u7FD2\u7DF4\u7FD2\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose one of your members and put it into your waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-038",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-038SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u7279\u5225\u306A\u5834\u6240\u3067\u5149\u308A\u8F1D\u304F\u306E\u304C\u9B45\u529B\u3060\u304B\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-038sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Idol Lover and Research Enthusiast, Towa",
+        "JP": "\u30A2\u30A4\u30C9\u30EB\u597D\u304D\u3067\u7814\u7A76\u71B1\u5FC3 \u4E59\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u7279\u5225\u306A\u5834\u6240\u3067\u5149\u308A\u8F1D\u304F\u306E\u304C\u9B45\u529B\u3060\u304B\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4 \u003CPhoton Maiden\u003E]:At the beginning of your attack phase, [choose one of your partners, and [Rest] it], draw a card, put a card from your hand into your waiting room, and this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Photon Maiden\u3015\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-039",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-039S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pure Emotion, Towa",
+        "JP": "PureEmotion \u4E59\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CPhoton Maiden\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Photon Maiden\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-040",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-040S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u306B\u306F\u5185\u7DD2\u3060\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "A Place Where Dreams Come True, Towa",
+        "JP": "\u5922\u3092\u53F6\u3048\u308B\u5834\u6240 \u4E59\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u306B\u306F\u5185\u7DD2\u3060\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u2019s entries, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-041",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-041S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3061\u3087\u3063\u3068\u7DCA\u5F35\u3057\u305F\u3060\u3051\uFF01\u3044\u3044\u610F\u5473\u3067\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gets Nervous On Stage? Towa",
+        "JP": "\u30B9\u30C6\u30FC\u30B8\u3067\u306F\u7DCA\u5F35\u3057\u304C\u3061\uFF1F \u4E59\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3061\u3087\u3063\u3068\u7DCA\u5F35\u3057\u305F\u3060\u3051\uFF01\u3044\u3044\u610F\u5473\u3067\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (3) Energy], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-042",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-042SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u305D\u3053\u306F\u3001\u9811\u5F35\u3063\u3066\u4F55\u3068\u304B\u3059\u308B\u306E\u3067\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-042sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Curious Bookworm Girl, Noa",
+        "JP": "\u597D\u5947\u5FC3\u65FA\u76DB\u306A\u6587\u5B66\u5C11\u5973 \u30CE\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u305D\u3053\u306F\u3001\u9811\u5F35\u3063\u3066\u4F55\u3068\u304B\u3059\u308B\u306E\u3067\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CPhoton Maiden\u003E]:Choose one of the following.\ni. Choose two of your partners, and [Stand] them.\nii. Choose one of your opponent\u2019s members, and [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Photon Maiden\u3015\uFF1A\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\n\u2171\uFF0E\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-043",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-043S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cute-Bringer, Noa",
+        "JP": "CuteBringer \u30CE\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports a \u003CPhoton Maiden\u003E, [put this character on the bottom of your deck], choose two of your partners, and [Stand] them.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014Photon Maiden\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-044",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-044S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30C9\u30EC\u30FC\u30CC\u304C\u597D\u304D\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Loves Reading and Full of Knowledge, Noa",
+        "JP": "\u8AAD\u66F8\u5BB6\u3067\u77E5\u8B58\u3082\u8C4A\u5BCC \u30CE\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30DE\u30C9\u30EC\u30FC\u30CC\u304C\u597D\u304D\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark] This character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-045",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-045S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u306A\u3093\u305F\u3063\u3066\u30AB\u30EF\u30A4\u30A4\u7269\u306F\u5168\u4EBA\u985E\u304C\u597D\u304D\u3067\u3059\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Loves Cute Things, Noa",
+        "JP": "\u300C\u304B\u308F\u3044\u3044\u3082\u306E\u300D\u306B\u76EE\u304C\u306A\u3044 \u30CE\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Photon Maiden",
+          "JP": "Photon Maiden"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u306A\u3093\u305F\u3063\u3066\u30AB\u30EF\u30A4\u30A4\u7269\u306F\u5168\u4EBA\u985E\u304C\u597D\u304D\u3067\u3059\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-046",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-046SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u30D0\u30A4\u30D6\u30B9\u4E0A\u304C\u308B\u3068\u3053\u306A\u3089\u3069\u3053\u3067\u3082\u884C\u3063\u3061\u3083\u3046\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-046sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "HYPE St4ge",
+        "JP": "\u76DB\u308A\u4E0A\u3052\u308B\u3053\u3068\u306A\u3089\u304A\u4EFB\u305B \u30EA\u30AB \u003Cstrong\u003ELivening Up Any Party, Rika\u003C/strong\u003E\u003Cbr\u003ECost 5 / D4DJ / Merm4id\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 7\u003Cbr\u003E[Spark]:Choose a character from your waiting room, and you may put it onto your energy area as [Rest].\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30D0\u30A4\u30D6\u30B9\u4E0A\u304C\u308B\u3068\u3053\u306A\u3089\u3069\u3053\u3067\u3082\u884C\u3063\u3061\u3083\u3046\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CHYPE St4ge\u201C][Skill Showcase Level 5]:When this character attacks, [choose one of your \u003CMerm4id\u003E members, and put it on the bottom of your deck], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30A2\u30B2\u30A2\u30B2St4ge\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014Merm4id\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-047",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-047S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30EF\u30BF\u30B7\u306F\u307F\u3093\u306A\u306E\u3053\u3068\u3001\u5927\u597D\u304D\u3060\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Overcoming Anything with her Luck and Charm, Rika",
+        "JP": "\u904B\u3068\u611B\u5B0C\u3067\u3059\u3079\u3066\u3092\u4E57\u308A\u8D8A\u3048\u308B \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30EF\u30BF\u30B7\u306F\u307F\u3093\u306A\u306E\u3053\u3068\u3001\u5927\u597D\u304D\u3060\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-048",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-048S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Merm4id Way of Life, Rika",
+        "JP": "Merm4id\u306E\u751F\u304D\u308B\u9053 \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a [Growing] member, this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-049",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-049S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3064\u3044\u306B\u6765\u305F\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Festive Girl, Rika",
+        "JP": "\u304A\u796D\u308A\u30AC\u30FC\u30EB \u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3064\u3044\u306B\u6765\u305F\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-050",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-050SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3082\u79C1\u305F\u3061\u306E\u30E9\u30A4\u30D6\u306B\u904A\u3073\u306B\u6765\u3066\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-050sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "College Student with a Comforting Atmosphere, Marika",
+        "JP": "\u7652\u3057\u7CFB\u5973\u5B50\u5927\u751F\u30E2\u30C7\u30EB \u8309\u8389\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3082\u79C1\u305F\u3061\u306E\u30E9\u30A4\u30D6\u306B\u904A\u3073\u306B\u6765\u3066\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4]:[Rest (2) Energy, and put this character on the bottom of your deck], choose one of your \u003CMerm4id\u003E entries, and put that character onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014Merm4id\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-051",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-051S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Serious Eye, Marika",
+        "JP": "\u672C\u6C17\u306E\u51FA\u3057\u30A2\u30A4 \u8309\u8389\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-052",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-052S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AB\u30EF\u30A4\u304F\u307F\u305B\u308B\u52D5\u304D\u3063\u3066\u3001\u3042\u308B\u3093\u3060\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hug\u03A3e Thrill",
+        "JP": "\u30AD\u30E5\u30FC\u30C8\u306A\u3060\u3051\u3067\u306F\u306A\u3044\uFF1F \u8309\u8389\u82B1 \u003Cstrong\u003ENot Just Cute? Marika\u003C/strong\u003E\u003Cbr\u003ECost 2 / D4DJ / Merm4id\u003Cbr\u003EATK 3\u003Cbr\u003EDEF 6\u003Cbr\u003E[AUTO](Member)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30AB\u30EF\u30A4\u304F\u307F\u305B\u308B\u52D5\u304D\u3063\u3066\u3001\u3042\u308B\u3093\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u201CHug\u03A3e Thrill\u201C][Skill Showcase Level 3][1/Turn]:When a character is put onto your entry area, choose one of your allied members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30C9\u30AD\u30C9\u30ADHug\u03A3e\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011 \u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u30AD\u30E3\u30E9\u304C\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-053",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-053SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u3044\u305F\u3063\u3066\u666E\u901A\u306E\u5973\u5B50\u5927\u751F\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-053sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Just an Ordinary University Student, Saori",
+        "JP": "\u3044\u305F\u3063\u3066\u666E\u901A\u306E\u5973\u5B50\u5927\u751F \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3044\u305F\u3063\u3066\u666E\u901A\u306E\u5973\u5B50\u5927\u751F\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your \u003CMerm4id\u003E members, and you may put it onto your energy area as [[Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014Merm4id\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-054",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-054S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sick Scra\u002Bch, Saori",
+        "JP": "\u30CF\u30E9\u30CF\u30E9Scra\u002Bch \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CMerm4id\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Merm4id\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-055",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-055S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30D7\u30EC\u30C3\u30B7\u30E3\u30FC\u304C\u3084\u3070\u3044\u3088\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Negative Thinking DJ, Saori",
+        "JP": "\u30CD\u30AC\u30C6\u30A3\u30D6\u601D\u8003\u306ADJ \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30D7\u30EC\u30C3\u30B7\u30E3\u30FC\u304C\u3084\u3070\u3044\u3088\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-056",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-056S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3082\u305D\u3082\u307F\u3093\u306A\u500B\u6027\u304C\u5F37\u3059\u304E\u308B\u306E\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Envies Cilantro? Saori",
+        "JP": "\u30D1\u30AF\u30C1\u30FC\u304C\u3046\u3089\u3084\u307E\u3057\u3044\uFF1F \u3055\u304A\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u305D\u3082\u305D\u3082\u307F\u3093\u306A\u500B\u6027\u304C\u5F37\u3059\u304E\u308B\u306E\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose one of your members, and put it into your waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-057",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-057SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u2026\u2026\u7B2C\u516D\u611F\u3063\u3066\u30E4\u30C4\u304B\u306A\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-057sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Genre-exceeding Dancer, Dalia",
+        "JP": "\u30B8\u30E3\u30F3\u30EB\u306B\u3068\u3089\u308F\u308C\u306A\u3044\u30C0\u30F3\u30B5\u30FC \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u2026\u2026\u7B2C\u516D\u611F\u3063\u3066\u30E4\u30C4\u304B\u306A\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose a \u003CMerm4id\u003E from your waiting room, and return it to your hand], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014Merm4id\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-058",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-058S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "P@ssion D@ncer, Dalia",
+        "JP": "\u30A2\u30C4\u30A2\u30C4D@ncer \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CMerm4id\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CMerm4id\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Merm4id\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Merm4id\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-059",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-059S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3072\u3087\u3063\u3068\u3057\u3066\u3001\u79C1\u305F\u3061\u306E\u30E9\u30A4\u30D6\u306B\u307E\u3060\u6765\u305F\u3053\u3068\u306A\u3044\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Skilled Performer, Dalia",
+        "JP": "\u51C4\u8155\u30D1\u30D5\u30A9\u30FC\u30DE\u30FC \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3072\u3087\u3063\u3068\u3057\u3066\u3001\u79C1\u305F\u3061\u306E\u30E9\u30A4\u30D6\u306B\u307E\u3060\u6765\u305F\u3053\u3068\u306A\u3044\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your allied members, that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[CONT](Entry):This character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-060",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-060S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3063\u3068\u697D\u3057\u304F\u751F\u304D\u308B\u3053\u3068\u3082\u3067\u304D\u308B\u3093\u3060\u306A\u3001\u3063\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Her Goal is Broadway, Dalia",
+        "JP": "\u76EE\u6A19\u306F\u30D6\u30ED\u30FC\u30C9\u30A6\u30A7\u30A4 \u30C0\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Merm4id",
+          "JP": "Merm4id"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3082\u3063\u3068\u697D\u3057\u304F\u751F\u304D\u308B\u3053\u3068\u3082\u3067\u304D\u308B\u3093\u3060\u306A\u3001\u3063\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card, put a card from your hand into your waiting room, and this character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-061",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-061SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u79C1\u304C\u9032\u3080\u3079\u304D\u7269\u8A9E\u306E\u3001\u305D\u306E\u5148\u3078"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-061sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Electrifying Voice",
+        "JP": "\u30DC\u30FC\u30AB\u30EB\u306B\u304B\u3051\u308B\u5F37\u3044\u60F3\u3044 \u693F \u003Cstrong\u003EStrong Devotion in Singing as a Vocalist, Tsubaki\u003C/strong\u003E\u003Cbr\u003ECost 5 / D4DJ / Rondo\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 8\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u79C1\u304C\u9032\u3080\u3079\u304D\u7269\u8A9E\u306E\u3001\u305D\u306E\u5148\u3078"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CElectrifying Voice\u201C][1/Turn]:When this character attacks, choose a character from your waiting room, return it to your hand, and put a card from your hand into your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5FC3\u7A7F\u3064\u71B1\u5531\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 5]:[Put two \u003CRondo\u003E from your hand into your waiting room], choose one of your opponent\u2019s members, and put it into your waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u3014\u71D0\u821E\u66F2\u3015\u3092\uFF12\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-062",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-062S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Encounter in the Chapel, Tsubaki",
+        "JP": "\u30C1\u30E3\u30DA\u30EB\u306E\u51FA\u4F1A\u3044 \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Put a \u003CRondo\u003E from your hand into your waiting room], choose all your other members, and they cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u3014\u71D0\u821E\u66F2\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u3089\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-063",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-063S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306E\u6B4C\u58F0\u3092\u3042\u306A\u305F\u306B\u3042\u3052\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Born Vocalist, Tsubaki",
+        "JP": "\u751F\u6765\u306E\u30DC\u30FC\u30AB\u30EA\u30B9\u30C8 \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u79C1\u306E\u6B4C\u58F0\u3092\u3042\u306A\u305F\u306B\u3042\u3052\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-064",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-064S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3064\u304B\u4E16\u754C\u4E2D\u3092\u5E2D\u5DFB\u3057\u3066\u307F\u305B\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Serious and Stoic, Tsubaki",
+        "JP": "\u751F\u771F\u9762\u76EE\u3067\u30B9\u30C8\u30A4\u30C3\u30AF \u693F"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u6B4C\u58F0\u3092\u63D0\u4F9B\u3059\u308B\u3053\u3068\u304C\u5168\u3066\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-065",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-065SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u3044\u3043\u3088\u3063\u3057\u3083\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-065sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wild Solo",
+        "JP": "\u4E0B\u753A\u80B2\u3061\u306E\u30AE\u30BF\u30EA\u30B9\u30C8\u517C\u30E0\u30FC\u30C9\u30E1\u30FC\u30AB\u30FC \u6E1A \u003Cstrong\u003EGuitarist and Life of Rondo Who Grew Up Downtown, Nagisa\u003C/strong\u003E\u003Cbr\u003ECost 4 / D4DJ / Rondo\u003Cbr\u003EATK 4\u003Cbr\u003EDEF 7\u003Cbr\u003E[Cancel]:[Spark] of non-Rebirth cards\u003Cbr\u003E\u003Cem\u003E(If you discard it from hand, negate one [Spark] of a non-Rebirth card)\u003C/em\u003E\u003Cbr\u003E[ACT](Waiting room)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3044\u3043\u3088\u3063\u3057\u3083\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[ACT](Waiting room)[ReCombo \u201CWild Solo\u201C][Skill Showcase Level 5 \u003CRondo\u003E]:[Rest (2) Energy], put this character onto your entry area, and this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u904E\u71B1\u3059\u308B\u72EC\u594F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u71D0\u821E\u66F2\u3015\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-066",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-066S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Power of Cooking, Nagisa",
+        "JP": "\u6599\u7406\u306E\u30C1\u30AB\u30E9 \u6E1A"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 5 \u003CRondo\u003E]:When this character is put from your hand into your waiting room, choose one of your opponent\u2019s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u71D0\u821E\u66F2\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-067",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-067S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30C6\u30F3\u30B7\u30E7\u30F3\u4E0A\u304C\u3063\u3066\u304D\u305F\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Her Pace and Mischeviousness, Nagisa",
+        "JP": "\u30DE\u30A4\u30DA\u30FC\u30B9\u3067\u3084\u3093\u3061\u3083 \u6E1A"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30C6\u30F3\u30B7\u30E7\u30F3\u4E0A\u304C\u3063\u3066\u304D\u305F\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Waiting room):This character cannot be chosen for card effects.",
+          "JP": "\u3010\u6C38\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u52B9\u679C\u3067\u9078\u3070\u308C\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 5]:When this character is put into your waiting room from your hand, choose one of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-068",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-068SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u79C1\u306B\u306F\u7518\u3048\u3066\u3082\u3044\u3044\u308F\u3088\u3002\u3046\u3075\u3075"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-068sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Benevolent, Hiiro",
+        "JP": "\u6148\u611B\u306E\u584A \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u79C1\u306B\u306F\u7518\u3048\u3066\u3082\u3044\u3044\u308F\u3088\u3002\u3046\u3075\u3075"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5 \u003CRondo\u003E]:Draw two cards, and put a card from your hand into your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u71D0\u821E\u66F2\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-069",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-069S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Spellbinding Dance, Hiiro",
+        "JP": "\u9B45\u60D1\u3059\u308B\u821E\u8E0F \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CRondo\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014\u71D0\u821E\u66F2\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-070",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-070S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u672C\u5F53\u306B\u79C1\u3067\u3044\u3044\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mature Older Sister, Hiiro",
+        "JP": "\u5927\u4EBA\u306E\u304A\u59C9\u3055\u3093 \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u672C\u5F53\u306B\u79C1\u3067\u3044\u3044\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-071",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-071S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u4EBA\u306E\u60F3\u3044\u3042\u3063\u3066\u3053\u305D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Great Hospitality with Home Cooking, Hiiro\u003Cbr\u003E",
+        "JP": "\u624B\u6599\u7406\u3067\u304A\u3082\u3066\u306A\u3057 \u7DCB\u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4EBA\u306E\u60F3\u3044\u3042\u3063\u3066\u3053\u305D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character retires an opponent\u2019s character, [put two [Growing] from your hand into your waiting room], and draw two cards.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF12\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF12\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-072",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-072SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u305D\u3046\u304B\u306A\u3001\u3075\u3075"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-072sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Poker Face Who Doesn\u2019t Show Her True Emotions, Aoi",
+        "JP": "\u30DD\u30FC\u30AB\u30FC\u30D5\u30A7\u30A4\u30B9\u3067\u30DF\u30B9\u30C6\u30EA\u30A2\u30B9 \u8475\u4F9D"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u3046\u304B\u306A\u3001\u3075\u3075"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 5]:When this character is put from your hand into your waiting room, choose one of your \u003CRondo\u003E entries, and during that character\u2019s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u71D0\u821E\u66F2\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u305D\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-073",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-073S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Songweavers of Bliss, Aoi",
+        "JP": "\u6B53\u697D\u7D21\u3050\u6307\u5148 \u8475\u4F9D"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CRondo\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CRondo\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u71D0\u821E\u66F2\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u71D0\u821E\u66F2\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-074",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-074S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3092\u8F1D\u304B\u305B\u308B\u3053\u3068\u304C\u51FA\u6765\u305F\u3089\u3068\u3066\u3082\u5B09\u3057\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "DJ that Performs for a Members-Only Club, Aoi",
+        "JP": "\u4F1A\u54E1\u5236\u30AF\u30E9\u30D6\u30CF\u30A6\u30B9\u306E\u5C02\u5C5EDJ \u8475\u4F9D"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3092\u8F1D\u304B\u305B\u308B\u3053\u3068\u304C\u51FA\u6765\u305F\u3089\u3068\u3066\u3082\u5B09\u3057\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character attacks, draw a card, and put a card from your hand into your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-075",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-075S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u8208\u5473\u3092\u6301\u3063\u3066\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Beauty Dressing Up as a Man, Aoi\u003Cbr\u003E",
+        "JP": "\u7537\u88C5\u306E\u9E97\u4EBA \u8475\u4F9D"
+      },
+      "Traits": [
+        {
+          "EN": "Rondo",
+          "JP": "\u71D0\u821E\u66F2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u8208\u5473\u3092\u6301\u3063\u3066\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-076",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-076SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u3053\u306E\u697D\u3057\u3055\u3092\u307F\u3093\u306A\u306B\u3082\u308F\u3051\u3066\u3042\u3052\u305F\u3044\u306A\u3063\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-076sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Smooth Shine",
+        "JP": "\u5929\u4F7F\u306E\u3088\u3046\u306B\u512A\u3057\u3044\u304A\u5B22\u69D8 \u7F8E\u5922 \u003Cstrong\u003EKind Hearted Young Lady like an Angel, Miyu\u003C/strong\u003E\u003Cbr\u003ECost 5 / D4DJ / Lyrical Lily\u003Cbr\u003EATK 5\u003Cbr\u003EDEF 7\u003Cbr\u003E[AUTO](Entry)[ReCombo \u201C"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u306E\u697D\u3057\u3055\u3092\u307F\u3093\u306A\u306B\u3082\u308F\u3051\u3066\u3042\u3052\u305F\u3044\u306A\u3063\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u201CSmooth Shine\u201C][Skill Showcase Level 5][1/Turn]:When this character attacks, choose one of your \u003CLyrical Lily\u003E members, return it to your hand, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3055\u3089\u3055\u3089\u30B7\u30E3\u30A4\u30F3\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014Lyrical Lily\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-077",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-077S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Swimming Improvement Method, Miyu",
+        "JP": "\u6C34\u6CF3\u306E\u4E0A\u9054\u6CD5 \u7F8E\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Rest (2) Energy], choose a \u003CLyrical Lily\u003E from your waiting room, and put it onto an open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014Lyrical Lily\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-078",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-078S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30EA\u30EA\u30EA\u3063\u3066\u547C\u3093\u3067\u304F\u3060\u3055\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kind Hearted and Thoughtful, Miyu",
+        "JP": "\u512A\u3057\u304F\u54C1\u884C\u65B9\u6B63 \u7F8E\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30EA\u30EA\u30EA\u30EA\u3063\u3066\u547C\u3093\u3067\u304F\u3060\u3055\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a [Growing], [put this character on the bottom of your deck], and until end of that attack, the supported character gets \u002B3/\u00B10, and your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-079",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-079S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u305F\u3061\u3068\u4E00\u7DD2\u306B\u5192\u967A\u3057\u3066\u307F\u307E\u305B\u3093\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "God-like Help, Miyu",
+        "JP": "\u795E\u5BFE\u5FDC \u7F8E\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u6B4C\u3046\u3053\u3068\u304C\u5927\u597D\u304D\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-080",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-080SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u8AB0\u304C\u3044\u3044\u3093\u3061\u3087\u3067\u3059\u304B\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-080sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u201CDJ for Life\u201D",
+        "JP": "\u30E6\u30CB\u30C3\u30C8\u306E\u304A\u76EE\u4ED8\u3051\u5F79 \u6625\u5948 \u003Cstrong\u003EThe Chaperon of the Unit, Haruna\u003C/strong\u003E\u003Cbr\u003ECost 4 / D4DJ / Lyrical Lily\u003Cbr\u003EATK 4\u003Cbr\u003EDEF 8\u003Cbr\u003E[ACT](Entry)[ReCombo"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u8AB0\u304C\u3044\u3044\u3093\u3061\u3087\u3067\u3059\u304B\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CDJ for Life\u201D][Skill Showcase Level 5][1/Turn]:[Rest (1) Energy, choose a \u003CLyrical Lily\u003E from your hand, and put it onto your member area], choose a card each from your hand and member area, exchange their positions, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u307E\u3053\u3068\u306B\u4EBA\u751F\u3001DJ\u5FA1\u5BEE\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Lyrical Lily\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-081",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-081S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Preaches and Traps, Haruna",
+        "JP": "\u304A\u8AAC\u6559\u3068\u30C8\u30E9\u30C3\u30D7 \u6625\u5948"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CLyrical Lily\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CLyrical Lily\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Lyrical Lily\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Lyrical Lily\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-082",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-082S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3084\u308B\u304B\u3089\u306B\u306F\u5FB9\u5E95\u7684\u306B\u3084\u3089\u305B\u3066\u9802\u304D\u307E\u3059\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Student Discipline Committee Member, Haruna",
+        "JP": "\u98A8\u7D00\u59D4\u54E1 \u6625\u5948"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3084\u308B\u304B\u3089\u306B\u306F\u5FB9\u5E95\u7684\u306B\u3084\u3089\u305B\u3066\u9802\u304D\u307E\u3059\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is returned to your hand from your member area, choose up to two cards from your hand, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u624B\u672D\u306B\u623B\u3063\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-083",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-083SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u3053\u3093\u306A\u9762\u767D\u3044\u3053\u3068\u3001\u3084\u3081\u3089\u308C\u306A\u3044\u3088\u306D\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-083sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mischievous Elite Girl, Kurumi",
+        "JP": "\u5C0F\u60AA\u9B54\u304A\u5B22\u69D8 \u80E1\u6843"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u3093\u306A\u9762\u767D\u3044\u3053\u3068\u3001\u3084\u3081\u3089\u308C\u306A\u3044\u3088\u306D\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003CLyrical Lily\u003E]:When this character is returned to your hand from member area, choose two of your opponent\u2019s members, and put them into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Lyrical Lily\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u624B\u672D\u306B\u623B\u3063\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-084",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-084S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Swaying in the Wind, Kurumi",
+        "JP": "\u30D2\u30E9\u30D2\u30E9\u30DD\u30D7\u30E9 \u80E1\u6843"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CLyrical Lily\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Lyrical Lily\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-085",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-085S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3078\u3078\u3001\u3073\u3063\u304F\u308A\u3057\u305F\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Can\u2019t Stop Playing Pranks, Kurumi",
+        "JP": "\u3044\u305F\u305A\u3089\u304C\u3084\u3081\u3089\u308C\u306A\u3044 \u80E1\u6843"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3078\u3078\u3001\u3073\u3063\u304F\u308A\u3057\u305F\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], choose one of your members, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-086",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-086S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u76EE\u3092\u96E2\u3055\u306A\u3044\u3067\u3088\u306D\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "That\u2019s Entertainment! Kurumi",
+        "JP": "\u30B6\u30C3\u30C4\u30FB\u30A8\u30F3\u30BF\u30FC\u30C6\u30A4\u30F3\u30E1\u30F3\u30C8\uFF01 \u80E1\u6843"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u76EE\u3092\u96E2\u3055\u306A\u3044\u3067\u3088\u306D\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When a [Growing] is put onto your entry area, that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-087",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-087SP",
+          "Rarity": "SP",
+          "Flavor": {
+            "JP": "\u305D\u3053\u306E\u3042\u306A\u305F\u3082\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-087sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Friends with Everybody, Miiko",
+        "JP": "\u307F\u3093\u306A\u304A\u53CB\u9054 \u307F\u3044\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u3053\u306E\u3042\u306A\u305F\u3082\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your \u003CLyrical Lily\u003E members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014Lyrical Lily\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-088",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-088S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fluttering Skirts, Miiko",
+        "JP": "\u3086\u3089\u3086\u308B\u30B9\u30AB\u30FC\u30C4 \u307F\u3044\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is returned to your hand from member area, choose your entry, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u624B\u672D\u306B\u623B\u3063\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-089",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-089S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30B9\u30C6\u30FC\u30B8\u3092\u76DB\u308A\u4E0A\u3052\u308B\u3053\u3068\u306A\u3089\u306A\u3093\u3067\u3082\u3057\u3061\u3083\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Loving Fun Things, Miiko",
+        "JP": "\u697D\u3057\u3044\u3053\u3068\u304C\u5927\u597D\u304D \u307F\u3044\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30B9\u30C6\u30FC\u30B8\u3092\u76DB\u308A\u4E0A\u3052\u308B\u3053\u3068\u306A\u3089\u306A\u3093\u3067\u3082\u3057\u3061\u3083\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-090",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-090S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u4E16\u754C\u4E2D\u3092\u65C5\u3059\u308B\u306E\u304C\u5922\u306A\u306E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Becoming Friends with Aliens? Miiko",
+        "JP": "\u5B87\u5B99\u4EBA\u3068\u3082\u304A\u53CB\u9054\uFF1F \u307F\u3044\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Lyrical Lily",
+          "JP": "Lyrical Lily"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u4E16\u754C\u4E2D\u3092\u65C5\u3059\u308B\u306E\u304C\u5922\u306A\u306E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u2019s entries, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-091",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-091SR\uFF0B",
+          "Rarity": "ReR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Happy Sky-High",
+        "JP": "Happy\u25CE\u30B9\u30AB\u30A4\u30CF\u30A4"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u2019s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-092",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-092SR\uFF0B",
+          "Rarity": "ReR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-092s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pop Coffee Mug",
+        "JP": "Pop\u25CE\u30B3\u30FC\u30D2\u30FC\u30AB\u30C3\u30D7"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "ReR",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-093",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-093SR\uFF0B",
+          "Rarity": "ReR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Universe \u2013 LOCK ON",
+        "JP": "\u5929\u4E0A\u5929\u4E0B-LOCK ON"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-094",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-094SR\uFF0B",
+          "Rarity": "ReR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No Brainer \u2013 CUT IN",
+        "JP": "\u5FEB\u5200\u4E71\u9EBB-CUT IN"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-095",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-095SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Anthem Maiden",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-096",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-096SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cutting Edge",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u2019s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-097",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-097SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "HYPE St4ge",
+        "JP": "\u30A2\u30B2\u30A2\u30B2St4ge"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u306F\u8FFD\u52A0\u3067\u3082\u3046\u4E00\u5EA6\u767A\u52D5\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-098",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-098SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hug\u03A3e Thrill",
+        "JP": "\u30C9\u30AD\u30C9\u30ADHug\u03A3e"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-099",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-099SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Electrifying Voice",
+        "JP": "\u5FC3\u7A7F\u3064\u71B1\u5531"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-100",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-100SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wild Solo",
+        "JP": "\u904E\u71B1\u3059\u308B\u72EC\u594F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-101",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-101SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-101s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Smooth Shine",
+        "JP": "\u3055\u3089\u3055\u3089\u30B7\u30E3\u30A4\u30F3"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-101.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    },
+    {
+      "Serial": "DJ/001B-102",
+      "Alternates": [
+        {
+          "Serial": "DJ/001B-102SR\uFF0B",
+          "Rarity": "ReC\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-102s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "DJ for Life",
+        "JP": "\u307E\u3053\u3068\u306B\u4EBA\u751F\u3001DJ\u5FA1\u5BEE"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "ReC",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/DJBP/dj001b-102.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "DJ/001B"
+      }
+    }
+  ]
+}

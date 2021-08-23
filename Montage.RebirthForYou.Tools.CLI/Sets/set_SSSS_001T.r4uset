@@ -1,0 +1,639 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "SSSS/001T-001",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30C3\u30AF\u30B9\u300C\u3088\u304F\u898B\u308D\uFF01\u3069\u3046\u898B\u3066\u3082\u4EBA\u9593\u3060\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-001S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuta Hibiki",
+        "JP": "\u97FF \u88D5\u592A"
+      },
+      "Traits": [
+        {
+          "EN": "Gridman Alliance",
+          "JP": "\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u540C\u76DF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3042\u308C\uFF1F\u2026\u516D\u82B1\u306F\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (1) Energy], choose a Cost 5 or greater character with \u201CGridman\u201D in its card name from your hand or waiting room, put it onto your entry area, and this character becomes its [Soul].\n([Soul] is stacked under the entry, and is put into the waiting room when the entry moves)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3001\u30B3\u30B9\u30C8\uFF15\u4EE5\u4E0A\u306E\u300A\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u305D\u306E\u9B42\u306B\u3059\u308B\u3002 \uFF08\u9B42\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u91CD\u306D\u3066\u7F6E\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304C\u79FB\u52D5\u3057\u305F\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T",
+        "Name": "SSSS.GRIDMAN Trial Deck"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-002",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3050\u308F\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-002S.png"
+          ]
+        },
+        {
+          "Serial": "SSSS/001T-002SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u79C1\u306F\u30CF\u30A4\u30D1\u30FC\u30A8\u30FC\u30B8\u30A7\u30F3\u30C8\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-002SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gridman (Primal Fighter)",
+        "JP": "\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\uFF08\u30D7\u30E9\u30A4\u30DE\u30EB\u30D5\u30A1\u30A4\u30BF\u30FC\uFF09"
+      },
+      "Traits": [
+        {
+          "EN": "Gridman Alliance",
+          "JP": "\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u540C\u76DF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3075\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If this character has a [Soul] with \u201CYuta\u201D in its card name, this character gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u9B42\u306B\u300A\u88D5\u592A\u300B\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002 \u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u300A\u88D5\u592A\u300B\u3092\uFF11\u679A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u9B42\u306B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002 \uFF08\u9B42\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u91CD\u306D\u3066\u7F6E\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304C\u79FB\u52D5\u3057\u305F\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-003",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306E\u602A\u7363\u3001\u5909\u306A\u611F\u3058\u3067\u3057\u305F\u306D\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-003S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sho Utsumi",
+        "JP": "\u5185\u6D77 \u5C06"
+      },
+      "Traits": [
+        {
+          "EN": "Gridman Alliance",
+          "JP": "\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u540C\u76DF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3048\u3063\u3001\u65B0\u6761\u3055\u3093\u3001\u602A\u7363\u597D\u304D\u306A\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-004",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3046\u305B\u6226\u3044\u305F\u3044\u3093\u3067\u3057\u3087\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-004S.png"
+          ]
+        },
+        {
+          "Serial": "SSSS/001T-004SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u30A2\u30AB\u30CD\u306E\u3053\u3068\u306A\u3089\u3001\u79C1\u306F\u77E5\u3063\u3066\u308B\u304B\u3089\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-004SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rikka Takarada",
+        "JP": "\u5B9D\u591A \u516D\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Gridman Alliance",
+          "JP": "\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u540C\u76DF"
+        },
+        {
+          "EN": "Heroine",
+          "JP": "\u30D2\u30ED\u30A4\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3061\u3087\u3063\u3068\u3082\u3046\u3064\u3044\u3066\u3044\u3051\u306A\u3044\u304B\u3082\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo]:When this character supports, if you have more cards in your retire area than your opponent, the supported character gets \u002B2/\u00B10 until end of that attack.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002 \uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-005",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3093\u3002\u7279\u306B\u6B32\u3057\u3044\u3082\u306E\u306A\u304B\u3063\u305F\u3057\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-005S.png"
+          ]
+        },
+        {
+          "Serial": "SSSS/001T-005SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "JP": "\u305D\u3093\u306A\u3053\u3068\u3088\u308A\u4ECA\u306F\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u306A\u3093\u3060\u3063\u3066\u3070"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-005SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Akane Shinjo",
+        "JP": "\u65B0\u6761 \u30A2\u30AB\u30CD"
+      },
+      "Traits": [
+        {
+          "EN": "???",
+          "JP": "\uFF1F\uFF1F\uFF1F"
+        },
+        {
+          "EN": "Heroine",
+          "JP": "\u30D2\u30ED\u30A4\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304A\u306F\u3088\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u201CElaborate Countermeasure\u201C]:[Rest (3) Energy], choose a character from your waiting room, and put it onto your member area.\n([ReCombo]:Active if you have \u201CElaborate Countermeasure\u201D set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5165\u5FF5\u306A\u5BFE\u7B56\u300B\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002 \uFF08\u3042\u306A\u305F\u306E\u300A\u5165\u5FF5\u306A\u5BFE\u7B56\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-006",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-006S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Samurai Calibur",
+        "JP": "\u30B5\u30E0\u30E9\u30A4\u30FB\u30AD\u30E3\u30EA\u30D0\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Neon Genesis Junior High Students",
+          "JP": "\u65B0\u4E16\u7D00\u4E2D\u5B66\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3057\u3087\u3001\u51E6\u7F6E\u304C\u7D42\u308F\u3063\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u2019s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002 \uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-007",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u541B\u306F\u3082\u3046\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u306A\u3093\u3060\u306A\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-007S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Max",
+        "JP": "\u30DE\u30C3\u30AF\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Neon Genesis Junior High Students",
+          "JP": "\u65B0\u4E16\u7D00\u4E2D\u5B66\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u63C3\u3063\u305F\u306A\u3002\u5168\u54E1\u3067\u884C\u3053\u3046"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011 \uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-008",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4FFA\u304C\u624B\u4F1D\u3063\u3066\u3084\u308B\u304B\u3089\u3001\u65E9\u304F\u884C\u304F\u305E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-008S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Borr",
+        "JP": "\u30DC\u30E9\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Neon Genesis Junior High Students",
+          "JP": "\u65B0\u4E16\u7D00\u4E2D\u5B66\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30B0\u30EA\u30C3\u30C9\u30D3\u30FC\u30E0\u304C\u52B9\u3044\u3066\u306A\u3044\u3093\u3060\u304B\u3089\u3001\u30AA\u30EC\u304C\u884C\u3063\u3066\u3082\u7D50\u679C\u306F\u540C\u3058\u3060\u308D\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-009",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30AA\u30EC\u3001\u4ECA\u65E5\u306F\u5F85\u6A5F\u306A\u3093\u3067"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-009S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Vit",
+        "JP": "\u30F4\u30A3\u30C3\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Neon Genesis Junior High Students",
+          "JP": "\u65B0\u4E16\u7D00\u4E2D\u5B66\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "??"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011 \uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-010",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u304B\u306A\u3089\u305A\u2026\u5012\u3059\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-010S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Anti",
+        "JP": "\u30A2\u30F3\u30C1"
+      },
+      "Traits": [
+        {
+          "EN": "???",
+          "JP": "\uFF1F\uFF1F\uFF1F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u304A\u524D\u306B\u7528\u306F\u306A\u3044\u3002\u30B0\u30EA\u30C3\u30C9\u30DE\u30F3\u3092\u51FA\u305B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-011",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u56F0\u3063\u305F\u304A\u5BA2\u69D8\u3060\u2026\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-011S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Alexis Kerib",
+        "JP": "\u30A2\u30EC\u30AF\u30B7\u30B9\u30FB\u30B1\u30EA\u30D6"
+      },
+      "Traits": [
+        {
+          "EN": "???",
+          "JP": "\uFF1F\uFF1F\uFF1F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3075\u30FC\u3080"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Put a card from your hand into your waiting room], choose one of your entries, and it gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-012",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30B0\u30EA\u30C3\u30C9\u30A9\u30A9\u30D3\u30FC\u30E0\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-012S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Grid Beam",
+        "JP": "\u30B0\u30EA\u30C3\u30C9\u30D3\u30FC\u30E0"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u30B0\u30EA\u30C3\u30C9\u30A9\u30A9"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002 \u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    },
+    {
+      "Serial": "SSSS/001T-013",
+      "Alternates": [
+        {
+          "Serial": "SSSS/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30C0\u30E1\u3060\u3088\u3001\u5B9A\u6642\u306B\u5E30\u3063\u3061\u3083\u30FC\u3002\u3082\u3063\u3068\u751F\u5F92\u3068\u89E6\u308C\u5408\u308F\u306A\u3044\u3068\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-013S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Elaborate Countermeasure",
+        "JP": "\u5165\u5FF5\u306A\u5BFE\u7B56"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u3042\u306F\u306F\u306F\u306F \u30D3\u30FC\u30E0\u5BFE\u7B56\u3001\u30AB\u30F3\u30DA\u30AD\u3059\u304E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09 \u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/SSTD/s1001t-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "SSSS/001T"
+      }
+    }
+  ]
+}

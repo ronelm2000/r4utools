@@ -1,0 +1,794 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "RZ/001T-001",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4FFA\u306F\u5FC5\u305A\u3001\u304A\u524D\u3092\u53D6\u308A\u623B\u3059\u3001\u5FC5\u305A\u3060"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_001S.png"
+          ]
+        },
+        {
+          "Serial": "RZ/001T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_001SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ignorant, Incompetent, Powerless, Reckless, Subaru",
+        "JP": "\u7121\u77E5\u7121\u80FD\u306B\u3057\u3066\u7121\u529B\u7121\u8B00 \u30B9\u30D0\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Return by Death",
+          "JP": "\u6B7B\u306B\u623B\u308A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "JP": "\u4FFA\u304C\u5FC5\u305A\u3001\u304A\u524D\u3092\u6551\u3063\u3066\u307F\u305B\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[ReCombo]:[Rest (3) Energy], put this character onto your member area, choose one of your entries with \u201CEmilia\u201D or \u201CRem\u201D in its card name, and that character gets \u002B2/\u00B10 until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3001\u300A\u30A8\u30DF\u30EA\u30A2\u300B\u304B\u300A\u30EC\u30E0\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T",
+        "Name": "\"Re:Zero − Starting Life in Another World\" Trial Deck"
+      }
+    },
+    {
+      "Serial": "RZ/001T-002",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u60AA\u3044\u3051\u3069\u3001\u5929\u58CC\u7121\u7AAE\u306E\u4E00\u6587\u7121\u3057\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_002S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Visited A Hundred Times, Subaru",
+        "JP": "\u73FE\u5834\u767E\u56DE \u30B9\u30D0\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Return by Death",
+          "JP": "\u6B7B\u306B\u623B\u308A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4FFA\u306B\u4EFB\u305B\u308D\u3068\u52C7\u307E\u3057\u304F\u5BA3\u8A00\u3057\u3066\u623B\u3063\u3066\u53C2\u308A\u307E\u3057\u305F\u679C\u7269\u5C4B"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-003",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u306A\u3089\u8A31\u3057\u3066\u3042\u3052\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_003S.png"
+          ]
+        },
+        {
+          "Serial": "RZ/001T-003SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_003SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Spirit User, Emilia",
+        "JP": "\u7CBE\u970A\u8853\u5E2B \u30A8\u30DF\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Half Elf",
+          "JP": "\u30CF\u30FC\u30D5\u30A8\u30EB\u30D5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u305D\u3053\u307E\u3067\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u2019s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-004",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-004S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_004S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Using a Pseudonym, Emilia",
+        "JP": "\u507D\u540D\u3092\u540D\u4E57\u3063\u3066 \u30A8\u30DF\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Half Elf",
+          "JP": "\u30CF\u30FC\u30D5\u30A8\u30EB\u30D5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u79C1\u306E\u540D\u524D\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4][1/Turn]:[Put a card each from your hand and members into your waiting room], and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-005",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u2026\u3093\u3001\u3042\u308A\u304C\u3068\u3002\u672C\u5F53\u306B\u3001\u3059\u3054\u30FC\u304F\u3001\u52C7\u6C17\u304C\u3082\u3089\u3048\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_005S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Night Stroll, Emilia",
+        "JP": "\u591C\u306E\u6563\u6B69 \u30A8\u30DF\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Half Elf",
+          "JP": "\u30CF\u30FC\u30D5\u30A8\u30EB\u30D5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u305D\u308C\u3067\u3001\u591C\u98A8\u306B\u5F53\u305F\u308A\u306B\u6563\u6B69\u3057\u3066\u305F\u306E"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-006",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u8AE6\u3081\u308B\u306E\u306F\u7C21\u5358\u3067\u3059\u3002\u3067\u3082\u3001\u30B9\u30D0\u30EB\u304F\u3093\u306B\u306F\u4F3C\u5408\u308F\u306A\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_006S.png"
+          ]
+        },
+        {
+          "Serial": "RZ/001T-006SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_006SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Flower Pattern Hakama, Rem",
+        "JP": "\u82B1\u67C4\u306E\u88B4 \u30EC\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u5927\u4E08\u592B\u3067\u3059\u3088\u306D\u3001\u30B9\u30D0\u30EB\u304F\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-007",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u898B\u3064\u3051\u307E\u3057\u305F\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_007S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Something to Protect, Rem",
+        "JP": "\u5B88\u308B\u3079\u304D\u3082\u306E \u30EC\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u30EC\u30E0\u304C\u2026\u30EC\u30E0\u304C\u4E00\u4EBA\u3067\u3084\u3089\u306A\u304D\u3083\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CDemonization\u201C][1/Turn]:[Put a card from your hand into your waiting room], choose one of your members with \u201CSubaru\u201D in its card name, and until end of turn, that character cannot be chosen by your opponent, and this character gets \u002B2/\u00B10. If your hand has no cards, draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u9B3C\u5316\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u30B9\u30D0\u30EB\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u305A\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u9B3C\u5316\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-008",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u6016\u3044\u3067\u3059\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_008S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Battle Begins, Rem",
+        "JP": "\u6226\u3044\u306E\u59CB\u307E\u308A \u30EC\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-009",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u305F\u3060\u3057\u3001\u30E9\u30E0\u3082\u4E00\u7DD2\u306B\u3044\u304F\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_009S.png"
+          ]
+        },
+        {
+          "Serial": "RZ/001T-009SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_009SN.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Flower Pattern Hakama, Ram",
+        "JP": "\u82B1\u67C4\u306E\u88B4 \u30E9\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30E9\u30E0\u306F\u3054\u8981\u671B\u306B\u5FDC\u3048\u305F\u3060\u3051\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.\n([Skill Showcase Level 4]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-010",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3075\u3045\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_010S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Clairvoyance, Ram",
+        "JP": "\u5343\u91CC\u773C \u30E9\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-011",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-011S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_011S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Maid Indifferent to Healing Items, Ram",
+        "JP": "\u7652\u3057\u306E\u8981\u7D20\u3068\u7121\u7E01\u306A\u30E1\u30A4\u30C9 \u30E9\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Oni",
+          "JP": "\u9B3C\u65CF"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6B7B\u529B\u3092\u5C3D\u304F\u3057\u305F\uFF1F \u305D\u306E\u4F53\u305F\u3089\u304F\u3067\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-012",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3084\u3089\u305B\u306A\u3044\u304B\u3057\u3089\uFF01\u3053\u3053\u3067\u3001\u304A\u524D\u3092\u6B7B\u306A\u305B\u308B\u306A\u3093\u3066\u2026\u2026\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_012S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reason to Help, Beatrice",
+        "JP": "\u52A9\u3051\u308B\u7406\u7531 \u30D9\u30A2\u30C8\u30EA\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Librarian",
+          "JP": "\u53F8\u66F8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-013",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308C\u306E\u59B9\u306A\u3093\u3066\u9858\u3044\u4E0B\u3052\u304B\u3057\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_013S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Librarian of the Forbidden Library, Beatrice",
+        "JP": "\u7981\u66F8\u5EAB\u306E\u53F8\u66F8 \u30D9\u30A2\u30C8\u30EA\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Librarian",
+          "JP": "\u53F8\u66F8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u307E\u305F\u6B63\u89E3\u3092\u5F15\u304D\u3084\u304C\u3063\u305F\u306E\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-014",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u9023\u308C\u51FA\u3059\u2026\uFF1F\u304A\u524D\u306F\u3001\u4F55\u3092\u8A00\u3063\u3066\u308B\u306E\u304B\u3057\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_014S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ever Binding Eternal Contract, Beatrice",
+        "JP": "\u7E1B\u308A\u7D9A\u3051\u308B\u6C38\u9060\u306E\u5951\u7D04 \u30D9\u30A2\u30C8\u30EA\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Librarian",
+          "JP": "\u53F8\u66F8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30D9\u30C6\u30A3\u30FC\u306F\u305A\u3063\u3068\u3053\u306E\u8EAB\u3092\u7E1B\u308A\u7D9A\u3051\u308B\u6C38\u9060\u306E\u5951\u7D04\u304B\u3089\u89E3\u653E\u3057\u3066\u6B32\u3057\u3044\u3060\u3051\u304B\u3057\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):This character cannot be chosen. (You also cannot choose it)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u9078\u3070\u308C\u306A\u3044\u3002(\u3042\u306A\u305F\u3082\u9078\u3079\u306A\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-015",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3093\u3001\u308F\u304B\u3063\u3066\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_015S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lap Pillow",
+        "JP": "\u819D\u6795"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u56F0\u3063\u3066\u308B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-016",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-016S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_016S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Demonization",
+        "JP": "\u9B3C\u5316"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    },
+    {
+      "Serial": "RZ/001T-017",
+      "Alternates": [
+        {
+          "Serial": "RZ/001T-017S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_017S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Seven Witches",
+        "JP": "\u4E03\u4EBA\u306E\u9B54\u5973"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RZTD/rz_001t_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RZ/001T"
+      }
+    }
+  ]
+}

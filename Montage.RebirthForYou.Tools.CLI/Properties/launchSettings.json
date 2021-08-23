@@ -64,10 +64,6 @@
       "commandName": "Project",
       "commandLineArgs": "export https://decklog.bushiroad.com/view/9S4K --out sharex --with sendtcp"
     },
-    "Parse Hololive BP from Fandom": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-    },
     "Export DB IMC": {
       "commandName": "Project",
       "commandLineArgs": "export-db --rids IMC/001B"
@@ -94,15 +90,31 @@
     },
     "Export DB DJ/001T": {
       "commandName": "Project",
-      "commandLineArgs": "export-db --rids GU/001E"
-    },
-    "Parse DJ/003T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/27/dj-003t-full-set-list/"
+      "commandLineArgs": "export-db --rids DJ/001B"
     },
     "Parse GU/001E (Renegades COTD)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/tag/gu-001e/"
+    },
+    "Parse DJ/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/28/dj-001b-full-set-list/"
+    },
+    "Parse SSSS/001T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/05/19/ssss-001t-full-set-list/"
+    },
+    "Parse SSSS/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/06/02/ssss-001b-full-set-list/"
+    },
+    "Parse RZ/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/04/rz-001b-full-set-list/"
+    },
+    "Parse HG/001T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/04/hg-001t-full-set-list/"
     }
   }
 }
