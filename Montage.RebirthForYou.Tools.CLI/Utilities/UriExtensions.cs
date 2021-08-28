@@ -2,8 +2,10 @@
 using AngleSharp.Dom;
 using AngleSharp.Scripting;
 using Flurl.Http;
+using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
 using Serilog;
 using System;
+using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Net;
 using System.Net.Http;
@@ -16,6 +18,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
     public static class UriExtensions
     {
         static readonly HttpClient client = new HttpClient();
+        static readonly IFlurlClient rateLimitingClient = new FlurlClient() //
+            .Configure(se =>
+            {
+                se.HttpClientFactory = new HTTPRateHandlerHttpClientFactory(new RateLimiterOptions { MaxTries = 10, Rate = 100, PerSecond = 1 });
+            });
+        //static readonly Dictionary<string, HTTPRateHandler> siteHandlers = new Dictionary<string, HTTPRateHandler>();
 
         public static async Task<IDocument> DownloadHTML(this Uri uri)
         {
@@ -91,6 +99,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
         public static IFlurlRequest WithReferrer(this IFlurlRequest request, string referrerUrl)
         {
             return request.WithHeader("Referer", referrerUrl);
+        }
+
+        public static IFlurlRequest WithRateLimiter(this IFlurlRequest request)
+        {
+            return request.WithClient(rateLimitingClient);
         }
 
         public static IFlurlRequest WithRESTHeaders(this string urlString)

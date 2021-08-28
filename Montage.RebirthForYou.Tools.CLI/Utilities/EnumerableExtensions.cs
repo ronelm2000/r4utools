@@ -3,11 +3,44 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Utilities
 {
     public static class EnumerableExtensions
     {
+        public static Task ProcessAllAsync(this IEnumerable<Task> source, SemaphoreSlim concurrencyLimiter) {
+            return Task.WhenAll(from item in source select ProcessAsync(item, concurrencyLimiter));
+        }
+
+        public static Task ForEachAsync<TSource, TResult>(this IEnumerable<TSource> source,
+            Func<TSource, Task<TResult>> taskSelector, Action<TSource, TResult> resultProcessor)
+        {
+            var oneAtATime = new SemaphoreSlim(initialCount: 1, maxCount: 1);
+            return Task.WhenAll(
+                from item in source
+                select ProcessAsync(item, taskSelector, resultProcessor, oneAtATime));
+        }
+
+        private static async Task ProcessAsync<TSource, TResult>(
+            TSource item,
+            Func<TSource, Task<TResult>> taskSelector, Action<TSource, TResult> resultProcessor,
+            SemaphoreSlim oneAtATime)
+        {
+            TResult result = await taskSelector(item);
+            await oneAtATime.WaitAsync();
+            try { resultProcessor(item, result); }
+            finally { oneAtATime.Release(); }
+        }
+
+        private static async Task ProcessAsync(Task itemTask, SemaphoreSlim limiter)
+        {
+            await limiter.WaitAsync();
+            try { await itemTask; }
+            finally { limiter.Release(); }
+        }
+
         public static IDisposable GetDisposer<K,V>(this IDictionary<K,V> originalDictionary) where V : IDisposable
         {
             return new DictionaryDisposer<K,V>(originalDictionary);

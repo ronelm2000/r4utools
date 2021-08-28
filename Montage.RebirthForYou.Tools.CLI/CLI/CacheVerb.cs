@@ -73,7 +73,11 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                 var imgURL = card.Images.Last();
                 Log.Information("Caching [{serial}]: {imgURL}", card.Serial, imgURL);
                 //using (System.IO.Stream netStream = await imgURL.WithImageHeaders().GetStreamAsync()) // card.GetImageStreamAsync())
-                var bytes = await imgURL.WithImageHeaders().GetAsync().WithRetries(10).ReceiveBytes();
+                await using (var bytes = await imgURL
+                    .WithImageHeaders()
+                    .WithRateLimiter()
+                    .GetStreamAsync()
+                    )
                 using (Image img = Image.Load(bytes))
                 {
                     var imageDirectoryPath = Path.Get(_IMAGE_CACHE_PATH);
@@ -86,7 +90,8 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                     img.Metadata.ExifProfile ??= new ExifProfile();
                     img.Metadata.ExifProfile.SetValue(SixLabors.ImageSharp.Metadata.Profiles.Exif.ExifTag.Copyright, card.Images.Last().Authority);
                     var savePath = Path.Get(_IMAGE_CACHE_PATH).Combine($"{card.Serial.Replace('-', '_').AsFileNameFriendly()}.jpg");
-                    savePath.Open(img.SaveAsJpeg,System.IO.FileMode.OpenOrCreate, System.IO.FileAccess.ReadWrite, System.IO.FileShare.ReadWrite);
+                    await using (var stream = savePath.OpenStream(System.IO.FileMode.OpenOrCreate))
+                        await img.SaveAsJpegAsync(stream);
                 }
             } catch (InvalidOperationException e) when (e.Message == "Sequence contains no elements")
             {

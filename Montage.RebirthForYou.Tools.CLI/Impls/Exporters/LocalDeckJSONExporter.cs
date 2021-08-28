@@ -40,7 +40,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
                 Ratios = deck.AsSimpleDictionary()
             };
 
-            using (var stream = jsonFilename.OpenStream(System.IO.FileMode.Create))
+            await using (var stream = jsonFilename.OpenStream(System.IO.FileMode.Create))
                 await JsonSerializer.SerializeAsync(stream, simplifiedDeck, options: _defaultOptions);
 
             Log.Information($"Done: {jsonFilename.FullPath}");

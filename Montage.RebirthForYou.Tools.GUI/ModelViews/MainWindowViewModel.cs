@@ -23,6 +23,7 @@ using Montage.RebirthForYou.Tools.CLI.Impls.Exporters;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
+using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
 using Montage.RebirthForYou.Tools.GUI.Dialogs;
 using Octokit;
 using ReactiveUI;
@@ -36,6 +37,7 @@ using System.Net.Http.Headers;
 using System.Reactive;
 using System.Reactive.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI.ModelViews
@@ -174,27 +176,37 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         internal async Task InitializeDatabase()
         {
             await Task.Yield();
-            //using (_ = this.SuppressChangeNotifications())
             var updateCommand = new UpdateVerb();
             updateCommand.OnStarting += UpdateCommand_OnStarting;
             Log.Information("Updating DB...");
             await updateCommand.Run(ioc);
             Log.Information("Adding DB to UI...");
+
+            await Dispatcher.UIThread.InvokeAsync(() =>
+            {
+                this.Parent.LoadingTextbox.Text = "[Initializing Database]";
+                this.Parent.LoadingProgressBar.Value = 99;
+            });
+
             using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
-                var tasks = GetCardDatabase(db).Select(async cardTask =>
+                GetCardDatabase(db).ForAll(card =>
+                {
+                    _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
+                    Dispatcher.UIThread.InvokeAsync(() => DatabaseResults.Add(card));
+                    card.SubscribeOnImageLoaded(async () =>
                     {
-                        var card = await cardTask;
-                        _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
-                        await Dispatcher.UIThread.InvokeAsync(() => DatabaseResults.Add(card));
-                    })
-                    .ToList();
-                await Task.WhenAll(tasks);
+                        await ApplyFilter(Filter);
+                    });
+                });
             }
+
             await Dispatcher.UIThread.InvokeAsync(() =>
             {
                 this.Parent.LoadingBox.IsVisible = false;
+                this.Parent.SearchBarTextbox.IsEnabled = true;
             });
+
             Log.Information("Completed!");
         }
 
@@ -273,7 +285,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 {
                     Log.Information("Inserted: {resultMessage}", url);
                     var deck = (await new ExportVerb { Source = url, NonInteractive = true, Exporter = "null" }.ParseDeck(ioc)).Deck;
-                    ApplyDeck(deck);
+                    await ApplyDeck(deck);
                     resultParams = GenerateStandardMessageParams("Success!", $"[{deck.Name}] was loaded successfully!");
                 }
                 catch (NotImplementedException e) when (e.Message == "NO_PARSER")
@@ -335,21 +347,48 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             deckResults.AddRange(newSort);
         }
 
+        // Task _currentApplyFilter = null;
+        CancellationTokenSource _currentApplyFilterCancelToken = default;
         public async Task ApplyFilter(Predicate<R4UCard> filter)
         {
-            if (ioc == null) return;
-            await Task.CompletedTask;
-            databaseResults.Clear();
-            databaseResults.AddRange(_database.Values.AsParallel().Where(ce => filter(ce.Card)).OrderBy(ce => ce.Card.Serial));
+            Filter = filter;
+            if (_currentApplyFilterCancelToken != null)
+            {
+                _currentApplyFilterCancelToken.Cancel();
+                _currentApplyFilterCancelToken.Dispose();
+            }
+            _currentApplyFilterCancelToken = new CancellationTokenSource();
+            await ApplyFilter(filter, _currentApplyFilterCancelToken);
+        }
+        public async Task ApplyFilter(Predicate<R4UCard> filter, CancellationTokenSource token)
+        {
+            try
+            {
+                if (ioc == null) return;
+                var values = _database.Values.AsParallel()
+                    .WithCancellation(token.Token)
+                    .Where(ce => filter(ce.Card))
+                    .OrderBy(ce => ce.Card.Serial);
+                if (!token.IsCancellationRequested)
+                {
+                    databaseResults.Clear();
+                    databaseResults.AddRange(values);
+                }
+                await new ValueTask<bool>(true);
+            }finally
+            {
+                //if (!token.IsCancellationRequested)
+                //    token.Dispose(); // Some bug occurs if I tried to dispose the token.
+            }
         }
 
-        public ParallelQuery<ValueTask<CardEntry>> GetCardDatabase(CardDatabaseContext db)
+        public ParallelQuery<CardEntry> GetCardDatabase(CardDatabaseContext db)
         {
-            if (ioc == null) return new ValueTask<CardEntry>[] { }.AsParallel();
+            if (ioc == null) return new CardEntry[] { }.AsParallel();
             return db.R4UCards.AsParallel()
                 .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
                 .WithMergeOptions(ParallelMergeOptions.NotBuffered)
-                .Select(c => CardEntry.From(c));
+                .Select(c => new CardEntry(c));
         }
 
         internal async Task<(string Title, string Details)> SaveDeck(string saveFilePath)
@@ -376,7 +415,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 var exporter = ioc.GetInstance<LocalDeckJSONParser>();
                 var deck = await exporter.Parse(loadFilePath);
                 var deckName = string.IsNullOrWhiteSpace(deck.Name) ? "An unnamed deck": deck.Name;
-                ApplyDeck(deck);
+                await ApplyDeck(deck);
                 return ("Success", $"{deckName} was loaded successfully!");
             }
             catch (DeckParsingException e)
@@ -385,12 +424,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             }
         }
 
-        private void ApplyDeck(R4UDeck deck)
+        private async Task ApplyDeck(R4UDeck deck)
         {
             DeckResults.Clear();
             var range = deck.Ratios.Keys
                 .SelectMany(c => Enumerable.Range(0, deck.Ratios[c]).Select(i => c.Serial))
                 .Select(serial => _database[serial]);
+            await range .Select(ce => ce.LoadImageAsync())
+                        .ProcessAllAsync(new SemaphoreSlim(initialCount: 1, maxCount: 30));
             DeckResults.AddRange(range);
             DeckName = deck.Name;
             DeckRemarks = deck.Remarks;
@@ -454,17 +495,21 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
     public class CardEntry : ReactiveObject
     {
-        private IImage imageSource;
+        //private IImage imageSource;
         private string text;
 
+        private readonly AsyncLazy<IImage> _imageSource;
+        public IImage ImageSource => _imageSource.Value;
+        
         /*
-        public IImage ImageSource {
-            get => imageSource;
-            set => this.RaiseAndSetIfChanged(ref imageSource, value);
+        private Task<IImage> _imageSource;
+        public Task<IImage> ImageSource {
+            get => _imageSource;
+            set => this.RaiseAndSetIfChanged(ref _imageSource, value);
         }
         */
-        public IImage ImageSource => imageSource ??= new Bitmap(Card.GetImageStreamAsync().GetAwaiter().GetResult());
-
+        
+        
         public string Text {
             get => text;
             set => this.RaiseAndSetIfChanged(ref text, value);
@@ -481,21 +526,40 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         {
         }
 
-        public async Task LoadImage()
+        public CardEntry(R4UCard card)
         {
-            imageSource ??= new Bitmap(await Card.GetImageStreamAsync());
+            Card = card;
+            Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})";
+
+            _imageSource = new AsyncLazy<IImage>(async () => await LoadImage());
+            /*
+            _imageSource.OnChanging = () => Dispatcher.UIThread.InvokeAsync(() =>
+            {
+                this.RaisePropertyChanging("ImageSource");
+            }, DispatcherPriority.Send);
+            _imageSource.OnChanged = () => Dispatcher.UIThread.InvokeAsync(() =>
+            {
+                this.RaisePropertyChanged("ImageSource");
+            }, DispatcherPriority.Send);
+            */
+        }
+        private async Task<IImage> LoadImage()
+        {
+            if (!Card.IsCached)
+                await new CacheVerb().AddCachedImageAsync(Card);
+            await using (var imageStream = await Card.GetImageStreamAsync())
+                return Bitmap.DecodeToWidth(imageStream, 100);
         }
 
-        public static async ValueTask<CardEntry> From(R4UCard card)
+        public async Task<IImage> LoadImageAsync() => await _imageSource;
+
+        internal void SubscribeOnImageLoaded(Action action)
         {
-            if (!card.IsCached)
-                await new CacheVerb().AddCachedImageAsync(card);
-            return new CardEntry()
-            {
-                Card = card,
-                Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})"//,
-                //imageSource = new Bitmap(await card.GetImageStreamAsync())
-            };
+            _imageSource.OnChanged = () => Dispatcher.UIThread.InvokeAsync(action);
+        }
+        internal void SubscribeOnImageLoaded(Task action)
+        {
+            _imageSource.OnChanged = () => action;
         }
     }
 

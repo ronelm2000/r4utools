@@ -76,13 +76,7 @@ namespace Montage.RebirthForYou.Tools.GUI
             _dataContext().Saved = "";
             var context = _dataContext();
             context.Parent = this;
-            Task.Run(async() => {
-                await context.InitializeDatabase();
-                await Dispatcher.UIThread.InvokeAsync(() =>
-                {
-                    _searchBarTextBox.IsEnabled = true;
-                });
-            });
+            Task.Run(context.InitializeDatabase);
             //_searchBarTextBox.IsEnabled = true;
         }
 
