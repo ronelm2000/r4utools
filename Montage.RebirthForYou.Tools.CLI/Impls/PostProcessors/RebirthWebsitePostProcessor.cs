@@ -54,36 +54,57 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 .SetQueryParam("cardno", updatedCard.Serial.Replace("+", "＋")) //
                 ;
             Log.Debug("Opening Link: {url}", url);
-            var document = await url.WithReferrer("https://rebirth-fy.com/cardlist/").GetHTMLAsync();
-            var flavorJPText = document.QuerySelector(".cardlist-flavor").GetInnerText();
-            var rulesTextJPText = document.QuerySelector(".cardlist-free").GetInnerText().Trim();
-            var imageLink = document.QuerySelector(".cardlist-img").FindChild<IHtmlImageElement>().Source;
-            var rulesTextEnumerable = effectMatcher.Matches(rulesTextJPText);
-            Log.Information("Flavor JP: {jp}", flavorJPText);
-            Log.Information("Rules Text JP: {jp}", rulesTextJPText);
-            if (!String.IsNullOrWhiteSpace(flavorJPText))
+            try
             {
-                updatedCard.Flavor ??= new MultiLanguageString();
-                updatedCard.Flavor.JP = flavorJPText;
-            }
-            updatedCard.Effect = rulesTextEnumerable.Select((m, i) =>
-            {
-                var result = card.Effect[i].Clone();
-                result.JP = m.Value;
-                return result;
-            }).ToArray();
-            updatedCard.Images.Add(new Uri(imageLink));
+                var document = await url.WithReferrer("https://rebirth-fy.com/cardlist/").GetHTMLAsync();
+                var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
+                var flavorJPText = document.QuerySelector(".cardlist-flavor").GetInnerText();
+                var rulesTextJPText = document.QuerySelector(".cardlist-free").GetInnerText().Trim();
+                var imageLink = document.QuerySelector(".cardlist-img").FindChild<IHtmlImageElement>().Source;
+                var rulesTextEnumerable = effectMatcher.Matches(rulesTextJPText);
+                Log.Information("Name JP: {jp}", nameJPText);
+                Log.Information("Flavor JP: {jp}", flavorJPText);
+                Log.Information("Rules Text JP: {jp}", rulesTextJPText.Substring(0, Math.Min(rulesTextJPText.Length, 50)));
+                if (!String.IsNullOrWhiteSpace(flavorJPText))
+                {
+                    updatedCard.Name ??= new MultiLanguageString();
+                    updatedCard.Name.JP = nameJPText;
+                }
 
-            var jpTraits = document.QuerySelectorAll(".cardlist-text") //
-                .Where(i => i.Children.ElementAt(2)?.TextContent == "属性")
-                .Select(i => i.Children.ElementAt(3).TextContent.Trim())
-                .FirstOrDefault();
-            if (!String.IsNullOrWhiteSpace(jpTraits))
-            {
-                updatedCard.Traits = updatedCard.Traits.Zip(jpTraits.Split("・"), (mls, jpTrait) => ModifiedIfJapaneseIsNull(mls, jpTrait)).ToList();
+                if (!String.IsNullOrWhiteSpace(flavorJPText))
+                {
+                    updatedCard.Flavor ??= new MultiLanguageString();
+                    updatedCard.Flavor.JP = flavorJPText;
+                }
+                updatedCard.Effect = rulesTextEnumerable.Select((m, i) =>
+                {
+                    var result = card.Effect[i].Clone();
+                    result.JP = m.Value;
+                    return result;
+                }).ToArray();
+                updatedCard.Images.Add(new Uri(imageLink));
+
+                var jpTraits = document.QuerySelectorAll(".cardlist-text") //
+                    .Where(i => i.Children.ElementAt(2)?.TextContent == "属性")
+                    .Select(i => i.Children.ElementAt(3).TextContent.Trim())
+                    .FirstOrDefault();
+                if (!String.IsNullOrWhiteSpace(jpTraits))
+                {
+                    updatedCard.Traits = updatedCard.Traits.Zip(jpTraits.Split("・"), (mls, jpTrait) => ModifiedIfJapaneseIsNull(mls, jpTrait)).ToList();
+                }
+                //Log.Information("After editing: {@card}", updatedCard);
+                return updatedCard;
             }
-            //Log.Information("After editing: {@card}", updatedCard);
-            return updatedCard;
+            catch (Exception e) when (_exceptions.TryGetValue(card.Serial, out JPTextRecord exceptionalRecord))
+            {
+                Log.Information("Handling exceptional record: {serial}", card.Serial);
+                updatedCard.Name.JP = exceptionalRecord.Name;
+                updatedCard.Effect = (from eff in updatedCard.Effect.Zip(exceptionalRecord.Rules)
+                                      select new MultiLanguageString { EN = eff.First.EN, JP = eff.Second }).ToArray();
+                updatedCard.Traits = (from trait in updatedCard.Traits.Zip(exceptionalRecord.Traits)
+                                      select new MultiLanguageString { EN = trait.First.EN, JP = trait.Second }).ToList();
+                return updatedCard;
+            }
         }
 
         private MultiLanguageString ModifiedIfJapaneseIsNull(MultiLanguageString mls, string jpText)
@@ -96,5 +117,40 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             return (card?.Effect?.Any(mls => mls.JP == null) ?? false) || (card?.Name.JP == null) || (card?.Traits?.Any(mls => mls.JP == null) ?? false) || ((card.Images?.Count ?? 0) < 1);
         }
+
+        private Dictionary<string, JPTextRecord> _exceptions = new Dictionary<string, JPTextRecord>()
+        {
+            ["HG/001B-102"] = ( name: "励ましの言葉",
+                                rarity: "Re",
+                                flavor: null,
+                                rules: new string[] { "【永】：あなたのエントリーを＋２/＋３。" },
+                                traits: new string[] { },
+                                imageLink: "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HGBP/hg001b-102sp.png"
+                                ),
+            ["HG/001B-103"] = (name: "カケラの鑑賞者",
+                                rarity: "Re",
+                                flavor: null,
+                                rules: new string[] { "【スパーク】：あなたは１点回復する。", "【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。" },
+                                traits: new string[] { },
+                                imageLink: "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HGBP/hg001b-103sp.png"
+                                )
+        };
+    }
+
+    internal class JPTextRecord
+    {
+        internal string Flavor { get; set; }
+        internal string Name { get; set; }
+        internal string Rarity { get; set; }
+        internal string[] Rules { get; set; }
+        internal string[] Traits { get; set; }
+        internal string ImageLink { get; set; }
+
+        public JPTextRecord(string name, string rarity, string flavor, string[] rules, string[] traits, string imageLink) => 
+            (Name, Rarity, Flavor, Rules, Traits, ImageLink) = (name, rarity, flavor, rules, traits, imageLink);
+
+        public static implicit operator JPTextRecord((string name, string rarity, string flavor, string[] rules, string[] traits, string imageLink) tuple) =>
+            new JPTextRecord(tuple.name, tuple.rarity, tuple.flavor, tuple.rules, tuple.traits, tuple.imageLink);
+
     }
 }
