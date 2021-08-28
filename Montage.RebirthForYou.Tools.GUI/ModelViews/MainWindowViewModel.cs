@@ -349,7 +349,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         // Task _currentApplyFilter = null;
         CancellationTokenSource _currentApplyFilterCancelToken = default;
-        public async Task ApplyFilter(Predicate<R4UCard> filter)
+        SemaphoreSlim _applyFilterLock = new SemaphoreSlim(1, 1);
+        public async Task ApplyFilter(Predicate<R4UCard> filter) => await ApplyFilter(filter, TimeSpan.Zero);
+
+        public async Task ApplyFilter(Predicate<R4UCard> filter, TimeSpan delayTimeSpan)
         {
             Filter = filter;
             if (_currentApplyFilterCancelToken != null)
@@ -358,17 +361,28 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 _currentApplyFilterCancelToken.Dispose();
             }
             _currentApplyFilterCancelToken = new CancellationTokenSource();
-            await ApplyFilter(filter, _currentApplyFilterCancelToken);
+            try
+            {
+                var cancelToken = _currentApplyFilterCancelToken.Token;
+                await Task.Delay(delayTimeSpan, cancelToken);
+                await ApplyFilter(filter, cancelToken);
+            } catch (TaskCanceledException)
+            {
+                // Do nothing, this was expected.
+            }
         }
-        public async Task ApplyFilter(Predicate<R4UCard> filter, CancellationTokenSource token)
+        public async Task ApplyFilter(Predicate<R4UCard> filter, CancellationToken token)
         {
+            bool isLocked = false;
             try
             {
                 if (ioc == null) return;
                 var values = _database.Values.AsParallel()
-                    .WithCancellation(token.Token)
+                    .WithCancellation(token)
                     .Where(ce => filter(ce.Card))
                     .OrderBy(ce => ce.Card.Serial);
+
+                isLocked = await _applyFilterLock.WaitAsync(-1, token);
                 if (!token.IsCancellationRequested)
                 {
                     databaseResults.Clear();
@@ -377,6 +391,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 await new ValueTask<bool>(true);
             }finally
             {
+                if (isLocked) _applyFilterLock.Release();
                 //if (!token.IsCancellationRequested)
                 //    token.Dispose(); // Some bug occurs if I tried to dispose the token.
             }
