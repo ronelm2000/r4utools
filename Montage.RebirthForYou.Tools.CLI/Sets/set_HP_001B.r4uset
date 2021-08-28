@@ -54,7 +54,7 @@
       "Language": "Japanese",
       "Set": {
         "ReleaseCode": "HP/001B",
-        "Name": "Hololive Production Booster Pack"
+		"Name": "Booster Pack Hololive Production"
       }
     },
     {
@@ -86,7 +86,7 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[CONT](Entry/Member)[ReCombo \u0022Seaside Smile\u0022]:When you would put Rebirths into your waiting room at the end of your turn, you may put cards from your hand into your waiting room instead. (Leave as many as the number of cards in hand put into the waiting room)",
+          "EN": "[CONT](Entry/Member)[ReCombo \u201CSeaside Smile\u201C]:When you would put Rebirths into your waiting room at the end of your turn, you may put cards from your hand into your waiting room instead. (Leave as many as the number of cards in hand put into the waiting room)",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6D77\u8FBA\u306E\u5FAE\u7B11\u307F\u300B\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\u304B\u308F\u308A\u306B\u624B\u672D\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF08\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u624B\u672D\u306E\u5206\u3060\u3051\u6B8B\u305B\u308B\uFF09"
         }
       ],
@@ -95,8 +95,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -134,7 +133,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose a [Growing] from your retire area, you may exchange its position with this character.",
+          "EN": "[Spark]:Choose a [Growing] from your retire area, and you may exchange its position with this character.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
         }
       ],
@@ -143,8 +142,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -182,7 +180,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have an allied member with \u0022Sora\u0022 or \u0022Friend A\u0022 in its card name, then get another \u002B1/\u002B1.",
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have an allied member with \u201CSora\u201D or \u201CFriend A\u201D in its card name, then get another \u002B1/\u002B1.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u305D\u3089\u300B\u304B\u300A\u53CB\u4EBAA\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -191,8 +189,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -251,8 +248,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -284,7 +280,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[ACT](Entry/Member)[ReCombo \u0022Summer Break\u0022]:[Rest (1) Energy], choose one of your allied members, and this character and that character cannot be chosen for your opponent\u0027s character\u0027s effects until end of turn.",
+          "EN": "[ACT](Entry/Member)[ReCombo \u201CSummer Break\u201C]:[Rest (1) Energy], choose one of your allied members, and this character and that character cannot be chosen for your opponent\u2019s character\u2019s effects until end of turn.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u590F\u306E\u3072\u3068\u4F11\u307F\u300B\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u52B9\u679C\u3067\u9078\u3070\u308C\u306A\u3044\u3002"
         }
       ],
@@ -293,8 +289,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -332,7 +327,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose a member with \u0022Sora\u0022 or \u0022Towa\u0022 in its card name. If you chose one with \u0022Sora\u0022 in its card name, this character gets \u002B2/\u002B2 until end of turn. If you chose one with \u0022Towa\u0022 in its card name, that character cannot be chosen by your opponent until end of turn.",
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a member with \u201CSora\u201D or \u201CTowa\u201D in its card name. If you chose one with \u201CSora\u201D in its card name, this character gets \u002B2/\u002B2 until end of turn. If you chose one with \u201CTowa\u201D in its card name, that character cannot be chosen by your opponent until end of turn.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u300A\u305D\u3089\u300B\u304B\u300A\u30C8\u30EF\u300B\u3092\uFF11\u679A\u9078\u3076\u3002\u300A\u305D\u3089\u300B\u3092\u9078\u3093\u3060\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u300A\u30C8\u30EF\u300B\u3092\u9078\u3093\u3060\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
         }
       ],
@@ -341,8 +336,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -389,8 +383,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -440,7 +433,7 @@
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         },
         {
-          "EN": "[AUTO](Member):When your Rebirth is set, if there is a total of 3 or more set Rebirths, put this character into your waiting room.",
+          "EN": "[AUTO](Member):When your Rebirth is set, if you have a total of 3 or more set Rebirths, put this character into your waiting room.",
           "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u3059\u3079\u3066\u306ERe\u30D0\u30FC\u30B9\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -449,8 +442,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -482,7 +474,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[ACT](Entry/Member)[ReCombo \u0022Work of the Elite Shrine Maiden\u0022]:Choose one of your entries or members, and exchange its position with this character. End this phase.",
+          "EN": "[ACT](Entry/Member)[ReCombo \u201CWork of the Elite Shrine Maiden\u201C]:Choose one of your entries or members, and exchange its position with this character. End this phase.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30A8\u30EA\u30FC\u30C8\u5DEB\u5973\u306E\u304A\u4ED5\u4E8B\u300B\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u3053\u306E\u30D5\u30A7\u30A4\u30BA\u3092\u7D42\u4E86\u3059\u308B\u3002"
         },
         {
@@ -495,8 +487,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -534,7 +525,7 @@
       },
       "Effect": [
         {
-          "EN": "[ACT](Entry)[Skill Showcase Level 5][1/Turn]:Choose a card with \u0022Pekora\u0022 in its card name from your member or retire area, and this character\u0027s ATK becomes that character\u0027s ATK\u002B1 until end of turn.",
+          "EN": "[ACT](Entry)[Skill Showcase Level 5][1/Turn]:Choose a card with \u201CPekora\u201D in its card name from your member or retire area, and this character\u2019s ATK becomes that character\u2019s ATK\u002B1 until end of turn.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011 \u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u307A\u3053\u3089\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u3092\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306EATK\uFF0B\uFF11\u306B\u3059\u308B\u3002"
         }
       ],
@@ -543,8 +534,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -562,7 +552,7 @@
         }
       ],
       "Name": {
-        "EN": "\uFF03NonstopUpdate, Miko",
+        "EN": "#NonstopUpdate, Miko",
         "JP": "#\u3068\u307E\u3089\u306A\u3044\u30A2\u30D7\u30C7 \u307F\u3053"
       },
       "Traits": [
@@ -582,7 +572,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Draw a card, and put a card from your hand into your waiting room. If a card with \u0022Sora\u0022 in its card name was discarded, this character\u0027s ATK and DEF becomes the same as that character\u0027s until end of turn. If a card with \u0022Korone\u0022 in its card name was discarded, choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "EN": "[Spark]:Draw a card, and put a card from your hand into your waiting room. If a card with \u201CSora\u201D in its card name was discarded, this character\u2019s ATK and DEF becomes the same as that character\u2019s until end of turn. If a card with \u201CKorone\u201D in its card name was discarded, choose one of your opponent\u2019s [Rest] members, and put it into the waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u300A\u305D\u3089\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u3068DEF\u3092\u305D\u306E\u30AD\u30E3\u30E9\u3068\u540C\u3058\u306B\u3059\u308B\u3002\u300A\u3053\u308D\u306D\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -591,8 +581,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -647,8 +636,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -680,7 +668,7 @@
       "DEF": 4,
       "Effect": [
         {
-          "EN": "[AUTO][ReCombo \u0022Diamond in the Rough\u0022]:When this character is put onto your member area, if you have three or more members, and your opponent has one or more members, choose all of your members, return them to your hand, choose all of your opponent\u0027s members, and put them into the waiting room.",
+          "EN": "[AUTO][ReCombo \u201CDiamond in the Rough\u201C]:When this character is put onto your member area, if you have three or more members, and your opponent has one or more members, choose all of your members, return them to your hand, choose all of your opponent\u2019s members, and put them into the waiting room.",
           "JP": "\u3010\u81EA\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30B9\u30BF\u30FC\u306E\u539F\u77F3\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF11\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -689,8 +677,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -728,7 +715,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose one of the following.\ni. Put this character onto an open member area.\nii. Choose one of your members with \u0022Haato\u0022 in its card name, exchange its position with this character.",
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of the following.\ni. Put this character onto an open member area.\nii. Choose one of your members with \u201CHaato\u201D in its card name, exchange its position with this character.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\n\u2171\uFF0E\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u306F\u3042\u3068\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
         }
       ],
@@ -737,8 +724,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -776,7 +762,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO](Entry):When this character retires an opponent\u0027s character, this character gets \u002B2/\u00B10 until end of turn.",
+          "EN": "[AUTO](Entry):When this character retires an opponent\u2019s character, this character gets \u002B2/\u00B10 until end of turn.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
         }
       ],
@@ -785,8 +771,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -820,7 +805,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -845,8 +830,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -866,7 +850,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -882,7 +866,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u0022Swimsuit Date\u0022][Skill Showcase Level 3]:At the end of this character\u0027s attack, choose one of your members, and you may exchange its position with a character from your hand as [Rest].",
+          "EN": "[AUTO](Entry)[ReCombo \u201CSwimsuit Date\u201C][Skill Showcase Level 3]:At the end of this character\u2019s attack, choose one of your members, and you may exchange its position with a character from your hand as [Rest].",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6C34\u7740\u3067\u3048\u3068\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306E\u30AD\u30E3\u30E9\u3068\u3010\u30EC\u30B9\u30C8\u3011\u3067\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
         }
       ],
@@ -891,8 +875,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -915,7 +898,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -934,7 +917,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose one of your opponent\u0027s entries, and until end of turn, that character gets -1/\u00B10, and this character gets \u002B1/\u00B10. If you have a member with \u0022Choco\u0022 in its card name, that entry character gets another -2/\u00B10.",
+          "EN": "[Spark]:Choose one of your opponent\u2019s entries, and until end of turn, that character gets -1/\u00B10, and this character gets \u002B1/\u00B10. If you have a member with \u201CChoco\u201D in its card name, that entry character gets another -2/\u00B10.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF11/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u3061\u3087\u3053\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\u305D\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
         }
       ],
@@ -943,8 +926,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -978,12 +960,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -994,7 +976,7 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose a card from your waiting room, and put it onto your energy area as rest. If you have a member with \u0022Miko\u0022, \u0022Choco\u0022, or \u0022Coco\u0022 in its card name, you may put from the top of your deck instead of your waiting room.",
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a card from your waiting room, and put it onto your energy area as rest. If you have a member with \u201CMiko\u201C, \u201CChoco\u201C, or \u201CCoco\u201D in its card name, you may put from the top of your deck instead of your waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u307F\u3053\u300B\u304B\u300A\u3061\u3087\u3053\u300B\u304B\u300A\u30B3\u30B3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u63A7\u3048\u5BA4\u3067\u306F\u306A\u304F\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
         }
       ],
@@ -1003,8 +985,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1028,7 +1009,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         }
       ],
@@ -1040,7 +1021,7 @@
       "DEF": 4,
       "Effect": [
         {
-          "EN": "[CONT](Member)[ReCombo \u0022Let\u0027s Play at the Beach\u0022]:Your entry gets \u002B1/\u002B1 for each of your set \u0022Let\u0027s Play at the Beach\u0022.",
+          "EN": "[CONT](Member)[ReCombo \u201CLet\u2019s Play at the Beach\u201C]:Your entry gets \u002B1/\u002B1 for each of your set \u201CLet\u2019s Play at the Beach\u201C.",
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6D5C\u8FBA\u3067\u904A\u307C\u3046\u300B\uFF1A\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u3042\u306A\u305F\u306E\u300A\u6D5C\u8FBA\u3067\u904A\u307C\u3046\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -1049,8 +1030,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1068,17 +1048,17 @@
         }
       ],
       "Name": {
-        "EN": "Loss of Twintails, AkiRose",
+        "EN": "Missing Twintails, AkiRose",
         "JP": "\u30C4\u30A4\u30F3\u30C6\u30FC\u30EB\u55AA\u5931 \u30A2\u30AD\u30ED\u30BC"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         },
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1101,8 +1081,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1136,12 +1115,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1156,7 +1135,7 @@
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u3055\u308C\u305A\u3001\uFF0B\uFF13/\uFF0B\uFF13\u3057\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u306B\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
         },
         {
-          "EN": "[AUTO](Entry):When this character is supported, if you have one or more cards in your retire area, put the supporting member into your waiting room, choose one of your opponent\u0027s members, and put it onto the energy area.",
+          "EN": "[AUTO](Entry):When this character is supported, if you have one or more cards in your retire area, put the supporting member into your waiting room, choose one of your opponent\u2019s members, and put it onto the energy area.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF11\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30E1\u30F3\u30D0\u30FC\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -1165,8 +1144,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1186,12 +1164,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1202,7 +1180,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[ReCombo \u0022If you don\u0027t look, I\u0027ll decapitate you!\u0022]:This character gets \u002B5/\u002B5, and gets -1/-1 for each card in your retire area. (For example, if you have 2 cards in your retire area, the total is \u002B3/\u002B3)",
+          "EN": "[CONT](Entry)[ReCombo \u201CIf you don\u2019t look, I\u2019ll decapitate you!\u201C]:This character gets \u002B5/\u002B5, and gets -1/-1 for each card in your retire area. (For example, if you have 2 cards in your retire area, the total is \u002B3/\u002B3)",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3053\u3063\u3061\u898B\u306A\u3044\u3068\u6253\u3061\u9996\u3088\uFF01\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\uFF0B\uFF15\u3057\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\uFF11\u679A\u306B\u3064\u304D\u3001\uFF0D\uFF11/\uFF0D\uFF11\u3002\uFF08\u4F8B\u3048\u3070\u30EA\u30BF\u30A4\u30A2\u304C\uFF12\u679A\u306A\u3089\u3001\u76F8\u6BBA\u3057\u3066\uFF0B\uFF13/\uFF0B\uFF13\uFF09"
         }
       ],
@@ -1211,8 +1189,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1235,7 +1212,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -1254,7 +1231,7 @@
       },
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Skill Showcase Level 5]:This character gets \u002B1/\u002B1 for each of your open member areas. If you have an open member area, this character\u0027s first attack each turn may be done without being supported.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:This character gets \u002B1/\u002B1 for each of your open member areas. If you have an open member area, this character\u2019s first attack each turn may be done without being supported.",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\uFF11\u3064\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u307F\u30B5\u30DD\u30FC\u30C8\u306A\u3057\u3067\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u308B\u3002"
         }
       ],
@@ -1263,8 +1240,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1287,7 +1263,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -1306,7 +1282,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, and put a card form your hand into your waiting room. If you put a card with \u0022Suisei\u0022, \u0022Kanata\u0022, or \u0022Watame\u0022 in its card name, you may put that character onto your member area.",
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, and put a card form your hand into your waiting room. If you put a card with \u201CSuisei\u201C, \u201CKanata\u201C, or \u201CWatame\u201D in its card name, you may put that character onto your member area.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u300A\u3059\u3044\u305B\u3044\u300B\u304B\u300A\u304B\u306A\u305F\u300B\u304B\u300A\u308F\u305F\u3081\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
         }
       ],
@@ -1315,8 +1291,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1350,16 +1325,16 @@
       },
       "Traits": [
         {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
-        },
-        {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1370,7 +1345,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[1/Turn]:Choose a character from your retire area without \u0022Fubuki\u0022 in its card name, until end of turn, this character\u0027s Cost, ATK, and DEF become the same as that character\u0027s, and it gets all of that character\u0027s abilities. (This effect will be removed when it moves)",
+          "EN": "[ACT](Entry)[1/Turn]:Choose a character from your retire area without \u201CFubuki\u201D in its card name, until end of turn, this character\u2019s Cost, ATK, and DEF become the same as that character\u2019s, and it gets all of that character\u2019s abilities. (This effect will be removed when it moves)",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u30D5\u30D6\u30AD\u300B\u4EE5\u5916\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30B3\u30B9\u30C8\u3001ATK\u3001DEF\u3092\u305D\u306E\u30AD\u30E3\u30E9\u3068\u540C\u3058\u306B\u3057\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306E\u80FD\u529B\u3092\u3059\u3079\u3066\u5F97\u308B\u3002\uFF08\u79FB\u52D5\u3059\u308B\u3068\u3053\u306E\u52B9\u679C\u306F\u306A\u304F\u306A\u308B\uFF09"
         }
       ],
@@ -1379,8 +1354,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1400,11 +1374,11 @@
       },
       "Traits": [
         {
-          "EN": "GAMERS",
+          "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -1424,7 +1398,7 @@
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u30A8\u30CD\u2460\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
         },
         {
-          "EN": "[CONT](Member)[ReCombo \u0022Is the Order a Shirakami Swimsuit?\u0022]:This character cannot be chosen by opponent\u0027s effects, and is not counted for the number of members.",
+          "EN": "[CONT](Member)[ReCombo \u201CIs the Order a Shirakami Swimsuit?\u201C]:This character cannot be chosen for your opponent\u2019s effects, and is not counted for the number of members.",
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3054\u6CE8\u6587\u306F\u767D\u4E0A\u306E\u6C34\u7740\u3067\u3059\u304B\uFF1F\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u52B9\u679C\u3067\u9078\u3070\u308C\u305A\u3001\u30E1\u30F3\u30D0\u30FC\u306E\u679A\u6570\u306B\u6570\u3048\u306A\u3044\u3002"
         }
       ],
@@ -1433,8 +1407,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1452,21 +1425,21 @@
         }
       ],
       "Name": {
-        "EN": "Fox\u0027s Satisfied Smile, Fubuki",
+        "EN": "Fox\u2019s Satisfied Grin, Fubuki",
         "JP": "\u306B\u3093\u307E\u308A\u304D\u30FC\u3064\u306D \u30D5\u30D6\u30AD"
       },
       "Traits": [
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
-        },
-        {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1480,7 +1453,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO](Member):When your opponent\u0027s character is put into the waiting room by the effect of your character, choose one of your entries, and it gets \u00B10/\u002B1 until end of turn. If it was put by the effect of your card with \u0022Matsuri\u0022 in its card name, then get another \u002B1/\u00B10.",
+          "EN": "[AUTO](Member):When your opponent\u2019s character is put into the waiting room by the effect of your character, choose one of your entries, and it gets \u00B10/\u002B1 until end of turn. If it was put by the effect of your card with \u201CMatsuri\u201D in its card name, then get another \u002B1/\u00B10.",
           "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u306E\u52B9\u679C\u3067\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\u300A\u307E\u3064\u308A\u300B\u306E\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
         }
       ],
@@ -1489,8 +1462,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1508,21 +1480,21 @@
         }
       ],
       "Name": {
-        "EN": "\uFF03Bakatare-domo, Fubuki",
+        "EN": "#BakatareTrio, Fubuki",
         "JP": "#\u30D0\u30AB\u30BF\u30EC\u5171 \u30D5\u30D6\u30AD"
       },
       "Traits": [
         {
-          "EN": "GAMERS",
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
-        },
-        {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1536,7 +1508,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have a member with \u0022Fubuki\u0022, \u0022Flare\u0022, or \u0022Watame\u0022 in its card name, then get another \u002B1/\u002B1.",
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have a member with \u201CFubuki\u201C, \u201CFlare\u201C, or \u201CWatame\u201D in its card name, then get another \u002B1/\u002B1.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u30D5\u30EC\u30A2\u300B\u304B\u300A\u308F\u305F\u3081\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -1545,8 +1517,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1580,12 +1551,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1596,7 +1567,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 4]:[Choose a member with [Spark] or with \u0022Luna\u0022 in its card name, and put it into your waiting room], choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a member with [Spark] or with \u201CLuna\u201D in its card name, and put it into your waiting room], choose one of your opponent\u2019s entries or members, and put it into the waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u304B\u300A\u30EB\u30FC\u30CA\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -1605,8 +1576,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1626,12 +1596,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1642,7 +1612,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[ACT](Entry/Member)[ReCombo \u0022Full throttle summer\u0022]:[[Rest] a member], choose one of your entries, and that character gets ATK equal to the ATK of the character that was [Rest] for this cost.",
+          "EN": "[ACT](Entry/Member)[ReCombo \u201CFull Throttle Summer\u201C]:[[Rest] a member], choose one of your entries, and that character gets ATK equal to the ATK of the character that was [Rest] for this cost.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30CF\u30A4\u30C6\u30F3\u30B7\u30E7\u30F3\u30B5\u30DE\u30FC\u300B\uFF1A\uFF3B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30B3\u30B9\u30C8\u3067\u3010\u30EC\u30B9\u30C8\u3011\u3057\u305F\u30AD\u30E3\u30E9\u306EATK\u3092\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306EATK\u306B\u52A0\u3048\u308B\u3002"
         }
       ],
@@ -1651,8 +1621,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1675,7 +1644,7 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
@@ -1694,7 +1663,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO]:When this character is put onto your entry area from hand, choose one of your entries, and it gets \u002B2/\u00B10 until end of turn. If your entry has \u0022Fubuki\u0022 in its card name, this ability also activates when put onto your member area from hand.",
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, choose one of your entries, and it gets \u002B2/\u00B10 until end of turn. If your entry has \u201CFubuki\u201D in its card name, this ability also activates when put onto your member area from hand.",
           "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304C\u300A\u30D5\u30D6\u30AD\u300B\u306A\u3089\u3001\u3053\u306E\u80FD\u529B\u306F\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3067\u3082\u767A\u52D5\u3059\u308B\u3002"
         }
       ],
@@ -1703,8 +1672,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1731,7 +1699,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         }
       ],
@@ -1755,8 +1723,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1790,12 +1757,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1815,8 +1782,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1836,12 +1802,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1852,7 +1818,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Gamer Maid\u0027s Summer\u0022]:[Put one of your energy into your waiting room], and set a Rebirth from your waiting room. However, you cannot activate abilities of that card when set.",
+          "EN": "[ACT](Entry)[ReCombo \u201CGamer Maid\u2019s Summer\u201C]:[Put one of your energy into your waiting room], and set a Rebirth from your waiting room. However, you cannot activate abilities of that card when set.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30B2\u30FC\u30DE\u30FC\u30E1\u30A4\u30C9\u306E\u590F\u300B\uFF1A\uFF3B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\u305F\u3060\u3057\u3001\u305D\u306E\u30AB\u30FC\u30C9\u306E\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u306E\u80FD\u529B\u306F\u767A\u52D5\u3057\u306A\u3044\u3002"
         }
       ],
@@ -1861,8 +1827,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1885,12 +1850,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1904,7 +1869,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO](Member):When your card with \u0022Shion\u0022 in its card name is put onto your entry area during your turn, return this character to your hand, and put a card from your hand into your waiting room.",
+          "EN": "[AUTO](Member):When your card with \u201CShion\u201D in its card name is put onto your entry area during your turn, return this character to your hand, and put a card from your hand into your waiting room.",
           "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306B\u300A\u30B7\u30AA\u30F3\u300B\u304C\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3057\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -1913,8 +1878,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -1937,12 +1901,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1965,8 +1929,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2000,12 +1963,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2016,7 +1979,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[Spark]:Choose one of your set Rebirths or a character with \u0022Aqua\u0022 in its card name from your waiting room, and you may return it to your hand. If you returned a card, put a card from your hand into your waiting room.",
+          "EN": "[Spark]:Choose one of your set Rebirths or a character with \u201CAqua\u201D in its card name from your waiting room, and you may return it to your hand. If you returned a card, put a card from your hand into your waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\u304B\u63A7\u3048\u5BA4\u306E\u300A\u3042\u304F\u3042\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002\u623B\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -2025,8 +1988,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2041,17 +2003,17 @@
         }
       ],
       "Name": {
-        "EN": "Self-Proclaimed Highborn, Shion",
-        "JP": "\u81EA\u79F0\u540D\u9580\u51FA\u8EAB \u30B7\u30AA\u30F3"
+        "EN": "Highborne\u003C/strong\u003E, Shion",
+        "JP": "\u81EA\u79F0\u540D\u9580\u51FA\u8EAB \u30B7\u30AA\u30F3 \u003Cstrong\u003ESelf-Proclaimed"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2062,7 +2024,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Mature Photo Session\u0022][1/Turn]: If the total cost of your retired cards is odd, perform i, and if it is even, perform ii. If \u0022you don\u0027t know\u0022, you may perform iii instead.\ni. This character gets \u002B3/\u00B10 until end of turn.\nii. Choose one of your opponent\u0027s members, and exchange its position with the entry.\niii. Draw two cards, and put a card from your hand into your waiting room.",
+          "EN": "[ACT](Entry)[ReCombo \u201CMature Photo Session\u201C][1/Turn]: If the total cost of your retired cards is odd, perform i, and if it is even, perform ii. If \u201Cyou don\u2019t know\u201D, you may perform iii instead.\ni. This character gets \u002B3/\u00B10 until end of turn.\nii. Choose one of your opponent\u2019s members, and exchange its position with the entry.\niii. Draw two cards, and put a card from your hand into your waiting room.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5927\u4EBA\u306E\u64AE\u5F71\u4F1A\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u3001\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u30B3\u30B9\u30C8\u5408\u8A08\u304C\u5947\u6570\u306A\u3089\u2170\u3001\u5076\u6570\u306A\u3089\u2171\u3092\u884C\u3046\u3002\u300C\u308F\u304B\u3093\u306A\u3044\u300D\u3068\u3057\u3066\u2172\u3067\u3082\u3088\u3044\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\n\u2171\uFF0E\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\n\u2172\uFF0E\uFF12\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -2071,8 +2033,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2095,12 +2056,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2123,8 +2084,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2162,8 +2122,8 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -2183,8 +2143,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2199,17 +2158,17 @@
         }
       ],
       "Name": {
-        "EN": "Fishing With a Pole, Ayame",
+        "EN": "First Try Catch, Ayame",
         "JP": "\u4E00\u672C\u91E3\u308A \u3042\u3084\u3081"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2220,7 +2179,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Everlasting Summer Swimsuit Demon Girl\u0022][1/Turn]:Put the top card of your deck into the waiting room. If that card is a Rebirth, return it to your hand. If it is a character, this character gets \u002B1/\u00B10 until end of turn for each of that card\u0027s Cost.",
+          "EN": "[ACT](Entry)[ReCombo \u201CEverlasting Summer Swimsuit Demon Girl\u201C][1/Turn]:Put the top card of your deck into the waiting room. If that card is a Rebirth, return it to your hand. If it is a character, this character gets \u002B1/\u00B10 until end of turn for each of that card\u2019s Cost.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5E38\u590F\u6C34\u7740\u9B3C\u5A18\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u304CRe\u30D0\u30FC\u30B9\u306A\u3089\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u305D\u308C\u304C\u30AD\u30E3\u30E9\u306A\u3089\u3001\u305D\u306E\u30B3\u30B9\u30C8\uFF11\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         }
       ],
@@ -2229,8 +2188,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2248,17 +2206,17 @@
         }
       ],
       "Name": {
-        "EN": "FAMS\u300AKijin Hyakki\u300B, Ayame",
-        "JP": "FAMS\u300A\u9B3C\u795E\u2605\u767E\u9B3C\u300B\u3042\u3084\u3081"
+        "EN": "FAMS (Kijin Hyakki), Ayame",
+        "JP": "FAMS\u300A\u9B3C\u795E\u2605\u767E\u9B3C\u300B \u3042\u3084\u3081"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2272,7 +2230,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and put it onto your member area as [Rest]. If has \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 in its card name, [Stand] that character.",
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and put it onto your member area as [Rest]. If has \u201COkayu\u201C, \u201CKorone\u201C, \u201CFubuki\u201C, \u201CAyame\u201C, \u201CMio\u201C, or \u201CSubaru\u201D in its card name, [Stand] that character.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u305D\u308C\u304C\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\u306A\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
         }
       ],
@@ -2281,8 +2239,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2316,12 +2273,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2341,8 +2298,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2362,12 +2318,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2378,7 +2334,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Sweeeet Summer Memories\u0022][1/Turn]:[Reveal a card from your hand], and your opponent declares \u0022six or more\u0022 or \u0022five or less\u0022. Reveal all of the cards in your hand, and if their total Cost is different from the declared, draw two cards. If it is the same, this character gets \u002B100,000/\u00B10 until end of turn. (Rebirths are 0 Cost)",
+          "EN": "[ACT](Entry)[ReCombo \u201CSweeeet Summer Memories\u201C][1/Turn]:[Reveal a card from your hand], and your opponent declares \u201Csix or more\u201D or \u201Cfive or less\u201D. Reveal all of the cards in your hand, and if their total Cost is different from the declared, draw two cards. If it is the same, this character gets \u002B100,000/\u00B10 until end of turn. (Rebirths are 0 Cost)",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u7518\uFF5E\u3044\u590F\u306E\u601D\u3044\u51FA\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u516C\u958B\u3059\u308B\uFF3D\u76F8\u624B\u306F\u300C\uFF16\u4EE5\u4E0A\u300D\u304B\u300C\uFF15\u4EE5\u4E0B\u300D\u3092\u5BA3\u8A00\u3059\u308B\u3002\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u516C\u958B\u3057\u3001\u305D\u308C\u3089\u306E\u30B3\u30B9\u30C8\u5408\u8A08\u304C\u5BA3\u8A00\u3068\u9055\u3046\u306A\u3089\u3001\uFF12\u679A\u5F15\u304F\u3002\u540C\u3058\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B10\u4E07/\u00B1\uFF10\u3002\uFF08Re\u30D0\u30FC\u30B9\u306F\uFF10\u3068\u3059\u308B\uFF09"
         }
       ],
@@ -2387,8 +2343,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2411,8 +2366,8 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
           "EN": "Hololive",
@@ -2430,7 +2385,7 @@
       },
       "Effect": [
         {
-          "EN": "[AUTO](Member):When this character supports, [Rest (2) Energy], and the supported character gets \u002B1/\u00B10 until end of that attack. If it has \u0022Mel\u0022 in its card name, then get another \u002B2/\u00B10.",
+          "EN": "[AUTO](Member):When this character supports, [Rest (2) Energy], and the supported character gets \u002B1/\u00B10 until end of that attack. If it has \u201CMel\u201D in its card name, then get another \u002B2/\u00B10.",
           "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u305D\u308C\u304C\u300A\u30E1\u30EB\u300B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\u00B1\uFF10\u3002"
         }
       ],
@@ -2439,8 +2394,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2474,8 +2428,8 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
           "EN": "Hololive",
@@ -2499,8 +2453,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2524,8 +2477,8 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -2536,7 +2489,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u0022Subarkling Photo Session\u0022][Skill Showcase Level 5]:At the end of your turn, put all entries and members into the waiting room.",
+          "EN": "[AUTO](Entry)[ReCombo \u201CSuba Sparkling Photo Session\u201C][Skill Showcase Level 5]:At the end of your turn, put all characters on entry and member into the waiting room.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30B9\u30D0\u3063\u3068\u304D\u3089\u3081\u304F\u64AE\u5F71\u4F1A\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3059\u3079\u3066\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -2545,8 +2498,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2564,17 +2516,17 @@
         }
       ],
       "Name": {
-        "EN": "FAMS\u300ASubatani Subao\u300B, Subaru",
+        "EN": "FAMS (Subatani Subao), Subaru",
         "JP": "FAMS\u300A\u30B9\u30D0\u8C37\u30B9\u30D0\u7537\u300B \u30B9\u30D0\u30EB"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         },
         {
-          "EN": "2nd Gen.",
-          "JP": "2\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2588,7 +2540,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each card with \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 in its card name in total on your member and retire areas.",
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each card with \u201COkayu\u201C, \u201CKorone\u201C, \u201CFubuki\u201C, \u201CAyame\u201C, \u201CMio\u201C, or \u201CSubaru\u201D in its card name in total on your member and retire areas.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u3001\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -2597,8 +2549,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2616,21 +2567,21 @@
         }
       ],
       "Name": {
-        "EN": "FAMS\u300AFUBUKI the White Fox\u300B, Fubuki",
+        "EN": "FAMS (FUBUKI the White Fox), Fubuki",
         "JP": "FAMS\u300A\u767D\u72D0\u306EFUBUKI\u300B \u30D5\u30D6\u30AD"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2644,7 +2595,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 5]:Choose a member or card with \u0022Mio\u0022 in its card name from your retire area, and exchange its position with a card from your hand.",
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a member or a card with \u201CMio\u201D in its card name from your retire area, and exchange its position with a card from your hand.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u30DF\u30AA\u300B\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306E\u30AD\u30E3\u30E9\uFF11\u679A\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
         }
       ],
@@ -2653,8 +2604,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2677,16 +2627,16 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2700,15 +2650,15 @@
       },
       "Effect": [
         {
-          "EN": "[Blocker [Growing]]\n(If you discard it from hand, the damage from one attack to your allied [Growing] character becomes zero)",
+          "EN": "[Blocker]:[Growing]",
           "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011"
         },
         {
-          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards.",
           "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
         },
         {
-          "EN": "[CONT]:This character\u0027s [Cancel] can only be used when you have a [Growing] entry.",
+          "EN": "[CONT]:This character\u2019s [Cancel] can only be used when you have a [Growing] entry.",
           "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u306F\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u6642\u306E\u307F\u4F7F\u3048\u308B\u3002"
         }
       ],
@@ -2717,8 +2667,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2733,21 +2682,21 @@
         }
       ],
       "Name": {
-        "EN": "\u300ANazo Nazo Kamen\u300B, Fubuki",
+        "EN": "(Nazo Nazo Kamen), Fubuki",
         "JP": "\u300A\u306A\u305E\u306A\u305E\u4EEE\u9762\u300B \u30D5\u30D6\u30AD"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "1st Gen.",
+          "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2767,8 +2716,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2806,7 +2754,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "GAMERS",
+          "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
@@ -2818,7 +2766,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[AUTO]:When this character is put onto your entry area other than from deck, look at three cards from the top of your deck, and choose one of the following.\ni. Put those three cards on the bottom of your deck in any order.\nii. Put those three cards face down on the top of your deck in your opponent\u0027s order.",
+          "EN": "[AUTO]:When this character is put onto your entry area other than from deck, look at three cards from the top of your deck, and choose one of the following.\ni. Put those three cards on the bottom of your deck in any order.\nii. Put those three cards face down on the top of your deck in your opponent\u2019s order.",
           "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u898B\u3066\u3001\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u305D\u306E\uFF13\u679A\u3092\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002\n\u2171\uFF0E\u305D\u306E\uFF13\u679A\u3092\u88CF\u5411\u304D\u306E\u307E\u307E\u3001\u76F8\u624B\u304C\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0A\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -2827,8 +2775,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2848,12 +2795,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2864,11 +2811,11 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[CONT](Member)[Skill Showcase Level 6]:All of the characters in your hand get \u0022[Cancel]:[Spark] of a character with the same Cost as this card\u0022.",
+          "EN": "[CONT](Member)[Skill Showcase Level 6]:All of the characters in your hand get \u201C[Cancel]:[Spark] of a character with the same Cost as this card\u201D.",
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\u306E\u30AD\u30E3\u30E9\u3059\u3079\u3066\u306B\u3008\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3053\u306E\u30AB\u30FC\u30C9\u3068\u540C\u3058\u30B3\u30B9\u30C8\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3009\u3092\u4E0E\u3048\u308B\u3002"
         },
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Summer Outfit\u0022]:[Rest (3) Energy], and put this character onto your member area.",
+          "EN": "[ACT](Entry)[ReCombo \u201CSummer Outfit\u201C]:[Rest (3) Energy], and put this character onto your member area.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u590F\u306E\u88C5\u3044\u300B\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -2877,8 +2824,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2901,12 +2847,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2920,7 +2866,7 @@
       },
       "Effect": [
         {
-          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry with \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 in its card name gets \u002B1/\u002B1.",
+          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry with \u201COkayu\u201C, \u201CKorone\u201C, \u201CFubuki\u201C, \u201CAyame\u201C, \u201CMio\u201C, or \u201CSubaru\u201D in its card name gets \u002B1/\u002B1.",
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -2929,8 +2875,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -2953,12 +2898,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2981,8 +2926,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3016,12 +2960,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3044,8 +2988,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3060,17 +3003,17 @@
         }
       ],
       "Name": {
-        "EN": "Aren\u0027t you fine with me, Okayu",
+        "EN": "Aren\u2019t you fine with me, Okayu",
         "JP": "\u50D5\u3067\u3044\u3044\u3058\u3083\u3093 \u304A\u304B\u3086"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3081,7 +3024,7 @@
       "DEF": 4,
       "Effect": [
         {
-          "EN": "[CONT](Entry/Member)[ReCombo \u0022Everyone in Swimsuits\u0022]:All of your card reference effects may additionally refer to \u0022Okayu\u0022 and \u0022Everyone in Swimsuits\u0022. (Card name reference is represented by \u0022Korone\u0022 etc.)",
+          "EN": "[CONT](Entry/Member)[ReCombo \u201CEveryone in Swimsuits\u201C]:All of your card reference effects may additionally refer to \u201COkayu\u201D and \u201CEveryone in Swimsuits\u201D instead. (Card name reference is represented by the blue icon with \u201CKorone\u201D etc.)",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u307F\u3093\u306A\u3067\u6C34\u7740\u300B\uFF1A\u3042\u306A\u305F\u306E\u3001\u30AB\u30FC\u30C9\u540D\u3092\u53C2\u7167\u3059\u308B\u52B9\u679C\u306F\u3059\u3079\u3066\u8FFD\u52A0\u3067\u3001\u300A\u304A\u304B\u3086\u300B\u3068\u300A\u307F\u3093\u306A\u3067\u6C34\u7740\u300B\u3082\u53C2\u7167\u3067\u304D\u308B\u3002\uFF08\u30AB\u30FC\u30C9\u540D\u53C2\u7167\u306F\u300A\u3053\u308D\u306D\u300B\u306A\u3069\u3067\u8868\u3055\u308C\u3066\u3044\u308B\uFF09"
         }
       ],
@@ -3090,8 +3033,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3114,12 +3056,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3133,7 +3075,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your members, and exchange its position with this character. If a card with \u0022Korone\u0022 in its card name exchanged, that character gets \u002B1/\u002B1 until end of turn.",
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your members, and exchange its position with this character. If a card with \u201CKorone\u201D in its card name exchanged, that character gets \u002B1/\u002B1 until end of turn.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u300A\u3053\u308D\u306D\u300B\u3068\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -3142,8 +3084,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3166,12 +3107,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3185,7 +3126,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, and put a card from your hand into your waiting room. If a card with \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 in its card name is discarded, you may put that character onto your member area.",
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, and put a card from your hand into your waiting room. If a card with \u201COkayu\u201C, \u201CKorone\u201C, \u201CFubuki\u201C, \u201CAyame\u201C, \u201CMio\u201C, or \u201CSubaru\u201D in its card name is put, you may put that character onto your member area.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
         }
       ],
@@ -3194,8 +3135,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3233,7 +3173,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "GAMERS",
+          "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
@@ -3245,7 +3185,7 @@
       "DEF": 9,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[Skill Showcase Level 4]:At the beginning of each attack phase, [Stand] all of that player\u0027s members. Until end of turn, that player can support without [Rest]ing members, cannot use members\u0027 [AUTO] abilities, and can only attack up to three times. (Members are required for attacking)",
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4]:At the beginning of each attack phase, [Stand] all of that player\u2019s members. Until end of turn, that player can support without [Rest]ing members, cannot use their [AUTO] abilities, and can only attack up to three times. (Members are required for attacking)",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u5404\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u30E1\u30F3\u30D0\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u3001\u30E1\u30F3\u30D0\u30FC\u3092\u3010\u30EC\u30B9\u30C8\u3011\u305B\u305A\u306B\u30B5\u30DD\u30FC\u30C8\u3067\u304D\u3001\u305D\u308C\u3089\u306E\u81EA\u52D5\u80FD\u529B\u3092\u4F7F\u3048\u305A\u3001\uFF13\u56DE\u307E\u3067\u3057\u304B\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u306A\u3044\u3002\uFF08\u30A2\u30BF\u30C3\u30AF\u306B\u30E1\u30F3\u30D0\u30FC\u306F\u5FC5\u8981\uFF09"
         }
       ],
@@ -3254,8 +3194,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3270,17 +3209,17 @@
         }
       ],
       "Name": {
-        "EN": "\uFF03OkaKoro, Korone",
+        "EN": "#OkaKoro, Korone",
         "JP": "\uFF03\u304A\u304B\u3053\u308D \u3053\u308D\u306D"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3291,7 +3230,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[ReCombo \u0022SUMMER VACATION\u0022][Skill Showcase Level 3]:This character gets \u002B2/\u002B3. If you have a member with \u0022Okayu\u0022 in its card name, then get an additional \u002B3/\u00B10.",
+          "EN": "[CONT](Entry)[ReCombo \u201CSUMMER VACATION\u201C][Skill Showcase Level 3]:This character gets \u002B2/\u002B3. If you have a member with \u201COkayu\u201D in its card name, then get an additional \u002B3/\u00B10.",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300ASUMMER VACATION\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u304A\u304B\u3086\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF13/\u00B1\uFF10\u3002"
         }
       ],
@@ -3300,8 +3239,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3324,12 +3262,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3352,8 +3290,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3376,12 +3313,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
-          "EN": "GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3395,7 +3332,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:This character gets \u002B1/\u002B2 until end of turn. If you have a member with \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 in its card name, then get another \u002B2/\u002B1.",
+          "EN": "[Spark]:This character gets \u002B1/\u002B2 until end of turn. If you have a member with \u201COkayu\u201C, \u201CKorone\u201C, \u201CFubuki\u201C, \u201CAyame\u201C, \u201CMio\u201C, or \u201CSubaru\u201D in its card name, then get another \u002B2/\u002B1.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\uFF0B\uFF11\u3002"
         }
       ],
@@ -3404,8 +3341,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3439,7 +3375,7 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         },
         {
@@ -3464,8 +3400,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3485,7 +3420,7 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         },
         {
@@ -3501,7 +3436,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u0022Game-Loving Rabbit\u0022]:When this character\u0027s attack is blocked, this character gets \u002B5/\u00B10 until end of turn. At the end of that attack, if this character\u0027s ATK is 15 or greater, put this character into the waiting room, choose one of your allied members, and [Stand] it.",
+          "EN": "[AUTO](Entry)[ReCombo \u201CGame-Loving Rabbit\u201C]:When this character\u2019s attack is blocked, this character gets \u002B5/\u00B10 until end of turn. At the end of that attack, if this character\u2019s ATK is 15 or greater, put this character into the waiting room, choose one of your allied members, and [Stand] it.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30B2\u30FC\u30E0\u5927\u597D\u304D\u3046\u3055\u304E\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u304C\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u304C15\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
         }
       ],
@@ -3510,8 +3445,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3534,12 +3468,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         },
         {
-          "EN": "3rd Gen.",
-          "JP": "\uFF13\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3553,7 +3487,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose up to one card with \u0022Miko\u0022 in its card name from your member or retire area, and this character\u0027s ATK becomes that character\u0027s ATK\u002B2 until end of turn.",
+          "EN": "[Spark]:Choose up to one card with \u201CMiko\u201D in its card name from your member or retire area, and this character\u2019s ATK becomes that character\u2019s ATK\u002B2 until end of turn.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u307F\u3053\u300B\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u3092\u305D\u306E\u30AD\u30E3\u30E9\u306EATK\uFF0B\uFF12\u306B\u3059\u308B\u3002"
         }
       ],
@@ -3562,8 +3496,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3578,17 +3511,21 @@
         }
       ],
       "Name": {
-        "EN": "\u300ABekora\u300B, Pekora",
+        "EN": "(Bekora), Pekora",
         "JP": "\u300A\u3079\u3053\u3089\u300B \u307A\u3053\u3089"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3608,8 +3545,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3647,7 +3583,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         }
       ],
@@ -3659,7 +3595,7 @@
       "DEF": 3,
       "Effect": [
         {
-          "EN": "[ACT](Member):[Rest (1) Energy], your opponent chooses one of the following. Until end of turn, when each player would choose a character,\ni. This character is chosen first.\nii. Other characters are chosen first.",
+          "EN": "[ACT](Member):[Rest (1) Energy], your opponent chooses one of the following. Until end of turn, when each player would choose a character for effects\u2026\ni. This character is chosen first.\nii. Other characters are chosen first.",
           "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u76F8\u624B\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u52B9\u679C\u3067\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\n\u2170\uFF0E\u3053\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002\n\u2171\uFF0E\u4ED6\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002"
         }
       ],
@@ -3668,8 +3604,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3684,17 +3619,21 @@
         }
       ],
       "Name": {
-        "EN": "\u300ARushifer\u300B, Rushia",
+        "EN": "(Rushifer), Rushia",
         "JP": "\u300A\u30EB\u30B7\u30D5\u30A1\u30A2\u300B \u308B\u3057\u3042"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3705,7 +3644,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[ACT](Member)[ReCombo \u0022Dream of a Necromancer\u0022][Skill Showcase Level 6][1/Turn]:[Rest (1) Energy \u0026 put one of your other members into the waiting room], choose two of your opponent\u0027s members, and until end of your opponent\u0027s next turn, those characters do not [Stand].",
+          "EN": "[ACT](Member)[ReCombo \u201CDream of a Necromancer\u201C][Skill Showcase Level 6][1/Turn]:[Rest (1) Energy \u0026 put one of your other members into the waiting room], choose two of your opponent\u2019s members, and until end of your opponent\u2019s next turn, those characters do not [Stand].",
           "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6B7B\u970A\u4F7F\u3044\u306E\u5922\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u30BF\u30FC\u30F3\uFF11\u56DE\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
         }
       ],
@@ -3714,8 +3653,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3738,12 +3676,12 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen.",
-          "JP": "\uFF13\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -3757,7 +3695,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose a character from your waiting room, and exchange its position with a Rebirth from your hand. If you choose a card with \u0022Marine\u0022 in its card name, you may exchange its position with a character instead of a Rebirth.",
+          "EN": "[Spark]:Choose a character from your waiting room, and exchange its position with a Rebirth from your hand. If you choose a card with \u201CMarine\u201D in its card name, you may exchange its position with a character instead of a Rebirth.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306ERe\u30D0\u30FC\u30B9\uFF11\u679A\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u300A\u30DE\u30EA\u30F3\u300B\u3092\u9078\u3076\u306A\u3089\u3001Re\u30D0\u30FC\u30B9\u3067\u306F\u306A\u304F\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3082\u3088\u3044\u3002"
         }
       ],
@@ -3766,8 +3704,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3805,7 +3742,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         }
       ],
@@ -3817,7 +3754,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[Spark]:Each player chooses any number of characters from their waiting room, and puts them onto their open member areas. This character gets \u002B1/\u002B1 until end of turn for each character put. If you have a member with \u0022Fubuki\u0022 or \u0022Watame\u0022 in its card name, then get an additional \u002B1/\u002B1 for each character put.",
+          "EN": "[Spark]:Each player chooses any number of characters from their waiting room, and puts them onto their open member areas. This character gets \u002B1/\u002B1 until end of turn for each character put. If you have a member with \u201CFubuki\u201D or \u201CWatame\u201D in its card name, then get an additional \u002B1/\u002B1 for each character put.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\u671B\u3080\u679A\u6570\u9078\u3073\u3001\u81EA\u5206\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u30AD\u30E3\u30E9\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u308F\u305F\u3081\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u7F6E\u3044\u305F\u30AD\u30E3\u30E9\uFF11\u679A\u306B\u3064\u304D\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -3826,8 +3763,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3847,12 +3783,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         },
         {
-          "EN": "3rd Gen.",
-          "JP": "\uFF13\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3863,11 +3799,11 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u0022Attractive Smile\u0022]:When this character attacks, this character gets \u002B1/\u00B10 until end of that attack for each player\u0027s members.",
+          "EN": "[AUTO](Entry)[ReCombo \u201CAttractive Smile\u201C]:When this character attacks, this character gets \u002B1/\u002B-0 until end of that attack for each player\u2019s members.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u60F9\u304B\u308C\u308B\u7B11\u9854\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u30E1\u30F3\u30D0\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         },
         {
-          "EN": "[CONT]:If you have a member with \u0022Noel\u0022 in its card name, this character\u0027s [ReCombo] may also be active with \u0022Gyudon is Justice\u0022.",
+          "EN": "[CONT]:If you have a member with \u201CNoel\u201D in its card name, this character\u2019s [ReCombo] can be active with \u201CGyudon is Justice\u201C.",
           "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30CE\u30A8\u30EB\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010Re\u30B3\u30F3\u30DC\u3011\u306F\u300A\u725B\u4E3C\u306F\u6B63\u7FA9\u300B\u3067\u3082\u6709\u52B9\u306B\u306A\u308B\u3002"
         }
       ],
@@ -3876,8 +3812,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3892,17 +3827,21 @@
         }
       ],
       "Name": {
-        "EN": "\u300AHomura\u300B, Flare",
+        "EN": "(Homura), Flare",
         "JP": "\u300A\u30DB\u30E0\u30E9\u300B \u30D5\u30EC\u30A2"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3913,7 +3852,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[AUTO]:When this character is put onto your member area by an effect, choose your entry, and your opponent cannot use [Blocker] during that character\u0027s next attack this turn.",
+          "EN": "[AUTO]:When this character is put onto your member area by an effect, choose your entry, and your opponent cannot use [Blocker] during that character\u2019s next attack this turn.",
           "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u305D\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
         }
       ],
@@ -3922,8 +3861,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3957,12 +3895,12 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen.",
-          "JP": "\uFF13\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -3982,8 +3920,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -3998,17 +3935,17 @@
         }
       ],
       "Name": {
-        "EN": "\uFF03NoeFure, Noel",
-        "JP": "\uFF03\u30CE\u30A8\u30D5\u30EC \u30CE\u30A8\u30EB"
+        "EN": "#NoeFure, Noel",
+        "JP": "#\u30CE\u30A8\u30D5\u30EC \u30CE\u30A8\u30EB"
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         },
         {
-          "EN": "3rd Gen.",
-          "JP": "\uFF13\u671F\u751F"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4019,11 +3956,11 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[AUTO](Member)[ReCombo \u0022Gyudon is Justice\u0022]:When this character supports, choose one of your other allied members, put it onto the energy area, and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "EN": "[AUTO](Member)[ReCombo \u201CGyudon is Justice\u201C]:When this character supports, choose one of your other allied members, put it onto the energy area, and the supported character gets \u002B2/\u00B10 until end of that attack.",
           "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u725B\u4E3C\u306F\u6B63\u7FA9\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
         },
         {
-          "EN": "[CONT]:If you have an entry with \u0022Flare\u0022 in its card name, this character\u0027s [ReCombo] may also be active with \u0022Attractive Smile\u0022.",
+          "EN": "[CONT]:If you have an entry with \u201CFlare\u201D in its card name, this character\u2019s [ReCombo] may also be active with \u201CAttractive Smile\u201C.",
           "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u300A\u30D5\u30EC\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010Re\u30B3\u30F3\u30DC\u3011\u306F\u300A\u60F9\u304B\u308C\u308B\u7B11\u9854\u300B\u3067\u3082\u6709\u52B9\u306B\u306A\u308B\u3002"
         }
       ],
@@ -4032,8 +3969,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4048,17 +3984,21 @@
         }
       ],
       "Name": {
-        "EN": "\u300AKurogane\u300B, Noel",
+        "EN": "(Kurogane), Noel",
         "JP": "\u300A\u9ED2\u9244\u300B \u30CE\u30A8\u30EB"
       },
       "Traits": [
         {
-          "EN": "3rd Gen.",
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         },
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         }
       ],
       "Type": "Character",
@@ -4069,7 +4009,7 @@
       "DEF": 7,
       "Effect": [
         {
-          "EN": "[AUTO](Waiting room):When your character with \u0022Flare\u0022 in its card name is put onto your member area other than from entry area during your turn, [return your entry other than one with \u0022Noel\u0022 in its card name to your hand], and put this character onto your entry.",
+          "EN": "[AUTO](Waiting room):When your character with \u201CFlare\u201D in its card name is put onto your member area other than from entry area during your turn, [return your entry other than one with \u201CNoel\u201D in its card name to your hand], and put this character onto your entry.",
           "JP": "\u3010\u81EA\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306B\u300A\u30D5\u30EC\u30A2\u300B\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3001\u300A\u30CE\u30A8\u30EB\u300B\u4EE5\u5916\u3092\u624B\u672D\u306B\u623B\u3059\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -4078,8 +4018,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4117,7 +4056,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         }
       ],
@@ -4129,7 +4068,7 @@
       "DEF": 9,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[Skill Showcase Level 4][1/Turn]:When this character attacks, activate all of the following based on the number of your energy.\n3 or more: Choose one of your opponent\u0027s members, and put it into the waiting room.\n5 or more: This character gets \u002B2/\u00B10 until end of turn.\n7 or more: Choose one of your energy, and return it to your hand.",
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4][1/Turn]:When this character attacks, activate all of the following based on the number of your energy.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u306E\u679A\u6570\u306B\u3088\u308A\u4EE5\u4E0B\u3092\u3059\u3079\u3066\u884C\u3046\u3002\n\uFF13\u679A\u4EE5\u4E0A\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF15\u679A\u4EE5\u4E0A\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF17\u679A\u4EE5\u4E0A\uFF1A\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
         }
       ],
@@ -4138,8 +4077,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4154,7 +4092,7 @@
         }
       ],
       "Name": {
-        "EN": "\u300AJack the Owner\u300B, Marine",
+        "EN": "(Jack the Owner), Marine",
         "JP": "\u300A\u30B8\u30E3\u30C3\u30AF\u5E97\u9577\u300B \u30DE\u30EA\u30F3"
       },
       "Traits": [
@@ -4163,8 +4101,12 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         }
       ],
       "Type": "Character",
@@ -4175,7 +4117,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022Set Sail! Houshou Pirates\u0022][Skill Showcase Level 3][1/Turn]:Choose up to three \u003CHost\u003E or \u003C3rd Gen.\u003E with different names from your hand, waiting room, or energy, and put them onto your member area.",
+          "EN": "[ACT](Entry)[ReCombo \u201CShukkou! Houshou Pirates\u201C][Skill Showcase Level 3][1/Turn]:Choose up to three \u003CHost\u003E or \u003C3rd Gen\u003E with different names from your hand, waiting room, or energy, and put them onto your member area.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u51FA\u822A\uFF01\u5B9D\u9418\u6D77\u8CCA\u56E3\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u305D\u308C\u305E\u308C\u7570\u306A\u308B\u30AB\u30FC\u30C9\u540D\u306E\u3001\u3014\u30DB\u30B9\u30C8\u3015\u304B\u3014\uFF13\u671F\u751F\u3015\u3092\u5408\u8A08\uFF13\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -4184,8 +4126,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4212,7 +4153,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         }
       ],
@@ -4227,7 +4168,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:Choose a character each from your hand and waiting room with the same Cost, and you may exchange their positions. If both choices are cards with \u0022Rushia\u0022 in their card names, they may be of different Cost.",
+          "EN": "[Spark]:Choose a character each from your hand and waiting room with the same Cost, and you may exchange their positions. If both choices are cards with \u201CRushia\u201D in their card names, they may be of different Cost.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u3068\u63A7\u3048\u5BA4\u304B\u3089\u3001\u305D\u308C\u305E\u308C\u30B3\u30B9\u30C8\u304C\u540C\u3058\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u4E21\u65B9\u300A\u308B\u3057\u3042\u300B\u3092\u9078\u3076\u306A\u3089\u3001\u30B3\u30B9\u30C8\u304C\u7570\u306A\u3063\u3066\u3044\u3066\u3082\u3088\u3044\u3002"
         }
       ],
@@ -4236,8 +4177,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4264,7 +4204,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "3rd Gen.",
+          "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
         }
       ],
@@ -4288,8 +4228,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4323,7 +4262,7 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         },
         {
@@ -4348,8 +4287,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4369,12 +4307,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4385,7 +4323,7 @@
       "DEF": 4,
       "Effect": [
         {
-          "EN": "[CONT](Member)[ReCombo \u0022Secret Time\u0022]:For every two unique names on your member and retire areas except this card, your entry gets \u002B1/\u00B10.",
+          "EN": "[CONT](Member)[ReCombo \u201CSecret Time\u201C]:For every two unique names on your member and retire areas except this card, your entry gets \u002B1/\u00B10.",
           "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u79D8\u5BC6\u306E\u6642\u9593\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u4EE5\u5916\u306E\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u30AB\u30FC\u30C9\u540D\uFF12\u7A2E\u985E\u306B\u3064\u304D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         }
       ],
@@ -4394,8 +4332,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4418,7 +4355,7 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         },
         {
@@ -4446,8 +4383,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4485,7 +4421,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4501,7 +4437,7 @@
           "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u3066\u3088\u3044\u3002"
         },
         {
-          "EN": "[CONT](Entry):This character gets \u002B1/\u00B10 for each of your \u003C4th Gen.\u003E members.",
+          "EN": "[CONT](Entry):This character gets \u002B1/\u00B10 for each of your \u003C4th Gen\u003E members.",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3014\uFF14\u671F\u751F\u3015\uFF11\u679A\u306B\u3064\u304D\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF10\u3002"
         }
       ],
@@ -4510,8 +4446,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4531,12 +4466,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4547,7 +4482,7 @@
       "DEF": 6,
       "Effect": [
         {
-          "EN": "[ACT](Member)[ReCombo \u0022Dragon\u0027s Morning\u0022]:[Rest (1) Energy], choose one of either player\u0027s entries or members. If it is a [Growing], that character gets \u002B1/\u00B10 until end of turn. If not, it instead loses all its abilities and Traits, and gets \u003CKusozako\u003E.",
+          "EN": "[ACT](Member)[ReCombo \u201CDragon\u2019s Morning\u201C]:[Rest (1) Energy], choose one of either player\u2019s entries or members. If it is a [Growing], that character gets \u002B1/\u00B10 until end of turn. If not, it instead loses all its abilities and Traits, and gets \u003CKusozako\u003E.",
           "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30C9\u30E9\u30B4\u30F3\u306E\u671D\u300B\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u3044\u305A\u308C\u304B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3076\u3002\u305D\u306E\u30AD\u30E3\u30E9\u304C\u3010\u306E\u3073\u3057\u308D\u3011\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u9055\u3046\u306A\u3089\u3001\u304B\u308F\u308A\u306B\u80FD\u529B\u3068\u5C5E\u6027\u3092\u3059\u3079\u3066\u5931\u3044\u3001\u3014\u30AF\u30BD\u30B6\u30B3\u3015\u306B\u306A\u308B\u3002"
         }
       ],
@@ -4556,8 +4491,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4575,7 +4509,7 @@
         }
       ],
       "Name": {
-        "EN": "What\u0027s Going On? Coco",
+        "EN": "What\u2019s Going On? Coco",
         "JP": "\u4F55\u304C\u59CB\u307E\u308B\u3093\u3067\u3059\uFF1F \u30B3\u30B3"
       },
       "Traits": [
@@ -4584,7 +4518,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4599,7 +4533,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:You can block for this character using characters without [Blocker] from your hand until end of turn. Additionally, if a card with \u0022Suisei\u0022, \u0022Korone\u0022, \u0022Shion\u0022, or \u0022Matsuri\u0022 blocks, that attack cannot be a partner attack.",
+          "EN": "[Spark]:You can block this character with characters from your hand without [Blocker] until end of turn. Additionally, if a card with \u201CSuisei\u201C, \u201CKorone\u201C, \u201CShion\u201C, or \u201CMatsuri\u201D blocks, that attack cannot be a partner attack.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3067\u306A\u3044\u624B\u672D\u306E\u30AD\u30E3\u30E9\u3067\u3082\u30D6\u30ED\u30C3\u30AF\u3067\u304D\u308B\u3002\u3055\u3089\u306B\u300A\u3059\u3044\u305B\u3044\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30B7\u30AA\u30F3\u300B\u304B\u300A\u307E\u3064\u308A\u300B\u3067\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u3089\u3001\u305D\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
         }
       ],
@@ -4608,8 +4542,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4636,7 +4569,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4660,8 +4593,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4699,7 +4631,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4711,7 +4643,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[Spark]:Put the top card of your deck into your waiting room, if it is a character, choose another character with the same cost from your waiting room, and return it to your hand. If the card put into your waiting room has \u0022Fubuki\u0022 or \u0022Flare\u0022 in its card name, you may choose that card.",
+          "EN": "[Spark]:Put the top card of your deck into your waiting room, if it is a character, choose another character with the same cost from your waiting room, and return it to your hand. If the card put into your waiting room has \u201CFubuki\u201D or \u201CFlare\u201D in its card name, you may choose that card.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u304C\u30AD\u30E3\u30E9\u306A\u3089\u3001\u63A7\u3048\u5BA4\u304B\u3089\u3001\u305D\u308C\u3068\u540C\u3058\u30B3\u30B9\u30C8\u306E\u4ED6\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u30D5\u30EC\u30A2\u300B\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AB\u30FC\u30C9\u3092\u9078\u3093\u3067\u3082\u3088\u3044\u3002"
         }
       ],
@@ -4720,8 +4652,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4733,39 +4664,11 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091as.png"
           ]
-        },
-        {
-          "Serial": "HP/001B-091b",
-          "Rarity": "R",
-          "Images": [
-            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091b.png"
-          ]
-        },
-        {
-          "Serial": "HP/001B-091bS",
-          "Rarity": "R\u002B",
-          "Images": [
-            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091bs.png"
-          ]
-        },
-        {
-          "Serial": "HP/001B-091c",
-          "Rarity": "R",
-          "Images": [
-            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091c.png"
-          ]
-        },
-        {
-          "Serial": "HP/001B-091cS",
-          "Rarity": "R\u002B",
-          "Images": [
-            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091cs.png"
-          ]
         }
       ],
       "Name": {
-        "EN": "Can I Win? Watame",
-        "JP": "\u52DD\u3066\u308B\u304B\u306A\uFF1F \u308F\u305F\u3081"
+        "EN": "\u52DD\u3066\u308B\u304B\u306A\uFF1F \u308F\u305F\u3081",
+        "JP": "Can I Win? Watame"
       },
       "Traits": [
         {
@@ -4773,7 +4676,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4785,7 +4688,7 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022In the Sunlight\u0022][1/Turn]:Put the top card of your deck into your waiting room, if it is a character with [Spark], perform i, if it is a Rebirth, perform ii, and if neither, perform iii.\ni. This character gets \u002B5/\u00B10 until end of turn.\nii. Draw two cards.\niii. The Cost of the next character you play this turn becomes 0.",
+          "EN": "[ACT](Entry)[ReCombo \u201CIn the Sunlight\u201C][1/Turn]:Put the top card of your deck into your waiting room, if it is a character with [Spark], perform i, if it is a Rebirth, perform ii, and if neither, perform iii.\ni. This character gets \u002B5/\u00B10 until end of turn.\nii. Draw two cards.\niii. The Cost of the next character you play this turn becomes 0.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u967D\u5149\u306E\u4E0B\u3067\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u304C\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u306A\u3089\u2170\u3001Re\u30D0\u30FC\u30B9\u306A\u3089\u2171\u3001\u3069\u3061\u3089\u3067\u3082\u306A\u3044\u306A\u3089\u2172\u3092\u884C\u3046\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\n\u2171\uFF0E\uFF12\u679A\u5F15\u304F\u3002\n\u2172\uFF0E\u3042\u306A\u305F\u304C\u3053\u306E\u30BF\u30FC\u30F3\u6B21\u306B\u30AD\u30E3\u30E9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u30B3\u30B9\u30C8\u306F\uFF10\u306B\u306A\u308B\u3002"
         }
       ],
@@ -4794,8 +4697,97 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-091b",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-091bS",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091bs.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u52DD\u3066\u308B\u304B\u306A\uFF1F \u308F\u305F\u3081",
+        "JP": "Can I Win? Watame"
+      },
+      "Traits": [
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CIn the Sunlight\u201C][1/Turn]:Put the top card of your deck into your waiting room, if it is a character with [Spark], perform i, if it is a Rebirth, perform ii, and if neither, perform iii.\ni. This character gets \u002B5/\u00B10 until end of turn.\nii. Draw two cards.\niii. The Cost of the next character you play this turn becomes 0.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u967D\u5149\u306E\u4E0B\u3067\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u304C\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u306A\u3089\u2170\u3001Re\u30D0\u30FC\u30B9\u306A\u3089\u2171\u3001\u3069\u3061\u3089\u3067\u3082\u306A\u3044\u306A\u3089\u2172\u3092\u884C\u3046\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\n\u2171\uFF0E\uFF12\u679A\u5F15\u304F\u3002\n\u2172\uFF0E\u3042\u306A\u305F\u304C\u3053\u306E\u30BF\u30FC\u30F3\u6B21\u306B\u30AD\u30E3\u30E9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u30B3\u30B9\u30C8\u306F\uFF10\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091b.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-091c",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-091cS",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091cs.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u52DD\u3066\u308B\u304B\u306A\uFF1F \u308F\u305F\u3081",
+        "JP": "Can I Win? Watame"
+      },
+      "Traits": [
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u201CIn the Sunlight\u201C][1/Turn]:Put the top card of your deck into your waiting room, if it is a character with [Spark], perform i, if it is a Rebirth, perform ii, and if neither, perform iii.\ni. This character gets \u002B5/\u00B10 until end of turn.\nii. Draw two cards.\niii. The Cost of the next character you play this turn becomes 0.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u967D\u5149\u306E\u4E0B\u3067\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u304C\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u306A\u3089\u2170\u3001Re\u30D0\u30FC\u30B9\u306A\u3089\u2171\u3001\u3069\u3061\u3089\u3067\u3082\u306A\u3044\u306A\u3089\u2172\u3092\u884C\u3046\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\n\u2171\uFF0E\uFF12\u679A\u5F15\u304F\u3002\n\u2172\uFF0E\u3042\u306A\u305F\u304C\u3053\u306E\u30BF\u30FC\u30F3\u6B21\u306B\u30AD\u30E3\u30E9\u3092\u30D7\u30EC\u30A4\u3059\u308B\u30B3\u30B9\u30C8\u306F\uFF10\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-091c.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4822,7 +4814,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4846,8 +4838,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4885,7 +4876,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -4901,8 +4892,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4917,12 +4907,12 @@
         }
       ],
       "Name": {
-        "EN": "Last Night\u0027s Complaint, Towa",
+        "EN": "Last Night\u2019s Complaint, Towa",
         "JP": "\u6700\u7D42\u591C\u306E\u8A34\u3048 \u30C8\u30EF"
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         },
         {
@@ -4938,7 +4928,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[ReCombo \u0022sweet devil\u0022][1/Turn]:Reveal three cards from the top of your deck. Your opponent separates them into two piles, you take one of them into your hand, and put the rest into your waiting room.",
+          "EN": "[ACT](Entry)[ReCombo \u201Csweet devil\u201C][1/Turn]:Reveal three cards from the top of your deck. Your opponent separates them into two piles, you put one of them into your hand, and put the rest into your waiting room.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300Asweet devil\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3059\u308B\u3002\u76F8\u624B\u306F\u305D\u308C\u3089\u3092\uFF12\u3064\u306B\u5206\u3051\u3001\u3042\u306A\u305F\u306F\u305D\u306E\u3069\u3061\u3089\u304B\u3092\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -4947,8 +4937,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -4966,17 +4955,17 @@
         }
       ],
       "Name": {
-        "EN": "Devilish Work, Towa",
+        "EN": "Devilish Act, Towa",
         "JP": "\u60AA\u9B54\u7684\u6240\u696D \u30C8\u30EF"
       },
       "Traits": [
         {
-          "EN": "4th Gen.",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4990,7 +4979,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have a \u003C4th Gen.\u003E member, then get another \u002B1/\u002B1.",
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have a \u003C4th Gen\u003E member, then get another \u002B1/\u002B1.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3014\uFF14\u671F\u751F\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         }
       ],
@@ -4999,8 +4988,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5038,7 +5026,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -5063,8 +5051,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5088,7 +5075,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -5100,7 +5087,7 @@
       "DEF": 4,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[ReCombo \u0022Nnaaaaaaaaaaaa\u0022]:Compare the number of cards on your member, energy, retire area, and your hand with your opponent\u0027s, and this character gets \u002B1/\u002B1 for each of your areas that have less cards. (For example, \u002B2/\u002B2 if you have less cards on your member area and hand)",
+          "EN": "[CONT](Entry)[ReCombo \u201CNnaaaaaaaaaaaa\u201C]:Compare the number of cards on your member, energy, and retire areas, and your hand with your opponent\u2019s, and this character gets \u002B1/\u002B1 for each of your areas that have less cards. (For example, \u002B2/\u002B2 if you have less cards on your member area and hand)",
           "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3093\u306A\u3042\u3042\u3042\u3042\u3042\u300B\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u3001\u30EA\u30BF\u30A4\u30A2\u3001\u624B\u672D\u306E\u679A\u6570\u3092\u305D\u308C\u305E\u308C\u76F8\u624B\u3068\u6BD4\u8F03\u3057\u3001\u679A\u6570\u304C\u5C11\u306A\u3044\u9818\u57DF\uFF11\u3064\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002(\u4F8B\u3048\u3070\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304C\u5C11\u306A\u3044\u306A\u3089\uFF0B\uFF12/\uFF0B\uFF12)"
         }
       ],
@@ -5109,8 +5096,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5137,7 +5123,7 @@
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
-          "EN": "4th Gen.",
+          "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
         }
       ],
@@ -5152,7 +5138,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 3]:Choose a character with \u0022Subaru\u0022 from your hand, member area, retire area, or waiting room, and exchange its position with this character.",
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a character with \u201CSubaru\u201D from your hand, member area, retire area, or waiting room, and exchange its position with this character.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u30B9\u30D0\u30EB\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
         }
       ],
@@ -5161,8 +5147,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5199,8 +5184,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5237,8 +5221,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5275,8 +5258,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5313,8 +5295,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5351,8 +5332,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5367,7 +5347,7 @@
         }
       ],
       "Name": {
-        "EN": "Let\u0027s Play at the Beach",
+        "EN": "Let\u2019s Play at the Beach",
         "JP": "\u6D5C\u8FBA\u3067\u904A\u307C\u3046"
       },
       "Traits": [],
@@ -5376,7 +5356,7 @@
       "Rarity": "ReC",
       "Effect": [
         {
-          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark].",
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u2019s [Spark].",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
         },
         {
@@ -5389,8 +5369,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5405,7 +5384,7 @@
         }
       ],
       "Name": {
-        "EN": "If you don\u0027t look, I\u0027ll decapitate you!",
+        "EN": "If you don\u2019t look, I\u2019ll decapitate you!",
         "JP": "\u3053\u3063\u3061\u898B\u306A\u3044\u3068\u6253\u3061\u9996\u3088\uFF01"
       },
       "Traits": [],
@@ -5418,7 +5397,7 @@
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         },
         {
-          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u2019s entries or members, and put it into the waiting room.",
           "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -5427,8 +5406,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5461,8 +5439,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5486,7 +5463,7 @@
       "Rarity": "ReR",
       "Effect": [
         {
-          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
         },
         {
@@ -5499,8 +5476,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5515,7 +5491,7 @@
         }
       ],
       "Name": {
-        "EN": "Gamer Maid\u0027s Summer",
+        "EN": "Gamer Maid\u2019s Summer",
         "JP": "\u30B2\u30FC\u30DE\u30FC\u30E1\u30A4\u30C9\u306E\u590F"
       },
       "Traits": [],
@@ -5537,8 +5513,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5575,8 +5550,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5600,7 +5574,7 @@
       "Rarity": "ReC",
       "Effect": [
         {
-          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "EN": "[Spark]:Choose one of your opponent\u2019s [Rest] members, and put it into the waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         },
         {
@@ -5613,8 +5587,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5651,8 +5624,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5685,8 +5657,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5723,8 +5694,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5748,7 +5718,7 @@
       "Rarity": "ReC",
       "Effect": [
         {
-          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "EN": "[Spark]:Choose one of your opponent\u2019s [Rest] members, and put it into the waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         },
         {
@@ -5761,8 +5731,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5778,7 +5747,7 @@
       ],
       "Name": {
         "EN": "SUMMER VACATION",
-        "JP": "SUMMER VACATION"
+        "JP": ""
       },
       "Traits": [],
       "Type": "Rebirth",
@@ -5786,7 +5755,7 @@
       "Rarity": "ReR",
       "Effect": [
         {
-          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
         },
         {
@@ -5799,8 +5768,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5837,8 +5805,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5875,8 +5842,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5913,8 +5879,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5951,8 +5916,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -5989,8 +5953,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6027,8 +5990,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6043,7 +6005,7 @@
         }
       ],
       "Name": {
-        "EN": "Dragon\u0027s Morning",
+        "EN": "Dragon\u2019s Morning",
         "JP": "\u30C9\u30E9\u30B4\u30F3\u306E\u671D"
       },
       "Traits": [],
@@ -6052,7 +6014,7 @@
       "Rarity": "ReR",
       "Effect": [
         {
-          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u2019s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
         },
         {
@@ -6065,8 +6027,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6090,7 +6051,7 @@
       "Rarity": "ReC",
       "Effect": [
         {
-          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "EN": "[Spark]:Choose one of your opponent\u2019s [Rest] members, and put it into the waiting room.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         },
         {
@@ -6103,8 +6064,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6120,7 +6080,7 @@
       ],
       "Name": {
         "EN": "sweet devil",
-        "JP": "sweet devil"
+        "JP": ""
       },
       "Traits": [],
       "Type": "Rebirth",
@@ -6137,8 +6097,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6171,12 +6130,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P001",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P001SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p001snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Tokino Sora",
         "JP": "\u3068\u304D\u306E\u305D\u3089"
@@ -6191,12 +6158,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P002",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P002SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p002snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Roboco",
         "JP": "\u30ED\u30DC\u5B50\u3055\u3093"
@@ -6211,12 +6186,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P003",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P003SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p003snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sakura Miko",
         "JP": "\u3055\u304F\u3089\u307F\u3053"
@@ -6231,12 +6214,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P004",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P004SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p004snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Hoshimachi Suisei",
         "JP": "\u661F\u8857\u3059\u3044\u305B\u3044"
@@ -6251,12 +6242,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P005",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P005SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p005snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yozora Mel",
         "JP": "\u591C\u7A7A\u30E1\u30EB"
@@ -6271,12 +6270,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P006",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P006SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p006snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Aki Rosenthal",
         "JP": "\u30A2\u30AD\u30FB\u30ED\u30FC\u30BC\u30F3\u30BF\u30FC\u30EB"
@@ -6291,12 +6298,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P007",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P007SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p007snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Akai Haato",
         "JP": "\u8D64\u4E95\u306F\u3042\u3068"
@@ -6311,12 +6326,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P008",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P008SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p008snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Shirakami Fubuki",
         "JP": "\u767D\u4E0A\u30D5\u30D6\u30AD"
@@ -6331,12 +6354,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P009",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P009SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p009snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Natsuiro Matsuri",
         "JP": "\u590F\u8272\u307E\u3064\u308A"
@@ -6351,12 +6382,160 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P010",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P010SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p010snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minato Aqua",
+        "JP": "\u6E4A\u3042\u304F\u3042"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P011",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P011SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p011snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Murasaki Shion",
+        "JP": "\u7D2B\u54B2\u30B7\u30AA\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P012",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P012SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p012snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nakiri Ayame",
+        "JP": "\u767E\u9B3C\u3042\u3084\u3081"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P013",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P013SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p013snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuzuki Choco",
+        "JP": "\u7652\u6708\u3061\u3087\u3053"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P014",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P014SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p014snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oozora Subaru",
+        "JP": "\u5927\u7A7A\u30B9\u30D0\u30EB\u0026nbsp;"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P015",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P015SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p015snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Ookami Mio",
         "JP": "\u5927\u795E\u30DF\u30AA"
@@ -6371,12 +6550,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P016",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P016SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p016snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Nekomata Okayu",
         "JP": "\u732B\u53C8\u304A\u304B\u3086"
@@ -6391,12 +6578,20 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     },
     {
       "Serial": "HP/001B-P017",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P017SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p017snp.png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Inugami Korone",
         "JP": "\u620C\u795E\u3053\u308D\u306D"
@@ -6411,8 +6606,259 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P018",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P018SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p018snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Usada Pekora",
+        "JP": "\u514E\u7530\u307A\u3053\u3089"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P019",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P019SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p019snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Uruha Rushia",
+        "JP": "\u6F64\u7FBD\u308B\u3057\u3042"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P020",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P020SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p020snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shiranui Flare",
+        "JP": "\u4E0D\u77E5\u706B\u30D5\u30EC\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P021",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P021SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p021snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shirogane Noel",
+        "JP": "\u767D\u9280\u30CE\u30A8\u30EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P022",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P022SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p022snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Houshou Marine",
+        "JP": "\u5B9D\u9418\u30DE\u30EA\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P023",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P023SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p023snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Amane Kanata",
+        "JP": "\u5929\u97F3\u304B\u306A\u305F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P024",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P024SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p024snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kiryu Coco",
+        "JP": "\u6850\u751F\u30B3\u30B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P025",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P025SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p025snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsunomaki Watame",
+        "JP": "\u89D2\u5DFB\u308F\u305F\u3081"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
+      }
+    },
+    {
+      "Serial": "HP/001B-P026",
+      "Alternates": [
+        {
+          "Serial": "HP/001B-P026SNP",
+          "Rarity": "SNP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p026snp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tokoyami Towa",
+        "JP": "\u5E38\u95C7\u30C8\u30EF"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "BP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-p026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/001B"
       }
     },
     {
@@ -6427,8 +6873,8 @@
         }
       ],
       "Name": {
-        "EN": "Himemori Luna",
-        "JP": "\u59EB\u68EE\u30EB\u30FC\u30CA"
+        "EN": "Himemori Luna\u003C/strong\u003E",
+        "JP": "\u59EB\u68EE\u30EB\u30FC\u30CA \u003Cstrong\u003E"
       },
       "Traits": [],
       "Type": "Partner",
@@ -6440,8 +6886,7 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HP/001B",
-        "Name": "Booster Pack Hololive Production"
+        "ReleaseCode": "HP/001B"
       }
     }
   ]

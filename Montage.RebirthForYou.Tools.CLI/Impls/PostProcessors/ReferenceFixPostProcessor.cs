@@ -32,9 +32,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             using (var db = _database())
             {
                 var dbSets = await db.R4UReleaseSets.ToAsyncEnumerable().Where(s => sets.ContainsKey(s.ReleaseCode)).ToListAsync();
-                //var cardsInSets = dbSets.SelectMany(s => s.Cards ?? new R4UCard[] { }).ToList();
-                //if (cardsInSets.Count > 0)
-                //    db.R4UCards.RemoveRange(cardsInSets);
+                var cardsInSets = dbSets.SelectMany(s => s.Cards ?? new R4UCard[] { }).ToList();
+                foreach (var card in cardsInSets)
+                {
+                    if (result[card.Serial] is null)
+                        result[card.Serial] = card.Clone();
+                }
                 if (dbSets.Count > 0)
                     db.R4UReleaseSets.RemoveRange(dbSets);
                 await db.SaveChangesAsync();
