@@ -24,15 +24,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities.Components
 
         public HTTPRateHandler(RateLimiterOptions options, HttpMessageHandler innerHandler) : base(innerHandler)
         {
-            if (rate < 1)
+            if (options.Rate < 1)
             {
                 throw new ArgumentOutOfRangeException(nameof(rate), "Rate must be >= 1");
             }
 
-            this.rate = rate;
-            this.per = per;
+            this.rate = options.Rate;
+            this.per = options.PerSecond;
             allowance = rate;
-            this.maxTries = maxTries;
+            this.maxTries = options.MaxTries;
             sleepSeconds = per / rate / 2;
             stopwatch = Stopwatch.StartNew();
         }
