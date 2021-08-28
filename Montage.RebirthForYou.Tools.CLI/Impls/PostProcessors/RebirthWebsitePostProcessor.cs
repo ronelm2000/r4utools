@@ -99,10 +99,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             {
                 Log.Information("Handling exceptional record: {serial}", card.Serial);
                 updatedCard.Name.JP = exceptionalRecord.Name;
+                updatedCard.Rarity = exceptionalRecord.Rarity;
                 updatedCard.Effect = (from eff in updatedCard.Effect.Zip(exceptionalRecord.Rules)
                                       select new MultiLanguageString { EN = eff.First.EN, JP = eff.Second }).ToArray();
                 updatedCard.Traits = (from trait in updatedCard.Traits.Zip(exceptionalRecord.Traits)
                                       select new MultiLanguageString { EN = trait.First.EN, JP = trait.Second }).ToList();
+                updatedCard.Flavor ??= new MultiLanguageString();
+                updatedCard.Flavor.JP = exceptionalRecord.Flavor;
+                updatedCard.Images ??= new List<Uri>();
+                updatedCard.Images.Add(new Uri(exceptionalRecord.ImageLink));
                 return updatedCard;
             }
         }

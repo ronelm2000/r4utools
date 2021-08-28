@@ -1,4 +1,5 @@
 ﻿using AngleSharp.Html.Dom;
+using Flurl;
 using Flurl.Http;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
@@ -38,7 +39,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 var urlRequest = new FlurlRequest(foilSearchURL).SetQueryParam("keyword", card.Serial);
                 Log.Debug("URL: {url}", urlRequest.Url);
                 var doc = await urlRequest.GetHTMLAsync();
-                var cardList = doc.QuerySelectorAll(".cardlist-item").Select(i => i as IHtmlAnchorElement).Skip(1);
+                var cardList = doc.QuerySelectorAll(".cardlist-item")
+                    .Select(i => i as IHtmlAnchorElement)
+                    .Where(i => new Url(i.Href).QueryParams[0].Value != card.Serial);
                 foreach (var cardLink in cardList)
                 {
                     Log.Information("Found URL: {url}", cardLink.Href);

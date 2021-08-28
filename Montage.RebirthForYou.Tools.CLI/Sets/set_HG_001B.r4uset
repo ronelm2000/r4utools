@@ -4793,13 +4793,16 @@
       "Type": "Rebirth",
       "Color": "Blue",
       "Rarity": "Re",
+      "Flavor": {},
       "Effect": [
         {
           "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
           "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
         }
       ],
-      "Images": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HGBP/hg001b-102sp.png"
+      ],
       "Language": "Japanese",
       "Set": {
         "ReleaseCode": "HG/001B"
@@ -4815,6 +4818,7 @@
       "Type": "Rebirth",
       "Color": "Yellow",
       "Rarity": "Re",
+      "Flavor": {},
       "Effect": [
         {
           "EN": "[Spark]:Heal one.",
@@ -4825,7 +4829,9 @@
           "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         }
       ],
-      "Images": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HGBP/hg001b-103sp.png"
+      ],
       "Language": "Japanese",
       "Set": {
         "ReleaseCode": "HG/001B"
