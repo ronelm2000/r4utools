@@ -24,6 +24,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-001sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-001SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-001spex.png"
+          ]
         }
       ],
       "Name": {
@@ -54,7 +61,7 @@
       "Language": "Japanese",
       "Set": {
         "ReleaseCode": "HP/001B",
-		"Name": "Booster Pack Hololive Production"
+        "Name": "Hololive Production Booster Pack"
       }
     },
     {
@@ -214,6 +221,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-005sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-005SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-005spex.png"
           ]
         }
       ],
@@ -408,6 +422,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-009sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-009SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-009spex.png"
           ]
         }
       ],
@@ -607,6 +628,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-013sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-013SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-013spex.png"
+          ]
         }
       ],
       "Name": {
@@ -797,6 +825,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-017sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-017SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-017spex.png"
+          ]
         }
       ],
       "Name": {
@@ -805,12 +840,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -850,12 +885,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -898,12 +933,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -951,6 +986,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-020sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-020SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-020spex.png"
           ]
         }
       ],
@@ -1005,12 +1047,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1106,6 +1148,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-023sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-023SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-023spex.png"
           ]
         }
       ],
@@ -1212,12 +1261,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1317,6 +1366,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-027sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-027SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-027spex.png"
+          ]
         }
       ],
       "Name": {
@@ -1325,16 +1381,16 @@
       },
       "Traits": [
         {
-          "EN": "Hololive GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
           "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1430,16 +1486,16 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
           "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1485,16 +1541,16 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "Hololive GAMERS",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         },
         {
           "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1542,6 +1598,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-031sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-031SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-031spex.png"
           ]
         }
       ],
@@ -1644,12 +1707,12 @@
       },
       "Traits": [
         {
-          "EN": "1st Gen",
-          "JP": "\uFF11\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -1749,6 +1812,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-035sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-035SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-035spex.png"
+          ]
         }
       ],
       "Name": {
@@ -1757,12 +1827,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "2nd Gen",
           "JP": "\uFF12\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1802,12 +1872,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "2nd Gen",
           "JP": "\uFF12\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1850,12 +1920,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "2nd Gen",
           "JP": "\uFF12\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1901,12 +1971,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "2nd Gen",
           "JP": "\uFF12\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -1955,6 +2025,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-039sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-039SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-039spex.png"
+          ]
         }
       ],
       "Name": {
@@ -1963,12 +2040,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen",
-          "JP": "\uFF12\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -2008,12 +2085,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen",
-          "JP": "\uFF12\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -2109,6 +2186,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-042sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-042SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-042spex.png"
           ]
         }
       ],
@@ -2265,6 +2349,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-045sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-045SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-045spex.png"
+          ]
         }
       ],
       "Name": {
@@ -2420,6 +2511,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-048sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-048SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-048spex.png"
+          ]
         }
       ],
       "Name": {
@@ -2428,12 +2526,12 @@
       },
       "Traits": [
         {
-          "EN": "2nd Gen",
-          "JP": "\uFF12\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "2nd Gen",
+          "JP": "\uFF12\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -2473,12 +2571,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "2nd Gen",
           "JP": "\uFF12\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -2627,16 +2725,16 @@
       },
       "Traits": [
         {
-          "EN": "Hololive GAMERS",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
           "EN": "1st Gen",
           "JP": "\uFF11\u671F\u751F"
         },
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2741,6 +2839,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-054sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-054SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-054spex.png"
           ]
         }
       ],
@@ -2952,6 +3057,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-058sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-058SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-058spex.png"
+          ]
         }
       ],
       "Name": {
@@ -3161,6 +3273,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-062sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-062SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-062spex.png"
+          ]
         }
       ],
       "Name": {
@@ -3367,6 +3486,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-066sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-066SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-066spex.png"
+          ]
         }
       ],
       "Name": {
@@ -3375,12 +3501,12 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen",
-          "JP": "\uFF13\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -3571,6 +3697,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-070sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-070SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-070spex.png"
+          ]
         }
       ],
       "Name": {
@@ -3579,12 +3712,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3624,12 +3757,12 @@
       },
       "Traits": [
         {
-          "EN": "Host",
-          "JP": "\u30DB\u30B9\u30C8"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Host",
+          "JP": "\u30DB\u30B9\u30C8"
         },
         {
           "EN": "Hololive",
@@ -3676,12 +3809,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -3729,6 +3862,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-073sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-073SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-073spex.png"
           ]
         }
       ],
@@ -3887,6 +4027,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-076sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-076SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-076spex.png"
+          ]
         }
       ],
       "Name": {
@@ -3940,12 +4087,12 @@
       },
       "Traits": [
         {
-          "EN": "3rd Gen",
-          "JP": "\uFF13\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "3rd Gen",
+          "JP": "\uFF13\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -3989,12 +4136,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         },
         {
           "EN": "Host",
@@ -4043,6 +4190,13 @@
           "Rarity": "SP",
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-079sp_3.png"
+          ]
+        },
+        {
+          "Serial": "HP/001B-079SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-079spex.png"
           ]
         }
       ],
@@ -4149,12 +4303,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4200,12 +4354,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "3rd Gen",
           "JP": "\uFF13\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4254,6 +4408,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-083sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-083SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-083spex.png"
+          ]
         }
       ],
       "Name": {
@@ -4262,12 +4423,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4307,12 +4468,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4409,6 +4570,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-086sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-086SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-086spex.png"
+          ]
         }
       ],
       "Name": {
@@ -4417,12 +4585,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4466,12 +4634,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4514,12 +4682,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4619,6 +4787,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-090sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-090SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-090spex.png"
+          ]
         }
       ],
       "Name": {
@@ -4717,12 +4892,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4762,12 +4937,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -4864,6 +5039,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-093sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-093SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-093spex.png"
+          ]
         }
       ],
       "Name": {
@@ -4872,12 +5054,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
@@ -4912,12 +5094,12 @@
       },
       "Traits": [
         {
-          "EN": "4th Gen",
-          "JP": "\uFF14\u671F\u751F"
-        },
-        {
           "EN": "Hololive",
           "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "4th Gen",
+          "JP": "\uFF14\u671F\u751F"
         }
       ],
       "Type": "Character",
@@ -5014,6 +5196,13 @@
           "Images": [
             "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPBP/hp001b-096sp_3.png"
           ]
+        },
+        {
+          "Serial": "HP/001B-096SPex",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp001b-096spex.png"
+          ]
         }
       ],
       "Name": {
@@ -5022,12 +5211,12 @@
       },
       "Traits": [
         {
-          "EN": "Hololive",
-          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
-        },
-        {
           "EN": "4th Gen",
           "JP": "\uFF14\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
         }
       ],
       "Type": "Character",
