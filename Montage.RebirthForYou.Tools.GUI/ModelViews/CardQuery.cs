@@ -38,11 +38,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             List<Predicate<R4UCard>> results = new List<Predicate<R4UCard>>();
             CardQuery _this = this;
             if (Serial != null)
-                results.Add((card) => card.Serial.Contains(_this.Serial));
+                results.Add((card) => card.Serial.ToLower().Contains(_this.Serial.ToLower()));
             if (Name != null)
-                results.Add((card) => (card.Name?.EN ?? "").Contains(_this.Name) || (card.Name?.JP ?? "").Contains(_this.Name));
+                results.Add((card) => (card.Name?.EN?.ToLower() ?? "").Contains(_this.Name.ToLower()) || (card.Name?.JP ?? "").Contains(_this.Name));
             if (Effect != null)
-                results.Add((card) => card.Effect?.Any(eff => (eff.EN ?? "").Contains(_this.Effect) || (eff.JP ?? "").Contains(_this.Effect)) ?? false);
+                results.Add((card) => card.Effect?.Any(eff => (eff.EN?.ToLower() ?? "").Contains(_this.Effect.ToLower()) || (eff.JP ?? "").Contains(_this.Effect)) ?? false);
             if (Color != null)
                 results.Add((card) => card.Color == _this.Color);
             if (Cost != null)
@@ -52,7 +52,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             if (DEF != null)
                 results.Add((card) => card.DEF == _this.DEF);
             if (Traits != null)
-                results.Add((card) => card.Traits?.Any(x => _this.Traits.Any(t => x.EN.Contains(t) || x.JP.Contains(t))) ?? false);
+                results.Add((card) => card.Traits?.Any(x => _this.Traits.Any(t => (x.EN?.ToLower().Contains(t.ToLower()) ?? false) || x.JP.Contains(t))) ?? false);
             if (results.Count > 0)
                 return results.Aggregate(AndAggregate());
             else
@@ -69,16 +69,15 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             return (p1, p2) => (card) => p1(card) || p2(card);
         }
 
-        public static bool TryParse(string jsonString, out CardQuery? query)
+        public static CardQuery? Parse(string jsonString)
         {
             try
             {
-                query = JsonConvert.DeserializeObject<CardQuery>(jsonString);
-                return true;
-            } catch
+                return JsonConvert.DeserializeObject<CardQuery>(jsonString);
+            }
+            catch
             {
-                query = null;
-                return false;
+                return null;
             }
         }
     }

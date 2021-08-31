@@ -209,10 +209,15 @@ namespace Montage.RebirthForYou.Tools.GUI
         }
         private async void SearchBarText_OnTextChanged(string newText)
         {
-            if (CardQuery.TryParse(newText, out var query))
-                await _dataContext().ApplyFilter(query?.ToQuery(), TimeSpan.FromSeconds(2));
-            else
-                await _dataContext().ApplyFilter((card) => (card.Name?.EN ?? "").Contains(newText) || (card.Name?.JP ?? "").Contains(newText) || card.Serial.Contains(newText), TimeSpan.FromSeconds(2));
+            var query = CardQuery.Parse(newText) ?? new CardQuery
+            {
+                Or = new CardQuery[]
+                {
+                    new CardQuery { Name = newText },
+                    new CardQuery { Serial = newText }
+                }
+            };
+            await _dataContext().ApplyFilter(query.ToQuery(), TimeSpan.FromSeconds(2));
         }
         public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
 
