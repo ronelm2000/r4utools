@@ -119,6 +119,14 @@
     "Parse HP/001E (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/25/hp-001e-full-set-list/"
+    },
+    "Parse HP/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2020/12/02/hp-001b-full-set-list/"
+    },
+    "Parse HP/001B (GH)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset"
     }
   }
 }

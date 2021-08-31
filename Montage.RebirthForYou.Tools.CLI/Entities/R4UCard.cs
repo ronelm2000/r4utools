@@ -94,7 +94,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             return newCard;
         }
 
-        public async Task<System.IO.Stream> GetImageStreamAsync()
+        public async Task<System.IO.Stream> GetImageStreamAsync(CookieSession session = default)
         {
             // int retry = 0;
             if (!String.IsNullOrWhiteSpace(CachedImagePath) && !CachedImagePath.Contains(".."))
@@ -110,7 +110,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 catch (Exception) { }
             var img = Images?.Prepend(EmptyURL).Last();
             Log.Debug("Loading URL: {url}", img.AbsoluteUri);
-            var bytes = await Images?.Prepend(EmptyURL).Last().WithImageHeaders().GetAsync().WithRetries(10).ReceiveBytes() ?? await EmptyURL.WithImageHeaders().GetBytesAsync();
+            var bytes = await Images?.Prepend(EmptyURL).Last().WithImageHeaders().WithCookies(session).GetAsync().WithRetries(10).ReceiveBytes() ?? await EmptyURL.WithImageHeaders().GetBytesAsync();
             return new MemoryStream(bytes);
         }
 

@@ -37,6 +37,7 @@
             </MenuItem>
         </MenuItem>
         <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
+        <MenuItem Header="_Deck Image" Command="{Binding ExportViaDeckImageCommand}"/>
       </MenuItem>
       <!-- Commented for v0.2.0 Publication
       <MenuItem Header="_About" Command="{Binding OpenAboutCommand}" />

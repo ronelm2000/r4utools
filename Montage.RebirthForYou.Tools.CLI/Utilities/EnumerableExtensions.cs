@@ -40,6 +40,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
             try { await itemTask; }
             finally { limiter.Release(); }
         }
+        public static V Add<K, V>(this IDictionary<K, V> dictionary, K key, V valueToAdd)
+        {
+            if (dictionary.TryAdd(key, valueToAdd))
+                return valueToAdd;
+            else
+                return default(V);
+        }
 
         public static IDisposable GetDisposer<K,V>(this IDictionary<K,V> originalDictionary) where V : IDisposable
         {

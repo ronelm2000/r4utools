@@ -216,7 +216,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
             do
             {
                 using (var tcpRecieverClient = await tcpServer.AcceptTcpClientAsync())
-                using (var recieverStream = tcpRecieverClient.GetStream())
+                await using (var recieverStream = tcpRecieverClient.GetStream())
                 using (var reader = new System.IO.StreamReader(recieverStream))
                     try
                     {

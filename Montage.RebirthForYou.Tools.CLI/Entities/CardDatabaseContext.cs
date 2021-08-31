@@ -21,9 +21,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public DbSet<R4UCard> R4UCards { get; set; }
         public DbSet<R4UReleaseSet> R4UReleaseSets { get; set; }
         public DbSet<ActivityLog> MigrationLog { get; set; }
+        public DbSet<Setting> Settings { get; set; }
         //public DbSet<MultiLanguageString> MultiLanguageStrings { get; set; }
 
-        
+
         public CardDatabaseContext (AppConfig config) {
             Log.Debug("Instantiating with {@AppConfig}.", config);
             _config = config;
@@ -108,6 +109,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 b.Property(s => s.ReleaseCode).IsRequired();
                 b.Property(s => s.Name).IsRequired(false);
                 b.Property(s => s.Description).IsRequired(false);
+            });
+
+            modelBuilder.Entity<Setting>(b =>
+            {
+                b.HasKey(s => s.Key);
             });
 
             modelBuilder.Entity<ActivityLog>(b =>

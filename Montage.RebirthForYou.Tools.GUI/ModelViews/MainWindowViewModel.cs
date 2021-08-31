@@ -20,6 +20,7 @@ using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Entities.Exceptions;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters;
+using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
@@ -114,6 +115,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public ReactiveCommand<Unit, Unit> LoadDeckCommand { get; }
         public ReactiveCommand<Unit, Unit> ExitCommand { get; }
         public ReactiveCommand<Unit, Unit> ExportViaTTSCommand { get; }
+        public ReactiveCommand<Unit, Unit> ExportViaDeckImageCommand { get; }
         public ReactiveCommand<Unit, Unit> ImportDeckCommand { get; }
         public ReactiveCommand<Unit, Unit> OpenAboutCommand { get; }
         public MainWindow Parent { get; internal set; }
@@ -135,6 +137,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             LoadDeckCommand = ReactiveCommand.CreateFromTask(LoadDeck);
             ExitCommand = ReactiveCommand.Create(Exit);
             ExportViaTTSCommand = ReactiveCommand.CreateFromTask(async()=> await ExportWithResult<TTSDeckExporter>());
+            ExportViaDeckImageCommand = ReactiveCommand.CreateFromTask(async () => await ExportWithResult<LocalDeckImageExporter>());
             ImportDeckCommand = ReactiveCommand.CreateFromTask(ImportDeck);
             OpenAboutCommand = ReactiveCommand.CreateFromTask(OpenAbout);
 
@@ -470,7 +473,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var exporter = ioc.GetInstance<T>();
             var outCommand = isShareXFlagged ? "sharex" : "";
             var flags = Array.Empty<string>().AsEnumerable();
-            if (willSendViaTCP) flags = flags.Append("sendtcp");
+            if (willSendViaTCP && typeof(T) == typeof(TTSDeckExporter)) flags = flags.Append("sendtcp");
             await exporter.Export(deck, new GUIBasedExportInfo(outCommand, flags));
             return ("Success", $"{deck.Name} was exported successfully!");
         }
