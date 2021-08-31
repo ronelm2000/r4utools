@@ -1,9 +1,11 @@
 ﻿using Lamar;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Migrations;
+using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +17,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
     public class ReferenceFixPostProcessor : ICardPostProcessor
     {
         private Func<CardDatabaseContext> _database;
+        private ILogger Log = Serilog.Log.ForContext<ReferenceFixPostProcessor>();
 
         public int Priority => 0;
 
@@ -31,13 +34,21 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             var sets = await result.Values.Select(c => c.Set).ToAsyncEnumerable().Distinct(s => s.ReleaseCode).ToDictionaryAsync(s => s.ReleaseCode);
             using (var db = _database())
             {
-                var dbSets = await db.R4UReleaseSets.ToAsyncEnumerable().Where(s => sets.ContainsKey(s.ReleaseCode)).ToListAsync();
+                var dbSets = await db.R4UReleaseSets
+                    .AsQueryable()
+                    .Include(s => s.Cards)
+                    .ToAsyncEnumerable()
+                    .Where(s => sets.ContainsKey(s.ReleaseCode))
+                    .ToListAsync();
                 var cardsInSets = dbSets.SelectMany(s => s.Cards ?? new R4UCard[] { }).ToList();
-                foreach (var card in cardsInSets)
-                {
-                    if (result[card.Serial] is null)
-                        result[card.Serial] = card.Clone();
-                }
+                var cardsToMerge = cardsInSets
+                    .Where(c => !result.ContainsKey(c.Serial))
+                    .ToList();
+                Log.Information("Attempting to merge with {count} cards from DB.", cardsToMerge.Count);
+
+                foreach (var card in cardsToMerge)
+                    result[card.Serial] = card.Clone();
+                
                 if (dbSets.Count > 0)
                     db.R4UReleaseSets.RemoveRange(dbSets);
                 await db.SaveChangesAsync();
