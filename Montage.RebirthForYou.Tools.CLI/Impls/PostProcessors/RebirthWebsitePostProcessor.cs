@@ -18,7 +18,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
     {
         private readonly ILogger Log = Serilog.Log.ForContext<RebirthWebsitePostProcessor>();
         private readonly string rebirthURLPrefix = "https://rebirth-fy.com/cardlist/";
-        private readonly Regex effectMatcher = new Regex(@"(【(スパーク|のびしろ|ブロッカー|キャンセル|起|永|自)([^】]*)】：?)(.*)((\n[^【](.*))*)");
+        private readonly Regex effectMatcher = new Regex(@"(【)(?(スパーク|起|永|自)(スパーク|起|永|自)(([^】]*)】：?)([^\n]*)((\n[^【](.*))*)|(キャンセル|ブロッカー|のびしろ)(】)(：)?([^\n]*)(\n)?(（(.+)）)?)");
 
         public int Priority => 1;
 
@@ -59,7 +59,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 var document = await url.WithReferrer("https://rebirth-fy.com/cardlist/").GetHTMLAsync();
                 var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
                 var flavorJPText = document.QuerySelector(".cardlist-flavor").GetInnerText();
-                var rulesTextJPText = document.QuerySelector(".cardlist-free").GetInnerText().Trim();
+                var rulesTextJPText = GetWebsiteErrata(card) ?? document.QuerySelector(".cardlist-free").GetInnerText().Trim();
                 var imageLink = document.QuerySelector(".cardlist-img").FindChild<IHtmlImageElement>().Source;
                 var rulesTextEnumerable = effectMatcher.Matches(rulesTextJPText);
                 Log.Information("Name JP: {jp}", nameJPText);
@@ -76,6 +76,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     updatedCard.Flavor ??= new MultiLanguageString();
                     updatedCard.Flavor.JP = flavorJPText;
                 }
+                if ((updatedCard.Effect?.Length ?? 0) != (rulesTextEnumerable?.Count ?? 0))
+                    throw new FormatException($"Effect Text in EN for {card.Serial} does not match Effect Text in JP. May need to data loss!");
+
                 updatedCard.Effect = rulesTextEnumerable.Select((m, i) =>
                 {
                     var result = card.Effect[i].Clone();
@@ -110,6 +113,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 updatedCard.Images.Add(new Uri(exceptionalRecord.ImageLink));
                 return updatedCard;
             }
+        }
+
+        private string GetWebsiteErrata(R4UCard card)
+        {
+            return (card.NonFoil?.Serial ?? card.Serial) switch
+            {
+                "HP/001B-093" => "【自】【メンバー】：このキャラがサポートした時、あなたはエネ②することで、１枚引き、このアタック中、サポートされたキャラを＋１/±０。",
+                _ => null
+            };
         }
 
         private MultiLanguageString ModifiedIfJapaneseIsNull(MultiLanguageString mls, string jpText)
