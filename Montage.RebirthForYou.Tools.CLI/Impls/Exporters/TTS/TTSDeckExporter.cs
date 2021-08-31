@@ -173,15 +173,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS
                 await SendTTSCommand(host, ttsPort, stopCommand);
                 await endSignal;
             }
-            catch (Exception e)
+            catch (Exception e) when (Log.IsEnabled(Serilog.Events.LogEventLevel.Debug))
             {
-                Log.Warning("Unable to send the Deck Generator directly to TTS; please load the object manually.");
-                if (Log.IsEnabled(Serilog.Events.LogEventLevel.Debug))
-                    throw e;
-            }
+                Log.Warning("Unable to send the Deck Generator directly to TTS; please load the object manually.", e);
+                throw;            }
             finally
             {
-                if (tcpServer?.Pending() ?? false)
+                if (tcpServer?.Server.Connected ?? false)
+//                 if (tcpServer?.Pending() ?? false)
                     tcpServer.Stop();
             }
 
