@@ -169,6 +169,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     {
                         LogID = 7,
                         Activity = ActivityType.Parse,
+                        IsDone = true,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_%28ver._2nd_Gen%29",
                         DateAdded = new DateTime(2020, 9, 25, 0, 43, 53, 206, DateTimeKind.Local)
                     },
@@ -446,6 +447,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 46,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 08, 28, 15, 16, 0)
                     },
                     new ActivityLog
@@ -461,6 +463,27 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HG_001B.r4uset",
                         DateAdded = new DateTime(2021, 08, 28, 15, 16, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 49,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset",
+                        DateAdded = new DateTime(2021, 08, 31, 15, 16, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 50,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_002T.r4uset",
+                        DateAdded = new DateTime(2021, 08, 31, 15, 16, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 51,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_004T.r4uset",
+                        DateAdded = new DateTime(2021, 08, 31, 15, 16, 0)
                     }
                 );
             });

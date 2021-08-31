@@ -1,0 +1,1073 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "HP/004T-001",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-001S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-001s.png"
+          ]
+        },
+        {
+          "Serial": "HP/004T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-001sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "#HololiveSummer, Fubuki",
+        "JP": "\uFF03\u30A2\u30C4\u3044\u305E\u30DB\u30ED\u30E9\u30A4\u30D6 \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen.",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-002",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u72D0\u3058\u3083\u30FC\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "GAMERS Leader, Fubuki",
+        "JP": "\u30B2\u30FC\u30DE\u30FC\u30BA\u30EA\u30FC\u30C0\u30FC \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "1st Gen.",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u72D0\u3058\u3083\u30FC\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-003",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u52A9\u304B\u3063\u305F\u3088\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Carrying An Onion, Fubuki",
+        "JP": "\u305F\u307E\u306D\u304E\u904B\u3073 \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "1st Gen.",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u52A9\u304B\u3063\u305F\u3088\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-004",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u65E5\u3001\u79C1\u306E\u3053\u3068\u306F\u6559\u5B98\u3068\u547C\u3076\u3088\u3046\u306B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shirakami Bootcamp, Fubuki",
+        "JP": "\u767D\u4E0A\u30D6\u30FC\u30C8\u30AD\u30E3\u30F3\u30D7 \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "1st Gen.",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u4ECA\u65E5\u3001\u79C1\u306E\u3053\u3068\u306F\u6559\u5B98\u3068\u547C\u3076\u3088\u3046\u306B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, this character gets \u002B2/\u00B10 until end of turn. [Rest (2) Energy], and it also gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3055\u3089\u306B\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-005",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3068\u5168\u529B\u3067\u697D\u3057\u3044\u30E9\u30A4\u30D6\u306B\u3059\u308B\u305E\uFF01\uFF01\uFF01\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-005s.png"
+          ]
+        },
+        {
+          "Serial": "HP/004T-005SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-005sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "#NonstopHololive, Mio",
+        "JP": "#\u3068\u307E\u3089\u306A\u3044\u30DB\u30ED\u30E9\u30A4\u30D6 \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3068\u5168\u529B\u3067\u697D\u3057\u3044\u30E9\u30A4\u30D6\u306B\u3059\u308B\u305E\uFF01\uFF01\uFF01\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-006",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3093\u3070\u3093\u307F\u3049\u30FC\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Black-haired Animal-eared Girl, Mio",
+        "JP": "\u9ED2\u9AEA\u30B1\u30E2\u30DF\u30DF\u5C11\u5973 \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u3093\u3070\u3093\u307F\u3049\u30FC\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:Your entry gets \u00B10/\u002B1.\n([Skill Showcase Level 5]:Active if there are five or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-007",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u6BCD\u304B\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "GAMERS Organizer, Mio",
+        "JP": "\u30B2\u30FC\u30DE\u30FC\u30BA\u306E\u307E\u3068\u3081\u5F79 \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6BCD\u304B\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-008",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4FFA\u306B\u8FD1\u3065\u304F\u3068\u98DF\u3079\u3061\u3083\u3046\u305C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "FAMS\u300AKurokami Omi\u300B, Mio",
+        "JP": "FAMS\u300A\u9ED2\u795E\u81E3\u300B \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u4FFA\u306B\u8FD1\u3065\u304F\u3068\u98DF\u3079\u3061\u3083\u3046\u305C"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-009",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u50D5\u306E\u52C7\u59FF\u3092\u898B\u5C4A\u3051\u3066\u30FC\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-009s.png"
+          ]
+        },
+        {
+          "Serial": "HP/004T-009SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-009sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "#NonstopHololive, Okayu",
+        "JP": "#\u3068\u307E\u3089\u306A\u3044\u30DB\u30ED\u30E9\u30A4\u30D6 \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u50D5\u306E\u52C7\u59FF\u3092\u898B\u5C4A\u3051\u3066\u30FC\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022Korone Company\u0022][1/Turn]:[Rest (1) Energy], choose three of your energy, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3053\u308D\u306D\u30AB\u30F3\u30D1\u30CB\u30FC\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF13\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u3053\u308D\u306D\u30AB\u30F3\u30D1\u30CB\u30FC\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-010",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3050\u3082\u3050\uFF5E\u304A\u304B\u3086\uFF5E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Onigiri Shop Cat, Okayu",
+        "JP": "\u304A\u306B\u304E\u308A\u5C4B\u306E\u732B \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3082\u3050\u3082\u3050\uFF5E\u304A\u304B\u3086\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-011",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u50D5\u306E\u52DD\u3061\uFF5E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mischievous, Okayu",
+        "JP": "\u3044\u305F\u305A\u3089\u597D\u304D \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u50D5\u306E\u52DD\u3061\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-012",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u304A\u306B\u304E\u308A\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "My Pace Cat, Okayu",
+        "JP": "\u30DE\u30A4\u30DA\u30FC\u30B9\u306A\u732B \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u304A\u306B\u304E\u308A\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a card each from your member area and hand, and you may exchange their positions.\n([Skill Showcase Level 5]:Active if there are five or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-013",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308D\u306D\u306E\u6709\u308A\u4F59\u3063\u3066\u308B\u30D1\u30EF\u30FC\u3092\u4F7F\u3044\u679C\u305F\u3059\u305E\u30FC\u30FC\u30FC\uFF01\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-013s.png"
+          ]
+        },
+        {
+          "Serial": "HP/004T-013SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-013sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "#NonstopHololive, Korone",
+        "JP": "#\u3068\u307E\u3089\u306A\u3044\u30DB\u30ED\u30E9\u30A4\u30D6 \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3053\u308D\u306D\u306E\u6709\u308A\u4F59\u3063\u3066\u308B\u30D1\u30EF\u30FC\u3092\u4F7F\u3044\u679C\u305F\u3059\u305E\u30FC\u30FC\u30FC\uFF01\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-014",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3001\u3049\u3041\u3087\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dog in a Bakery, Korone",
+        "JP": "\u30D1\u30F3\u5C4B\u3055\u3093\u306B\u3044\u308B\u72AC \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3001\u3049\u3041\u3087\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of any [Rest] members, and put it on the bottom of that player\u0027s deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u3001\u3044\u305A\u308C\u304B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-015",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3063\u304B\u3089\u3082\u3046\u3061\u3087\u3063\u3068"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wholesome, Korone",
+        "JP": "\u3066\u3047\u3066\u3047 \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u3063\u304B\u3089\u3082\u3046\u3061\u3087\u3063\u3068"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (1) Energy], and this character gets \u002B1/\u00B10 until end of turn. This ability may be used up to twenty-eight times a turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3053\u306E\u80FD\u529B\u306F\u5404\u30BF\u30FC\u30F328\u56DE\u3057\u304B\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-016",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-016S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u304B\u3089\u80B2\u3064\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Office\u2019s Sapling, Korone",
+        "JP": "\u4E8B\u52D9\u6240\u306E\u82D7\u6728 \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4ECA\u304B\u3089\u80B2\u3064\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-017",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-017S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u304B\u3089\u3082\u305A\u3063\u3068\u8F1D\u304F\u305F\u3081\u306B\u3001\u7B11\u9854\u3067\u3044\u308B\u305F\u3081\u306B\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nonstop Story",
+        "JP": "\u30CE\u30F3\u30B9\u30C8\u30C3\u30D7\u30FB\u30B9\u30C8\u30FC\u30EA\u30FC"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u3053\u308C\u304B\u3089\u3082\u305A\u3063\u3068\u8F1D\u304F\u305F\u3081\u306B\u3001\u7B11\u9854\u3067\u3044\u308B\u305F\u3081\u306B\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-018",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-018S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Korone Company",
+        "JP": "\u3053\u308D\u306D\u30AB\u30F3\u30D1\u30CB\u30FC"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-P01",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-P01S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shirakami Fubuki",
+        "JP": "\u767D\u4E0A\u30D5\u30D6\u30AD"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-P02",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-P02S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ookami Mio",
+        "JP": "\u5927\u795E\u30DF\u30AA"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-P03",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-P03S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nekomata Okayu",
+        "JP": "\u732B\u53C8\u304A\u304B\u3086"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    },
+    {
+      "Serial": "HP/004T-P04",
+      "Alternates": [
+        {
+          "Serial": "HP/004T-P04S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Inugami Korone",
+        "JP": "\u620C\u795E\u3053\u308D\u306D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPTD/hp004t-p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/004T",
+        "Name": "Trial Deck Hololive Production (ver. GAMERS)"
+      }
+    }
+  ]
+}
