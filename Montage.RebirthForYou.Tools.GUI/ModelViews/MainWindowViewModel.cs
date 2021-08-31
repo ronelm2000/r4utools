@@ -38,6 +38,7 @@ using System.Net.Http.Headers;
 using System.Reactive;
 using System.Reactive.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -403,10 +404,12 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public ParallelQuery<CardEntry> GetCardDatabase(CardDatabaseContext db)
         {
             if (ioc == null) return new CardEntry[] { }.AsParallel();
-            return db.R4UCards.AsParallel()
+            return db.R4UCards
+                .Include(c => c.Set)
+                .AsParallel()
                 .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
                 .WithMergeOptions(ParallelMergeOptions.NotBuffered)
-                .Select(c => new CardEntry(c));
+                .Select(c => new CardEntry(this, c));
         }
 
         internal async Task<(string Title, string Details)> SaveDeck(string saveFilePath)
@@ -492,6 +495,30 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             if (title == "Failed!") result.Icon = MessageBox.Avalonia.Enums.Icon.Error;
             return result;
         }
+
+        internal async Task SearchCombos(CardEntry card)
+        {
+            var nameReferencesRegex = new Regex(@"(?:“|"")([^”""]+)(?:”|"")");
+            var orQueries = card.Card.Effect
+                .SelectMany(e => nameReferencesRegex.Matches(e.EN))
+                .Select(m => m.Groups[1].Value)
+                .SelectMany(reff => new CardQuery[] { new CardQuery { Name = reff }, new CardQuery { Effect = reff } })
+                .ToList();
+
+            orQueries.Add(new CardQuery { Effect = card.Card.Name.EN });
+            orQueries.Add(new CardQuery { Name = card.Card.Name.EN });
+
+            var newFilter = new CardQuery
+            {
+                And = new CardQuery[] {
+                    new CardQuery { Serial = card.Card.ReleaseID },
+                    new CardQuery {
+                        Or = orQueries.ToArray()
+                    }
+                }
+            };
+            await ApplyFilter(newFilter.ToQuery());
+        }
     }
 
     internal class GUIBasedExportInfo : IExportInfo
@@ -527,7 +554,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         */
         
-        
         public string Text {
             get => text;
             set => this.RaiseAndSetIfChanged(ref text, value);
@@ -540,14 +566,20 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public string Flavor => Card.Flavor?.AsNonEmptyString();
         public R4UCard Card { get; set; }
 
+        public ReactiveCommand<Unit, Unit> DuplicateCommand { get; }
+        public ReactiveCommand<Unit, Unit> SearchCombosCommand { get; }
+
         public CardEntry()
         {
         }
 
-        public CardEntry(R4UCard card)
+        public CardEntry(MainWindowViewModel model, R4UCard card)
         {
             Card = card;
             Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})";
+
+            DuplicateCommand = ReactiveCommand.Create(() => model.AddDeckCard(this));// ExportWithResult<LocalDeckImageExporter>());
+            SearchCombosCommand = ReactiveCommand.CreateFromTask(async () => await model.SearchCombos(this));
 
             _imageSource = new AsyncLazy<IImage>(async () => await LoadImage());
             /*

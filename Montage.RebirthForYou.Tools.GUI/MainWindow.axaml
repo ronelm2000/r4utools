@@ -74,6 +74,13 @@
                           <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
                         </StackPanel>
                       </ToolTip.Tip>
+                      <Image.ContextMenu>
+                        <ContextMenu Name="CardImageContextMenu" PlacementMode="Bottom">
+                          <MenuItem Header="Duplicate" Command="{Binding DuplicateCommand}"></MenuItem>
+                          <MenuItem Header="Search Combos" Command="{Binding SearchCombosCommand}"></MenuItem>
+                          <MenuItem Header="More Info"></MenuItem>
+                        </ContextMenu>
+                      </Image.ContextMenu>
                     </Image>
                   </StackPanel>
                 </DataTemplate>

@@ -201,11 +201,18 @@ namespace Montage.RebirthForYou.Tools.GUI
 
         public void DeckItem_OnPointerReleased(object sender, PointerReleasedEventArgs e)
         {
-            Log.Information("Trying to remove...");
-            var border = e.Source as Image;
-            var cardEntry = border?.DataContext as CardEntry;
-            Log.Information("Got: {serial}", cardEntry?.Card.Serial);
-            _dataContext().RemoveDeckCard(cardEntry);
+            if (e.InitialPressMouseButton == MouseButton.Left && e.Source is Image border && e.KeyModifiers == KeyModifiers.None)
+            {
+                Log.Information("Trying to remove...");
+                var cardEntry = border?.DataContext as CardEntry;
+                Log.Information("Got: {serial}", cardEntry?.Card.Serial);
+                _dataContext().RemoveDeckCard(cardEntry);
+            }
+            /*else
+            {
+
+            }
+            */
         }
         private async void SearchBarText_OnTextChanged(string newText)
         {

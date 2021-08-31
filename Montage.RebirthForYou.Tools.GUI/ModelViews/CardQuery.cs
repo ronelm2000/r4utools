@@ -38,7 +38,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             List<Predicate<R4UCard>> results = new List<Predicate<R4UCard>>();
             CardQuery _this = this;
             if (Serial != null)
-                results.Add((card) => card.Serial.ToLower().Contains(_this.Serial.ToLower()));
+                results.Add((card) => card.Serial.Contains(_this.Serial));
             if (Name != null)
                 results.Add((card) => (card.Name?.EN?.ToLower() ?? "").Contains(_this.Name.ToLower()) || (card.Name?.JP ?? "").Contains(_this.Name));
             if (Effect != null)
