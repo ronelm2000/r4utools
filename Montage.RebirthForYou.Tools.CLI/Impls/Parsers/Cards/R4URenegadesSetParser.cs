@@ -25,7 +25,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private Regex seriesRebirthMatcher = new Regex(@"(.+) \/ (.+) Rebirth");
         private Regex rubyMatcher = new Regex(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private Regex releaseIDMatcher = new Regex(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
-        private Regex overflowEffectTextMatcher = new Regex(@"^((\()|i\.|ii\.|iii\.|iv\.)");
+        private Regex overflowEffectTextMatcher = new Regex(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:).+");
 
         public bool IsCompatible(IParseInfo parseInfo)
         {
