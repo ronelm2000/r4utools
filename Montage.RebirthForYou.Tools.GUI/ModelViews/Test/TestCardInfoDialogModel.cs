@@ -1,18 +1,33 @@
-﻿using Montage.RebirthForYou.Tools.CLI.Entities;
+﻿using MessageBox.Avalonia.ViewModels;
+using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
+using ReactiveUI;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 
-namespace Montage.RebirthForYou.Tools.GUI.Models.Test
+namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
 {
-    internal class TestCardEntryModel : CardEntryModel
+    public class TestCardInfoDialogModel : ViewModelBase
     {
+        private R4UCard _cardContext;
 
-        public TestCardEntryModel() : base(CreateTestCard())
+        public R4UCard CardContext
         {
+            get => _cardContext;
+            set => this.RaiseAndSetIfChanged(ref _cardContext, value);
         }
+
+
+        public string Serial => CardContext.Serial;
+        public string AAA => "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+
+        public TestCardInfoDialogModel()
+        {
+            CardContext = CreateTestCard();
+        }
+
 
         private static R4UCard CreateTestCard()
         {

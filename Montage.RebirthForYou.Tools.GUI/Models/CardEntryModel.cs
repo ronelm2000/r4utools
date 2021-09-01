@@ -5,6 +5,7 @@ using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
+using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using ReactiveUI;
 using System;
 using System.Linq;
@@ -12,7 +13,7 @@ using System.Reactive;
 using System.Reactive.Linq;
 using System.Threading.Tasks;
 
-namespace Montage.RebirthForYou.Tools.GUI.ModelViews
+namespace Montage.RebirthForYou.Tools.GUI.Models
 {
     public class CardEntryModel : ReactiveObject
     {

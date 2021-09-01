@@ -26,9 +26,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Update="Dialogs\RemoteImportDialog.axaml.cs">
-      <DependentUpon>RemoteImportDialog.axaml</DependentUpon>
-    </Compile>
-  </ItemGroup>
 </Project>

@@ -11,6 +11,7 @@ using DynamicData.Binding;
 using Lamar;
 using MessageBox.Avalonia.DTO;
 using MessageBox.Avalonia.Models;
+using MessageBox.Avalonia.ViewModels;
 using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,6 +25,7 @@ using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.GUI.Dialogs;
+using Montage.RebirthForYou.Tools.GUI.Models;
 using Octokit;
 using ReactiveUI;
 using Serilog;
@@ -42,7 +44,7 @@ using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 {
-    public class MainWindowViewModel : ReactiveObject
+    public class MainWindowViewModel :/* ReactiveObject, */ViewModelBase
     {
         #region Private Fields
         private readonly SaveFileDialog _saveFileDialog;

@@ -22,6 +22,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
+using Montage.RebirthForYou.Tools.GUI.Models;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using Newtonsoft.Json;
 using ReactiveUI;
