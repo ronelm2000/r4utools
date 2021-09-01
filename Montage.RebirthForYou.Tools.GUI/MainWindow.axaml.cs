@@ -171,7 +171,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         public void Item_OnPointerEnter(object sender, PointerEventArgs e)
         {
             var border = e.Source as Border;
-            var item = border?.DataContext as CardEntry;
+            var item = border?.DataContext as CardEntryModel;
             var gradientBrush = new LinearGradientBrush
             {
                 SpreadMethod = GradientSpreadMethod.Pad,
@@ -204,7 +204,7 @@ namespace Montage.RebirthForYou.Tools.GUI
             if (e.InitialPressMouseButton == MouseButton.Left && e.Source is Image border && e.KeyModifiers == KeyModifiers.None)
             {
                 Log.Information("Trying to remove...");
-                var cardEntry = border?.DataContext as CardEntry;
+                var cardEntry = border?.DataContext as CardEntryModel;
                 Log.Information("Got: {serial}", cardEntry?.Card.Serial);
                 _dataContext().RemoveDeckCard(cardEntry);
             }
