@@ -1,7 +1,9 @@
 ﻿using Montage.RebirthForYou.Tools.CLI.Entities;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.Json.Serialization;
+using System.Text.RegularExpressions;
 
 public class R4UReleaseSet
 {
@@ -17,6 +19,9 @@ public class R4UReleaseSet
 	public R4UReleaseSet()
 	{
 	}
+
+	[JsonIgnore]
+	public string[] TitleCodes => new Regex(@"(?<!\d)([A-Z]+)(?!-)").Matches(ReleaseCode).Select(m => m.Groups[0].Value).ToArray();
 
 	internal static string ByReleaseCode(R4UReleaseSet set) => set.ReleaseCode;
 }

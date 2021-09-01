@@ -30,15 +30,17 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         public Predicate<R4UCard> ToQuery()
         {
-            if (Or?.Length > 1)
+            if (Or?.Length > 0)
                 return Or.Select(q => q.ToQuery()).Aggregate(OrAggregate());
-            else if (And?.Length > 1)
+            else if (And?.Length > 0)
                 return And.Select(q => q.ToQuery()).Aggregate(AndAggregate());
 
             List<Predicate<R4UCard>> results = new List<Predicate<R4UCard>>();
             CardQuery _this = this;
             if (Serial != null)
-                results.Add((card) => card.Serial.Contains(_this.Serial));
+                results.Add((card) => 
+                    card.Serial.Contains(_this.Serial)
+                    );
             if (Name != null)
                 results.Add((card) => (card.Name?.EN?.ToLower() ?? "").Contains(_this.Name.ToLower()) || (card.Name?.JP ?? "").Contains(_this.Name));
             if (Effect != null)

@@ -2,7 +2,6 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Shapes;
 using Avalonia.Input;
-using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.OpenGL;
 using Avalonia.Threading;
@@ -24,7 +23,6 @@ using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
-using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
 using Montage.RebirthForYou.Tools.GUI.Dialogs;
 using Octokit;
 using ReactiveUI;
@@ -51,9 +49,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private readonly OpenFileDialog _openFileDialog;
         private readonly ILogger Log;
 
-        private ConcurrentDictionary<string,CardEntry> _database = new ConcurrentDictionary<string,CardEntry>();
-        private ObservableCollection<CardEntry> databaseResults = new ObservableCollection<CardEntry>();
-        private ObservableCollection<CardEntry> deckResults = new ObservableCollection<CardEntry>(new CardEntry[] { });
+        private ConcurrentDictionary<string,CardEntryModel> _database = new ConcurrentDictionary<string,CardEntryModel>();
+        private ObservableCollection<CardEntryModel> databaseResults = new ObservableCollection<CardEntryModel>();
+        private ObservableCollection<CardEntryModel> deckResults = new ObservableCollection<CardEntryModel>(new CardEntryModel[] { });
         private IContainer ioc;
 
         private Predicate<R4UCard> filter = (card) => true;
@@ -72,12 +70,12 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         #endregion
 
         public ObservableCollection<Bitmap> Items { get; set; }
-        public ObservableCollection<CardEntry> DatabaseResults
+        public ObservableCollection<CardEntryModel> DatabaseResults
         {
             get => databaseResults;
             set => this.RaiseAndSetIfChanged(ref databaseResults, value);
         }
-        public ObservableCollection<CardEntry> DeckResults
+        public ObservableCollection<CardEntryModel> DeckResults
         {
             get => deckResults;
             set => this.RaiseAndSetIfChanged(ref deckResults, value);
@@ -107,7 +105,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             set => this.RaiseAndSetIfChanged(ref willSendViaTCP, value);
         }
 
-        public CardEntry SelectedDatabaseCardEntry { get; internal set; }
+        public CardEntryModel SelectedDatabaseCardEntry { get; internal set; }
         public Predicate<R4UCard> Filter { 
             get => filter; 
             set => this.RaiseAndSetIfChanged(ref filter, value); 
@@ -224,7 +222,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
 
         #region View Methods
-        internal void AddDeckCard(CardEntry cardEntry)
+        internal void AddDeckCard(CardEntryModel cardEntry)
         {
             Log.Debug("Attempting to add: {serial}", cardEntry.Card.Serial);
             if (IsDeckConstructionValid(cardEntry))
@@ -236,7 +234,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 Log.Debug("Invalid.");
             }
         }
-        internal void RemoveDeckCard(CardEntry cardEntry)
+        internal void RemoveDeckCard(CardEntryModel cardEntry)
         {
             DeckResults.Remove(cardEntry);
             SortDeck();
@@ -320,7 +318,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         #endregion
 
-        private bool IsDeckConstructionValid(CardEntry cardEntry)
+        private bool IsDeckConstructionValid(CardEntryModel cardEntry)
         {
             if (cardEntry.Card.Type == CardType.Partner)
             {
@@ -401,15 +399,15 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             }
         }
 
-        public ParallelQuery<CardEntry> GetCardDatabase(CardDatabaseContext db)
+        public ParallelQuery<CardEntryModel> GetCardDatabase(CardDatabaseContext db)
         {
-            if (ioc == null) return new CardEntry[] { }.AsParallel();
+            if (ioc == null) return new CardEntryModel[] { }.AsParallel();
             return db.R4UCards
                 .Include(c => c.Set)
                 .AsParallel()
                 .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
                 .WithMergeOptions(ParallelMergeOptions.NotBuffered)
-                .Select(c => new CardEntry(this, c));
+                .Select(c => new CardEntryModel(this, c));
         }
 
         internal async Task<(string Title, string Details)> SaveDeck(string saveFilePath)
@@ -460,7 +458,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             SortDeck();
         }
 
-        private static R4UDeck GenerateDeck(ObservableCollection<CardEntry> deckResults, string deckName, string deckRemarks)
+        private static R4UDeck GenerateDeck(ObservableCollection<CardEntryModel> deckResults, string deckName, string deckRemarks)
         {
             var result = new R4UDeck();
             result.Name = deckName;
@@ -496,25 +494,35 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             return result;
         }
 
-        internal async Task SearchCombos(CardEntry card)
+        internal async Task SearchCombos(CardEntryModel card)
         {
             var nameReferencesRegex = new Regex(@"(?:“|"")([^”""]+)(?:”|"")");
+            var traitReferenceRegex = new Regex(@"(?:<)([^>]+)(?:>)");
             var orQueries = card.Card.Effect
                 .SelectMany(e => nameReferencesRegex.Matches(e.EN))
                 .Select(m => m.Groups[1].Value)
                 .SelectMany(reff => new CardQuery[] { new CardQuery { Name = reff }, new CardQuery { Effect = reff } })
                 .ToList();
 
+           orQueries.AddRange(card.Card.Effect
+                .SelectMany(e => traitReferenceRegex.Matches(e.EN))
+                .Select(m => m.Groups[1].Value)
+                .SelectMany(reff => new CardQuery[] { new CardQuery { Effect = $"<{reff}>" }, new CardQuery { Traits = new string[] { reff } } })
+                );
+
             orQueries.Add(new CardQuery { Effect = card.Card.Name.EN });
             orQueries.Add(new CardQuery { Name = card.Card.Name.EN });
-
+            var seriesQueries = card.Card.Set.TitleCodes
+                    .SelectMany(tc => new CardQuery[]
+                    {
+                        new CardQuery { Serial = $"{tc}/" }
+                    })
+                    .ToList();
             var newFilter = new CardQuery
             {
                 And = new CardQuery[] {
-                    new CardQuery { Serial = card.Card.ReleaseID },
-                    new CardQuery {
-                        Or = orQueries.ToArray()
-                    }
+                    new CardQuery { Or = seriesQueries.ToArray() },
+                    new CardQuery { Or = orQueries.ToArray() }
                 }
             };
             await ApplyFilter(newFilter.ToQuery());
@@ -537,80 +545,4 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             Flags = new[] { "upscaling" }.Concat(flags);                                                                                
         }
     }
-
-    public class CardEntry : ReactiveObject
-    {
-        //private IImage imageSource;
-        private string text;
-
-        private readonly AsyncLazy<IImage> _imageSource;
-        public IImage ImageSource => _imageSource.Value;
-        
-        /*
-        private Task<IImage> _imageSource;
-        public Task<IImage> ImageSource {
-            get => _imageSource;
-            set => this.RaiseAndSetIfChanged(ref _imageSource, value);
-        }
-        */
-        
-        public string Text {
-            get => text;
-            set => this.RaiseAndSetIfChanged(ref text, value);
-        }
-
-        public string Name => Card.Name.AsNonEmptyString();
-        public string ATKDEF => $"{Card.ATK}/{Card.DEF}";
-        public string Traits => $"{Card.Traits.Select(t => t.AsNonEmptyString()).ConcatAsString("\n")}";
-        public string Effects => Card.Effect?.Select(mls => mls.AsNonEmptyString()).ConcatAsString("\n");
-        public string Flavor => Card.Flavor?.AsNonEmptyString();
-        public R4UCard Card { get; set; }
-
-        public ReactiveCommand<Unit, Unit> DuplicateCommand { get; }
-        public ReactiveCommand<Unit, Unit> SearchCombosCommand { get; }
-
-        public CardEntry()
-        {
-        }
-
-        public CardEntry(MainWindowViewModel model, R4UCard card)
-        {
-            Card = card;
-            Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})";
-
-            DuplicateCommand = ReactiveCommand.Create(() => model.AddDeckCard(this));// ExportWithResult<LocalDeckImageExporter>());
-            SearchCombosCommand = ReactiveCommand.CreateFromTask(async () => await model.SearchCombos(this));
-
-            _imageSource = new AsyncLazy<IImage>(async () => await LoadImage());
-            /*
-            _imageSource.OnChanging = () => Dispatcher.UIThread.InvokeAsync(() =>
-            {
-                this.RaisePropertyChanging("ImageSource");
-            }, DispatcherPriority.Send);
-            _imageSource.OnChanged = () => Dispatcher.UIThread.InvokeAsync(() =>
-            {
-                this.RaisePropertyChanged("ImageSource");
-            }, DispatcherPriority.Send);
-            */
-        }
-        private async Task<IImage> LoadImage()
-        {
-            if (!Card.IsCached)
-                await new CacheVerb().AddCachedImageAsync(Card);
-            await using (var imageStream = await Card.GetImageStreamAsync())
-                return Bitmap.DecodeToWidth(imageStream, 100);
-        }
-
-        public async Task<IImage> LoadImageAsync() => await _imageSource;
-
-        internal void SubscribeOnImageLoaded(Action action)
-        {
-            _imageSource.OnChanged = () => Dispatcher.UIThread.InvokeAsync(action);
-        }
-        internal void SubscribeOnImageLoaded(Task action)
-        {
-            _imageSource.OnChanged = () => action;
-        }
-    }
-
 }
