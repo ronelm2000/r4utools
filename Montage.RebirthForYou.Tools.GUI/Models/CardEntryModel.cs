@@ -5,6 +5,7 @@ using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
+using Montage.RebirthForYou.Tools.GUI.Dialogs;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using ReactiveUI;
 using System;
@@ -40,6 +41,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
 
         public ReactiveCommand<Unit, Unit> DuplicateCommand { get; }
         public ReactiveCommand<Unit, Unit> SearchCombosCommand { get; }
+        public ReactiveCommand<Unit, Unit> ShowCardInfoCommand { get; }
 
         public CardEntryModel()
         {
@@ -57,6 +59,15 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
         {
             DuplicateCommand = ReactiveCommand.Create(() => model.AddDeckCard(this));// ExportWithResult<LocalDeckImageExporter>());
             SearchCombosCommand = ReactiveCommand.CreateFromTask(async () => await model.SearchCombos(this));
+            ShowCardInfoCommand = ReactiveCommand.Create(() =>
+            {
+                new CardInfoDialog
+                {
+                    DataContext = new CardInfoDialogModel(card),
+                    Width = 700,
+                    Height = 300
+                }.ShowDialog(model.Parent);
+            });
         }
 
         private async Task<IImage> LoadImage()

@@ -44,7 +44,7 @@ using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 {
-    public class MainWindowViewModel :/* ReactiveObject, */ViewModelBase
+    public class MainWindowViewModel : ReactiveObject
     {
         #region Private Fields
         private readonly SaveFileDialog _saveFileDialog;
@@ -483,10 +483,13 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
         {
             var result = new MessageBoxStandardParams();
+            result.MinWidth = 400;
+            /*
             result.Window = new MsBoxStandardWindow
             {
                 MinWidth = 400
             };
+            */
             result.ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.Ok;
             result.ContentTitle = title;
             result.ContentMessage = details;

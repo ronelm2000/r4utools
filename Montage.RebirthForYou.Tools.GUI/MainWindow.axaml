@@ -78,7 +78,7 @@
                         <ContextMenu Name="CardImageContextMenu" PlacementMode="Bottom">
                           <MenuItem Header="Duplicate" Command="{Binding DuplicateCommand}"></MenuItem>
                           <MenuItem Header="Search Combos" Command="{Binding SearchCombosCommand}"></MenuItem>
-                          <MenuItem Header="More Info"></MenuItem>
+                          <MenuItem Header="More Info" Command="{Binding ShowCardInfoCommand}"></MenuItem>
                         </ContextMenu>
                       </Image.ContextMenu>
                     </Image>

@@ -15,15 +15,37 @@
     <FileVersion>0.3.0.0</FileVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="0.10.0-preview2" />
-    <PackageReference Include="Avalonia.Desktop" Version="0.10.0-preview2" />
-    <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.0-preview2" />
-    <PackageReference Include="MessageBox.Avalonia" Version="0.10.0-prev1" />
+    <AvaloniaXaml Remove="bin\**" />
+    <Compile Remove="bin\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <None Remove="bin\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Avalonia" Version="0.10.7" />
+    <PackageReference Include="Avalonia.Desktop" Version="0.10.7" />
+    <PackageReference Include="Avalonia.Diagnostics" Version="0.10.7" />
+    <PackageReference Include="Avalonia.Native" Version="0.10.7" />
+    <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.7" />
+    <PackageReference Include="Avalonia.Xaml.Interactivity" Version="0.10.7" />
+    <PackageReference Include="MessageBox.Avalonia" Version="1.5.1" />
     <TrimmerRootAssembly Include="System.Net.WebClient" />
     <TrimmerRootAssembly Include="System.Web.HttpUtility" />
     <TrimmerRootAssembly Include="Flurl.Http" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <AvaloniaResource Include="Assets\**"/>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Dialogs\CardInfoDialog.axaml.cs">
+      <DependentUpon>CardInfoDialog.axaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Assets\IMC_001T_001.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

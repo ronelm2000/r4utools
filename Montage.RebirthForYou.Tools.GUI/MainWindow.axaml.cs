@@ -128,7 +128,7 @@ namespace Montage.RebirthForYou.Tools.GUI
 
             Closing += MainWindow_Closing;
 #if DEBUG
-            //this.AttachDevTools();
+            this.AttachDevTools();
 #endif
         }
 

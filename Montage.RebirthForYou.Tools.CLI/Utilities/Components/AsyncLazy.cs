@@ -84,6 +84,17 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities.Components
             }
         }
 
+        /// <summary>
+        /// Returns null if the underlying task for this one is still ongoing, otherwise rturns the instance value synchronously.
+        /// </summary>
+        public T DesignValue
+        {
+            get
+            {
+                return instance.Value.Result;
+            }
+        }
+
         public Func<Task> OnChanging { get; set; } = () => Task.CompletedTask;
         public Func<Task> OnChanged { get; set; } = () => Task.CompletedTask;
     }

@@ -10,7 +10,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Dialogs
         {
             InitializeComponent();
 #if DEBUG
- //           this.AttachDevTools();
+            this.AttachDevTools();
 #endif
         }
 

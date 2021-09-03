@@ -3,6 +3,7 @@ using Montage.RebirthForYou.Tools.CLI.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.Json.Serialization;
 
 namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
@@ -30,6 +31,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             get { return resources.GetOrDefault("jp", null); }
             set { resources["jp"] = value; }
         }
+
+        [JsonIgnore]
+        public string Default => $"{EN ?? JP}{((JP != null && EN != null) ? $" ({JP})" : "")}"; 
 
         public MultiLanguageString Clone()
         {
