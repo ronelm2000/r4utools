@@ -1,0 +1,988 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "TH/001T-001",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-001S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "See? This is the power of those who serve gods!",
+            "JP": "\u898B\u305F\uFF1F\u3053\u308C\u304C\u795E\u306B\u4ED5\u3048\u308B\u3082\u306E\u306E\u529B\u306A\u306E\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reimu Hakurei",
+        "JP": "\u535A\u9E97 \u970A\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "See? This is the power of those who serve gods!",
+        "JP": "\u898B\u305F\uFF1F\u3053\u308C\u304C\u795E\u306B\u4ED5\u3048\u308B\u3082\u306E\u306E\u529B\u306A\u306E\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Put a character from your hand into your waiting room], until end of turn, this character cannot be chosen by your opponent, and during the attack this character supported, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D \u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u305A\u3001\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-002",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-002S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hahaha~ Looks like you still don\u0027t get who I am.",
+            "JP": "\u306F\u3063\u306F\u3063\u306F\uFF5E\u3002\u3053\u306E\u79C1\u304C\u8AB0\u3060\u304B\u77E5\u3089\u306A\u3044\u3068\u898B\u3048\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Marisa Kirisame",
+        "JP": "\u9727\u96E8 \u9B54\u7406\u6C99"
+      },
+      "Traits": [
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Hahaha~ Looks like you still don\u0027t get who I am.",
+        "JP": "\u306F\u3063\u306F\u3063\u306F\uFF5E\u3002\u3053\u306E\u79C1\u304C\u8AB0\u3060\u304B\u77E5\u3089\u306A\u3044\u3068\u898B\u3048\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-003",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-003S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "They say that if there\u0027s a bad smell, clean up its source.",
+            "JP": "\u5ACC\u306A\u81ED\u3044\u306F\u5143\u304B\u3089\u65AD\u3066\u3001\u3063\u3066\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_003s.png"
+          ]
+        },
+        {
+          "Serial": "TH/001T-003SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "They say that if there\u0027s a bad smell, clean up its source.",
+            "JP": "\u5ACC\u306A\u81ED\u3044\u306F\u5143\u304B\u3089\u65AD\u3066\u3001\u3063\u3066\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_003sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sakuya Izayoi",
+        "JP": "\u5341\u516D\u591C \u54B2\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Embodiment of Scarlet Devil",
+          "JP": "\u7D05\u9B54\u90F7"
+        },
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "They say that if there\u0027s a bad smell, clean up its source.",
+        "JP": "\u5ACC\u306A\u81ED\u3044\u306F\u5143\u304B\u3089\u65AD\u3066\u3001\u3063\u3066\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-004",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-004S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Looks like it\u0027s going to be a fun night.",
+            "JP": "\u697D\u3057\u3044\u591C\u306B\u306A\u308A\u305D\u3046\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Remilia Scarlet",
+        "JP": "\u30EC\u30DF\u30EA\u30A2\u30FB\u30B9\u30AB\u30FC\u30EC\u30C3\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Embodiment of Scarlet Devil",
+          "JP": "\u7D05\u9B54\u90F7"
+        },
+        {
+          "EN": "Vampire",
+          "JP": "\u5438\u8840\u9B3C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Looks like it\u0027s going to be a fun night.",
+        "JP": "\u697D\u3057\u3044\u591C\u306B\u306A\u308A\u305D\u3046\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-005",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-005S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "I haven\u0027t gone out even once in the past 495 years.",
+            "JP": "\u79C1\u306F\uFF14\uFF19\uFF15\u5E74\u9593\u4E00\u56DE\u3082\u3001\u304A\u5916\u306B\u51FA\u3066\u306A\u3044\u306E\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Flandre Scarlet",
+        "JP": "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB\u30FB\u30B9\u30AB\u30FC\u30EC\u30C3\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Vampire",
+          "JP": "\u5438\u8840\u9B3C"
+        },
+        {
+          "EN": "Embodiment of Scarlet Devil",
+          "JP": "\u7D05\u9B54\u90F7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "I haven\u0027t gone out even once in the past 495 years.",
+        "JP": "\u79C1\u306F\uFF14\uFF19\uFF15\u5E74\u9593\u4E00\u56DE\u3082\u3001\u304A\u5916\u306B\u51FA\u3066\u306A\u3044\u306E\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-006",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-006S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Danmaku is all about brains. It\u0027s just common sense.",
+            "JP": "\u5F3E\u5E55\u306F\u30D6\u30EC\u30A4\u30F3\u3002\u5E38\u8B58\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_006s.png"
+          ]
+        },
+        {
+          "Serial": "TH/001T-006SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "Danmaku is all about brains. It\u0027s just common sense.",
+            "JP": "\u5F3E\u5E55\u306F\u30D6\u30EC\u30A4\u30F3\u3002\u5E38\u8B58\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_006sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Alice Margatroid",
+        "JP": "\u30A2\u30EA\u30B9\u30FB\u30DE\u30FC\u30AC\u30C8\u30ED\u30A4\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Magician",
+          "JP": "\u9B54\u6CD5\u4F7F\u3044"
+        },
+        {
+          "EN": "Perfect Cherry Blossom",
+          "JP": "\u5996\u3005\u5922"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Danmaku is all about brains. It\u0027s just common sense.",
+        "JP": "\u5F3E\u5E55\u306F\u30D6\u30EC\u30A4\u30F3\u3002\u5E38\u8B58\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-007",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-007S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "You\u0027re still up for this? The game\u0027s already decided, isn\u0027t it?",
+            "JP": "\u307E\u3060\u3084\u308B\u306E\u304B\uFF1F\u3082\u3046\u52DD\u8CA0\u3042\u3063\u305F\u3060\u308D\u3046\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Youmu Konpaku",
+        "JP": "\u9B42\u9B44 \u5996\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Phantom",
+          "JP": "\u5E7D\u970A"
+        },
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        },
+        {
+          "EN": "Perfect Cherry Blossom",
+          "JP": "\u5996\u3005\u5922"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "You\u0027re still up for this? The game\u0027s already decided, isn\u0027t it?",
+        "JP": "\u307E\u3060\u3084\u308B\u306E\u304B\uFF1F\u3082\u3046\u52DD\u8CA0\u3042\u3063\u305F\u3060\u308D\u3046\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-008",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-008S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "It\u0027s been a long time since I\u0027ve had to confront such tough assassins.",
+            "JP": "\u3053\u308C\u306F\u4E45\u3057\u3076\u308A\u306B\u6B6F\u5FDC\u3048\u306E\u3042\u308B\u523A\u5BA2\u306B\u306A\u308A\u305D\u3046\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fujiwara no Mokou",
+        "JP": "\u85E4\u539F \u59B9\u7D05"
+      },
+      "Traits": [
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        },
+        {
+          "EN": "Imperishable Night",
+          "JP": "\u6C38\u591C\u6284"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "It\u0027s been a long time since I\u0027ve had to confront such tough assassins.",
+        "JP": "\u3053\u308C\u306F\u4E45\u3057\u3076\u308A\u306B\u6B6F\u5FDC\u3048\u306E\u3042\u308B\u523A\u5BA2\u306B\u306A\u308A\u305D\u3046\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:When this card is retired this turn, [put a card from your hand into your waiting room], and put this character on your entry area.\n(This Spark can only trigger once per turn)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30EA\u30BF\u30A4\u30A2\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\uFF08\u30B9\u30D1\u30FC\u30AF\u3057\u305F\u30BF\u30FC\u30F3\u306A\u3089\uFF11\u56DE\u3060\u3051\u5FA9\u6D3B\u3067\u304D\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-009",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-009S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "I\u0027m looking for some big news. Very big.",
+            "JP": "\u5927\u304D\u306A\u30CD\u30BF\u3092\u63A2\u3057\u3066\u6025\u3044\u3067\u3044\u308B\u306E\u3067\u3059\u3088\u3002\u5927\u304D\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aya Shameimaru",
+        "JP": "\u5C04\u547D\u4E38 \u6587"
+      },
+      "Traits": [
+        {
+          "EN": "Tengu",
+          "JP": "\u5929\u72D7"
+        },
+        {
+          "EN": "Phantasmagoria of Flower View",
+          "JP": "\u82B1\u6620\u585A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "I\u0027m looking for some big news. Very big.",
+        "JP": "\u5927\u304D\u306A\u30CD\u30BF\u3092\u63A2\u3057\u3066\u6025\u3044\u3067\u3044\u308B\u306E\u3067\u3059\u3088\u3002\u5927\u304D\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6]:[Choose one of your members and a card from your hand, and put them into your waiting room], and return this character to your hand.\n([Skill Showcase Level 6]:Active if there are six or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF16\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-010",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-010S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "I\u0027ve come here to straighten out anyone without the proper reverence for God!",
+            "JP": "\u795E\u306B\u5E30\u4F9D\u3057\u306A\u3044\u8005\u3092\u77EF\u3081\u308B\u70BA\u306B\u3001\u79C1\u304C\u3053\u3053\u306B\u5C45\u308B\u306E\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sanae Kochiya",
+        "JP": "\u6771\u98A8\u8C37 \u65E9\u82D7"
+      },
+      "Traits": [
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        },
+        {
+          "EN": "Mountain of Faith",
+          "JP": "\u98A8\u795E\u9332"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "I\u0027ve come here to straighten out anyone without the proper reverence for God!",
+        "JP": "\u795E\u306B\u5E30\u4F9D\u3057\u306A\u3044\u8005\u3092\u77EF\u3081\u308B\u70BA\u306B\u3001\u79C1\u304C\u3053\u3053\u306B\u5C45\u308B\u306E\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-011",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-011S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "There\u0027s nothing that\u0027s hidden from me.",
+            "JP": "\u79C1\u306B\u306F\u96A0\u3057\u4E8B\u306F\u4E00\u5207\u51FA\u6765\u307E\u305B\u3093\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Satori Komeiji",
+        "JP": "\u53E4\u660E\u5730 \u3055\u3068\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Subterranean Animism",
+          "JP": "\u5730\u970A\u6BBF"
+        },
+        {
+          "EN": "Youkai",
+          "JP": "\u5996\u602A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "There\u0027s nothing that\u0027s hidden from me.",
+        "JP": "\u79C1\u306B\u306F\u96A0\u3057\u4E8B\u306F\u4E00\u5207\u51FA\u6765\u307E\u305B\u3093\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Look at all cards in your opponent\u0027s hand, and draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u3066\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-012",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-012S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "I\u0027ve already closed my satori eye.",
+            "JP": "\u79C1\u306F\u9589\u3056\u3057\u3061\u3083\u3063\u305F\u308F\u3002\u899A\u308A\u306E\u77B3"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Koishi Komeiji",
+        "JP": "\u53E4\u660E\u5730 \u3053\u3044\u3057"
+      },
+      "Traits": [
+        {
+          "EN": "Subterranean Animism",
+          "JP": "\u5730\u970A\u6BBF"
+        },
+        {
+          "EN": "Youkai",
+          "JP": "\u5996\u602A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "I\u0027ve already closed my satori eye.",
+        "JP": "\u79C1\u306F\u9589\u3056\u3057\u3061\u3083\u3063\u305F\u308F\u3002\u899A\u308A\u306E\u77B3"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put all of the cards in your hand into the waiting room], and draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF12\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-013",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-013S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "This endless night will end right here!",
+            "JP": "\u7D42\u3089\u306A\u3044\u591C\u306F\u3001\u3053\u3053\u3067\u304A\u7D42\u3044\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_013s.png"
+          ]
+        },
+        {
+          "Serial": "TH/001T-013SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "This endless night will end right here!",
+            "JP": "\u7D42\u3089\u306A\u3044\u591C\u306F\u3001\u3053\u3053\u3067\u304A\u7D42\u3044\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_013sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yin-Yang Orb, Reimu",
+        "JP": "\u9670\u967D\u7389 \u970A\u5922"
+      },
+      "Traits": [
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        },
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "This endless night will end right here!",
+        "JP": "\u7D42\u3089\u306A\u3044\u591C\u306F\u3001\u3053\u3053\u3067\u304A\u7D42\u3044\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, if you have a \u003CHuman\u003E or \u003CYoukai\u003E member, draw a card.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u3014\u4EBA\u9593\u3015\u304B\u3014\u5996\u602A\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-014",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-014S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "You don\u0027t need more help my friend, do you?",
+            "JP": "\u624B\u52A9\u3051\u306F\u3001\u7121\u7528\u3060\u305C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_014s.png"
+          ]
+        },
+        {
+          "Serial": "TH/001T-014SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "You don\u0027t need more help my friend, do you?",
+            "JP": "\u624B\u52A9\u3051\u306F\u3001\u7121\u7528\u3060\u305C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_014sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Treasured Mini-Hakkero, Marisa",
+        "JP": "\u5B9D\u7269\u306E\u30DF\u30CB\u516B\u5366\u7089 \u9B54\u7406\u6C99"
+      },
+      "Traits": [
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        },
+        {
+          "EN": "Human",
+          "JP": "\u4EBA\u9593"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "You don\u0027t need more help my friend, do you?",
+        "JP": "\u624B\u52A9\u3051\u306F\u3001\u7121\u7528\u3060\u305C"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character attacks, [[Rest] all of your energy if you have one or more], and this character gets \u002B5/\u00B10 until end of that attack.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u4EE5\u4E0A\u3001\u3059\u3079\u3066\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-015",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-015S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Let\u0027s start the party!!",
+            "JP": "\u3055\u3041\u5BB4\u306E\u59CB\u307E\u308A\u3088\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hakurei Shrine",
+        "JP": "\u535A\u9E97\u795E\u793E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "EN": "Let\u0027s start the party!!",
+        "JP": "\u3055\u3041\u5BB4\u306E\u59CB\u307E\u308A\u3088\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-016",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-016S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Buy a lot of stuff!!",
+            "JP": "\u3044\u3063\u3071\u3044\u8CB7\u3063\u3066\u3044\u3063\u3066\u306A\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kirisame Magic Shop",
+        "JP": "\u9727\u96E8\u9B54\u6CD5\u5E97"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "EN": "Buy a lot of stuff!!",
+        "JP": "\u3044\u3063\u3071\u3044\u8CB7\u3063\u3066\u3044\u3063\u3066\u306A\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-P01",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-P01S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p01s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reimu Hakurei",
+        "JP": "\u535A\u9E97 \u970A\u5922"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-P02",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-P02S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p02s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Marisa Kirisame",
+        "JP": "\u9727\u96E8 \u9B54\u7406\u6C99"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    },
+    {
+      "Serial": "TH/001T-P03",
+      "Alternates": [
+        {
+          "Serial": "TH/001T-P03S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p03s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Youmu Konpaku",
+        "JP": "\u9B42\u9B44 \u5996\u5922"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/THT/th001t_p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TH/001T",
+        "Name": "Trial Start Deck Touhou Project"
+      }
+    }
+  ]
+}

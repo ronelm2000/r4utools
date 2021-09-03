@@ -135,6 +135,10 @@
     "Parse GP/SD (Fandom)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22BanG_Dream!_Girls_Band_Party!%E2%98%86PICO%22"
+    },
+    "Parse TH/001B (Fandom)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project"
     }
   }
 }

@@ -280,6 +280,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 22,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Touhou_Project",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 01, 02, 1, 0, 13, 0, DateTimeKind.Unspecified)
                     },
                     new ActivityLog
@@ -316,6 +317,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 27,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 01, 02, 1, 0, 18)
                     },
                     new ActivityLog
@@ -524,6 +526,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_SD.r4uset",
                         DateAdded = new DateTime(2021, 09, 03, 16, 35, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 57,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TH_001B.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 20, 00, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 58,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TH_001T.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 20, 00, 0)
                     }
                 );
             });
