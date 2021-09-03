@@ -64,6 +64,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
                 new CardInfoDialog
                 {
                     DataContext = new CardInfoDialogModel(card),
+                    Width = 700,
                     SizeToContent = Avalonia.Controls.SizeToContent.Height
                 }.ShowDialog(model.Parent);
             });

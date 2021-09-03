@@ -142,7 +142,9 @@ namespace Montage.RebirthForYou.Tools.GUI
                     ContentTitle = "Save", 
                     ContentMessage = "You still have unsaved changes. Are you sure you want to exit?", 
                     ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.YesNo,
-                    WindowStartupLocation = WindowStartupLocation.CenterOwner
+                    WindowStartupLocation = WindowStartupLocation.CenterOwner,
+                    Width = 300,
+                    SizeToContent = SizeToContent.Height
                 };
                 var window = MessageBox.Avalonia.MessageBoxManager
                     .GetMessageBoxStandardWindow(msgBoxParams)
