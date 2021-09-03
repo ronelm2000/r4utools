@@ -501,7 +501,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
         internal async Task SearchCombos(CardEntryModel card)
         {
-            var nameReferencesRegex = new Regex(@"(?:“|"")([^”""]+)(?:”|"")");
+            var nameReferencesRegex = new Regex(@"(?:“|”|"")([^”""]+)(?:“|”|"")");
             var traitReferenceRegex = new Regex(@"(?:<)([^>]+)(?:>)");
             var orQueries = card.Card.Effect
                 .SelectMany(e => nameReferencesRegex.Matches(e.EN))

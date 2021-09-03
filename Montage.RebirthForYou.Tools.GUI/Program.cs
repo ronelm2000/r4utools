@@ -20,6 +20,6 @@ namespace Montage.RebirthForYou.Tools.GUI
             => AppBuilder.Configure<App>()
                 .UseReactiveUI()
                 .UsePlatformDetect()
-                .LogToDebug();
+                .LogToTrace();
     }
 }
