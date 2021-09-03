@@ -25,7 +25,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -41,7 +41,7 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u201CStage Made by Everyone\u201C][Skill Showcase Level 5 \u003CPoppin\u2019Party\u003E][1/Turn]:When this character attacks, [choose one of your members, and put it on the bottom of your deck], choose one of your opponent\u2019s members, and put it into the waiting room. This character gets \u002B1/\u00B10 until end of turn for each player\u2019s open member areas.",
+          "EN": "[AUTO](Entry)[ReCombo \u201CStage Made by Everyone\u201C][Skill Showcase Level 5 \u003CPoppin'Party\u003E][1/Turn]:When this character attacks, [choose one of your members, and put it on the bottom of your deck], choose one of your opponent\u2019s members, and put it into the waiting room. This character gets \u002B1/\u00B10 until end of turn for each player\u2019s open member areas.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u307F\u3093\u306A\u3067\u4F5C\u308B\u30B9\u30C6\u30FC\u30B8\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Poppin\u0027Party\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\uFF11\u3064\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
         }
       ],
@@ -70,7 +70,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -86,7 +86,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[ACT](Entry)[Skill Showcase Level 3 \u003CPoppin\u2019Party\u003E]:[Rest (2) Energy, and put this character on the bottom of your deck], and draw a card.",
+          "EN": "[ACT](Entry)[Skill Showcase Level 3 \u003CPoppin'Party\u003E]:[Rest (2) Energy, and put this character on the bottom of your deck], and draw a card.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Poppin\u0027Party\u3015\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
         }
       ],
@@ -118,7 +118,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -170,7 +170,7 @@
           "JP": "\u97F3\u697D"
         },
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         }
       ],
@@ -214,7 +214,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -269,7 +269,7 @@
           "JP": "\u97F3\u697D"
         },
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         }
       ],
@@ -317,7 +317,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -365,7 +365,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -416,7 +416,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -435,7 +435,7 @@
       },
       "Effect": [
         {
-          "EN": "[ACT](Entry)[Skill Showcase Level 4 \u003CPoppin\u2019Party\u003E]:[Rest (1) Energy, and put this character on the bottom of your deck], draw a card, and put a card from your hand into your waiting room.",
+          "EN": "[ACT](Entry)[Skill Showcase Level 4 \u003CPoppin'Party\u003E]:[Rest (1) Energy, and put this character on the bottom of your deck], draw a card, and put a card from your hand into your waiting room.",
           "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Poppin\u0027Party\u3015\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         }
       ],
@@ -468,7 +468,7 @@
           "JP": "\u97F3\u697D"
         },
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         }
       ],
@@ -480,7 +480,7 @@
       "DEF": 5,
       "Effect": [
         {
-          "EN": "[Blocker \u003CPoppin\u2019Party\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CPoppin\u2019Party\u003E character becomes zero)",
+          "EN": "[Blocker \u003CPoppin'Party\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CPoppin'Party\u003E character becomes zero)",
           "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Poppin\u0027Party\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Poppin\u0027Party\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
         }
       ],
@@ -516,7 +516,7 @@
           "JP": "\u97F3\u697D"
         },
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         }
       ],
@@ -560,7 +560,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -608,7 +608,7 @@
       },
       "Traits": [
         {
-          "EN": "Poppin\u2019Party",
+          "EN": "Poppin'Party",
           "JP": "Poppin\u0027Party"
         },
         {
@@ -4317,7 +4317,7 @@
       "DEF": 8,
       "Effect": [
         {
-          "EN": "[AUTO](Entry)[ReCombo \u201CStrongest Band that Plays the Strongest Music\u201C][Skill Showcase Level 5][1/Turn]:When this character attacks, if you have a \u003CRAISE A SUILEN\u003E or \u003CPoppin\u2019Party\u003E member, draw a card, and this character gets \u002B2/\u00B10 until end of turn.",
+          "EN": "[AUTO](Entry)[ReCombo \u201CStrongest Band that Plays the Strongest Music\u201C][Skill Showcase Level 5][1/Turn]:When this character attacks, if you have a \u003CRAISE A SUILEN\u003E or \u003CPoppin'Party\u003E member, draw a card, and this character gets \u002B2/\u00B10 until end of turn.",
           "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6700\u5F37\u306E\u97F3\u697D\u3092\u594F\u3067\u308B\u6700\u5F37\u306E\u30D0\u30F3\u30C9\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u3014RAISE A SUILEN\u3015\u304B\u3014Poppin\u0027Party\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
         }
       ],

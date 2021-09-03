@@ -28,6 +28,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
                         .Replace("\t", "\\t")
                         .Replace("\r", "\\r");                
         }
+        public static string ReplaceAll(this string str, params (string searchString, string replaceString)[] allReplacements)
+        {
+            return allReplacements.Aggregate(str, (str, p) => str.Replace(p.searchString, p.replaceString));
+        }
 
         public static bool StartsWithAny(this string str, IEnumerable<string> values)
         {

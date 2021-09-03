@@ -127,6 +127,14 @@
     "Parse HP/001B (GH)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset"
+    },
+    "Parse GP/001B (Fandom)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO"
+    },
+    "Parse GP/SD (Fandom)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22BanG_Dream!_Girls_Band_Party!%E2%98%86PICO%22"
     }
   }
 }

@@ -53,6 +53,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                         .Where(i => i.Children.ElementAt(2)?.TextContent == "レアリティ")
                         .Select(i => i.Children.ElementAt(3).TextContent.Trim())
                         .First();
+                    newCard.Flavor.JP = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent;
+
                     yield return newCard;
                 }
             }

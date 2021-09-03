@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GP/SD-0001",
+      "Name": {
+        "EN": "Wild Ideas, Kasumi",
+        "JP": "\u7A81\u98DB\u306A\u767A\u60F3 \u9999\u6F84"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "I wanna sing while flying like a pigeon!",
+        "JP": "\u3058\u3083\u3042\u79C1\u304C\u30CF\u30C8\u307F\u305F\u3044\u306B\u3001\u98DB\u3073\u306A\u304C\u3089\u6B4C\u3044\u305F\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, you may return this character to the bottom of your deck. If you do, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u5C71\u672D\u306E\u4E0B\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u305D\u3046\u3057\u305F\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0002",
+      "Name": {
+        "EN": "Love Rabbits, Tae",
+        "JP": "\u3046\u3055\u304E\u5927\u597D\u304D \u305F\u3048"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "I want to have rabbits on the stage.",
+        "JP": "\u3046\u3055\u304E\u3068\u30B9\u30C6\u30FC\u30B8\u306B\u7ACB\u3061\u305F\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0003",
+      "Name": {
+        "EN": "Safe (?) Suggestion, Rimi",
+        "JP": "\u7121\u96E3(?)\u306A\u63D0\u6848 \u308A\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Why don\u0027t we do something we can enjoy with the audience?",
+        "JP": "\u304A\u5BA2\u3055\u3093\u3068\u4E00\u7DD2\u306B\u76DB\u308A\u4E0A\u304C\u308C\u308B\u3053\u3068\u306E\u307B\u3046\u304C\u3044\u3044\u3093\u3058\u3083\u306A\u3044\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF08\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u624B\u672D\u304B\u3089\u3059\u3066\u308B\u3068\u3001\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0004",
+      "Name": {
+        "EN": "Strategy Meeting, Saya",
+        "JP": "\u4F5C\u6226\u4F1A\u8B70 \u6C99\u7DBE"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "We need to spice up our concerts, too.",
+        "JP": "\u79C1\u9054\u3082\u30B9\u30C6\u30FC\u30B8\u3092\u76DB\u308A\u4E0A\u3052\u308B\u5DE5\u592B\u304C\u5FC5\u8981\u306A\u3093\u3058\u3083\u306A\u3044\u304B\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, you may Rest (2) Energy. If you do, the supported character gets \u002B2/\u00B10 until end of that attack.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F[\u30A8\u30CD\u2461]\u3057\u3066\u3088\u3044\u3002\u305D\u3046\u3057\u305F\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0005",
+      "Name": {
+        "EN": "Think Tank, Arisa",
+        "JP": "\u304F\u3089\u30C8\u30FC\u30FC\u30FC\u30FC\u30AF \u6709\u54B2"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Haaaa-",
+        "JP": "\u306F\u30FC\u3063"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0006",
+      "Name": {
+        "EN": "Revolution, Sayo",
+        "JP": "\u9769\u547D-revolution- \u7D17\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0007",
+      "Name": {
+        "EN": "Revolution, Lisa",
+        "JP": "\u9769\u547D-revolution- \u30EA\u30B5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0008",
+      "Name": {
+        "EN": "Revolution, Ako",
+        "JP": "\u9769\u547D-revolution- \u3042\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0009",
+      "Name": {
+        "EN": "Revolution, Rinko",
+        "JP": "\u9769\u547D-revolution- \u71D0\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0010",
+      "Name": {
+        "EN": "Picotto! Papitto!! Ran",
+        "JP": "\u30D4\u30B3\u3063\u3068\uFF01\u30D1\u30D4\u3063\u3068\uFF01\uFF01 \u862D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is placed on your entry area from hand, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u767B\u5834\u3057\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0011",
+      "Name": {
+        "EN": "Picotto! Papitto!! Aya",
+        "JP": "\u30D4\u30B3\u3063\u3068\uFF01\u30D1\u30D4\u3063\u3068\uFF01\uFF01 \u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0012",
+      "Name": {
+        "EN": "Picotto! Papitto!! Kokoro",
+        "JP": "\u30D4\u30B3\u3063\u3068\uFF01\u30D1\u30D4\u3063\u3068\uFF01\uFF01 \u3053\u3053\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0013",
+      "Name": {
+        "EN": "Picotto! Papitto!! Yukina",
+        "JP": "\u30D4\u30B3\u3063\u3068\uFF01\u30D1\u30D4\u3063\u3068\uFF01\uFF01 \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, this character gets \u002B3/\u00B10 until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0014",
+      "Name": {
+        "EN": "Peak Climax!? Kasumi",
+        "JP": "\u76DB\u308A\u4E0A\u304C\u308A\u306F\u6700\u9AD8\u6F6E\uFF01\uFF1F \u9999\u6F84"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Yeah!",
+        "JP": "\u30A4\u30A8\u30FC\u30A4\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:If all your members are [Rest], this character gets \u002B2/\u00B10.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3059\u3079\u3066\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0015",
+      "Name": {
+        "EN": "Peak Climax!? Poppin\u0027Party",
+        "JP": "\u76DB\u308A\u4E0A\u304C\u308A\u306F\u6700\u9AD8\u6F6E\uFF01\uFF1F Poppin\u0027Party"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Flavor": {
+        "JP": "\uFF08\u7121\u3057\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-0016",
+      "Name": {
+        "EN": "Let\u0027s try it in our next concert!",
+        "JP": "\u6B21\u306E\u30E9\u30A4\u30D6\u3067\u3084\u3063\u3066\u307F\u3088\u3063\u304B\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Flavor": {
+        "EN": "Arisa: \u0022I can\u0027t take this!\u0022",
+        "JP": "\u6709\u54B2\u300C\u3053\u3093\u306A\u306E\u3084\u3060\uFF5E\uFF5E\uFF5E\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_0016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-P001",
+      "Name": {
+        "EN": "Kasumi Toyama",
+        "JP": "\u6238\u5C71 \u9999\u6F84"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_P001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-P002",
+      "Name": {
+        "EN": "Tae Hanazono \u0026 Rimi Ushigome",
+        "JP": "\u82B1\u5712\u305F\u3048\uFF06\u725B\u8FBC\u308A\u307F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_P002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    },
+    {
+      "Serial": "GP/SD-P003",
+      "Name": {
+        "EN": "Saya Yamabuki \u0026 Arisa Ichigaya",
+        "JP": "\u5C71\u5439\u6C99\u7DBE\uFF06\u5E02\u30F6\u8C37\u6709\u54B2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPSD/gp_sd_P003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/SD",
+        "Name": "Teaching Deck \u0022BanG Dream! Girls Band Party!\u2606PICO\u0022"
+      }
+    }
+  ]
+}

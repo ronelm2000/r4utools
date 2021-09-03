@@ -30,7 +30,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private Regex effectMatcher = new Regex(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
         private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+[\w\+]{0,4}(?:\[[\w\\\/]+\])?)(?: )?\((\w*\+?)\)");
         private Regex releaseIDMatcher = new Regex(@"(?:- )?((\w+\/\w+))");
-        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "P", "PR", "BP" };
+        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "Re", "P", "PR", "BP", "D", "CP" };
         private Func<CardDatabaseContext> _database;
 
         public ILogger Log { get; }
@@ -243,11 +243,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private async Task<List<MultiLanguageString>> ParseTraits(IHtmlTableCellElement traitCell, WikiSetContext setContext)
         {
             return await traitCell.ChildNodes
-                .Where(x => x is IHtmlAnchorElement)
-                .Cast<IHtmlAnchorElement>()
+                .Where(x => x is IHtmlAnchorElement || (x is IHtmlSpanElement s && s.ClassName == "new"))
                 .ToAsyncEnumerable()
-                .SelectAwait(async a => await ParseTrait(a, setContext))
+                .SelectAwait(async e => (e is IHtmlAnchorElement a) ? await ParseTrait(a, setContext) : ParseTrait(e as IHtmlSpanElement, setContext))
                 .ToListAsync();
+        }
+
+        private MultiLanguageString ParseTrait(IHtmlSpanElement htmlSpanElement, WikiSetContext context)
+        {
+            var keyTrait = htmlSpanElement.GetInnerText();
+            if (context.TraitData.TryGetValue(keyTrait, out var mapResult)) return mapResult;
+            var res = new MultiLanguageString();
+            res.EN = keyTrait;
+            context.TraitData.Add(keyTrait, res);
+            return res;
         }
 
         private async Task<MultiLanguageString> ParseTrait(IHtmlAnchorElement anchor, WikiSetContext context)

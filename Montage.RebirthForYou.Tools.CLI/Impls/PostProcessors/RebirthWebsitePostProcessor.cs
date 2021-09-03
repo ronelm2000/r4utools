@@ -65,7 +65,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 Log.Information("Name JP: {jp}", nameJPText);
                 Log.Information("Flavor JP: {jp}", flavorJPText);
                 Log.Information("Rules Text JP: {jp}", rulesTextJPText.Substring(0, Math.Min(rulesTextJPText.Length, 50)));
-                if (!String.IsNullOrWhiteSpace(flavorJPText))
+                if (!String.IsNullOrWhiteSpace(flavorJPText) && flavorJPText != "（無し）")
                 {
                     updatedCard.Name ??= new MultiLanguageString();
                     updatedCard.Name.JP = nameJPText;

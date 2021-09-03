@@ -1,0 +1,875 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GP/001T-001",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-001S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "(TD/SR): Let\u0027s hold the greatest concert ever!",
+            "JP": "\u6700\u9AD8\u306E\u30E9\u30A4\u30D6\u306B\u3057\u3088\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_001s.png"
+          ]
+        },
+        {
+          "Serial": "GP/001T-001SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "(TD/SR): Let\u0027s hold the greatest concert ever!",
+            "JP": "\u6700\u9AD8\u306E\u30E9\u30A4\u30D6\u306B\u3057\u3088\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_001sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Full of Energy, Kasumi",
+        "JP": "\u5143\u6C17\u3044\u3063\u3071\u3044 \u9999\u6F84"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "(TD/SR): Let\u0027s hold the greatest concert ever!",
+        "JP": "\u6700\u9AD8\u306E\u30E9\u30A4\u30D6\u306B\u3057\u3088\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-002",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-002S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Just leave it to us!",
+            "JP": "\u5927\u8239\u306B\u4E57\u3063\u305F\u3064\u3082\u308A\u3067\u3044\u3066\u304F\u3060\u3055\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Helping at the Cafe, Tae",
+        "JP": "\u30AB\u30D5\u30A7\u306E\u304A\u624B\u4F1D\u3044 \u305F\u3048"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Just leave it to us!",
+        "JP": "\u5927\u8239\u306B\u4E57\u3063\u305F\u3064\u3082\u308A\u3067\u3044\u3066\u304F\u3060\u3055\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002 \uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-003",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-003S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "It\u0027s no problem",
+            "JP": "\u3089\u3044\u3058\u3087\u3046\u3076\u3089\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Separate Tummy for Chocolate Cornets, Rimi",
+        "JP": "\u30C1\u30E7\u30B3\u30B3\u30ED\u30CD\u306F\u5225\u8179 \u308A\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        },
+        {
+          "EN": "Chocolate Cornet",
+          "JP": "\u30C1\u30E7\u30B3\u30B3\u30ED\u30CD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "It\u0027s no problem",
+        "JP": "\u3089\u3044\u3058\u3087\u3046\u3076\u3089\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-004",
+      "Name": {
+        "EN": "A Short Break, Saya",
+        "JP": "\u3061\u3087\u3063\u3068\u4F11\u61A9 \u6C99\u7DBE"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Arisa: \u0022Why are you eating snacks now?!\u0022",
+        "JP": "\u6709\u54B2\u300C\u306A\u306B\u3086\u3063\u304F\u308A\u304A\u3084\u3064\u98DF\u3079\u3066\u3093\u3060\u3088\u30FC\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-005",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-005S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Awawawawawa......",
+            "JP": "\u3042\u308F\u308F\u308F\u308F\u308F\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gets Swung Around, Arisa",
+        "JP": "\u632F\u308A\u56DE\u3055\u308C\u304C\u3061 \u6709\u54B2"
+      },
+      "Traits": [
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Awawawawawa......",
+        "JP": "\u3042\u308F\u308F\u308F\u308F\u308F\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Delusional Stage\u0022][1/Turn]:When this character retires an opponent\u0027s character, if you have three or more members, draw two cards.\n([ReCombo \u0022Delusional Stage\u0022]:Active if you have \u0022Delusional Stage\u0022 set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5984\u60F3\u30B9\u30C6\u30FC\u30B8\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002 \uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5984\u60F3\u30B9\u30C6\u30FC\u30B8\u300B\uFF1A\u3042\u306A\u305F\u306E\u300A\u5984\u60F3\u30B9\u30C6\u30FC\u30B8\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-006",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-006S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_006s.png"
+          ]
+        },
+        {
+          "Serial": "GP/001T-006SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_006sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No Compromise, Yukina",
+        "JP": "\u59A5\u5354\u3092\u8A31\u3055\u306A\u3044 \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:If you have three or more members and three or more energy, this character gets \u002B2/\u00B10.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u3066\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002 \uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-007",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-007S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "CiRCLE is going to close down at the end of this year!",
+            "JP": "\u3055\u30FC\u304F\u308B\u306F\u4ECA\u5E74\u3044\u3063\u3071\u3044\u3067\u55B6\u696D\u3092\u7D42\u4E86\u3057\u307E\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Stating the Facts, Sayo",
+        "JP": "\u4E8B\u5B9F\u3092\u544A\u3052\u308B \u7D17\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "CiRCLE is going to close down at the end of this year!",
+        "JP": "\u3055\u30FC\u304F\u308B\u306F\u4ECA\u5E74\u3044\u3063\u3071\u3044\u3067\u55B6\u696D\u3092\u7D42\u4E86\u3057\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002 \uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-008",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-008S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Let\u0027s say our favorite phrases, then think from there?",
+            "JP": "\u3082\u3046\u4F55\u304B\u597D\u304D\u306A\u30D5\u30EC\u30FC\u30BA\u3092\u51FA\u3057\u3042\u3063\u3066\u307F\u3066\u3001\u305D\u3053\u304B\u3089\u8003\u3048\u306A\u3044\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "CiRCLE Joint Concert Conference, Lisa",
+        "JP": "\u3055\u30FC\u304F\u308B\u5408\u540C\u30E9\u30A4\u30D6\u5BFE\u7B56\u4F1A\u8B70 \u30EA\u30B5"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Let\u0027s say our favorite phrases, then think from there?",
+        "JP": "\u3082\u3046\u4F55\u304B\u597D\u304D\u306A\u30D5\u30EC\u30FC\u30BA\u3092\u51FA\u3057\u3042\u3063\u3066\u307F\u3066\u3001\u305D\u3053\u304B\u3089\u8003\u3048\u306A\u3044\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002 \uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-009",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-009S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Tomoe: \u0022Oh! That\u0027s the spirit! Ako!\u0022",
+            "JP": "\u5DF4\u300C\u304A\uFF01\u3084\u308B\u6C17\u3060\u306A\u3042\uFF01\u3042\u3053\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Full of Spirit, Ako",
+        "JP": "\u3084\u308B\u6C17\u6E80\u3005 \u3042\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Tomoe: \u0022Oh! That\u0027s the spirit! Ako!\u0022",
+        "JP": "\u5DF4\u300C\u304A\uFF01\u3084\u308B\u6C17\u3060\u306A\u3042\uFF01\u3042\u3053\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011 \uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-010",
+      "Name": {
+        "EN": "Alibi Confirmed, Rinko",
+        "JP": "\u30A2\u30EA\u30D0\u30A4\u78BA\u8A8D \u71D0\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "I was with Ako",
+        "JP": "\u79C1\u306F\u3042\u3053\u3061\u3083\u3093\u3068\u3044\u305F\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-011",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-011S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_011s.png"
+          ]
+        },
+        {
+          "Serial": "GP/001T-011SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_011sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hate Losing, Ran",
+        "JP": "\u8CA0\u3051\u305A\u5ACC\u3044 \u862D"
+      },
+      "Traits": [
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011 \uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-012",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-012S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_012s.png"
+          ]
+        },
+        {
+          "Serial": "GP/001T-012SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_012sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Idol Adoring Idols, Aya",
+        "JP": "\u30A2\u30A4\u30C9\u30EB\u306B\u61A7\u308C\u308B\u30A2\u30A4\u30C9\u30EB \u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-013",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-013S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "(TD/SR): Why don\u0027t we help out with the cafe!",
+            "JP": "\u3042\u305F\u3057\u9054\u3067\u30AB\u30D5\u30A7\u3092\u624B\u4F1D\u3046\u3063\u3066\u3069\u3046\u304B\u3057\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_013s.png"
+          ]
+        },
+        {
+          "Serial": "GP/001T-013SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "(TD/SR): Why don\u0027t we help out with the cafe!",
+            "JP": "\u3042\u305F\u3057\u9054\u3067\u30AB\u30D5\u30A7\u3092\u624B\u4F1D\u3046\u3063\u3066\u3069\u3046\u304B\u3057\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_013sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Curious Young Lady, Kokoro",
+        "JP": "\u597D\u5947\u5FC3\u65FA\u76DB\u306A\u304A\u5B22\u69D8 \u3053\u3053\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "(TD/SR): Why don\u0027t we help out with the cafe!",
+        "JP": "\u3042\u305F\u3057\u9054\u3067\u30AB\u30D5\u30A7\u3092\u624B\u4F1D\u3046\u3063\u3066\u3069\u3046\u304B\u3057\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 5][1/Turn]:[Rest (2) Energy], choose a character each from your member area and hand, and exchange their positions.\n([Skill Showcase Level 5]:Active if there are five or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D \u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u308B\u3002 \uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-014",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-014S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Twinkling Joyful Shopping District Frenzy Bushido Party",
+        "JP": "\u30AD\u30E9\u30AD\u30E9\u6109\u5FEB\u306A\u5546\u5E97\u8857\u72C2\u4E71\u306E\u30D6\u30B7\u30C9\u30FC\u30D1\u30FC\u30C6\u30A3"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-015",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-015S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "They\u0027ll get thirsty!",
+            "JP": "\u304A\u5BA2\u3055\u3093\u53E3\u30D1\u30C3\u30B5\u30D1\u30B5\u306B\u306A\u3063\u3061\u3083\u3046\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Delusional Stage",
+        "JP": "\u5984\u60F3\u30B9\u30C6\u30FC\u30B8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "EN": "They\u0027ll get thirsty!",
+        "JP": "\u304A\u5BA2\u3055\u3093\u53E3\u30D1\u30C3\u30B5\u30D1\u30B5\u306B\u306A\u3063\u3061\u3083\u3046\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-P01",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-P01S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p01s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kasumi Toyama",
+        "JP": "\u6238\u5C71 \u9999\u6F84"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-P02",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-P02S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p02s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Arisa Ichigaya \u0026 Rimi Ushigome",
+        "JP": "\u5E02\u30F6\u8C37 \u6709\u54B2\uFF06\u725B\u8FBC \u308A\u307F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    },
+    {
+      "Serial": "GP/001T-P03",
+      "Alternates": [
+        {
+          "Serial": "GP/001T-P03S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p03s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tae Hanazono \u0026 Saya Yamabuki",
+        "JP": "\u82B1\u5712 \u305F\u3048\u0026\u5C71\u5439 \u6C99\u7DBE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPT/gp001t_p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001T",
+        "Name": "Trial Start Deck BanG Dream! Girls Band Party!\u2606PICO"
+      }
+    }
+  ]
+}

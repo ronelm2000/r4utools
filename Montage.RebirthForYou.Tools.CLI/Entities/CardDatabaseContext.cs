@@ -235,6 +235,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 16,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Teaching_Deck_%22BanG_Dream!_Girls_Band_Party!%E2%98%86PICO%22",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 01, 02, 0, 0, 8, 0, DateTimeKind.Unspecified)
                     },
                     new ActivityLog
@@ -264,6 +265,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 20,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 01, 02, 0, 0, 12, 0, DateTimeKind.Unspecified)
                     },
                     new ActivityLog
@@ -299,6 +301,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 25,
                         Activity = ActivityType.Parse,
                         Target = "https://rebirth-for-you.fandom.com/wiki/Booster_Pack_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 01, 02, 1, 0, 16, 0, DateTimeKind.Unspecified)
                     },
                     new ActivityLog
@@ -492,6 +495,34 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HG_001B.r4uset",
                         DateAdded = new DateTime(2021, 09, 03, 13, 35, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 53,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_001B.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 16, 35, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 54,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_001T.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 16, 35, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 55,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_002B.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 16, 35, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 56,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_SD.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 16, 35, 0)
                     }
                 );
             });
