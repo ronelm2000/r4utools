@@ -37,7 +37,7 @@
       },
       "Effect": [
         {
-          "EN": "[Spark][Skill Showcase Level 5]:[Choose one of your \u003CClub Activities\u003E members, and put it into your waiting room], choose one of your opponent\u2019s members, put it onto your energy area as [Rest]. If you put a card with \u201CRena\u201C, \u201CMion\u201D or \u201CRika\u201D in its card name into your waiting room with this effect, this character gets \u00B10/\u002B3 until end of turn.",
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose one of your \u003CClub Activities\u003E members, and put it into your waiting room], choose one of your opponent\u2019s members, put it onto their energy area as [Rest]. If you put a card with \u201CRena\u201C, \u201CMion\u201D or \u201CRika\u201D in its card name into your waiting room with this effect, this character gets \u00B10/\u002B3 until end of turn.",
           "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u90E8\u6D3B\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3053\u306E\u52B9\u679C\u3067\u3001\u300A\u30EC\u30CA\u300B\u304B\u300A\u9B45\u97F3\u300B\u304B\u300A\u68A8\u82B1\u300B\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF13\u3002"
         }
       ],
@@ -326,12 +326,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -377,12 +377,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -578,12 +578,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -629,12 +629,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -677,12 +677,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -776,12 +776,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -872,12 +872,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -968,12 +968,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -1071,12 +1071,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -1122,12 +1122,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -1236,7 +1236,7 @@
       "Effect": [
         {
           "EN": "[Blocker \u003CClub Activities\u003E]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u90E8\u6D3B\u3015"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u90E8\u6D3B\u3015\n"
         },
         {
           "EN": "[AUTO]:When this character blocks a card with \u201CMion\u201D in its card name, choose up to one of your characters with \u201CKeiichi\u201D in its card name from your member area or waiting room, and make it become your entry\u2019s [Soul].",
@@ -1466,12 +1466,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -1514,12 +1514,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -1667,12 +1667,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -1718,12 +1718,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -2066,12 +2066,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2121,12 +2121,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2172,12 +2172,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2223,12 +2223,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2240,7 +2240,12 @@
       "Flavor": {
         "JP": "\u3064\u307E\u308A\u3001\u572D\u4E00\u306E\u52DD\u3061\u306A\u306E\u3067\u3059\u3088"
       },
-      "Effect": [],
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [Rest (2) Energy], draw a card, and the supported character gets \u002B1/\u00B10 until end of the attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HGBP/hg001b-045.png"
       ],
@@ -2266,12 +2271,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2365,12 +2370,12 @@
       },
       "Traits": [
         {
-          "EN": "Club Activities",
-          "JP": "\u90E8\u6D3B"
-        },
-        {
           "EN": "Hinamizawa",
           "JP": "\u96DB\u898B\u6CA2"
+        },
+        {
+          "EN": "Club Activities",
+          "JP": "\u90E8\u6D3B"
         }
       ],
       "Type": "Character",
@@ -2467,12 +2472,12 @@
       },
       "Traits": [
         {
-          "EN": "Hinamizawa",
-          "JP": "\u96DB\u898B\u6CA2"
-        },
-        {
           "EN": "Club Activities",
           "JP": "\u90E8\u6D3B"
+        },
+        {
+          "EN": "Hinamizawa",
+          "JP": "\u96DB\u898B\u6CA2"
         }
       ],
       "Type": "Character",
@@ -2842,11 +2847,11 @@
       "Effect": [
         {
           "EN": "[Blocker]:[Growing]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011\n"
         },
         {
           "EN": "[Cancel]:[Spark] of non-Rebirth cards.",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
         },
         {
           "EN": "[CONT]:This character\u2019s [Cancel] can only be used when you have a [Growing] entry.",
@@ -3143,11 +3148,7 @@
         "EN": "Miyo Taka-no",
         "JP": "\u9AD8\u91CE \u4E09\u56DB"
       },
-      "Traits": [
-        {
-          "EN": "(Traitless)"
-        }
-      ],
+      "Traits": [],
       "Type": "Character",
       "Color": "Blue",
       "Rarity": "R",
@@ -3423,7 +3424,7 @@
       "Effect": [
         {
           "EN": "[Blocker]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 5]:When this character blocks a character with \u201CRika\u201D in its card name, choose up to one character from your waiting room, and put it onto your member area as [Rest].",
@@ -3588,11 +3589,7 @@
         "EN": "Meaningless Time, Teppei",
         "JP": "\u7A7A\u865A\u306A\u6642\u9593 \u9244\u5E73"
       },
-      "Traits": [
-        {
-          "EN": "(Traitless)"
-        }
-      ],
+      "Traits": [],
       "Type": "Character",
       "Color": "Yellow",
       "Rarity": "C",
@@ -4165,11 +4162,7 @@
         "EN": "Skylark 13",
         "JP": "\u96F2\u96C0\uFF11\uFF13"
       },
-      "Traits": [
-        {
-          "EN": "(Traitless)"
-        }
-      ],
+      "Traits": [],
       "Type": "Character",
       "Color": "Blue",
       "Rarity": "C",
@@ -4768,7 +4761,7 @@
       "Effect": [
         {
           "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n"
         },
         {
           "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
@@ -4784,7 +4777,7 @@
       }
     },
     {
-      "Serial": "HG/001B-102",
+      "Serial": "HG/001B-102SP",
       "Name": {
         "EN": "Words of Encouragement",
         "JP": "\u52B1\u307E\u3057\u306E\u8A00\u8449"
@@ -4792,8 +4785,7 @@
       "Traits": [],
       "Type": "Rebirth",
       "Color": "Blue",
-      "Rarity": "Re",
-      "Flavor": {},
+      "Rarity": "ReSP",
       "Effect": [
         {
           "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
@@ -4805,11 +4797,12 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "HG/001B"
+        "ReleaseCode": "HG/001B",
+        "Name": "\"Higurashi: When They Cry – Gou\" Booster Pack"
       }
     },
     {
-      "Serial": "HG/001B-103",
+      "Serial": "HG/001B-103SP",
       "Name": {
         "EN": "Viewer of the Fragments",
         "JP": "\u30AB\u30B1\u30E9\u306E\u9451\u8CDE\u8005"
@@ -4817,8 +4810,7 @@
       "Traits": [],
       "Type": "Rebirth",
       "Color": "Yellow",
-      "Rarity": "Re",
-      "Flavor": {},
+      "Rarity": "ReSP",
       "Effect": [
         {
           "EN": "[Spark]:Heal one.",

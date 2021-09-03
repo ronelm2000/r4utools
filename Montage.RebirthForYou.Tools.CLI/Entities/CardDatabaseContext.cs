@@ -461,6 +461,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     {
                         LogID = 48,
                         Activity = ActivityType.Parse,
+                        IsDone = true,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HG_001B.r4uset",
                         DateAdded = new DateTime(2021, 08, 28, 15, 16, 0)
                     },
@@ -484,6 +485,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_004T.r4uset",
                         DateAdded = new DateTime(2021, 08, 31, 15, 16, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 52,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HG_001B.r4uset",
+                        DateAdded = new DateTime(2021, 09, 03, 13, 35, 0)
                     }
                 );
             });

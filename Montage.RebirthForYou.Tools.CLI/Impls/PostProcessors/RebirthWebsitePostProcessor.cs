@@ -57,7 +57,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             try
             {
                 var document = await url.WithReferrer("https://rebirth-fy.com/cardlist/").GetHTMLAsync();
-                var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
+               var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
                 var flavorJPText = document.QuerySelector(".cardlist-flavor").GetInnerText();
                 var rulesTextJPText = GetWebsiteErrata(card) ?? document.QuerySelector(".cardlist-free").GetInnerText().Trim();
                 var imageLink = document.QuerySelector(".cardlist-img").FindChild<IHtmlImageElement>().Source;
@@ -119,6 +119,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             return (card.NonFoil?.Serial ?? card.Serial) switch
             {
+                "HG/001B-045" => "【自】【メンバー】：このキャラがサポートした時、あなたはエネ②することで、１枚引き、このアタック中、サポートされたキャラを＋１/±０。",
                 "HP/001B-093" => "【自】【メンバー】：このキャラがサポートした時、あなたはエネ②することで、１枚引き、このアタック中、サポートされたキャラを＋１/±０。",
                 _ => null
             };

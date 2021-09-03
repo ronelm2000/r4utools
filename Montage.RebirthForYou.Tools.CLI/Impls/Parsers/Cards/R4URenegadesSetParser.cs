@@ -140,6 +140,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Traits = secondLineMatch.Groups[3].Value //
                     .Split(" – ") //
                     .Select(str => str.Trim()) //
+                    .Where(str => str != "(Traitless)") //
                     .Select(t => new MultiLanguageString() { EN = t }) //
                     .ToList();
 
@@ -240,8 +241,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     => new[] { (Serial: "SSSS/001B-083", Rarity: "C", Name: new MultiLanguageString { EN = "Gloomy Grudge Kaiju, Diriver", JP = "幽愁暗恨怪獣 ヂリバー" }) },
                 "SSSS/001T-080 C 多事多難怪獣 ゴーヤベック Kaiju of Many Difficulties, Go’yavec"
                     => new[] { (Serial: "SSSS/001B-080", Rarity: "C", Name: new MultiLanguageString { EN = "Kaiju of Many Difficulties, Go’yavec", JP = "多事多難怪獣 ゴーヤベック" }) },
-                "HG/001B-103SP ReSP カケラの鑑賞者 Viewer of the Fragments"
-                    => new[] { (Serial: "HG/001B-103", Rarity: "Re", Name: new MultiLanguageString { EN = "Viewer of the Fragments", JP = "カケラの鑑賞者" }) },
+                "HG/001B-102 Re 励ましの言葉 Words of Encouragement"
+                    => new[] { (Serial: "HG/001B-102SP", Rarity: "ReSP", Name: new MultiLanguageString { EN = "Words of Encouragement", JP = "励ましの言葉" }) },
+                //"HG/001B-103SP ReSP カケラの鑑賞者 Viewer of the Fragments"
+                //    => new[] { (Serial: "HG/001B-103SP", Rarity: "ReSP", Name: new MultiLanguageString { EN = "Viewer of the Fragments", JP = "カケラの鑑賞者" }) },
                 /*
             "SSSS/001T-004 宝多 六花 Rikka Takarada"
                 => new[] { (Serial: "SSSS/001T-004", Rarity: "TD", Name: new MultiLanguageString { EN = "Rikka Takarada", JP = "宝多 六花" }) },
