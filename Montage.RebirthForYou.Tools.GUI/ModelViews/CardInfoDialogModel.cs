@@ -28,7 +28,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             set => this.RaiseAndSetIfChanged(ref _card, value);
         }
 
-        public string CardName => Card.Name.Default;
+        public string CardName { get; }
         public string CardTraits { get; }
 
         public string CardEffects
@@ -45,6 +45,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public CardInfoDialogModel(R4UCard card)
         {
             this._card = card;
+            this.CardName = $"{_card.Name.EN}\n({_card.Name.JP})";
             this.CardTraits = Card.Traits
                 .Select(t => t.Default)
                 .ConcatAsString("\n");

@@ -4,11 +4,11 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       xmlns:dd="clr-namespace:Montage.RebirthForYou.Tools.GUI;assembly=deckbuilder4u"
       mc:Ignorable="d"
-      d:DesignWidth="700"
-      d:DesignHeight="300"
+      d:DesignWidth="750"
+      d:DesignHeight="325"
       d:DataContext="{x:Static dd:DesignData.CardInfoDialogModel}"
       x:Class="Montage.RebirthForYou.Tools.GUI.Dialogs.CardInfoDialog"
-      Title="CardInfoDialog">
+      Title="Card Info">
   <Border Padding="4">
     <Grid   ColumnDefinitions="70*,30*"
             RowDefinitions="Auto,Auto,Auto,Auto"  Margin="4">
@@ -18,7 +18,12 @@
                 Grid.Column="0"
                 >
         <StackPanel>
-          <TextBlock Text="{Binding CardName}"
+          <TextBlock Text="{Binding Card.Name.EN}"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               FontSize="20"
+             />
+          <TextBlock Text="{Binding Card.Name.JP}"
                HorizontalAlignment="Center"
                VerticalAlignment="Center"
              />
@@ -30,79 +35,137 @@
                 RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto"
                 Margin="3"
               >
-            <TextBlock Text="Cost"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="0"
-                 Grid.Column="0"
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="Cost"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+              />
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Background="#B0B0B0"
+                    >
+              <TextBlock Text="{Binding Card.Cost}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
              />
-            <TextBlock Text="{Binding Card.Cost}"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="0"
-                 Grid.Column="1"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="ATK"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
              />
-            <TextBlock Text="ATK"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="1"
-                 Grid.Column="0"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Background="#B0B0B0"
+                    >
+              <TextBlock Text="{Binding Card.ATK}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
              />
-            <TextBlock Text="{Binding Card.ATK}"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="1"
-                 Grid.Column="1"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="DEF"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Center"
              />
-            <TextBlock Text="DEF"
-                       HorizontalAlignment="Center"
-                       VerticalAlignment="Center"
-                       Grid.Row="2"
-                       Grid.Column="0"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    Background="#B0B0B0"
+                    >
+              <TextBlock Text="{Binding Card.DEF}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
              />
-            <TextBlock Text="{Binding Card.DEF}"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="2"
-                 Grid.Column="1"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="Set"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Center" />
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    Background="#B0B0B0"
+                    >
+              <TextBlock Text="{Binding Card.Set.Name}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center" />
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="4"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="Traits"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Top"
+              />
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="4"
+                    Grid.Column="1"
+                    Background="#B0B0B0"
+                    >
+              <TextBlock Text="{Binding CardTraits}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
              />
-            <TextBlock Text="Set"
-                       HorizontalAlignment="Center"
-                       VerticalAlignment="Center"
-                       Grid.Row="3"
-                       Grid.Column="0"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="5"
+                    Grid.Column="0"
+                    Background="#909090"
+                    >
+              <TextBlock Text="Effects"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Top"
              />
-            <TextBlock Text="{Binding Card.Set.Name}"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Center"
-                 Grid.Row="3"
-                 Grid.Column="1"
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="5"
+                    Grid.Column="1"
+                    Background="#D0D0D0"
+                    >
+              <TextBlock Text="{Binding CardEffects}"
+                         TextWrapping="Wrap"
+                         HorizontalAlignment="Left"
+                         VerticalAlignment="Top"
              />
-            <TextBlock Text="Traits"
-                       HorizontalAlignment="Center"
-                       VerticalAlignment="Top"
-                       Grid.Row="4"
-                       Grid.Column="0"
-             />
-            <TextBlock Text="{Binding CardTraits}"
-                 HorizontalAlignment="Center"
-                 VerticalAlignment="Top"
-                 Grid.Row="4"
-                 Grid.Column="1"
-             />
-            <TextBlock Text="Effects"
-                       HorizontalAlignment="Center"
-                       VerticalAlignment="Top"
-                       Grid.Row="5"
-                       Grid.Column="0"
-             />
-            <TextBlock Text="{Binding CardEffects}"
-                       TextWrapping="Wrap"
-                       HorizontalAlignment="Left"
-                       VerticalAlignment="Top"
-                       Grid.Row="5"
-                       Grid.Column="1"
-             />
+            </Border>
             <ToggleSwitch
                 OffContent="EN"
                 OnContent="JP"
