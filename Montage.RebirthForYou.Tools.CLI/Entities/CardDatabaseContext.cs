@@ -330,6 +330,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 29,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GP_002B.r4uset",
+                        IsDone = true,
                         DateAdded = new DateTime(2021, 08, 20, 18, 12, 19)
                     },
                     new ActivityLog
