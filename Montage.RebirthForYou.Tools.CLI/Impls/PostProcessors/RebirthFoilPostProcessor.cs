@@ -56,7 +56,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     var flavorJPText = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent;
                     if (!string.IsNullOrWhiteSpace(flavorJPText) && flavorJPText != "（無し）")
                     {
-                        newCard.Flavor ??= new MultiLanguageString();
+                        newCard.Flavor = new MultiLanguageString();
                         newCard.Flavor.JP = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent;
                     }
                     yield return newCard;
