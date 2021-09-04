@@ -98,7 +98,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 //Log.Information("After editing: {@card}", updatedCard);
                 return updatedCard;
             }
-            catch (Exception e) when (_exceptions.TryGetValue(card.Serial, out JPTextRecord exceptionalRecord))
+            catch (Exception) when (_exceptions.TryGetValue(card.Serial, out JPTextRecord exceptionalRecord))
             {
                 Log.Information("Handling exceptional record: {serial}", card.Serial);
                 updatedCard.Name.JP = exceptionalRecord.Name;
