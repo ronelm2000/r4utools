@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>deckbuilder4u</AssemblyName>
     <Authors>ronelm2000</Authors>
     <Company>ronelm2000</Company>
@@ -36,7 +36,7 @@
     <ProjectReference Include="..\Montage.RebirthForYou.Tools.CLI\Montage.RebirthForYou.Tools.CLI.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <AvaloniaResource Include="Assets\**"/>
+    <AvaloniaResource Include="Assets\**" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Dialogs\CardInfoDialog.axaml.cs">

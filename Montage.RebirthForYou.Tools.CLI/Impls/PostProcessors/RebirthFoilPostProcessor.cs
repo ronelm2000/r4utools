@@ -16,7 +16,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 {
     public class RebirthFoilPostProcessor : ICardPostProcessor, ISkippable<ICardSetParser>
     {
-        string foilSearchURL = "https://rebirth-fy.com/cardlist/cardsearch?keyword=IMC%2F001T-001&keyword_type[]=no&search_type[]=or&expansion=&title=&card_kind=&cost_s=&cost_e=&atk_s=&atk_e=&def_s=&def_e=";
+        readonly string foilSearchURL = "https://rebirth-fy.com/cardlist/cardsearch?keyword=IMC%2F001T-001&keyword_type[]=no&search_type[]=or&expansion=&title=&card_kind=&cost_s=&cost_e=&atk_s=&atk_e=&def_s=&def_e=";
         public int Priority => 2;
 
         public ILogger Log = Serilog.Log.Logger.ForContext<RebirthFoilPostProcessor>();
@@ -41,7 +41,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 var doc = await urlRequest.GetHTMLAsync();
                 var cardList = doc.QuerySelectorAll(".cardlist-item")
                     .Select(i => i as IHtmlAnchorElement)
-                    .Where(i => new Url(i.Href).QueryParams[0].Value != card.Serial);
+                    .Where(i => new Url(i.Href).QueryParams[0].Value.ToString() != card.Serial);
                 foreach (var cardLink in cardList)
                 {
                     Log.Information("Found URL: {url}", cardLink.Href);
@@ -56,8 +56,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     var flavorJPText = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent;
                     if (!string.IsNullOrWhiteSpace(flavorJPText) && flavorJPText != "（無し）")
                     {
-                        newCard.Flavor = new MultiLanguageString();
-                        newCard.Flavor.JP = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent;
+                        newCard.Flavor = new MultiLanguageString
+                        {
+                            JP = cardLinkDoc.QuerySelector(".cardlist-flavor").TextContent
+                        };
                     }
                     yield return newCard;
                 }

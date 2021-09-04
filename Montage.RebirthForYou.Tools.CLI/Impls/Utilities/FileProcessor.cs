@@ -20,8 +20,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Utilities
 
             var cmd = $"{fullOutCommand} {fullFilePath}";
             Log.Information("Executing {command}", cmd);
-            System.Diagnostics.Process process = new System.Diagnostics.Process();
-            System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+            System.Diagnostics.Process process = new();
+            System.Diagnostics.ProcessStartInfo startInfo = new();
             startInfo.FileName = fullOutCommand;
             startInfo.Arguments = $"\"{fullFilePath.EscapeQuotes()}\"";
             //startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
@@ -33,7 +33,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Utilities
                 if (process.Start())
                 {
                     Log.Information("Command executed successfully.");
-                    process.WaitForExit();// .WaitForExitAsync();
+                    await process.WaitForExitAsync();
                     Log.Information("Command exited successfully.");
                 }
                 //                        while (!process.HasExited)
