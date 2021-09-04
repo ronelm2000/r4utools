@@ -17,15 +17,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
     public class R4URenegadesSetParser : ICardSetParser
     {
-        private ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
+        private readonly ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
-        private Regex serialRarityJPNameMatcher = new Regex(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>$)");
-        private Regex serialTrialJPNameMatcher = new Regex(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
-        private Regex costSeriesTraitMatcher = new Regex(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
-        private Regex seriesRebirthMatcher = new Regex(@"(.+) \/ (.+) Rebirth");
-        private Regex rubyMatcher = new Regex(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
-        private Regex releaseIDMatcher = new Regex(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
-        private Regex overflowEffectTextMatcher = new Regex(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:).+");
+        private readonly Regex serialRarityJPNameMatcher = new(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>$)");
+        private readonly Regex serialTrialJPNameMatcher = new(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
+        private readonly Regex costSeriesTraitMatcher = new(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
+        private readonly Regex seriesRebirthMatcher = new(@"(.+) \/ (.+) Rebirth");
+        private readonly Regex rubyMatcher = new(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
+        private readonly Regex releaseIDMatcher = new(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
+        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:).+");
 
         public bool IsCompatible(IParseInfo parseInfo)
         {
@@ -36,8 +36,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         {
             Log.Information("Starting...");
             var uri = new Uri(urlOrLocalFile);
-            var document = await new Uri(urlOrLocalFile).DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10);
-            IAsyncEnumerable<R4UCard> result = null;
+            Log.Debug("URI: {url}", uri);
+            var document = await uri.DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10);
+            IAsyncEnumerable<R4UCard> result;
             if (document.QuerySelector(".page-title") != null)
                 result = ParseTagPage(document);
             else
@@ -71,16 +72,17 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         private IEnumerable<R4UCard> CreateBaseCards(IElement figureOrImage, Dictionary<string, R4UReleaseSet> setMap)
         {
-            var paragraph = figureOrImage.NextElementSibling as IHtmlParagraphElement;
-            if (paragraph == null)
+            if (figureOrImage.NextElementSibling is not IHtmlParagraphElement paragraph)
                 throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
             return CreateBaseCards(paragraph, setMap);
         }
 
         private IEnumerable<R4UCard> CreateBaseCards(IHtmlParagraphElement paragraph, Dictionary<string, R4UReleaseSet> setMap)
         {
-            List<R4UCard> cards = new List<R4UCard>();
-            cards.Add(new R4UCard());
+            List<R4UCard> cards = new()
+            {
+                new R4UCard()
+            };
 
             var card = cards.First();
             var content = paragraph.InnerHtml;
@@ -96,10 +98,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             {
                 cards = exceptionalResults.Select(res =>
                 {
-                    var card = new R4UCard();
-                    card.Serial = res.Serial;
-                    card.Rarity = res.Rarity;
-                    card.Name = res.Name;
+                    var card = new R4UCard
+                    {
+                        Serial = res.Serial,
+                        Rarity = res.Rarity,
+                        Name = res.Name
+                    };
                     return card;
                 }).ToList();
                 if (cards.Count < 1) yield break;
@@ -110,18 +114,22 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 var firstLineMatch = serialRarityJPNameMatcher.Match(content);
                 card.Serial = firstLineMatch.Groups[1].Value.Trim();
                 card.Rarity = firstLineMatch.Groups[2].Value.Trim();
-                card.Name = new MultiLanguageString();
-                card.Name.JP = rubyMatcher.Replace(firstLineMatch.Groups[3].Value, "").Trim(); // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
-                card.Name.EN = firstLineMatch.Groups[4].Value.Trim();
+                card.Name = new MultiLanguageString
+                {
+                    JP = rubyMatcher.Replace(firstLineMatch.Groups[3].Value, "").Trim(), // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
+                    EN = firstLineMatch.Groups[4].Value.Trim()
+                };
             }
             else if (serialTrialJPNameMatcher.IsMatch(content))
             {
                 var firstLineMatch = serialTrialJPNameMatcher.Match(content);
                 card.Serial = firstLineMatch.Groups[1].Value.Trim();
                 card.Rarity = "TD";
-                card.Name = new MultiLanguageString();
-                card.Name.JP = rubyMatcher.Replace(firstLineMatch.Groups[2].Value, "").Trim(); // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
-                card.Name.EN = firstLineMatch.Groups[3].Value.Trim();
+                card.Name = new MultiLanguageString
+                {
+                    JP = rubyMatcher.Replace(firstLineMatch.Groups[2].Value, "").Trim(), // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
+                    EN = firstLineMatch.Groups[3].Value.Trim()
+                };
             }
             else
                 throw new NotImplementedException($"The serial/rarity/JP Name line cannot be parsed. Here's the offending line: {cursor.CurrentLine.ToString()}");
@@ -145,22 +153,22 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     .ToList();
 
                 cursor.Next();
-                card.ATK = cursor.CurrentLine
-                    .Slice("ATK ".Length)
+                card.ATK = cursor.CurrentLine["ATK ".Length..]
                     .AsParsed<int>(int.TryParse);
 
                 cursor.Next();
                 string defLine = cursor.CurrentLine.ToString();
-                card.DEF = cursor.CurrentLine
-                    .Slice("DEF ".Length)
+                card.DEF = cursor.CurrentLine["DEF ".Length..]
                     .AsParsed<int>(int.TryParse);
 
-                Regex flavorTextMatcher = new Regex(@"" + defLine + @"<br><em>(.+)</em><br>");
+                Regex flavorTextMatcher = new(@"" + defLine + @"<br><em>(.+)</em><br>");
                 if (flavorTextMatcher.IsMatch(content))
                 {
                     cursor.Next();
-                    card.Flavor = new MultiLanguageString();
-                    card.Flavor.EN = cursor.CurrentLine.ToString(); // flavorTextMatcher.Match(content).Groups[1].Value;
+                    card.Flavor = new MultiLanguageString
+                    {
+                        EN = cursor.CurrentLine.ToString() // flavorTextMatcher.Match(content).Groups[1].Value;
+                    };
                 }
             }
             else if (seriesRebirthMatcher.IsMatch(secondLine))
@@ -168,12 +176,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Type = CardType.Rebirth;
                 var rebirthLine = secondLine;
 
-                Regex flavorTextMatcher = new Regex(@"" + rebirthLine + @"<br><em>(.+)</em><br>");
+                Regex flavorTextMatcher = new(@"" + rebirthLine + @"<br><em>(.+)</em><br>");
                 if (flavorTextMatcher.IsMatch(content))
                 {
                     cursor.Next();
-                    card.Flavor = new MultiLanguageString();
-                    card.Flavor.EN = cursor.CurrentLine.ToString(); // flavorTextMatcher.Match(content).Groups[1].Value;
+                    card.Flavor = new MultiLanguageString
+                    {
+                        EN = cursor.CurrentLine.ToString() // flavorTextMatcher.Match(content).Groups[1].Value;
+                    };
                 }
             }
             else
@@ -184,7 +194,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
             if (card.Color != CardColor.Red)
             {
-                List<MultiLanguageString> effects = new List<MultiLanguageString>();
+                List<MultiLanguageString> effects = new();
                 while (cursor.Next())
                 {
                     Log.Information("Adding Effect: {eff}", cursor.CurrentLine.ToString());

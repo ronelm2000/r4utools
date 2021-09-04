@@ -15,7 +15,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
     public class CardDatabaseContext : DbContext
     {
-        private readonly AppConfig _config = new AppConfig { DbName = "cards.db" };
+        private readonly AppConfig _config = new() { DbName = "cards.db" };
         private readonly ILogger Log = Serilog.Log.ForContext<CardDatabaseContext>();
 
         public DbSet<R4UCard> R4UCards { get; set; }
@@ -35,11 +35,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             try
             {
                 Log.Debug("Instantiating with no arguments.");
-                using (StreamReader file = File.OpenText(@"app.json"))
-                using (JsonTextReader reader = new JsonTextReader(file))
-                {
-                    _config = JToken.ReadFrom(reader).ToObject<AppConfig>();
-                }
+                using StreamReader file = File.OpenText(@"app.json");
+                using JsonTextReader reader = new(file);
+                _config = JToken.ReadFrom(reader).ToObject<AppConfig>();
             }
             catch (Exception)
             {
@@ -60,11 +58,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             options.UseSqlite($"Data Source={_config.DbName}");
             options.EnableDetailedErrors();
             options.EnableSensitiveDataLogging();
-        }
-
-        internal Task<R4UCard> FindNonFoil(R4UCard card)
-        {
-            return Task.FromResult(((card.IsFoil) ? card.Alternates.FirstOrDefault() : card) ?? card);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

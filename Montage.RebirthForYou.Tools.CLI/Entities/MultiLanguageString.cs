@@ -9,7 +9,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
     public class MultiLanguageString : IExactCloneable<MultiLanguageString>
     {
-        private IDictionary<string, string> resources = new Dictionary<String,String>();
+        private readonly IDictionary<string, string> resources = new Dictionary<string, String>();
 
         public string this[string languageIndex]
         {
@@ -49,7 +49,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         /// <returns></returns>
         public string AsNonEmptyString()
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new();
             if (EN != null)
                 sb.Append(EN);
             else

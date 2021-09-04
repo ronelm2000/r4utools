@@ -26,19 +26,19 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
     public class FandomWikiSetParser : ICardSetParser
     {
-        private Regex fandomMatcher = new Regex(@"(.*)://rebirth-for-you\.fandom\.com/wiki/(.*)");
-        private Regex effectMatcher = new Regex(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
-        private Regex serialMatcher = new Regex(@"(?:- )?((\w+\/\w+)-\w*\d+[\w\+]{0,4}(?:\[[\w\\\/]+\])?)(?: )?\((\w*\+?)\)");
-        private Regex releaseIDMatcher = new Regex(@"(?:- )?((\w+\/\w+))");
-        private string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "Re", "P", "PR", "BP", "D", "CP" };
-        private Func<CardDatabaseContext> _database;
+        private readonly Regex fandomMatcher = new(@"(.*)://rebirth-for-you\.fandom\.com/wiki/(.*)");
+        private readonly Regex effectMatcher = new(@"(\[(CONT|AUTO|ACT|Spark|Blocker|Cancel|Relaxing|Growing)([^\]]*)\])(.*)((\n[^\[](.*))*)");
+        private readonly Regex serialMatcher = new(@"(?:- )?((\w+\/\w+)-\w*\d+[\w\+]{0,4}(?:\[[\w\\\/]+\])?)(?: )?\((\w*\+?)\)");
+        private readonly Regex releaseIDMatcher = new(@"(?:- )?((\w+\/\w+))");
+        private readonly string[] nonFoilRarities = new string[] { "RRR", "RR", "R", "U", "C", "TD", "SD", "ReR", "ReC", "Re", "P", "PR", "BP", "D", "CP" };
+        //private readonly Func<CardDatabaseContext> _database;
 
         public ILogger Log { get; }
 
         public FandomWikiSetParser(IContainer ioc)
         {
             Log ??= Serilog.Log.ForContext<FandomWikiSetParser>();
-            _database = () => ioc.GetService<CardDatabaseContext>();
+            //_database = () => ioc.GetService<CardDatabaseContext>();
         }
 
         public bool IsCompatible(IParseInfo parseInfo)
@@ -51,7 +51,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             Log.Information("Starting...");
             var document = await new Uri(urlOrLocalFile).DownloadHTML(("Referer", "rebirth-for-you.fandom.com")).WithRetries(10);
             var table = document.QuerySelector<IHtmlTableElement>(".set-table");
-            var isPRPage = document.QuerySelectorAll(".portable-infobox").Count() < 1;
+            var isPRPage = document.QuerySelectorAll(".portable-infobox").Length < 1;
             var setData = (!isPRPage) ? CreateInfoBoxDataTable(document.QuerySelector(".portable-infobox")) : null;
             var prSetData = (isPRPage) ? CreatePRSets(table) : null;
             Log.Verbose("Set Data: @{data}", setData);
@@ -85,13 +85,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 return new Dictionary<string, R4UReleaseSet>();
         }
 
-        private R4UReleaseSet ParseSet(Dictionary<string, string> setData)
+        private static R4UReleaseSet ParseSet(Dictionary<string, string> setData)
         {
             if (setData != null)
             {
-                var res = new R4UReleaseSet();
-                res.ReleaseCode = setData["prefix"];
-                res.Name = setData["title"];
+                var res = new R4UReleaseSet
+                {
+                    ReleaseCode = setData["prefix"],
+                    Name = setData["title"]
+                };
                 return res;
             } else
             {
@@ -101,9 +103,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         private R4UReleaseSet CreatePromoSet(string releaseID)
         {
-            var res = new R4UReleaseSet();
-            res.ReleaseCode = releaseID;
-            res.Name = $"{releaseID} Promotional Cards";
+            var res = new R4UReleaseSet
+            {
+                ReleaseCode = releaseID,
+                Name = $"{releaseID} Promotional Cards"
+            };
             return res;
         }
 
@@ -191,9 +195,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             var card = new R4UCard();
             var mainInfoBox = context.MainInfoBox;
             var extraInfoBox = context.ExtraInfoBox;
-            card.Name = new MultiLanguageString();
-            card.Name.JP = mainInfoBox.GetValueOrDefault("kanji", mainInfoBox["name"]);
-            card.Name.EN = mainInfoBox["name"];
+            card.Name = new MultiLanguageString
+            {
+                JP = mainInfoBox.GetValueOrDefault("kanji", mainInfoBox["name"]),
+                EN = mainInfoBox["name"]
+            };
             card.Type = TranslateType(mainInfoBox["card type"]);
             card.Set = setContext.Set;
             if (card.Type == CardType.Character)
@@ -205,8 +211,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             }
             if (extraInfoBox.TryGetValue("card flavor(s)", out var flavor))
             {
-                card.Flavor = new MultiLanguageString();
-                card.Flavor.EN = flavor;
+                card.Flavor = new MultiLanguageString
+                {
+                    EN = flavor
+                };
             }
             if (extraInfoBox.TryGetValue("card abilities", out var abilities))
             {
@@ -249,12 +257,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 .ToListAsync();
         }
 
-        private MultiLanguageString ParseTrait(IHtmlSpanElement htmlSpanElement, WikiSetContext context)
+        private static MultiLanguageString ParseTrait(IHtmlSpanElement htmlSpanElement, WikiSetContext context)
         {
             var keyTrait = htmlSpanElement.GetInnerText();
             if (context.TraitData.TryGetValue(keyTrait, out var mapResult)) return mapResult;
-            var res = new MultiLanguageString();
-            res.EN = keyTrait;
+            var res = new MultiLanguageString
+            {
+                EN = keyTrait
+            };
             context.TraitData.Add(keyTrait, res);
             return res;
         }

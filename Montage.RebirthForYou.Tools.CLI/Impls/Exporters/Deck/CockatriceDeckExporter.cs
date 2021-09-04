@@ -19,43 +19,27 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck
     public class CockatriceDeckExporter : IDeckExporter, IFilter<IExportedDeckInspector>
     {
         private readonly ILogger Log;
-        private Func<CardDatabaseContext> _database;
-        private XmlSerializer _serializer = new XmlSerializer(typeof(CockatriceDeck));
+        private readonly XmlSerializer _serializer = new(typeof(CockatriceDeck));
 
         public string[] Alias => new[] { "cockatrice", "cckt3s" };
 
         public CockatriceDeckExporter(IContainer container)
         {
             Log = Serilog.Log.ForContext<CockatriceDeckExporter>();
-            _database = () => container.GetInstance<CardDatabaseContext>();
-            /*
-            _parse = async (url) =>
-            {
-                var parser = container.GetInstance<ParseVerb>();
-                parser.URI = url;
-                await parser.Run(container);
-            };
-            */
         }
         public async Task Export(R4UDeck deck, IExportInfo info)
         {
             Log.Information("Serializing: {name}", deck.Name);
-
-            /*
-            using (var db = _database())
-            {
-                Log.Information("Replacing all foils with non-foils...");
-                foreach (var card in deck.Ratios.Keys)
-                    if (card.IsFoil) deck.ReplaceCard(card, await db.FindNonFoil(card));
-            }
-            */
-
             Log.Information("Creating deck.cod...");
-            var cckDeck = new CockatriceDeck();
-            cckDeck.DeckName = deck.Name;
-            cckDeck.Comments = deck.Remarks;
-            cckDeck.Ratios = new CockatriceDeckRatio();
-            cckDeck.Ratios.Ratios = deck.Ratios.Select(Translate).ToList();
+            var cckDeck = new CockatriceDeck
+            {
+                DeckName = deck.Name,
+                Comments = deck.Remarks,
+                Ratios = new CockatriceDeckRatio()
+                {
+                    Ratios = deck.Ratios.Select(Translate).ToList()
+                }
+            };
 
             var resultDeck = Path.CreateDirectory(info.Destination).Combine($"{deck.Name?.AsFileNameFriendly() ?? "deck"}.cod");
             resultDeck.Open(s => _serializer.Serialize(s, cckDeck),
@@ -67,7 +51,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Deck
             await Task.CompletedTask;
         }
 
-        private Type[] _exclusionFilters = new[]
+        private readonly Type[] _exclusionFilters = new[]
         {
             typeof(CachedImageInspector),
             typeof(SanityImageInspector), 
