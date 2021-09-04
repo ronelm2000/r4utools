@@ -1,7 +1,7 @@
 ﻿using Avalonia.Media;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 
-namespace Montage.RebirthForYou.Tools.GUI.ModelViews
+namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Interfaces
 {
     internal interface ICardInfoDialogModel
     {
@@ -13,5 +13,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         bool IsJP { get; }
         bool HasFlavor { get; }
         string CardFlavor { get; }
+        FontStyle CardFlavorFontStyle { get; }
     }
 }

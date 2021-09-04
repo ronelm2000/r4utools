@@ -177,7 +177,7 @@
                          TextDecorations=""
                          HorizontalAlignment="Left"
                          VerticalAlignment="Top"
-                         FontStyle="Italic"
+                         FontStyle="{Binding CardFlavorFontStyle}"
                          >
               </TextBlock>
             </Border>

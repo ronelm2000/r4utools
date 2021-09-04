@@ -9,6 +9,7 @@ using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
+using Montage.RebirthForYou.Tools.GUI.ModelViews.Interfaces;
 using ReactiveUI;
 using System;
 using System.Collections.Generic;
@@ -56,11 +57,20 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
             get => _isJP;
             set => this.RaiseAndSetIfChanged(ref _isJP, value);
         }
+        public string CardFlavor
+        {
+            get => __cardFlavor.Value;
+        }
+        public FontStyle CardFlavorFontStyle
+        {
+            get => __cardFlavorFontStyle.Value;
+        }
+
         public bool HasFlavor { get; }
-        public string CardFlavor { get; }
 
-
-        private ObservableAsPropertyHelper<string> __cardEffects;
+        private readonly ObservableAsPropertyHelper<string> __cardEffects;
+        private readonly ObservableAsPropertyHelper<string> __cardFlavor;
+        private readonly ObservableAsPropertyHelper<FontStyle> __cardFlavorFontStyle;
 
         public TestCardInfoDialogModel()
         {
@@ -68,7 +78,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
             this.Card = CreateTestCard();
             this.CardName = $"{_card.Name.EN}\n({_card.Name.JP})";
             this.CardTraits = _card.Traits.Select(t => t.Default).ConcatAsString("\n");
-            this.CardFlavor = _card.Flavor?.AsNonEmptyString();
             //this.CardEffects = _card.Effect.Select(t => t.EN).ConcatAsString("\n");
             this.IsJP = false;
             this.HasFlavor = !string.IsNullOrWhiteSpace(_card.Flavor?.AsNonEmptyString());
@@ -78,8 +87,18 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
                     )
                 .ToProperty(this, t => t.CardEffects)
                 ;
+            this.__cardFlavor = this.WhenAny(
+                    t => t.IsJP,
+                    t => ((t.Value) ? _card.Flavor?.JP : _card.Flavor?.EN)
+                    )
+                .ToProperty(this, t => t.CardFlavor)
+                ;
+            this.__cardFlavorFontStyle = this.WhenAny(
+                    t => t.IsJP,
+                    t => (t.Value) ? FontStyle.Normal : FontStyle.Italic
+                    )
+                .ToProperty(this, t => t.CardFlavorFontStyle);
 
-                //.S
             this._imageSource = new AsyncLazy<IImage>(LoadImage);
         }
 
