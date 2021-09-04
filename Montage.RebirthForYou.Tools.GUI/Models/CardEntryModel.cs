@@ -27,7 +27,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
         public IImage ImageSource => _imageSource.Value;
         public IImage FullImageSource => _imageSourceLarge.Value;
 
-        public string Text {
+        public string CardName {
             get => text;
             set => this.RaiseAndSetIfChanged(ref text, value);
         }
@@ -50,7 +50,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
         public CardEntryModel(R4UCard card)
         {
             Card = card;
-            Text = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})";
+            CardName = $"{card.Name?.AsNonEmptyString() ?? ""}\n({card.Serial})";
             _imageSource = new AsyncLazy<IImage>(async () => await LoadImage());
             _imageSourceLarge = new AsyncLazy<IImage>(async () => await LoadLargeImage());
         }

@@ -25,7 +25,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
         private string _cardName;
         private AsyncLazy<IImage> _imageSource;
         private string _cardTraits;
-        private string _cardEffects;
         private bool _isJP;
 
         public IImage ImageSource => _imageSource.Value;// ().Result;//_imageSource.Value;
@@ -47,7 +46,6 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
             get => _cardTraits;
             set => this.RaiseAndSetIfChanged(ref _cardTraits, value);
         }
-
         public string CardEffects
         {
             get => __cardEffects.Value;
@@ -58,6 +56,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
             get => _isJP;
             set => this.RaiseAndSetIfChanged(ref _isJP, value);
         }
+        public bool HasFlavor { get; }
+        public string CardFlavor { get; }
+
 
         private ObservableAsPropertyHelper<string> __cardEffects;
 
@@ -67,8 +68,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
             this.Card = CreateTestCard();
             this.CardName = $"{_card.Name.EN}\n({_card.Name.JP})";
             this.CardTraits = _card.Traits.Select(t => t.Default).ConcatAsString("\n");
+            this.CardFlavor = _card.Flavor?.AsNonEmptyString();
             //this.CardEffects = _card.Effect.Select(t => t.EN).ConcatAsString("\n");
             this.IsJP = false;
+            this.HasFlavor = !string.IsNullOrWhiteSpace(_card.Flavor?.AsNonEmptyString());
             this.__cardEffects = this.WhenAny(
                     t => t.IsJP, 
                     t => _card.Effect.Select(eff => (t.Value) ? eff.JP : eff.EN).ConcatAsString("\n")

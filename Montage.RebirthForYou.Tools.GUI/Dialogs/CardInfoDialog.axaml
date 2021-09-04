@@ -5,24 +5,26 @@
       xmlns:dd="clr-namespace:Montage.RebirthForYou.Tools.GUI;assembly=deckbuilder4u"
       mc:Ignorable="d"
       d:DesignWidth="750"
-      d:DesignHeight="325"
+      d:DesignHeight="450"
       d:DataContext="{x:Static dd:DesignData.CardInfoDialogModel}"
       x:Class="Montage.RebirthForYou.Tools.GUI.Dialogs.CardInfoDialog"
       Title="Card Info">
   <Border Padding="4">
     <Grid   ColumnDefinitions="70*,30*"
             RowDefinitions="Auto,Auto,Auto,Auto"  Margin="4">
-      <Border   Padding="0"
+      <Border   Padding="7"
                 Margin="4"
                 Grid.Row="0"
                 Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Background="#EEEEEE"
                 >
         <StackPanel>
           <TextBlock Text="{Binding Card.Name.EN}"
-               HorizontalAlignment="Center"
-               VerticalAlignment="Center"
-               FontSize="20"
-             />
+                     HorizontalAlignment="Center"
+                     VerticalAlignment="Center"
+                     FontSize="20"
+                    />
           <TextBlock Text="{Binding Card.Name.JP}"
                HorizontalAlignment="Center"
                VerticalAlignment="Center"
@@ -31,8 +33,16 @@
                      HorizontalAlignment="Center"
                      VerticalAlignment="Center"
              />
+        </StackPanel>
+      </Border>
+      <Border   Padding="0"
+                Margin="0"
+                Grid.Row="1"
+                Grid.Column="0"
+                >
+        <StackPanel>
           <Grid ColumnDefinitions="25*,75*"
-                RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto"
+                RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto"
                 Margin="3"
               >
             <Border Padding="4"
@@ -148,6 +158,34 @@
                     Grid.Row="5"
                     Grid.Column="0"
                     Background="#909090"
+                    IsVisible="{Binding HasFlavor}"
+                    >
+              <TextBlock Text="Flavor"
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Top"
+              />
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="5"
+                    Grid.Column="1"
+                    Background="#D0D0D0"
+                    IsVisible="{Binding HasFlavor}"
+                    >
+              <TextBlock Text="{Binding CardFlavor}"
+                         TextWrapping="Wrap"
+                         TextDecorations=""
+                         HorizontalAlignment="Left"
+                         VerticalAlignment="Top"
+                         FontStyle="Italic"
+                         >
+              </TextBlock>
+            </Border>
+            <Border Padding="4"
+                    Margin="1"
+                    Grid.Row="6"
+                    Grid.Column="0"
+                    Background="#909090"
                     >
               <TextBlock Text="Effects"
                          HorizontalAlignment="Center"
@@ -156,7 +194,7 @@
             </Border>
             <Border Padding="4"
                     Margin="1"
-                    Grid.Row="5"
+                    Grid.Row="6"
                     Grid.Column="1"
                     Background="#D0D0D0"
                     >
@@ -170,7 +208,7 @@
                 OffContent="EN"
                 OnContent="JP"
                 IsChecked="{Binding IsJP}"
-                Grid.Row="6"
+                Grid.Row="7"
                 Grid.Column="1"
                 />
           </Grid>
@@ -178,7 +216,7 @@
       </Border>
       <Border   Padding="0"
                 Margin="4"
-                Grid.Row="0"
+                Grid.Row="1"
                 Grid.Column="1"
                 >
         <Image Source="{Binding ImageSource}" VerticalAlignment="Top" />

@@ -11,5 +11,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         string CardTraits { get; }
         string CardEffects { get; }
         bool IsJP { get; }
+        bool HasFlavor { get; }
+        string CardFlavor { get; }
     }
 }

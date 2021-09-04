@@ -42,6 +42,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             set => this.RaiseAndSetIfChanged(ref _isJP, value);
         }
 
+        public bool HasFlavor { get; }
+        public string CardFlavor { get; }
+
+
         public CardInfoDialogModel(R4UCard card)
         {
             this._card = card;
@@ -49,7 +53,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             this.CardTraits = Card.Traits
                 .Select(t => t.Default)
                 .ConcatAsString("\n");
-            this.IsJP = false; 
+            this.CardFlavor = _card.Flavor?.AsNonEmptyString();
+            this.IsJP = false;
+            this.HasFlavor = !string.IsNullOrWhiteSpace(_card.Flavor?.AsNonEmptyString());
             this.__cardEffects = this.WhenAny(
                     t => t.IsJP,
                     t => _card.Effect.Select(eff => (t.Value) ? eff.JP : eff.EN).ConcatAsString("\n")

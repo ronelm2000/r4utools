@@ -180,7 +180,8 @@
                           Margin="1"
                       >
                       <TextBlock  Focusable="True"
-                                  Text="{Binding Text}"
+                                  Text="{Binding CardName}"
+                                  TextWrapping="Wrap"
                                   Grid.Row="0"
                                   Grid.Column="0"
                                   Grid.ColumnSpan="2"
@@ -222,6 +223,7 @@
                                  Grid.Column="0"
                              />
                       <TextBlock Text="{Binding Traits}"
+                                 TextWrapping="Wrap"
                                  Grid.Row="4"
                                  Grid.Column="1"
                              />
