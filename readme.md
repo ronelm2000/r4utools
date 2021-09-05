@@ -1,6 +1,6 @@
 R4UTools (Rebirth For You Tools)
 ===========
-![.NET Core](https://github.com/ronelm2000/r4utools/workflows/.NET%20Core/badge.svg)
+[![.NET 5](https://github.com/ronelm2000/r4utools/workflows/.NET%205/badge.svg)](https://github.com/ronelm2000/r4utools/actions/workflows/nightly.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/ronelm2000/r4utools/badge)](https://www.codefactor.io/repository/github/ronelm2000/)
 [![Gitter](https://badges.gitter.im/wsmtools/community.svg)](https://gitter.im/wsmtools/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Downloads](https://img.shields.io/github/downloads/ronelm2000/r4utools/total.svg)](https://tooomm.github.io/github-release-stats/?username=ronelm2000&repository=r4utools)
