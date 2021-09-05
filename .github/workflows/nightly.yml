@@ -25,21 +25,21 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
     - name: Publish
       run: |
-        dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
-        dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
+        dotnet publish ./Montage.RebirthForYou.Tools.CLI/Montage.RebirthForYou.Tools.CLI.csproj -c Release -o publish-r4utools -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
+        dotnet publish ./Montage.RebirthForYou.Tools.GUI/Montage.RebirthForYou.Tools.GUI.csproj -c Release -o publish-deckbuilder4u -r win-x64 --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true --version-suffix 'rc${{ github.run_number }}'
     - name: Upload Artifact (r4utools)
       uses: actions/upload-artifact@v2
       with:
         name: r4utools
         if-no-files-found: warn
         path: |
-          Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/*.dll
-          Montage.RebirthForYou.Tools.CLI/bin/Release/netcoreapp3.1/win-x64/publish/*.exe
+          publish-r4utools/*.dll
+          publish-r4utools/*.exe
     - name: Upload Artifact (deckbuilder4u)
       uses: actions/upload-artifact@v2
       with:
         name: deckbuilder4u
         if-no-files-found: warn
         path: |
-          Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/*.dll
-          Montage.RebirthForYou.Tools.GUI/bin/Release/netcoreapp3.1/win-x64/publish/*.exe
+          publish-deckbuilder4u/*.dll
+          publish-deckbuilder4u/*.exe
