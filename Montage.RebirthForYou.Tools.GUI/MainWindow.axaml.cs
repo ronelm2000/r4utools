@@ -77,7 +77,11 @@ namespace Montage.RebirthForYou.Tools.GUI
             _dataContext().Saved = "";
             var context = _dataContext();
             context.Parent = this;
-            Task.Run(context.InitializeDatabase);
+            Task.Run(async() =>
+            {
+                await context.InitializeSettings();
+                await context.InitializeDatabase();
+            });
             //_searchBarTextBox.IsEnabled = true;
         }
 
@@ -227,7 +231,7 @@ namespace Montage.RebirthForYou.Tools.GUI
                     new CardQuery { Serial = newText }
                 }
             };
-            await _dataContext().ApplyFilter(query.ToQuery(), TimeSpan.FromSeconds(2));
+            await _dataContext().ApplyFilter(query.ToQuery(), TimeSpan.FromSeconds(1));
         }
         public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
 

@@ -67,6 +67,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         #region Observers
         private readonly IObservable<string> _deckNameObserver;
         private readonly IObservable<string> _deckRemarkObserver;
+        private readonly IObservable<bool> _isShareXFlaggedObserver;
+        private readonly IObservable<bool> _willSendViaTCPObserver;
         public readonly IObservable<string> SavedObserver;
 
         #endregion
@@ -130,7 +132,10 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             Log = Serilog.Log.ForContext<MainWindowViewModel>();
             _deckNameObserver = this.WhenValueChanged(x => x.DeckName);
             _deckRemarkObserver = this.WhenValueChanged(x => x.DeckRemarks);
+            _isShareXFlaggedObserver = this.WhenValueChanged(x => x.IsShareXFlagged);
+            _willSendViaTCPObserver = this.WhenValueChanged(x => x.WillSendViaTCP);
             SavedObserver = this.WhenValueChanged(dc => dc.Saved);
+
             _deckNameObserver.Subscribe(s => this.Saved = "*");
             _deckRemarkObserver.Subscribe(s => this.Saved = "*");
 
@@ -173,6 +178,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 case "sharex":
                     IsShareXFlagged = !IsShareXFlagged;
                     break;
+                case "sendviatcp":
+                    WillSendViaTCP = !WillSendViaTCP;
+                    break;
                 default: break;
             } 
         }
@@ -192,7 +200,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 this.Parent.LoadingProgressBar.Value = 99;
             });
 
-            using (var db = ioc.GetInstance<CardDatabaseContext>())
+            await using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
                 GetCardDatabase(db).ForAll(card =>
                 {
@@ -212,6 +220,28 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             });
 
             Log.Information("Completed!");
+        }
+
+        internal async Task InitializeSettings()
+        {
+            await using var db = ioc.GetInstance<CardDatabaseContext>();
+            Setting sharedXFlagSettings = await db.Settings.FindAsync("gui.flags.sharex.enabled") ?? (await db.Settings.AddAsync(new Setting { Key = "gui.flags.sharex.enabled", Value = "true" })).Entity;
+            Setting sendtcpFlagSettings = await db.Settings.FindAsync("gui.flags.sendtcp.enabled") ?? (await db.Settings.AddAsync(new Setting { Key = "gui.flags.sendtcp.enabled", Value = "true" })).Entity;
+            IsShareXFlagged = bool.Parse(sharedXFlagSettings.Value);
+            WillSendViaTCP = bool.Parse(sendtcpFlagSettings.Value);
+
+            _willSendViaTCPObserver.SubscribeAsync(async r => await SaveFlag(sendtcpFlagSettings, r));
+            _isShareXFlaggedObserver.SubscribeAsync(async r => await SaveFlag(sharedXFlagSettings, r));
+            await db.SaveChangesAsync();
+        }
+
+        private async Task SaveFlag(Setting flagSetting, bool newValue)
+        {
+            await using var db = ioc.GetInstance<CardDatabaseContext>();
+            Setting findSetting = await db.FindAsync<Setting>(flagSetting.Key);
+            if (findSetting != null)
+                findSetting.Value = newValue.ToString();
+            await db.SaveChangesAsync();
         }
 
         private async Task UpdateCommand_OnStarting(UpdateVerb sender, UpdateEventArgs args)
