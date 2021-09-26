@@ -139,6 +139,10 @@
     "Parse TH/001B (Fandom)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project"
+    },
+    "Parse RE/002B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/06/23/re-002b-full-set-list/"
     }
   }
 }

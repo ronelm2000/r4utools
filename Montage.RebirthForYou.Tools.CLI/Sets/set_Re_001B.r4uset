@@ -1,0 +1,4817 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "RE/001B-001",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-001SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_001sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Yuu",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Towards the National Tournament!\u0022]:This character gets \u002B1/\u00B10 for each of your \u003CGo Go Stew\u0027s!\u003E members. If you have six cards in your retire area, this character\u0027s first attack each turn may be done without being supported.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u76EE\u6307\u305B\u5168\u56FD\u5927\u4F1A\uFF01\u300B\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u307F\u30B5\u30DD\u30FC\u30C8\u306A\u3057\u3067\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-002",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-002S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Yuu",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is placed on your entry area from hand, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-003",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-003S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Go Go Stew\u0027s! Yuu",
+        "JP": "Go Go \u3057\u3061\u3085\u30FC\u2019s! \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CGo Go Stew\u0027s!\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-004",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-004S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Of course Kei!",
+            "JP": "\u305D\u3046\u3060\u306D\u3001\u572D\u3061\u3083\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unforgettable Childhood Friend, Yuu",
+        "JP": "\u5FD8\u308C\u3089\u308C\u306A\u3044\u5E7C\u99B4\u67D3 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Of course Kei!",
+        "JP": "\u305D\u3046\u3060\u306D\u3001\u572D\u3061\u3083\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, if you have a member with \u0022Kei\u0022 in its card name, this character gets \u002B5/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u572D\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-005",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-005S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Yuu",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character on an open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-006",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-006S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuu\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until the end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-007",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-007S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Fishing (can only catch garbage)",
+            "JP": "\u8DA3\u5473\uFF1A\u91E3\u308A\uFF08\u30B4\u30DF\u3057\u304B\u91E3\u308C\u306A\u3044\uFF09"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Only Catching Garbage? Yuu",
+        "JP": "\u30B4\u30DF\u3057\u304B\u91E3\u308C\u306A\u3044\uFF1F \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Hobby: Fishing (can only catch garbage)",
+        "JP": "\u8DA3\u5473\uFF1A\u91E3\u308A\uFF08\u30B4\u30DF\u3057\u304B\u91E3\u308C\u306A\u3044\uFF09"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-008",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-008SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_008sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Chiharu",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 6 \u003CGo Go Stew\u0027s!\u003E]:Your entry gets \u002B1/\u00B10. If you have a Rebirth set, then it also gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-009",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-009S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Chiharu",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CGo Go Stew\u0027s!\u003E]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-010",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-010S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Have you decided on your order?",
+            "JP": "\u3054\u6CE8\u6587\u306F\u304A\u6C7A\u307E\u308A\u3067\u3059\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Deep-Fried Skewer Restaurant\u0027s Signboard Girl, Chiharu",
+        "JP": "\u4E32\u30AB\u30C4\u5C4B\u306E\u770B\u677F\u5A18 \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Have you decided on your order?",
+        "JP": "\u3054\u6CE8\u6587\u306F\u304A\u6C7A\u307E\u308A\u3067\u3059\u304B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Deep-Fried Skewer Restaurant\u0027s Signboard Girl\u0022][1/Turn]:When this character attacks, if your opponent has three or more members, choose one of your opponent\u0027s members and put it into the waiting room. If not, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4E32\u30AB\u30C4\u5C4B\u306E\u770B\u677F\u5A18\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u9055\u3046\u306A\u3089\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-011",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-011S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Go Go Stew\u0027s! Chiharu",
+        "JP": "Go Go \u3057\u3061\u3085\u30FC\u2019s! \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CGo Go Stew\u0027s!\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CGo Go Stew\u0027s!\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-012",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-012S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Chiharu",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-013",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-013S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Basketball",
+            "JP": "\u8DA3\u5473\uFF1A\u30D0\u30B9\u30B1"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Basketball Girl, Chiharu",
+        "JP": "\u30D0\u30B9\u30B1\u30C3\u30C8\u30AC\u30FC\u30EB \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Hobby: Basketball",
+        "JP": "\u8DA3\u5473\uFF1A\u30D0\u30B9\u30B1"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 for each card in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-014",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-014S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiharu\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-015",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-015SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_015sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Shuko",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Genius Middle School Student\u0022][Skill Showcase Level 3]:This character gets \u002B1/\u00B10 for each card in your hand.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5929\u624D\u4E2D\u5B66\u751F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-016",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-016S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shuko\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CGo Go Stew\u0027s!\u003E]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-017",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-017S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Go Go Stew\u0027s! Shuko",
+        "JP": "Go Go \u3057\u3061\u3085\u30FC\u2019s! \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have cards with \u0022Yuu\u0022, \u0022Chiharu\u0022, and \u0022Shuko\u0022 in their card names on your member or retire areas, this character gets \u002B3/\u002B5.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u6709\u300B\u3068\u300A\u5343\u6625\u300B\u3068\u300A\u5468\u5B50\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF15\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-018",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-018S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Shuko",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s entries, and until end of turn, that character\u0027s next attack cannot be a partner attack.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-019",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-019S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "I\u0027m writing a thesis.",
+            "JP": "\u8AD6\u6587\u3092\u66F8\u3044\u3066\u3044\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Genius Middle School Student? Shuko",
+        "JP": "\u5929\u624D\u4E2D\u5B66\u751F\uFF1F \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "I\u0027m writing a thesis.",
+        "JP": "\u8AD6\u6587\u3092\u66F8\u3044\u3066\u3044\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-020",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-020S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Shuko",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Put a card from your hand into your waiting room], and your entry gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D \u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-021",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-021S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Soccer",
+            "JP": "\u8DA3\u5473\uFF1A\u30B5\u30C3\u30AB\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Still Growing, Shuko",
+        "JP": "\u307E\u3060\u307E\u3060\u6210\u9577\u4E2D \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Hobby: Soccer",
+        "JP": "\u8DA3\u5473\uFF1A\u30B5\u30C3\u30AB\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-022",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-022SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_022sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Kei",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Snow on the Way Home\u0022]:This character gets \u002B1/\u002B1 for every two energy you have.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u51AC\u306E\u5E30\u308A\u9053\u306B\u300B\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-023",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-023S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "TRenity, Kei",
+        "JP": "\u30C8Re\u30CB\u30C6\u30A3 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CTRenity\u003E]:Choose one of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-024",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-024S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Kei",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry or member area from hand, choose one of your allied partners, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-025",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-025S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hello? Yuu? I was watching the TV.",
+            "JP": "\u3082\u3057\u3082\u3057\u6709\u3061\u3083\u3093\uFF1F\u30C6\u30EC\u30D3\u898B\u305F\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unforgettable Childhood Friend, Kei",
+        "JP": "\u5FD8\u308C\u3089\u308C\u306A\u3044\u5E7C\u99B4\u67D3 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Hello? Yuu? I was watching the TV.",
+        "JP": "\u3082\u3057\u3082\u3057\u6709\u3061\u3083\u3093\uFF1F\u30C6\u30EC\u30D3\u898B\u305F\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, if you have a member with \u0022Yuu\u0022 in its card name, this character gets \u002B5/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u6709\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-026",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-026S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Tea ceremonies",
+            "JP": "\u8DA3\u5473\uFF1A\u8336\u9053"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tea Ceremony Time, Kei",
+        "JP": "\u8336\u9053\u306E\u6642\u9593 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Hobby: Tea ceremonies",
+        "JP": "\u8DA3\u5473\uFF1A\u8336\u9053"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-027",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-027S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kei\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 for every two energy you have.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-028",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-028S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Kei",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-029",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-029SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_029sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Yuki",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Rest (4) Energy], choose one of your other \u003CTRenity\u003E members, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D \u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-030",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-030S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Here.",
+            "JP": "\u306F\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Valentine, Yuki",
+        "JP": "\u30D0\u30EC\u30F3\u30BF\u30A4\u30F3 \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Here.",
+        "JP": "\u306F\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Happy Valentine\u0022]:[Rest (2) Energy], and this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30CF\u30C3\u30D4\u30FC\u30D0\u30EC\u30F3\u30BF\u30A4\u30F3\u300B\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D \u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-031",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-031S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "TRenity, Yuki",
+        "JP": "\u30C8Re\u30CB\u30C6\u30A3 \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CTRenity\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CTRenity\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-032",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-032S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Yuki",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):When you put an energy from your hand during your energy phase, you can put one more.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u30D5\u30A7\u30A4\u30BA\u306B\u624B\u672D\u304B\u3089\u30A8\u30CD\u30EB\u30AE\u30FC\u3092\u7F6E\u304F\u969B\u3001\u3042\u306A\u305F\u306F\u8FFD\u52A0\u3067\uFF11\u679A\u7F6E\u3051\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-033",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-033S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Kendo",
+            "JP": "\u8DA3\u5473\uFF1A\u5263\u9053"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sword Master? Yuki",
+        "JP": "\u5263\u306E\u9054\u4EBA\uFF1F \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Hobby: Kendo",
+        "JP": "\u8DA3\u5473\uFF1A\u5263\u9053"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put any number of cards from your hand into your waiting room], and this character gets \u002B3/\u002B3 until end of turn for each card put into your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u671B\u3080\u679A\u6570\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-034",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-034S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuki\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-035",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-035S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Yuki",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-036",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-036SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_036sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Miyako",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a \u003CTRenity\u003E from your energy, and put it into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-037",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-037S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Miyako\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Signal Jamming\u0022][1/Turn]:When this character retires an opponent\u0027s character, choose one each of each player\u0027s members, and put them into the energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u96FB\u6CE2\u59A8\u5BB3\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-038",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-038S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "TRenity, Miyako",
+        "JP": "\u30C8Re\u30CB\u30C6\u30A3 \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CTRenity\u003E]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-039",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-039S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Miyako",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-040",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-040S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Miyako",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-041",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-041S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Let\u0027s do something that doesn\u0027t need a signal.",
+            "JP": "\u96FB\u6CE2\u306E\u3044\u3089\u306A\u3044\u3053\u3068\u3092\u3057\u307E\u3057\u3087\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "According to Plan? Miyako",
+        "JP": "\u8A08\u753B\u901A\u308A\uFF1F \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "EN": "Let\u0027s do something that doesn\u0027t need a signal.",
+        "JP": "\u96FB\u6CE2\u306E\u3044\u3089\u306A\u3044\u3053\u3068\u3092\u3057\u307E\u3057\u3087\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When the attack this character supported a character with \u0022Kei\u0022 or \u0022Yuki\u0022 in its card name retires an opponent\u0027s character, you may put this character onto your energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A \u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u300A\u572D\u300B\u304B\u300A\u96EA\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u3067\u3001\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-042",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-042S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Flower arrangement",
+            "JP": "\u8DA3\u5473\uFF1A\u83EF\u9053"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Perfect Flower Arrangement, Miyako",
+        "JP": "\u83EF\u9053\u3082\u3070\u3063\u3061\u308A \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Hobby: Flower arrangement",
+        "JP": "\u8DA3\u5473\uFF1A\u83EF\u9053"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-043",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-043SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_043sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Ao",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry/Member)[ReCombo \u0022Mad Scientist\u0022]:If you have four or less cards in hand, when your \u003C\u2042 (Asterism)\u003E would be put from entry area onto member area, it may be put onto a member area with a character.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30DE\u30C3\u30C9\u30B5\u30A4\u30A8\u30F3\u30C6\u30A3\u30B9\u30C8\u300B\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\u304C\uFF14\u679A\u4EE5\u4E0B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u969B\u3001\u30AD\u30E3\u30E9\u306E\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u306B\u3082\u7F6E\u3051\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-044",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-044S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Experiments, research",
+            "JP": "\u8DA3\u5473\uFF1A\u5B9F\u9A13\u3001\u7814\u7A76"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Research Time, Ao",
+        "JP": "\u7814\u7A76\u306E\u6642\u9593 \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Hobby: Experiments, research",
+        "JP": "\u8DA3\u5473\uFF1A\u5B9F\u9A13\u3001\u7814\u7A76"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose one of your \u003C\u2042 (Asterism)\u003E members and put it into your waiting room], choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-045",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-045S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Asterism, Ao",
+        "JP": "\u2042 \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, and put a card from your hand on the bottom of your deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5 \u003C\u2042 (Asterism)\u003E]:If you have three or more members, this character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-046",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-046S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Ao",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-047",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-047S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ao\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u9752"
+      },
+      "Traits": [
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-048",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-048S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Ao",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this card is put onto entry or member area from hand, your opponent cannot use [Cancel] until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u624B\u672D\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-049",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-049S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "It feels like I\u0027m a herbivore.",
+            "JP": "\u8349\u98DF\u52D5\u7269\u306B\u306A\u3063\u305F\u6C17\u6301\u3061\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Became a Herbivore, Ao",
+        "JP": "\u8349\u98DF\u52D5\u7269\u306B\u306A\u3063\u305F \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 4,
+      "DEF": 1,
+      "Flavor": {
+        "EN": "It feels like I\u0027m a herbivore.",
+        "JP": "\u8349\u98DF\u52D5\u7269\u306B\u306A\u3063\u305F\u6C17\u6301\u3061\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-050",
+      "Name": {
+        "EN": "Rebirth Player, Kozue",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Leave Your Troubles To Me\u0022][Skill Showcase Level 5 \u003C\u2042 (Asterism)\u003E]:When you would put Rebirths into your waiting room at the end of your turn, you may leave one.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u60A9\u307F\u4E8B\u306F\u304A\u307E\u304B\u305B\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\uFF11\u679A\u6B8B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-051",
+      "Name": {
+        "EN": "Asterism, Kozue",
+        "JP": "\u2042 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put an \u003C\u2042 (Asterism)\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-052",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-052S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kozue\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003C\u2042 (Asterism)\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003C\u2042 (Asterism)\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-053",
+      "Name": {
+        "EN": "Often Accurate? Fortune-Telling, Kozue",
+        "JP": "\u3088\u304F\u5F53\u305F\u308B\uFF1F\u5360\u3044 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u8DA3\u5473\uFF1A\u546A\u3044\uFF08\u307E\u3058\u306A\u3044\uFF09\u3001\u30CF\u30F3\u30C9\u30AF\u30E9\u30D5\u30C8"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Rest (4) Energy], choose your entry and put it on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D \u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-054",
+      "Name": {
+        "EN": "Resting Time, Kozue",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Attacks on this character cannot be partner attacks until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-055",
+      "Name": {
+        "EN": "Morning\u0027s Moment, Kozue",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have no members, you may put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-056",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-056S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Actually, I have something to talk to you about.",
+            "JP": "\u3042\u306E\u306D\u3001\u5B9F\u306F\u6709\u3061\u3083\u3093\u306B\u304A\u8A71\u304C\u3042\u308B\u306E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Person Who Loves Fortune Telling, Kozue",
+        "JP": "\u5360\u3044\u3092\u611B\u3059\u308B\u8005 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "Actually, I have something to talk to you about.",
+        "JP": "\u3042\u306E\u306D\u3001\u5B9F\u306F\u6709\u3061\u3083\u3093\u306B\u304A\u8A71\u304C\u3042\u308B\u306E"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-057",
+      "Name": {
+        "EN": "Rebirth Player, Ikumi",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose an \u003C\u2042 (Asterism)\u003E from your hand, and you may switch its position with the entry.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Star\u0027s Guidance\u0022]:This character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u661F\u306E\u5C0E\u304D\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-058",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-058S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Asterism, Ikumi",
+        "JP": "\u2042 \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5 \u003C\u2042 (Asterism)\u003E]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-059",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-059S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ikumi\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each \u003C\u2042 (Asterism)\u003E in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-060",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-060S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Hobby: Stargazing",
+            "JP": "\u8DA3\u5473\uFF1A\u5929\u4F53\u89B3\u6E2C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Star Alignment, Ikumi",
+        "JP": "\u661F\u306E\u5DE1\u308A\u5408\u308F\u305B \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Hobby: Stargazing",
+        "JP": "\u8DA3\u5473\uFF1A\u5929\u4F53\u89B3\u6E2C"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3 \u003C\u2042 (Asterism)\u003E]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-061",
+      "Name": {
+        "EN": "Resting Time, Ikumi",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports an \u003C\u2042 (Asterism)\u003E, [put this character on the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-062",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-062S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Morning\u0027s Moment, Ikumi",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-063",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-063S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Since double-dipping is forbidden.",
+            "JP": "\u4E8C\u5EA6\u3065\u3051\u7981\u6B62\u3060\u304B\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No Double Dipping, Ikumi",
+        "JP": "\u4E8C\u5EA6\u3065\u3051\u7981\u6B62 \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Since double-dipping is forbidden.",
+        "JP": "\u4E8C\u5EA6\u3065\u3051\u7981\u6B62\u3060\u304B\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-064",
+      "Name": {
+        "EN": "Rebirth Player, Juri",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022True Face of a Musician\u0022][Skill Showcase Level 7 \u003CVenus\u003E][1/Turn]:[Rest (1) Energy], and choose one of the following.\ni. This character gets \u002B5/\u00B10 until end of turn.\nii. Until end of turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30DF\u30E5\u30FC\u30B8\u30B7\u30E3\u30F3\u306E\u7D20\u9854\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D \u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\n\u2171\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-065",
+      "Name": {
+        "EN": "Morning\u0027s Moment, Juri",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When you block this character with a card with \u0022Yutaka\u0022 in its card name, that attack cannot be a partner attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u300A\u8C4A\u300B\u3067\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u305D\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-066",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-066S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Venus, Juri",
+        "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CVenus\u003E]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-067",
+      "Name": {
+        "EN": "Guitarist, Juri",
+        "JP": "\u30AE\u30BF\u30EA\u30B9\u30C8 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u8DA3\u5473\uFF1A\u30AE\u30BF\u30FC\u3001\u697D\u5668\u6F14\u594F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 7]:During the first attack of this character each turn, this character gets \u002B7/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF17/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-068",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-068S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Juri",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-069",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-069S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Juri\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-070",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-070S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Where\u0027s your proof that we did it?!",
+            "JP": "\u3042\u305F\u3057\u305F\u3061\u304C\u3084\u3063\u305F\u3063\u3066\u8A3C\u62E0\u304C\u3069\u3053\u306B\u3042\u308B\u3093\u3060\u3088\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Captive, Juri",
+        "JP": "\u6355\u3089\u308F\u308C\u306E\u8EAB \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Where\u0027s your proof that we did it?!",
+        "JP": "\u3042\u305F\u3057\u305F\u3061\u304C\u3084\u3063\u305F\u3063\u3066\u8A3C\u62E0\u304C\u3069\u3053\u306B\u3042\u308B\u3093\u3060\u3088\u30FC\u30FC\u30FC\u30FC\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-071",
+      "Name": {
+        "EN": "Rebirth Player, Yutaka",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo \u0022Daily Troubles Thanks to the Two\u0022]:Your other \u003CVenus\u003E members cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A2\u4EBA\u306E\u304A\u304B\u3052\u3067\u5927\u5909\u306A\u6BCE\u65E5\u300B\uFF1A\u3042\u306A\u305F\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 5]:When this character is put onto your member area, except from entry area, choose one of your entries, and it gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-072",
+      "Name": {
+        "EN": "Morning\u0027s Moment, Yutaka",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a \u003CVenus\u003E from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-073",
+      "Name": {
+        "EN": "Yutaka\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CVenus\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CVenus\u003E character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-074",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-074S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Resting Time, Yutaka",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CVenus\u003E]:Choose one of your allied members, and your opponent cannot choose that character until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-075",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-075S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Venus, Yutaka",
+        "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9 \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a \u003CVenus\u003E, [put this character on the bottom of your deck], and the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-076",
+      "Name": {
+        "EN": "The Trumpet is My Hobby, Yutaka",
+        "JP": "\u8DA3\u5473\u306F\u30C8\u30E9\u30F3\u30DA\u30C3\u30C8 \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8DA3\u5473\uFF1A\u30C8\u30E9\u30F3\u30DA\u30C3\u30C8"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-077",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-077S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "If you don\u0027t cover up your stomach properly, you\u0027ll catch a cold, Juri!",
+            "JP": "\u6A39\u91CC\u3061\u3083\u3093\uFF01\u304A\u306A\u304B\u306F\u3061\u3083\u3093\u3068\u3057\u307E\u308F\u306A\u3044\u3068\u51B7\u3048\u3061\u3083\u3046\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Worrying About Others Even At A Time Like This, Yutaka",
+        "JP": "\u3053\u3093\u306A\u3068\u304D\u3067\u3082\u4ED6\u4EBA\u306E\u5FC3\u914D \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "If you don\u0027t cover up your stomach properly, you\u0027ll catch a cold, Juri!",
+        "JP": "\u6A39\u91CC\u3061\u3083\u3093\uFF01\u304A\u306A\u304B\u306F\u3061\u3083\u3093\u3068\u3057\u307E\u308F\u306A\u3044\u3068\u51B7\u3048\u3061\u3083\u3046\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-078",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-078SP\u002B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_078sp_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth Player, Saki",
+        "JP": "Re\u30D0\u30FC\u30B9\u30D7\u30EC\u30A4\u30E4\u30FC \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Wanted!?\u0022]:When this character retires an opponent\u0027s character, draw a card. If a card with \u0022Yutaka\u0022 in its card name supported that attack, then draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6307\u540D\u624B\u914D\uFF01\uFF1F\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\u305D\u306E\u30A2\u30BF\u30C3\u30AF\u304C\u300A\u8C4A\u300B\u306B\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u306A\u3089\u3001\u3055\u3089\u306B\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-079",
+      "Name": {
+        "EN": "Morning\u0027s Moment, Saki",
+        "JP": "\u671D\u306E\u3072\u3068\u3068\u304D \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 7 \u003CVenus\u003E]:When this character is placed on your entry area from hand, [put a card from your hand into your waiting room], and draw three cards.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF13\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-080",
+      "Name": {
+        "EN": "Venus, Saki",
+        "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5 \u003CVenus\u003E]:Choose a character from your waiting room, and you may put it onto your energy or open member area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-081",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-081S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saki\u0027s Plain Clothes",
+        "JP": "\u79C1\u670D\u306E\u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-082",
+      "Name": {
+        "EN": "Singing Voice, Saki",
+        "JP": "\u97FF\u304D\u6E21\u308B\u6B4C\u58F0 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u8DA3\u5473\uFF1A\u6B4C"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 7 \u003CVenus\u003E]:When this character retires an opponent\u0027s character, choose a character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-083",
+      "Name": {
+        "EN": "Resting Time, Saki",
+        "JP": "\u304A\u4F11\u307F\u306E\u6642\u9593 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have no members, you may put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-084",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-084S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Juri: \u0022But you were the one who told me to do it in the first place!\u0022",
+            "JP": "\u6A39\u91CC\u300C\u5143\u306F\u3068\u3044\u3048\u3070\u6C99\u5E0C\u304C\u3084\u308D\u3046\u3063\u3066\u8A00\u3063\u305F\u3093\u3058\u3083\u30FC\u3093\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mastermind of the Incident, Saki",
+        "JP": "\u4E8B\u4EF6\u306E\u9ED2\u5E55\uFF01\uFF1F \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        },
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Juri: \u0022But you were the one who told me to do it in the first place!\u0022",
+        "JP": "\u6A39\u91CC\u300C\u5143\u306F\u3068\u3044\u3048\u3070\u6C99\u5E0C\u304C\u3084\u308D\u3046\u3063\u3066\u8A00\u3063\u305F\u3093\u3058\u3083\u30FC\u3093\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-085",
+      "Name": {
+        "EN": "twinkle\u2661way, Kanna",
+        "JP": "twinkle\u2661way \u30AB\u30F3\u30CA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "2\u4EBA\u5408\u308F\u305B\u3066\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When your [Growing] is placed on entry area from your hand, that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When your [Growing] is placed on entry area from your deck, that character gets \u00B10/\u002B1 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u30C7\u30C3\u30AD\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-086",
+      "Name": {
+        "EN": "Legendary Senior? Kanna",
+        "JP": "\u4F1D\u8AAC\u306E\u5148\u8F29\uFF1F \u30AB\u30F3\u30CA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u003Ctwinkle\u2661way\u003E member, look at three cards from the top of your deck, reveal any number of cards with [Relaxing] from among them and put them into your hand, and put the rest into your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3014twinkle\u2661way\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u671B\u3080\u679A\u6570\u516C\u958B\u3057\u3066\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-087",
+      "Name": {
+        "EN": "twinkle\u2661way, Kurumi",
+        "JP": "twinkle\u2661way \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "twinkle\u2661way\u3067\u30FC\u3063\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have a [Growing] entry, [Growing] or \u003Ctwinkle\u2661way\u003E cards in your hand with the same cost can be used to block. (Use as if they have [Blocker])",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u3001\u624B\u672D\u306B\u3042\u308B\u540C\u3058\u30B3\u30B9\u30C8\u306E\u3001\u3010\u306E\u3073\u3057\u308D\u3011\u304B\u3014twinkle\u2661way\u3015\u3067\u30D6\u30ED\u30C3\u30AF\u3067\u304D\u308B\u3002\uFF08\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3067\u3042\u308B\u304B\u306E\u3088\u3046\u306B\u4F7F\u3048\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-088",
+      "Name": {
+        "EN": "Legendary Senior? Kurumi",
+        "JP": "\u4F1D\u8AAC\u306E\u5148\u8F29\uFF1F \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:If you have more cards in your retire area than your opponent, your [Growing] entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-089",
+      "Name": {
+        "EN": "Towards the National Tournament!",
+        "JP": "\u76EE\u6307\u305B\u5168\u56FD\u5927\u4F1A\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Flavor": {
+        "JP": "\u5343\u6625\uFF01\u5468\u3061\u3083\u3093\uFF01\u7279\u8A13\u3060\u3088\uFF01\u7279\u8A13\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-090",
+      "Name": {
+        "EN": "Deep-Fried Skewer Restaurant\u0027s Signboard Girl",
+        "JP": "\u4E32\u30AB\u30C4\u5C4B\u306E\u770B\u677F\u5A18"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Flavor": {
+        "JP": "\u304A\u5F85\u305F\u305B\u3057\u307E\u3057\u305F\u30FC\u3063\u3066\u5897\u3048\u3066\u308B\u3057\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-091",
+      "Name": {
+        "EN": "Genius Middle School Student",
+        "JP": "\u5929\u624D\u4E2D\u5B66\u751F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Flavor": {
+        "JP": "\u5148\u751F\u89E3\u3051\u307E\u3057\u305F\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-092",
+      "Name": {
+        "EN": "Snow on the Way Home",
+        "JP": "\u51AC\u306E\u5E30\u308A\u9053\u306B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Flavor": {
+        "JP": "\u308F\u3041\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-093",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-093SR\u002B",
+          "Rarity": "SR\u002B",
+          "Flavor": {
+            "EN": "Kei: \u0022It\u0027s a trade then.\u0022",
+            "JP": "\u572D\u300C\u3058\u3083\u3042\u3001\u4EA4\u63DB\u306D\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_093sr_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Happy Valentine",
+        "JP": "\u30CF\u30C3\u30D4\u30FC\u30D0\u30EC\u30F3\u30BF\u30A4\u30F3"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Flavor": {
+        "EN": "Kei: \u0022It\u0027s a trade then.\u0022",
+        "JP": "\u572D\u300C\u3058\u3083\u3042\u3001\u4EA4\u63DB\u306D\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-094",
+      "Name": {
+        "EN": "Signal Jamming",
+        "JP": "\u96FB\u6CE2\u59A8\u5BB3"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "ReC",
+      "Flavor": {
+        "EN": "Oh? This is weird. It looks like we can\u0027t get a signal in here.",
+        "JP": "\u3042\u308C\u308C\u30FC\uFF1F\u304A\u304B\u3057\u3044\u308F\u306D\u30FC\uFF1F \u96FB\u6CE2\u304C\u5165\u3089\u306A\u3044\u307F\u305F\u3044\u30FC\u30FC\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-095",
+      "Name": {
+        "EN": "Mad Scientist",
+        "JP": "\u30DE\u30C3\u30C9\u30B5\u30A4\u30A8\u30F3\u30C6\u30A3\u30B9\u30C8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "ReR",
+      "Flavor": {
+        "JP": "\u3053\u308C\u3092\u6442\u53D6\u3059\u308C\u3070\u3069\u3093\u306A\u306B\u5BDD\u4E0D\u8DB3\u3067\u3082\u30B7\u30E3\u30C3\u30AD\u30EA\u3001\u30B9\u30C3\u30AD\u30EA\u773C\u304C\u899A\u3081\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u306F\u8FFD\u52A0\u3067\u3082\u3046\u4E00\u5EA6\u767A\u52D5\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-096",
+      "Name": {
+        "EN": "Leave Your Troubles To Me",
+        "JP": "\u60A9\u307F\u4E8B\u306F\u304A\u307E\u304B\u305B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Flavor": {
+        "JP": "\u5360\u3044\u3092\u611B\u3059\u308B\u3082\u306E\u3068\u3057\u3066\u3001\u3042\u3042\u3044\u3046\u8F29\u306F\u3086\u308B\u305B\u306A\u3044\u3082\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-097",
+      "Name": {
+        "EN": "Star\u0027s Guidance",
+        "JP": "\u661F\u306E\u5C0E\u304D"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Flavor": {
+        "JP": "\u9752\u300C\u68A2\u2026\u2026\u300D \u68A2\u300C\u547C\u3093\u3060\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into your waiting room], and the next character to be put on your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D \u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-098",
+      "Name": {
+        "EN": "True Face of a Musician",
+        "JP": "\u30DF\u30E5\u30FC\u30B8\u30B7\u30E3\u30F3\u306E\u7D20\u9854"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReR",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-099",
+      "Name": {
+        "EN": "Daily Troubles Thanks to the Two",
+        "JP": "\uFF12\u4EBA\u306E\u304A\u304B\u3052\u3067\u5927\u5909\u306A\u6BCE\u65E5"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "ReC",
+      "Flavor": {
+        "JP": "\u572D\u300C\u3069\u3046\u3057\u3066\u304A\u5C0B\u306D\u3082\u306E\u306B\uFF01\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-100",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-100SR\u002B",
+          "Rarity": "SR\u002B",
+          "Flavor": {
+            "EN": "Juri is the sole offender here. Me and Yutaka did nothing wrong.",
+            "JP": "\u3053\u308C\u306F\u6A39\u91CC\u306E\u5358\u72EC\u72AF\u3088\u2026\u8C4A\u3068\u79C1\u306B\u7F6A\u306F\u306A\u3044\u306E\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_100sr_plus.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wanted!?",
+        "JP": "\u6307\u540D\u624B\u914D\uFF01\uFF1F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "ReC",
+      "Flavor": {
+        "EN": "Juri is the sole offender here. Me and Yutaka did nothing wrong.",
+        "JP": "\u3053\u308C\u306F\u6A39\u91CC\u306E\u5358\u72EC\u72AF\u3088\u2026\u8C4A\u3068\u79C1\u306B\u7F6A\u306F\u306A\u3044\u306E\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P01",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P01SEC",
+          "Rarity": "SEC",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p01sec.png"
+          ]
+        },
+        {
+          "Serial": "RE/001B-P01UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p01ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuu Higashiyama",
+        "JP": "\u6771\u5C71 \u6709"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P02",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P02UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p02ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiharu Wakamiya",
+        "JP": "\u82E5\u5BAE \u5343\u6625"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P03",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P03UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p03ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shuko Mino",
+        "JP": "\u7F8E\u6FC3 \u5468\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P04",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P04UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p04ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ao Nekogahora",
+        "JP": "\u732B\u30F6\u6D1E \u9752"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p04.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P05",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P05UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p05ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kozue Kasugai",
+        "JP": "\u6625\u65E5\u4E95 \u68A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p05.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P06",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P06UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p06ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ikumi Okazaki",
+        "JP": "\u5CA1\u5D0E \u80B2\u672A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p06.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P07",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P07SEC",
+          "Rarity": "SEC",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p07sec.png"
+          ]
+        },
+        {
+          "Serial": "RE/001B-P07UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p07ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kei Todo",
+        "JP": "\u85E4\u5802 \u572D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p07.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P08",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P08UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p08ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Miyako Aizen",
+        "JP": "\u611B\u67D3 \u4EAC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p08.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P09",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P09UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p09ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuki Sakuragi",
+        "JP": "\u685C\u6728 \u96EA"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p09.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P10",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P10UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p10ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Juri Torigoe",
+        "JP": "\u9CE5\u8D8A \u6A39\u91CC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p10.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P11",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P11UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p11ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yutaka Komagata",
+        "JP": "\u99D2\u5F62 \u8C4A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p11.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    },
+    {
+      "Serial": "RE/001B-P12",
+      "Alternates": [
+        {
+          "Serial": "RE/001B-P12UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p12ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saki Kotobuki",
+        "JP": "\u5BFF \u6C99\u5E0C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REBP/re001b_p12.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001B",
+        "Name": "Booster Pack Rebirth"
+      }
+    }
+  ]
+}

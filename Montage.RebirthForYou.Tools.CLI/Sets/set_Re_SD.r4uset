@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "Re/SD-0001",
+      "Name": {
+        "EN": "Love \u0022Rebirth\u0022, Yuu",
+        "JP": "\u300CRe\u30D0\u30FC\u30B9\u300D\u5927\u597D\u304D\uFF01 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "I finally met everyone!",
+        "JP": "\u3084\u3063\u3068\u307F\u3093\u306A\u3068\u4F1A\u3048\u305F\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, you may return this character to the bottom of your deck. If you do, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u5C71\u672D\u306E\u4E0B\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u305D\u3046\u3057\u305F\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0002",
+      "Name": {
+        "EN": "Today\u0027s Recommendation, Chiharu",
+        "JP": "\u4ECA\u65E5\u306E\u30AA\u30B9\u30B9\u30E1 \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Would you like deep-fried skewers? Or Rebirth?",
+        "JP": "\u4E32\u30AB\u30C4\u306B\u3059\u308B\uFF1F \u305D\u308C\u3068\u3082Re\u30D0\u30FC\u30B9\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0003",
+      "Name": {
+        "EN": "Together with Luck-chan, Shuko",
+        "JP": "\u30E9\u30AF\u3061\u3083\u3093\u3068\u4E00\u7DD2 \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Let\u0027s spread the Rebirth more!",
+        "JP": "Re\u30D0\u30FC\u30B9\u3092\u3082\u3063\u3068\u5E83\u3052\u3066\u3044\u304D\u307E\u3057\u3087\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF08\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u624B\u672D\u304B\u3089\u3059\u3066\u308B\u3068\u3001\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0004",
+      "Name": {
+        "EN": "Even When Apart, Kei",
+        "JP": "\u96E2\u308C\u3066\u3044\u3066\u3082 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "I want to see Yuu soon...",
+        "JP": "\u6709\u3061\u3083\u3093\u306B\u65E9\u304F\u4F1A\u3044\u305F\u3044\u306A\u3042\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, you may Rest (2) Energy. If you do, the supported character gets \u002B2/\u00B10 until end of that attack.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F[\u30A8\u30CD\u2461]\u3057\u3066\u3088\u3044\u3002\u305D\u3046\u3057\u305F\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0005",
+      "Name": {
+        "EN": "Pure and Righteous Armed Intervention, Miyako",
+        "JP": "\u6E05\u304F\u6B63\u3057\u304F\u6B66\u529B\u4ECB\u5165 \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "Kei is always talking about that girl...!",
+        "JP": "\u572D\u306F\u3044\u3064\u3082\u3042\u306E\u5B50\u306E\u3053\u3068\u3070\u3063\u304B\u308A\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0006",
+      "Name": {
+        "EN": "Actually a Glutton? Yuki",
+        "JP": "\u5B9F\u306F\u98DF\u3044\u3057\u3093\u574A\uFF1F \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "This is like a piece of cake.",
+        "JP": "\u3053\u308C\u304F\u3089\u3044\u306F\u671D\u98EF\u524D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0007",
+      "Name": {
+        "EN": "Quest for the Unknown, Ao",
+        "JP": "\u672A\u77E5\u3078\u306E\u63A2\u6C42 \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "\u0022Rebirth\u0022... this is worth studying...",
+        "JP": "\u300CRe\u30D0\u30FC\u30B9\u300D\u2026\u3053\u308C\u306F\u7814\u7A76\u3057\u7532\u6590\u304C\u3042\u308B\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0008",
+      "Name": {
+        "EN": "Mysterious Look, Kozue",
+        "JP": "\u898B\u305F\u76EE\u306F\u30DF\u30B9\u30C6\u30EA\u30A2\u30B9 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "It was a vivid feeling of \u0022Fate\u0022\u2665",
+        "JP": "\u30D3\u30D3\u30C3\u3068\u300E\u904B\u547D\u300F\u611F\u3058\u3061\u3083\u3063\u305F\u2665"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0009",
+      "Name": {
+        "EN": "Thinking of the Cosmos, Ikumi",
+        "JP": "\u5B87\u5B99\u3092\u60F3\u3046 \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "We are like, these balloons floating in the cosmos.",
+        "JP": "\u79C1\u305F\u3061\u3063\u3066\u3001\u5B87\u5B99\u3092\u6F02\u3046\u3053\u306E\u98A8\u8239\u307F\u305F\u3044\u3060\u306D\u30FB\u30FB\u30FB"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0010",
+      "Name": {
+        "EN": "Love Having Fun! Juri",
+        "JP": "\u697D\u3057\u3044\u3053\u3068\u5927\u597D\u304D\uFF01 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Everyone! Are you excited!?",
+        "JP": "\u307F\u3093\u306A\u30FC\uFF01\u76DB\u308A\u4E0A\u304C\u3063\u3066\u308B\u30FC\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u767B\u5834\u3057\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0011",
+      "Name": {
+        "EN": "Ordinary Girl, Yutaka",
+        "JP": "\u666E\u901A\u306E\u5973\u306E\u5B50 \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "N-Nice to meet you!",
+        "JP": "\u3088\u3001\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u30FC\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0012",
+      "Name": {
+        "EN": "Freedom, Saki",
+        "JP": "\u30D5\u30EA\u30FC\u30C0\u30E0 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "What is this glowstick...?",
+        "JP": "\u3053\u306E\u5149\u308B\u68D2\u306F\u4F55\u304B\u3057\u3089\u2026\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0013",
+      "Name": {
+        "EN": "Came to See You, Yuu",
+        "JP": "\u4F1A\u3044\u306B\u6765\u305F\u3088 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Tebasaki High School",
+          "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "Fun is...",
+        "JP": "\u305F\u306E\u3057\u3044\u306F\u2015"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, this character gets \u002B3/\u00B10 until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0014",
+      "Name": {
+        "EN": "Came to See You, Kei",
+        "JP": "\u4F1A\u3044\u306B\u6765\u305F\u3088 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Saint Panda Girls Academy",
+          "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "... invincible!",
+        "JP": "\u2015\u7121\u6575\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B2/\u002B1.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0015",
+      "Name": {
+        "EN": "Tebasaki High School",
+        "JP": "\u624B\u7FBD\u5148\u9AD8\u6821"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Flavor": {
+        "EN": "A very ordinary high school in Osu, Nagoya!",
+        "JP": "\u540D\u53E4\u5C4B\u30FB\u5927\u9808\u306B\u3042\u308B\u3054\u304F\u666E\u901A\u306E\u9AD8\u6821\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-0016",
+      "Name": {
+        "EN": "Saint Panda Girls Academy",
+        "JP": "\u30BB\u30F3\u30C8\u30D1\u30F3\u30C0\u5973\u5B66\u9662"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "SD",
+      "Flavor": {
+        "EN": "A consistent girl\u0027s middle and high school in Ueno, Tokyo!",
+        "JP": "\u6771\u4EAC\u30FB\u4E0A\u91CE\u306B\u3042\u308B\u4E2D\u9AD8\u4E00\u8CAB\u306E\u304A\u5B22\u69D8\u5B66\u6821\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_0016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-P001",
+      "Name": {
+        "EN": "Yuu Higashiyama",
+        "JP": "\u6771\u5C71 \u6709"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_P001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-P002",
+      "Name": {
+        "EN": "Chiharu Wakamiya",
+        "JP": "\u82E5\u5BAE \u5343\u6625"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_P002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    },
+    {
+      "Serial": "Re/SD-P003",
+      "Name": {
+        "EN": "Shuko Mino",
+        "JP": "\u7F8E\u6FC3 \u5468\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "SD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/RESD/re_sd_P003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "Re/SD",
+        "Name": "Teaching Deck \u0022Rebirth\u0022"
+      }
+    }
+  ]
+}
