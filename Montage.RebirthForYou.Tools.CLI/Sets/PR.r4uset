@@ -1448,7 +1448,7 @@
       },
       "Effect": [
         {
-          "EN": "[CONT]:Your [Spark] effects activate an additional time.\n[CONT]:During the first attack of each turn, your entry gets +1/±0.",
+          "EN": "[Spark]: [Choose 1 of your partners and return it into your hand] You may pay the cost. If you do, move this card into a member area. (It does not have to be empty.)",
           "JP": "【スパーク】：あなたは自分のパートナーから1枚選び、手札に戻すことで、このキャラをメンバーに置く。（空席でなくてもよい）"
         }
       ],
