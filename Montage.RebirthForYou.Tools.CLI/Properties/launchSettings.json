@@ -36,14 +36,6 @@
       "commandName": "Project",
       "commandLineArgs": "parse ./Sets/PR.r4uset"
     },
-    "Parse IMC": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/02/24/imc-001b-full-set-list/"
-    },
-    "Parse IMC TD": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/27/imc-001t-full-set-list/"
-    },
     "Export DeckLog IMC": {
       "commandName": "Project",
       "commandLineArgs": "export https://decklog.bushiroad.com/view/QM3F --with sendtcp --out sharex"
@@ -143,6 +135,14 @@
     "Parse RE/002B (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/06/23/re-002b-full-set-list/"
+    },
+    "Parse SSSS/002T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/09/15/ssss-002t-full-set-list/"
+    },
+    "Parse GZ/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/10/07/gz-001b-full-set-list/"
     }
   }
 }

@@ -140,7 +140,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             // Format: Cost <Cost> / <Series Name> / <Traits>
             cursor.Next();
             var secondLine = cursor.CurrentLine.ToString();
-            if (costSeriesTraitMatcher.IsMatch(secondLine))
+            if (TryGetExceptionalCostTraitLine(secondLine, out var errataResult)) {
+                card.Type = errataResult?.Type;
+                card.Cost = errataResult?.Cost;
+                card.Traits = errataResult?.Traits.Select(te => new MultiLanguageString { EN = te }).ToList();
+            }
+            else if (costSeriesTraitMatcher.IsMatch(secondLine))
             {
                 card.Type = CardType.Character;
                 var secondLineMatch = costSeriesTraitMatcher.Match(cursor.CurrentLine.ToString());
@@ -151,25 +156,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     .Where(str => str != "(Traitless)") //
                     .Select(t => new MultiLanguageString() { EN = t }) //
                     .ToList();
-
-                cursor.Next();
-                card.ATK = cursor.CurrentLine["ATK ".Length..]
-                    .AsParsed<int>(int.TryParse);
-
-                cursor.Next();
-                string defLine = cursor.CurrentLine.ToString();
-                card.DEF = cursor.CurrentLine["DEF ".Length..]
-                    .AsParsed<int>(int.TryParse);
-
-                Regex flavorTextMatcher = new(@"" + defLine + @"<br><em>(.+)</em><br>");
-                if (flavorTextMatcher.IsMatch(content))
-                {
-                    cursor.Next();
-                    card.Flavor = new MultiLanguageString
-                    {
-                        EN = cursor.CurrentLine.ToString() // flavorTextMatcher.Match(content).Groups[1].Value;
-                    };
-                }
             }
             else if (seriesRebirthMatcher.IsMatch(secondLine))
             {
@@ -190,6 +176,28 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             {
                 card.Type = CardType.Partner;
                 card.Color = CardColor.Red;
+            }
+
+            if (card.Type == CardType.Character)
+            { 
+                cursor.Next();
+                card.ATK = cursor.CurrentLine["ATK ".Length..]
+                    .AsParsed<int>(int.TryParse);
+
+                cursor.Next();
+                string defLine = cursor.CurrentLine.ToString();
+                card.DEF = cursor.CurrentLine["DEF ".Length..]
+                    .AsParsed<int>(int.TryParse);
+
+                Regex flavorTextMatcher = new(@"" + defLine + @"<br><em>(.+)</em><br>");
+                if (flavorTextMatcher.IsMatch(content))
+                {
+                    cursor.Next();
+                    card.Flavor = new MultiLanguageString
+                    {
+                        EN = cursor.CurrentLine.ToString() // flavorTextMatcher.Match(content).Groups[1].Value;
+                    };
+                }
             }
 
             if (card.Color != CardColor.Red)
@@ -214,6 +222,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 detailedDupCard.Name = dupCard.Name;
                 yield return detailedDupCard;
             }
+        }
+
+        private bool TryGetExceptionalCostTraitLine(string line, out (int? Cost, CardType Type, string[] Traits)? errata)
+        {
+            errata = line switch
+            {
+                "Cost 2/ Rebirth / Rebirth – Go Go Stew’s!" => (
+                    Cost: 2,
+                    Type: CardType.Character,
+                    Traits: new[] { "Rebirth", "Go Go Stew's!" }
+                    ),
+                _ => null
+            };
+            return errata != null;
         }
 
         private bool TryGetExceptionalSerialRarityName(string line, out (string Serial, string Rarity, MultiLanguageString Name)[] exceptionalResult)
@@ -253,20 +275,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     => new[] { (Serial: "SSSS/001B-080", Rarity: "C", Name: new MultiLanguageString { EN = "Kaiju of Many Difficulties, Go’yavec", JP = "多事多難怪獣 ゴーヤベック" }) },
                 "HG/001B-102 Re 励ましの言葉 Words of Encouragement"
                     => new[] { (Serial: "HG/001B-102SP", Rarity: "ReSP", Name: new MultiLanguageString { EN = "Words of Encouragement", JP = "励ましの言葉" }) },
-                //"HG/001B-103SP ReSP カケラの鑑賞者 Viewer of the Fragments"
-                //    => new[] { (Serial: "HG/001B-103SP", Rarity: "ReSP", Name: new MultiLanguageString { EN = "Viewer of the Fragments", JP = "カケラの鑑賞者" }) },
-                /*
-            "SSSS/001T-004 宝多 六花 Rikka Takarada"
-                => new[] { (Serial: "SSSS/001T-004", Rarity: "TD", Name: new MultiLanguageString { EN = "Rikka Takarada", JP = "宝多 六花" }) },
-            "SSSS/001T-005 新条 アカネ Akane Shinjo"
-                => new[] { (Serial: "SSSS/001T-005", Rarity: "TD", Name: new MultiLanguageString { EN = "Akane Shinjo", JP = "新条 アカネ" }) },
-            "SSSS/001T-006 サムライ・キャリバー Samurai Calibur"
-                => new[] { (Serial: "SSSS/001T-006", Rarity: "TD", Name: new MultiLanguageString { EN = "Samurai Calibur", JP = "サムライ・キャリバー" }) },
-            "SSSS/001T-007 マックス Max"
-                => new[] { (Serial: "SSSS/001T-007", Rarity: "TD", Name: new MultiLanguageString { EN = "Max", JP = "マックス" }) },
-            "SSSS/001T-008 ボラー Borr"
-                => new[] { (Serial: "SSSS/001T-008", Rarity: "TD", Name: new MultiLanguageString { EN = "Borr", JP = "ボラー" }) },
-            */
+                "GGZ/001B-040 R リーナ・バーン Lina Byrne"
+                    => new[] { (Serial: "GZ/001B-040", Rarity: "R", Name: new MultiLanguageString { EN = "Lina Byrne", JP = "リーナ・バーン" }) },
                 // Exception due to Sleeves Slideshow in Touhou EX
                 "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null

@@ -1,0 +1,4495 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "NJPW/001B-001",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-001SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_001SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-001SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_001SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hiroshi Tanahashi",
+        "JP": "\u68DA\u6A4B \u5F18\u81F3"
+      },
+      "Traits": [
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a \u0022WORLD TAG LEAGUE 2020 \u0026 BEST OF THE SUPER Jr.27\u0022 or a \u0022WRESTLE KINGDOM 15 in Tokyo Dome\u0022 from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300AWORLD TAG LEAGUE 2020 \uFF06 BEST OF THE SUPER Jr.27\u300B\u304B\u300AWRESTLE KINGDOM 15 in \u6771\u4EAC\u30C9\u30FC\u30E0\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B",
+        "Name": "Booster Pack New Japan Pro-Wrestling"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-002",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-002S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_002S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ace, Hiroshi Tanahashi",
+        "JP": "\u30A8\u30FC\u30B9 \u68DA\u6A4B \u5F18\u81F3"
+      },
+      "Traits": [
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent character, choose up to one [Growing] from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-003",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-003S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_003S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Master of the Century, Hiroshi Tanahashi",
+        "JP": "100\u5E74\u306B\u4E00\u4EBA\u306E\u9038\u6750 \u68DA\u6A4B \u5F18\u81F3"
+      },
+      "Traits": [
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Put a card from your hand into your waiting room], choose one of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-004",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-004SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_004SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-004SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_004SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kota Ibushi",
+        "JP": "\u98EF\u4F0F \u5E78\u592A"
+      },
+      "Traits": [
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo]:[Rest (1) Energy], this character gets \u002B1/\u00B10 until end of turn, then if this character has 10 or more ATK, your opponent cannot use [Blocker] during the next attack from this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3057\u3001\u3055\u3089\u306B\u3053\u306E\u30AD\u30E3\u30E9\u304CATK10\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-005",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-005S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_005S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kota Ibushi\u003C/strong\u003E",
+        "JP": "\u30B4\u30FC\u30EB\u30C7\u30F3\u2606\u30B9\u30BF\u30FC \u98EF\u4F0F \u5E78\u592A \u003Cstrong\u003EGolden\u2605Star,"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 7,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-006",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-006S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_006S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Golden Phoenix, Kota Ibushi",
+        "JP": "\u30B4\u30FC\u30EB\u30C7\u30F3\u30D5\u30A7\u30CB\u30C3\u30AF\u30B9 \u98EF\u4F0F \u5E78\u592A"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into your waiting room from member by a card effect, you may put this character onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-007",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-007S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_007S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Satoshi Kojima",
+        "JP": "\u5C0F\u5CF6 \u8061"
+      },
+      "Traits": [
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:This character gets \u00B10/\u002B5 until end of turn. If you have a \u0022Hiroyoshi Tenzan\u0022 member, multiply this character\u0027s DEF by 10 instead of getting \u00B10/\u002B5. (If the original is 2, get \u002B18 to become 20)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF15\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u5929\u5C71 \u5E83\u5409\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u00B1\uFF10/\uFF0B\uFF15\u3067\u306F\u306A\u304FDEF\u309210\u500D\u306B\u3059\u308B\u3002\uFF08\u5143\u304C\uFF12\u306A\u3089\uFF0B18\u306720\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-008",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-008S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_008S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Juice Robinson",
+        "JP": "\u30B8\u30E5\u30FC\u30B9\u30FB\u30ED\u30D3\u30F3\u30BD\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your members, and you may exchange its position with this character. If you exchanged with \u0022David Finlay\u0022, that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u300A\u30C7\u30D3\u30C3\u30C9\u30FB\u30D5\u30A3\u30F3\u30EC\u30FC\u300B\u3068\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-009",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-009S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_009S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hiroyoshi Tenzan",
+        "JP": "\u5929\u5C71 \u5E83\u5409"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:This character gets \u002B3/\u00B10 until end of turn. If you have a \u0022Satoshi Kojima\u0022 member, multiply this character\u0027s ATK by 10 instead of getting \u002B3/\u00B10. (If the original is 2, get \u002B18 to become 20)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u5C0F\u5CF6 \u8061\u300B\u304C\u3044\u308B\u306A\u3089\u3001\uFF0B\uFF13/\u00B1\uFF10\u3067\u306F\u306A\u304FATK\u309210\u500D\u306B\u3059\u308B\u3002\uFF08\u5143\u304C\uFF12\u306A\u3089\uFF0B18\u306720\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-010",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-010S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_010S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "David Finlay",
+        "JP": "\u30C7\u30D3\u30C3\u30C9\u30FB\u30D5\u30A3\u30F3\u30EC\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your members, and you may exchange its position with this character. If you exchanged this with \u0022Juice Robinson\u0022, that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u300A\u30B8\u30E5\u30FC\u30B9\u30FB\u30ED\u30D3\u30F3\u30BD\u30F3\u300B\u3068\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-011",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-011S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_011S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuya Uemura",
+        "JP": "\u4E0A\u6751 \u512A\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Rest (1) Energy], and this character gets \u002B1/\u00B10 until end of turn. If you have a \u0022Yota Tsuji\u0022 in your retire area, then it gets an additional \u002B2/\u00B10.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u8FBB \u967D\u592A\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-012",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-012S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_012S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yota Tsuji",
+        "JP": "\u8FBB \u967D\u592A"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit",
+          "JP": "\u672C\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Rest (1) Energy], and this character gets \u002B1/\u00B10 until end of turn. If you have a \u0022Yuya Uemura\u0022 in your retire area, this ability can be activated ignoring [1/Turn].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u4E0A\u6751 \u512A\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u80FD\u529B\u306F\u3010\u30BF\u30FC\u30F3\uFF11\u3011\u3092\u7121\u8996\u3057\u3066\u8D77\u52D5\u3067\u304D\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-013",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-013S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_013S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuji Nagata",
+        "JP": "\u6C38\u7530 \u88D5\u5FD7"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Seigigun",
+          "JP": "\u9752\u7FA9\u8ECD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 3][1/Turn]:At the end of your opponent\u0027s character\u0027s attack, choose one of your opponent\u0027s members, and during your opponent\u0027s next turn, that member does not [Stand]. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-014",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-014S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_014S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuji Nagata\u003C/strong\u003E",
+        "JP": "\u30D6\u30EB\u30FC\u30B8\u30E3\u30B9\u30C6\u30A3\u30B9 \u6C38\u7530 \u88D5\u5FD7 \u003Cstrong\u003EBlue Justice,"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Seigigun",
+          "JP": "\u9752\u7FA9\u8ECD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When a [Growing] is put onto your entry area, that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-015",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-015SP",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_015SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-015SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_015SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tomoaki Honma",
+        "JP": "\u672C\u9593 \u670B\u6643"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "B"
+        },
+        {
+          "EN": "G.B.H.",
+          "JP": "G"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Rest (1) Energy], put the top card of your deck into your waiting room, and this character gets \u002B1/\u00B10 until end of turn for each of that card\u0027s Cost. If it is a Rebirth, put this character into your waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u306E\u30B3\u30B9\u30C8\uFF11\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u305D\u308C\u304CRe\u30D0\u30FC\u30B9\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-016",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-016S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_016S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Everyone\u0027s Kokeshi, Tomoaki Honma",
+        "JP": "\u307F\u3093\u306A\u306E\u3053\u3051\u3057 \u672C\u9593 \u670B\u6643"
+      },
+      "Traits": [
+        {
+          "EN": "G.B.H.",
+          "JP": "G"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "B"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-017",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-017SP",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_017SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-017SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_017SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Togi Makabe",
+        "JP": "\u771F\u58C1 \u5200\u7FA9"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "B"
+        },
+        {
+          "EN": "G.B.H.",
+          "JP": "G"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a card from your hand into your waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-018",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-018S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_018S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Runaway King Kong, Togi Makabe",
+        "JP": "\u66B4\u8D70\u30AD\u30F3\u30B0\u30B3\u30F3\u30B0 \u771F\u58C1 \u5200\u7FA9"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "B"
+        },
+        {
+          "EN": "G.B.H.",
+          "JP": "G"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Rest (2) Energy], choose one of your entries, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-019",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-019S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_019S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ryusuke Taguchi",
+        "JP": "\u7530\u53E3 \u9686\u7950"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit Junior Heavyweight",
+          "JP": "\u672C\u968AJr.\u30D8\u30D3\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:At the end of your opponent\u0027s character\u0027s attack, choose one of your members, and return it to your hand. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-020",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-020S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_020S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Funky Weapon, Ryusuke Taguchi",
+        "JP": "\u30D5\u30A1\u30F3\u30AD\u30FC\u30A6\u30A7\u30DD\u30F3 \u7530\u53E3 \u9686\u7950"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit Junior Heavyweight",
+          "JP": "\u672C\u968AJr.\u30D8\u30D3\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]:[Growing]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011\n"
+        },
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards.",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[CONT]:This character\u0027s [Cancel] can only be used if you have a [Growing] entry.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u306F\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u6642\u306E\u307F\u4F7F\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-021",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-021S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_021S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Master Wato",
+        "JP": "\u30DE\u30B9\u30BF\u30FC\u30FB\u30EF\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Main Unit Junior Heavyweight",
+          "JP": "\u672C\u968AJr.\u30D8\u30D3\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s members, and [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-022",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-022SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_022SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-022SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_022SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kazuchika Okada",
+        "JP": "\u30AA\u30AB\u30C0\u30FB\u30AB\u30BA\u30C1\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 6,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, reveal five cards from the top of your deck, put one each of a Rebirth and a \u0022Kazuchika Okada\u0022 from among them into your hand, and put the rest into your waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF15\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001Re\u30D0\u30FC\u30B9\u3068\u300A\u30AA\u30AB\u30C0\u30FB\u30AB\u30BA\u30C1\u30AB\u300B\u3092\uFF11\u679A\u305A\u3064\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-023",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-023S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_023S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rainmaker, Kazuchika Okada",
+        "JP": "\u30EC\u30A4\u30F3\u30E1\u30FC\u30AB\u30FC \u30AA\u30AB\u30C0\u30FB\u30AB\u30BA\u30C1\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B2/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-024",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-024S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_024S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Man Who Rains Money, Kazuchika Okada",
+        "JP": "\u30AB\u30CD\u306E\u96E8\u3092\u964D\u3089\u305B\u308B\u7537 \u30AA\u30AB\u30C0\u30FB\u30AB\u30BA\u30C1\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):Your characters with original Cost 5 or greater on your entry area and in your hand get Cost -1. (For Cost 5, if you have two of this character, its Cost becomes 3)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u624B\u672D\u306E\u3001\u5143\u3005\u306E\u30B3\u30B9\u30C8\u304C\uFF15\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u306E\u30B3\u30B9\u30C8\uFF0D\uFF11\u3002\uFF08\uFF15\u30B3\u30B9\u30C8\u306E\u5834\u5408\u3053\u306E\u30AD\u30E3\u30E9\u304C\uFF12\u679A\u3044\u305F\u3089\u30B3\u30B9\u30C8\uFF13\u306B\u306A\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-025",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-025S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_025S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tomohiro Ishii",
+        "JP": "\u77F3\u4E95 \u667A\u5B8F"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If there are six or more of all members, this character gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3059\u3079\u3066\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u5408\u8A08\uFF16\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-026",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-026S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_026S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "STONE PITBULL, Tomohiro Ishii",
+        "JP": "STONE PITBULL \u77F3\u4E95 \u667A\u5B8F"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, put a card from your hand into your waiting room. If you put a cost 2 or lower \u003CWrestler\u003E, you may put that character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u30B3\u30B9\u30C8\uFF12\u4EE5\u4E0B\u306E\u3014\u30EC\u30B9\u30E9\u30FC\u3015\u3092\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-027",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-027S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_027S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hirooki Goto",
+        "JP": "\u5F8C\u85E4 \u6D0B\u592E\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:At the end of your opponent\u0027s attack, you draw up to two cards, and other players draw up to one card.\n(Activates if this is not retired! You choose whether to activate this or not)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\uFF12\u679A\u307E\u3067\u5F15\u304D\u3001\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\uFF11\u679A\u307E\u3067\u5F15\u304F\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\u767A\u52D5\u3055\u305B\u308B\u304B\u306F\u3042\u306A\u305F\u304C\u9078\u3076\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-028",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-028S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_028S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fierce Warrior of Chaos, Hirooki Goto",
+        "JP": "\u6DF7\u6C8C\u306E\u8352\u6B66\u8005 \u5F8C\u85E4 \u6D0B\u592E\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-029",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-029S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_029S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SHO",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:This character gets \u002B1/\u002B1 until end of turn. Then it gets an additional \u002B1/\u002B1 for each of your \u0022Hiroshi Tanahashi\u0022 or \u0022YOH\u0022 members.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3001\u300A\u68DA\u6A4B \u5F18\u81F3\u300B\u304B\u300AYOH\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-030",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-030S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_030S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "HIGH VOLTAGE SHO",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If your opponent\u0027s entry is Cost 3 or lower, this character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304C\u30B3\u30B9\u30C8\uFF13\u4EE5\u4E0B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-031",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-031S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_031S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "YOH",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Rest (5) Energy], choose one of your entries, and activate one of its [Spark]. If that character is \u0022SHO\u0022, choose two of your partners, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2464\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u767A\u52D5\u3055\u305B\u308B\u3002\u305D\u306E\u30AD\u30E3\u30E9\u304C\u300ASHO\u300B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-032",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-032S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_032S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rocky Romero",
+        "JP": "\u30ED\u30C3\u30AD\u30FC\u30FB\u30ED\u30E1\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-033",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-033S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_033S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Robbie Eagles",
+        "JP": "\u30ED\u30D3\u30FC\u30FB\u30A4\u30FC\u30B0\u30EB\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character attacks, [choose one of your \u003CWrestler\u003E members, and put it into your waiting room], and this character gets \u002B2/\u00B10 until end of that attack. (Attack will continue even if you choose a supporting character)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u30EC\u30B9\u30E9\u30FC\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\uFF08\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30AD\u30E3\u30E9\u3092\u9078\u3093\u3067\u3082\u30A2\u30BF\u30C3\u30AF\u306F\u7D9A\u884C\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-034",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-034S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_034S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Toru Yano",
+        "JP": "\u77E2\u91CE \u901A"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CWrestler\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CWrestler\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3014\u30EC\u30B9\u30E9\u30FC\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u30EC\u30B9\u30E9\u30FC\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 7]:When this character blocks, you may set a Rebirth without [Spark] from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u305F\u306A\u3044Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-035",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-035S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_035S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Talented Producer, Toru Yano",
+        "JP": "\u654F\u8155\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC \u77E2\u91CE \u901A"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-036",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-036S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_036S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "YOSHI-HASHI",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:When you would put Rebirths into your waiting room at the end of this turn, you may leave one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\uFF11\u679A\u6B8B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-037",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-037S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_037S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "HEAD HUNTER, YOSHI-HASHI",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "CHAOS",
+          "JP": "CHAOS\u00A0"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Draw a card, and put a card from your hand into your waiting room. If you put a Cost 2 or less \u003CWrestler\u003E, you may put that character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u30B3\u30B9\u30C8\uFF12\u4EE5\u4E0B\u306E\u3014\u30EC\u30B9\u30E9\u30FC\u3015\u3092\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-038",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-038SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_038SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-038SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_038SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minoru Suzuki",
+        "JP": "\u9234\u6728 \u307F\u306E\u308B"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-039",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-039S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_039S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "King of Pro Wrestling, Minoru Suzuki",
+        "JP": "\u30D7\u30ED\u30EC\u30B9\u738B \u9234\u6728 \u307F\u306E\u308B"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Your opponent cannot use [Cancel] from their hand until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u624B\u672D\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-040",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-040S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_040S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Suzuki-gun Supreme General, Minoru Suzuki",
+        "JP": "\u9234\u6728\u8ECD\u306E\u7DCF\u5927\u5C06 \u9234\u6728 \u307F\u306E\u308B"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a \u003CSuzuki-gun\u003E, [put this character on the bottom of your deck], and the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014\u9234\u6728\u8ECD\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-041",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-041S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_041S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "El Desperado",
+        "JP": "\u30A8\u30EB\u30FB\u30C7\u30B9\u30DA\u30E9\u30FC\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B1/\u002B1, and when your opponent would choose your characters for effects, \u0022El Desperado\u0022 characters are chosen first.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3057\u3001\u76F8\u624B\u306F\u52B9\u679C\u3067\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\u300A\u30A8\u30EB\u30FB\u30C7\u30B9\u30DA\u30E9\u30FC\u30C9\u300B\u3092\u512A\u5148\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-042",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-042S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_042S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Narazumono Luchador, El Desperado",
+        "JP": "\u306A\u3089\u305A\u8005\u30EB\u30C1\u30E3\u30C9\u30FC\u30EB \u30A8\u30EB\u30FB\u30C7\u30B9\u30DA\u30E9\u30FC\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 5]:[Put a card from your energy into your waiting room], if you have an \u0022El Desperado\u0022 character in your retire area, put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u30A8\u30EB\u30FB\u30C7\u30B9\u30DA\u30E9\u30FC\u30C9\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-043",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-043S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_043S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yoshinobu Kanemaru",
+        "JP": "\u91D1\u4E38 \u7FA9\u4FE1"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-044",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-044S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_044S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Heel Master, Yoshinobu Kanemaru",
+        "JP": "\u30D2\u30FC\u30EB\u30DE\u30B9\u30BF\u30FC \u91D1\u4E38 \u7FA9\u4FE1"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area by a card effect, choose one of your entries, and during that character\u0027s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u305D\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-045",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-045S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_045S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Zack Sabre Jr.",
+        "JP": "\u30B6\u30C3\u30AF\u30FB\u30BB\u30A4\u30D0\u30FCJr."
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose one of your opponent\u0027s members, and during your opponent\u0027s next turn, that character does not [Stand].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-046",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-046S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_046S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "British Young Master, Zack Sabre Jr.",
+        "JP": "\u82F1\u56FD\u306E\u82E5\u304D\u5320 \u30B6\u30C3\u30AF\u30FB\u30BB\u30A4\u30D0\u30FCJr."
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-047",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-047S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_047S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Taichi",
+        "JP": "\u30BF\u30A4\u30C1"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):The damage this character takes from characters with 8 or more ATK gets -5.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306FATK\uFF18\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u304C\uFF0D\uFF15\u3055\u308C\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-048",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-048S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_048S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Virtuous Emperor Who Abandoned Love\u200B, Taichi",
+        "JP": "\u611B\u3092\u6368\u3066\u305F\u8056\u5E1D \u30BF\u30A4\u30C1"
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-049",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-049S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_049S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "DOUKI",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "Suzuki-gun",
+          "JP": "\u9234\u6728\u8ECD"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Put up to two cards from your hand into your waiting room, and draw the same amount of cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u3089\u3068\u540C\u3058\u679A\u6570\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-050",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-050SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_050SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-050SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_050SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jay White",
+        "JP": "\u30B8\u30A7\u30A4\u30FB\u30DB\u30EF\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During your turn, your opponent\u0027s entries and members lose all of their [CONT], and their ATK and DEF cannot increase or decrease. (Also loses [Cancel], [Blocker], and [Growing])",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u306F\u3001\u3010\u6C38\u3011\u3092\u3059\u3079\u3066\u5931\u3044\u3001ATK\u3068DEF\u304C\u5897\u6E1B\u3057\u306A\u3044\u3002(\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3068\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3068\u3010\u306E\u3073\u3057\u308D\u3011\u3082\u5931\u308F\u308C\u308B)"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-051",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-051S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_051S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Switchblade, Jay White",
+        "JP": "Switchblade \u30B8\u30A7\u30A4\u30FB\u30DB\u30EF\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-052",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-052S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_052S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "King Switch, Jay White",
+        "JP": "King Switch \u30B8\u30A7\u30A4\u30FB\u30DB\u30EF\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo]:When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-053",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-053S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_053S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "EVIL",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][ReCombo][Skill Showcase Level 5]:Choose one of your allied members and two of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u3068\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-054",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-054S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_054S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u0022King Of Darkness\u0022 EVIL",
+        "JP": "\u201D\u30AD\u30F3\u30B0\u30FB\u30AA\u30D6\u30FB\u30C0\u30FC\u30AF\u30CD\u30B9\u201D EVIL"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-055",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-055S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_055S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Taiji Ishimori",
+        "JP": "\u77F3\u68EE \u592A\u4E8C"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo][Skill Showcase Level 5]:This character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-056",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-056S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_056S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "BONE SOLDIER, Taiji Ishimori",
+        "JP": "BONE SOLDIER \u77F3\u68EE \u592A\u4E8C"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:At the end of your opponent\u0027s character\u0027s attack, draw a card. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-057",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-057S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_057S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "El Phantasmo",
+        "JP": "\u30A8\u30EB\u30FB\u30D5\u30A1\u30F3\u30BF\u30BA\u30E2"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Entry][1/Turn]:At the end of your opponent\u0027s character\u0027s attack, choose one of your opponent\u0027s entries, and that character cannot partner attack until end of turn. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u306A\u3044\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-058",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-058S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_058S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gedo",
+        "JP": "\u5916\u9053"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from entry area, choose one of your entries, and that character gets \u002B2/\u00B10 until end of turn. If you have a \u0022Jado\u0022 member, then it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u90AA\u9053\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-059",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-059S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_059S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "the blacksmith, Gedo",
+        "JP": "the blacksmith \u5916\u9053"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Rest (4) Energy], choose a Cost 5 or greater character from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30B3\u30B9\u30C8\uFF15\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-060",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-060S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_060S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "KENTA",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-061",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-061S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_061S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebellious Kicker, KENTA",
+        "JP": "\u53CD\u9AA8\u306E\u8E74\u64CA\u624B KENTA"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:At the end of your opponent\u0027s character\u0027s attack, choose a Cost 4 or 3 character with [Spark] from your waiting room, and return it to your hand. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u3001\u30B3\u30B9\u30C8\uFF14\u304B\uFF13\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-062",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-062S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_062S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jado",
+        "JP": "\u90AA\u9053"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and you may put it onto an open member area. If you choose \u0022Gedo\u0022, it does not have to be an open area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u300A\u5916\u9053\u300B\u3092\u9078\u3076\u306A\u3089\u3001\u7A7A\u5E2D\u3067\u306A\u304F\u3066\u3082\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-063",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-063S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_063S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yujiro Takahashi",
+        "JP": "\u9AD8\u6A4B \u88D5\u4E8C\u90CE"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-064",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-064S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_064S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tama Tonga",
+        "JP": "\u30BF\u30DE\u30FB\u30C8\u30F3\u30AC"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If you have a \u0022Tanga Loa\u0022 member, this character gets \u002B2/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30BF\u30F3\u30AC\u30FB\u30ED\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-065",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-065S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_065S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tanga\u0026nbsp;Loa",
+        "JP": "\u30BF\u30F3\u30AC\u30FB\u30ED\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If you have a \u0022Tama Tonga\u0022 member, this character gets \u002B1/\u002B2.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30BF\u30DE\u30FB\u30C8\u30F3\u30AC\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-066",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-066S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_066S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chase Owens",
+        "JP": "\u30C1\u30A7\u30FC\u30BA\u30FB\u30AA\u30FC\u30A8\u30F3\u30BA"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During your turn, your opponent\u0027s entries and members lose all of their [CONT]. (Also loses [Cancel], [Blocker], and [Growing])",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u306F\u3001\u3010\u6C38\u3011\u3092\u3059\u3079\u3066\u5931\u3046\u3002(\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3068\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3068\u3010\u306E\u3073\u3057\u308D\u3011\u3082\u5931\u308F\u308C\u308B)"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-067",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-067S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_067S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bad Luck Fale",
+        "JP": "\u30D0\u30C3\u30C9\u30E9\u30C3\u30AF\u30FB\u30D5\u30A1\u30EC"
+      },
+      "Traits": [
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from entry area, choose a character from your waiting room, and you may put it onto your entry area.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-068",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-068S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_068S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dick Togo",
+        "JP": "\u30C7\u30A3\u30C3\u30AF\u6771\u90F7"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "BULLET CLUB",
+          "JP": "BULLET CLUB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry/Member):If you have six cards in your retire area, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-069",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-069SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_069SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-069SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_069SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tetsuya Naito",
+        "JP": "\u5185\u85E4 \u54F2\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 5]:When this character retires an opponent\u0027s character, choose a \u0022WORLD TAG LEAGUE 2020 \u0026 BEST OF THE SUPER Jr.27\u0022 or a \u0022WRESTLE KINGDOM 15 in Tokyo Dome\u0022 from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300AWORLD TAG LEAGUE 2020 \uFF06 BEST OF THE SUPER Jr.27\u300B\u304B\u300AWRESTLE KINGDOM 15 in \u6771\u4EAC\u30C9\u30FC\u30E0\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-070",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-070S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_070S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Uncontrollable Charisma, Tetsuya Naito",
+        "JP": "\u5236\u5FA1\u4E0D\u80FD\u306A\u30AB\u30EA\u30B9\u30DE \u5185\u85E4 \u54F2\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:At the end of your opponent\u0027s character\u0027s attack, draw a card, and put a card from your hand into your waiting room. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-071",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-071S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_071S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "LOS INGOBERNABLES de JAPON, Tetsuya Naito",
+        "JP": "LOS INGOBERNABLES de JAPON \u5185\u85E4 \u54F2\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a Cost 5 or greater character, [put a card from your hand into your waiting room], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B3\u30B9\u30C8\uFF15\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-072",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-072S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_072S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SANADA",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character without [Spark] from your retire area, and this character gets all of its abilities until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u305F\u306A\u3044\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u305D\u306E\u30AD\u30E3\u30E9\u306E\u80FD\u529B\u3092\u3059\u3079\u3066\u5F97\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-073",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-073S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_073S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cold Skull, SANADA",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-074",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-074S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_074S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shingo Takagi",
+        "JP": "\u9DF9\u6728 \u4FE1\u609F"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5][1/Turn]:At the end of your opponent\u0027s character\u0027s attack, put a card from the top of your deck onto your energy area. (Activate if not retired!)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002\uFF08\u30EA\u30BF\u30A4\u30A2\u3055\u308C\u306A\u3051\u308C\u3070\u767A\u52D5\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-075",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-075S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_075S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "THE DRAGON, Shingo Takagi",
+        "JP": "THE DRAGON \u9DF9\u6728 \u4FE1\u609F"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 5,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-076",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-076SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_076SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-076SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_076SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hiromu Takahashi",
+        "JP": "\u9AD8\u6A4B \u30D2\u30ED\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 3,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark]:For every card in your retire area, this character gets \u002B1/\u00B10 until end of turn. Every \u0022Hiromu\u0022 card in your retire area counts as two for this effect.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3053\u306E\u52B9\u679C\u3067\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u30D2\u30ED\u30E0\u300B\u306F\uFF12\u679A\u5206\u3068\u3057\u3066\u6570\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-077",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-077S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_077S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "TIME BOMB, Hiromu Takahashi",
+        "JP": "TIME BOMB \u9AD8\u6A4B \u30D2\u30ED\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, choose one of your partners, [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-078",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-078S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_078S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ticking TIME BOMB, Hiromu Takahashi",
+        "JP": "Ticking TIME BOMB \u9AD8\u6A4B \u30D2\u30ED\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Rest (1) Partner], and put this character onto an open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-079",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-079S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_079S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "BUSHI",
+        "JP": ""
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        },
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If your opponent\u0027s entry has [ReCombo], this character gets \u002B2/\u002B1. (Does not matter if your opponent has a Rebirth set or not)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304C\u3010Re\u30B3\u30F3\u30DC\u3011\u3092\u6301\u3064\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002\uFF08\u76F8\u624B\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u306A\u304F\u3066\u3082\u3088\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-080",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-080S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_080S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jet Black Death Mask, BUSHI",
+        "JP": "\u6F06\u9ED2\u306E\u30C7\u30B9\u30DE\u30B9\u30AF BUSHI"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "I"
+        },
+        {
+          "EN": "L.I.J.",
+          "JP": "L"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-081",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-081S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_081S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aaron Henare",
+        "JP": "\u30A2\u30FC\u30ED\u30F3\u30FB\u30D8\u30CA\u30FC\u30EC"
+      },
+      "Traits": [
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B2 until end of turn. If you have one or less cards in hand, then it gets an additional \u002B2/\u002B1.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\uFF11\u679A\u4EE5\u4E0B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-082",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-082SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_082SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-082SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_082SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Will Ospreay",
+        "JP": "\u30A6\u30A3\u30EB\u30FB\u30AA\u30B9\u30D7\u30EC\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose one of your members, and put it into your waiting room], look at two cards from the top of your deck, put a card from among them into your hand, and put the rest onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089\uFF11\u679A\u3092\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-083",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-083S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_083S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Commonwealth Kingpin, Will Ospreay",
+        "JP": "The Commonwealth Kingpin \u30A6\u30A3\u30EB\u30FB\u30AA\u30B9\u30D7\u30EC\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your opponent\u0027s entries, and you may put it on the bottom of their deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-084",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-084S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_084S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Young High Flyer, Will Ospreay",
+        "JP": "\u82E5\u304D\u30CF\u30A4\u30D5\u30E9\u30A4\u30E4\u30FC \u30A6\u30A3\u30EB\u30FB\u30AA\u30B9\u30D7\u30EC\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have two or less members and seven or more energy, your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304C\uFF12\u679A\u4EE5\u4E0B\u3067\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF17\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-085",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-085SP",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_085SP.png"
+          ]
+        },
+        {
+          "Serial": "NJPW/001B-085SP\uFF0B",
+          "Rarity": "SP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_085SPS.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Great-O-Khan",
+        "JP": "\u30B0\u30EC\u30FC\u30C8-O-\u30AB\u30FC\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:This character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-086",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-086S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_086S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dominator, Great-O-Khan",
+        "JP": "Dominator \u30B0\u30EC\u30FC\u30C8-O-\u30AB\u30FC\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into your waiting room from member area by a card effect, put this character and one card from the top of your deck into your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3068\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-087",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-087S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_087S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jeff Cobb",
+        "JP": "\u30B8\u30A7\u30D5\u30FB\u30B3\u30D6"
+      },
+      "Traits": [
+        {
+          "EN": "UNITED EMPIRE",
+          "JP": "UNITED EMPIRE"
+        },
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-088",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-088S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_088S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Red Shoes Unno",
+        "JP": "\u30EC\u30C3\u30C9\u30B7\u30E5\u30FC\u30BA\u6D77\u91CE"
+      },
+      "Traits": [
+        {
+          "EN": "Referee",
+          "JP": "\u30EC\u30D5\u30A7\u30EA\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-089",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-089S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_089S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "G1 CLIMAX 30",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-090",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-090S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_090S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "WORLD TAG LEAGUE 2020 \u0026amp; BEST OF THE SUPER Jr.27",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT](Hand):If you have six cards in your retire area, this card can be set during the [Blocker] timing.",
+          "JP": "\u3010\u6C38\u3011\u3010\u624B\u672D\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u306A\u3089\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u306E\u30BF\u30A4\u30DF\u30F3\u30B0\u3067\u30BB\u30C3\u30C8\u3067\u304D\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:Just before your character is retired, [put this card into your waiting room], to put three cards from the top of your deck into your waiting room, and if there is a Cost 5 or greater character or a Rebirth among them, negate that retire and damage!",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u304C\u30EA\u30BF\u30A4\u30A2\u3059\u308B\u76F4\u524D\u306B\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AB\u30FC\u30C9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u306E\u4E2D\u306B\u3001\u30B3\u30B9\u30C8\uFF15\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u304BRe\u30D0\u30FC\u30B9\u304C\u3042\u308B\u306A\u3089\u3001\u305D\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u30C0\u30E1\u30FC\u30B8\u3092\u53D6\u308A\u6D88\u3059\uFF01"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-091",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-091S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_091S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "WRESTLE KINGDOM 15 in Tokyo Dome",
+        "JP": "WRESTLE KINGDOM 15 in \u6771\u4EAC\u30C9\u30FC\u30E0"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT](Hand):If you have six cards in your retire area, this card can be set during the [Blocker] timing.",
+          "JP": "\u3010\u6C38\u3011\u3010\u624B\u672D\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u306A\u3089\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u306E\u30BF\u30A4\u30DF\u30F3\u30B0\u3067\u30BB\u30C3\u30C8\u3067\u304D\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:Just before your character is retired, [put this card into your waiting room], to put three cards from the top of your deck into your waiting room, and if there is a Cost 5 or greater character or a Rebirth among them, negate that retire and damage!",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u304C\u30EA\u30BF\u30A4\u30A2\u3059\u308B\u76F4\u524D\u306B\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AB\u30FC\u30C9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u306E\u4E2D\u306B\u3001\u30B3\u30B9\u30C8\uFF15\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u304BRe\u30D0\u30FC\u30B9\u304C\u3042\u308B\u306A\u3089\u3001\u305D\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u30C0\u30E1\u30FC\u30B8\u3092\u53D6\u308A\u6D88\u3059\uFF01"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-092",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-092S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_092S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "THE NEW BEGINNING",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-093",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-093S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_093S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "CASTLE ATTACK",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-094",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-094S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_094S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Launch Anniversary",
+        "JP": "\u65D7\u63DA\u3052\u8A18\u5FF5\u65E5"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-095",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-095S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_095S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "NEW JAPAN CUP 2021",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-096",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-096S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_096S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SAKURA GENESIS 2021",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-097",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-097S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_097S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wrestling Dontaku 2021",
+        "JP": "\u30EC\u30B9\u30EA\u30F3\u30B0\u3069\u3093\u305F\u304F 2021"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-098",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-098S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_098S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wrestling Satsuma no Kuni",
+        "JP": "\u30EC\u30B9\u30EA\u30F3\u30B0\u85A9\u6469\u306E\u56FD"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-099",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-099S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_099S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "NEW JAPAN ROAD 2020",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A \u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    },
+    {
+      "Serial": "NJPW/001B-100",
+      "Alternates": [
+        {
+          "Serial": "NJPW/001B-100S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_100S.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Road to POWER STRUGGLE",
+        "JP": ""
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NJBP/NJPW_001B_100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "NJPW/001B"
+      }
+    }
+  ]
+}
