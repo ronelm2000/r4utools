@@ -53,8 +53,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./r4utools.zip
-        asset_name: r4utools.zip
+        asset_path: ./r4utools-win-x64.zip
+        asset_name: r4utools-win-x64.zip
         asset_content_type: application/zip
     - name: Add Release Artifact (r4utools / linux-x64)
       id: upload-release-asset-2 
@@ -73,8 +73,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./deckbuilder4u.zip
-        asset_name: deckbuilder4u.zip
+        asset_path: ./deckbuilder4u-win-x64.zip
+        asset_name: deckbuilder4u-win-x64.zip
         asset_content_type: application/zip
     - name: Add Release Artifact (deckbuilder4u / linux-x64)
       id: upload-release-asset-4
