@@ -48,23 +48,24 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
             RegistryKey subkey;
             string displayName;
 
-            using (RegistryKey key = root.OpenSubKey(subKeyName))
-            {
-                if (key != null)
+            if (OperatingSystem.IsWindows())
+                using (RegistryKey key = root.OpenSubKey(subKeyName))
                 {
-                    foreach (string kn in key.GetSubKeyNames())
+                    if (key != null)
                     {
-                        using (subkey = key.OpenSubKey(kn))
+                        foreach (string kn in key.GetSubKeyNames())
                         {
-                            displayName = subkey.GetValue(attributeName) as string;
-                            if (nameOfAppToFind.Equals(displayName, StringComparison.OrdinalIgnoreCase) == true)
+                            using (subkey = key.OpenSubKey(kn))
                             {
-                                return subkey.GetValue("InstallLocation") as string;
+                                displayName = subkey.GetValue(attributeName) as string;
+                                if (nameOfAppToFind.Equals(displayName, StringComparison.OrdinalIgnoreCase) == true)
+                                {
+                                    return subkey.GetValue("InstallLocation") as string;
+                                }
                             }
                         }
                     }
                 }
-            }
             return string.Empty;
         }
     }
