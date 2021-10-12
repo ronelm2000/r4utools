@@ -21,16 +21,20 @@ registering on GitHub.
 
 #### Supported Deck Exporters ####
 * [Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2173923861)
-* Local Deck JSON
+* Local Deck JSON (`.r4udek` format)
 
 #### Supported Deck Parsers ####
 * [Bushiroad DeckLog](https://decklog.bushiroad.com/)
-* Local Deck JSON
+* Local Deck JSON (`.r4udek` format)
 
-#### Supported Card Set Parsers ####
-* Internal Set Parser (`.r4uset` format)
+#### Supported Set Parsers ####
+* Internal Set JSON (`.r4uset` format)
+* Tab Delimited Text (for Partners only)
 * [Rebirth For You Fandom Wiki](https://rebirth-for-you.fandom.com/wiki/Rebirth_for_you_Wiki)
 * [Rebirth For You Renegades (Set List Only)](https://rebirthforyourenegades.wordpress.com/category/set-lists/)
+
+#### Supported Set Exporters ####
+* Internal Set JSON (`.r4uset` format)
 
 ### Build ###
 Requirements to build are:
