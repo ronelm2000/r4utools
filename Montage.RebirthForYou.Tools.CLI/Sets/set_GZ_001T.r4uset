@@ -51,7 +51,7 @@
       "Language": "Japanese",
       "Set": {
         "ReleaseCode": "GZ/001T",
-        "Name": "Trial Deck Godzilla Singularity Point"
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -78,12 +78,12 @@
       },
       "Traits": [
         {
-          "EN": "Genius",
-          "JP": "\u5929\u624D"
-        },
-        {
           "EN": "Otaki Factory",
           "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
+        },
+        {
+          "EN": "Genius",
+          "JP": "\u5929\u624D"
         }
       ],
       "Type": "Character",
@@ -103,7 +103,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -150,7 +151,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -197,7 +199,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -244,7 +247,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -267,12 +271,12 @@
       },
       "Traits": [
         {
-          "EN": "AI",
-          "JP": "AI"
-        },
-        {
           "EN": "Researcher",
           "JP": "\u63A2\u7A76\u8005"
+        },
+        {
+          "EN": "AI",
+          "JP": "AI"
         }
       ],
       "Type": "Character",
@@ -295,7 +299,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -346,7 +351,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -397,7 +403,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -444,7 +451,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -492,7 +500,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -540,7 +549,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -581,7 +591,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -622,7 +633,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -665,7 +677,8 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     },
     {
@@ -708,7 +721,161 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "GZ/001T"
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P001",
+      "Name": {
+        "EN": "Mei Kamino"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P002",
+      "Name": {
+        "EN": "Yun Arikawa"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P003",
+      "Name": {
+        "EN": "Haberu Kat\u014D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P004",
+      "Name": {
+        "EN": "Gor\u014D \u014Ctaki"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P005",
+      "Name": {
+        "EN": "Pelops II"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P006",
+      "Name": {
+        "EN": "Jet Jaguar \u03B2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P007",
+      "Name": {
+        "EN": "Godzilla Ultima"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P008",
+      "Name": {
+        "EN": "Rodan"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
+      }
+    },
+    {
+      "Serial": "GZ/001T-P009",
+      "Name": {
+        "EN": "Rodan Second Form"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZTD/GZ001T-P009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GZ/001T",
+        "Name": "Trial Deck Godzilla S.P. \u003CSingular Point\u003E"
       }
     }
   ]

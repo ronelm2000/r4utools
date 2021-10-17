@@ -612,7 +612,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 68,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GZ_001T.r4uset",
-                        DateAdded = new DateTime(2021, 10, 11, 21, 00, 0)
+                        DateAdded = new DateTime(2021, 10, 11, 21, 00, 0),
+                        IsDone = true
                     },
                     new ActivityLog
                     {
@@ -623,10 +624,25 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     },
                     new ActivityLog
                     {
-                        LogID = 70, // nice
+                        LogID = 70,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GZ_001B.r4uset",
-                        DateAdded = new DateTime(2021, 10, 11, 21, 56, 0)
+                        DateAdded = new DateTime(2021, 10, 11, 21, 56, 0),
+                        IsDone = true
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 71,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GZ_001B.r4uset",
+                        DateAdded = new DateTime(2021, 10, 17, 16, 29, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 72,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GZ_001T.r4uset",
+                        DateAdded = new DateTime(2021, 10, 17, 16, 29, 0)
                     }
                 );
             });
