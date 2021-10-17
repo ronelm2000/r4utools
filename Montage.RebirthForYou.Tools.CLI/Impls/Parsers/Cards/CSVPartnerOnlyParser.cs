@@ -90,7 +90,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 }
             }
         }
-        private R4UReleaseSet? FindFromDB(string releaseID)
+        private R4UReleaseSet FindFromDB(string releaseID)
         {
             using (var db = _database())
             {
