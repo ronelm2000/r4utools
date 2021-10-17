@@ -57,15 +57,19 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             try
             {
                 var document = await url.WithReferrer("https://rebirth-fy.com/cardlist/").GetHTMLAsync();
-               var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
+                var nameJPText = document.QuerySelector(".cardlist-title").GetInnerText();
                 var flavorJPText = document.QuerySelector(".cardlist-flavor").GetInnerText();
                 var rulesTextJPText = GetWebsiteErrata(card) ?? document.QuerySelector(".cardlist-free").GetInnerText().Trim();
+                var rarityText = document.QuerySelectorAll(".cardlist-text") //
+                    .Where(i => i.Children.ElementAt(2)?.TextContent == "レアリティ")
+                    .Select(i => i.Children.ElementAt(3).TextContent.Trim())
+                    .First();
                 var imageLink = document.QuerySelector(".cardlist-img").FindChild<IHtmlImageElement>().Source;
                 var rulesTextEnumerable = effectMatcher.Matches(rulesTextJPText);
                 Log.Information("Name JP: {jp}", nameJPText);
                 Log.Information("Flavor JP: {jp}", flavorJPText);
                 Log.Information("Rules Text JP: {jp}", rulesTextJPText.Substring(0, Math.Min(rulesTextJPText.Length, 50)));
-                if (!String.IsNullOrWhiteSpace(flavorJPText) && flavorJPText != "（無し）")
+                if (!String.IsNullOrWhiteSpace(nameJPText) && nameJPText != "（無し）")
                 {
                     updatedCard.Name ??= new MultiLanguageString();
                     updatedCard.Name.JP = nameJPText;
@@ -76,6 +80,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     updatedCard.Flavor ??= new MultiLanguageString();
                     updatedCard.Flavor.JP = flavorJPText;
                 }
+
+                if (!String.IsNullOrWhiteSpace(rarityText))
+                {
+                    updatedCard.Rarity = rarityText;
+                }
+
                 if ((updatedCard.Effect?.Length ?? 0) != (rulesTextEnumerable?.Count ?? 0))
                     throw new FormatException($"Effect Text in EN for {card.Serial} does not match Effect Text in JP. May need to data loss!");
 

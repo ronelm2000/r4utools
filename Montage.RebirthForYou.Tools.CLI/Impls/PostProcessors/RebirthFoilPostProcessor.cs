@@ -26,7 +26,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         public async Task<bool> IsIncluded(ICardSetParser parser)
         {
             await Task.CompletedTask;
-            return parser is R4URenegadesSetParser;
+            return parser is R4URenegadesSetParser || parser is CSVPartnerOnlyParser;
         }
 
         public async IAsyncEnumerable<R4UCard> Process(IAsyncEnumerable<R4UCard> originalCards)
