@@ -64,12 +64,12 @@
       },
       "Traits": [
         {
-          "EN": "Researcher",
-          "JP": "\u63A2\u7A76\u8005"
-        },
-        {
           "EN": "Genius",
           "JP": "\u5929\u624D"
+        },
+        {
+          "EN": "Researcher",
+          "JP": "\u63A2\u7A76\u8005"
         }
       ],
       "Type": "Character",
@@ -478,12 +478,12 @@
       },
       "Traits": [
         {
-          "EN": "Otaki Factory",
-          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
-        },
-        {
           "EN": "Genius",
           "JP": "\u5929\u624D"
+        },
+        {
+          "EN": "Otaki Factory",
+          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
         }
       ],
       "Type": "Character",
@@ -714,12 +714,12 @@
       },
       "Traits": [
         {
-          "EN": "Otaki Factory",
-          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
-        },
-        {
           "EN": "Genius",
           "JP": "\u5929\u624D"
+        },
+        {
+          "EN": "Otaki Factory",
+          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
         }
       ],
       "Type": "Character",
@@ -1054,12 +1054,12 @@
       },
       "Traits": [
         {
-          "EN": "Researcher",
-          "JP": "\u63A2\u7A76\u8005"
-        },
-        {
           "EN": "AI",
           "JP": "AI"
+        },
+        {
+          "EN": "Researcher",
+          "JP": "\u63A2\u7A76\u8005"
         }
       ],
       "Type": "Character",
@@ -1103,12 +1103,12 @@
       },
       "Traits": [
         {
-          "EN": "Researcher",
-          "JP": "\u63A2\u7A76\u8005"
-        },
-        {
           "EN": "AI",
           "JP": "AI"
+        },
+        {
+          "EN": "Researcher",
+          "JP": "\u63A2\u7A76\u8005"
         }
       ],
       "Type": "Character",
@@ -1152,12 +1152,12 @@
       },
       "Traits": [
         {
-          "EN": "AI",
-          "JP": "AI"
-        },
-        {
           "EN": "Researcher",
           "JP": "\u63A2\u7A76\u8005"
+        },
+        {
+          "EN": "AI",
+          "JP": "AI"
         }
       ],
       "Type": "Character",
@@ -1198,12 +1198,12 @@
       },
       "Traits": [
         {
-          "EN": "Researcher",
-          "JP": "\u63A2\u7A76\u8005"
-        },
-        {
           "EN": "AI",
           "JP": "AI"
+        },
+        {
+          "EN": "Researcher",
+          "JP": "\u63A2\u7A76\u8005"
         }
       ],
       "Type": "Character",
@@ -1244,12 +1244,12 @@
       },
       "Traits": [
         {
-          "EN": "Otaki Factory",
-          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
-        },
-        {
           "EN": "AI",
           "JP": "AI"
+        },
+        {
+          "EN": "Otaki Factory",
+          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
         }
       ],
       "Type": "Character",
@@ -1342,12 +1342,12 @@
       },
       "Traits": [
         {
-          "EN": "Ministry of Foreign Affairs",
-          "JP": "\u5916\u52D9\u7701"
-        },
-        {
           "EN": "Misakioku",
           "JP": "\u30DF\u30B5\u30AD\u30AA\u30AF"
+        },
+        {
+          "EN": "Ministry of Foreign Affairs",
+          "JP": "\u5916\u52D9\u7701"
         }
       ],
       "Type": "Character",
@@ -2392,12 +2392,12 @@
       },
       "Traits": [
         {
-          "EN": "AI",
-          "JP": "AI"
-        },
-        {
           "EN": "Otaki Factory",
           "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
+        },
+        {
+          "EN": "AI",
+          "JP": "AI"
         }
       ],
       "Type": "Character",
@@ -2672,12 +2672,12 @@
       },
       "Traits": [
         {
-          "EN": "Otaki Factory",
-          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
-        },
-        {
           "EN": "AI",
           "JP": "AI"
+        },
+        {
+          "EN": "Otaki Factory",
+          "JP": "\u30AA\u30AA\u30BF\u30AD\u30D5\u30A1\u30AF\u30C8\u30EA\u30FC"
         }
       ],
       "Type": "Character",
@@ -4367,11 +4367,22 @@
     },
     {
       "Serial": "GZ/001B-P001",
+      "Alternates": [
+        {
+          "Serial": "GZ/001B-P001PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P001PP.png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Mei Kamino"
+        "EN": "Mei Kamino",
+        "JP": "\u795E\u91CE \u9298"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P001.png"
@@ -4383,29 +4394,23 @@
       }
     },
     {
-      "Serial": "GZ/001B-P001PP",
-      "Name": {
-        "EN": "Mei Kamino"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P001PP.png"
-      ],
-      "Language": "Japanese",
-      "Set": {
-        "ReleaseCode": "GZ/001B",
-        "Name": "Booster Pack Godzilla S.P. \u003CSingular Point\u003E"
-      }
-    },
-    {
       "Serial": "GZ/001B-P002",
+      "Alternates": [
+        {
+          "Serial": "GZ/001B-P002PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P002PP.png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Yun Arikawa"
+        "EN": "Yun Arikawa",
+        "JP": "\u6709\u5DDD \u30E6\u30F3"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P002.png"
@@ -4417,29 +4422,14 @@
       }
     },
     {
-      "Serial": "GZ/001B-P002PP",
-      "Name": {
-        "EN": "Yun Arikawa"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P002PP.png"
-      ],
-      "Language": "Japanese",
-      "Set": {
-        "ReleaseCode": "GZ/001B",
-        "Name": "Booster Pack Godzilla S.P. \u003CSingular Point\u003E"
-      }
-    },
-    {
       "Serial": "GZ/001B-P003",
       "Name": {
-        "EN": "Haberu Kat\u014D"
+        "EN": "Haberu Kat\u014D",
+        "JP": "\u52A0\u85E4 \u4F8D"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P003.png"
@@ -4453,10 +4443,12 @@
     {
       "Serial": "GZ/001B-P004",
       "Name": {
-        "EN": "Gor\u014D \u014Ctaki"
+        "EN": "Gor\u014D \u014Ctaki",
+        "JP": "\u5927\u6EDD \u543E\u90CE"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P004.png"
@@ -4470,10 +4462,12 @@
     {
       "Serial": "GZ/001B-P005",
       "Name": {
-        "EN": "Satomi Kanahara"
+        "EN": "Satomi Kanahara",
+        "JP": "\u91D1\u539F \u3055\u3068\u307F"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P005.png"
@@ -4487,10 +4481,12 @@
     {
       "Serial": "GZ/001B-P006",
       "Name": {
-        "EN": "Pelops II"
+        "EN": "Pelops II",
+        "JP": "\u30DA\u30ED2"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P006.png"
@@ -4504,10 +4500,12 @@
     {
       "Serial": "GZ/001B-P007",
       "Name": {
-        "EN": "BB"
+        "EN": "BB",
+        "JP": "BB"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P007.png"
@@ -4521,10 +4519,12 @@
     {
       "Serial": "GZ/001B-P008",
       "Name": {
-        "EN": "Leena Byrne"
+        "EN": "Leena Byrne",
+        "JP": "\u30EA\u30FC\u30CA\u30FB\u30D0\u30FC\u30F3"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "P",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P008.png"
@@ -4537,11 +4537,22 @@
     },
     {
       "Serial": "GZ/001B-P009",
+      "Alternates": [
+        {
+          "Serial": "GZ/001B-P009PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P009PP.png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Jet Jaguar \u03B2"
+        "EN": "Jet Jaguar \u03B2",
+        "JP": "\u30B8\u30A7\u30C3\u30C8\u30B8\u30E3\u30AC\u30FC\u03B2"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P009.png"
@@ -4553,29 +4564,14 @@
       }
     },
     {
-      "Serial": "GZ/001B-P009PP",
-      "Name": {
-        "EN": "Jet Jaguar \u03B2"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P009PP.png"
-      ],
-      "Language": "Japanese",
-      "Set": {
-        "ReleaseCode": "GZ/001B",
-        "Name": "Booster Pack Godzilla S.P. \u003CSingular Point\u003E"
-      }
-    },
-    {
       "Serial": "GZ/001B-P010",
       "Name": {
-        "EN": "Godzilla Aquatilis"
+        "EN": "Godzilla Aquatilis",
+        "JP": "\u30B4\u30B8\u30E9\u30A2\u30AF\u30A2\u30C6\u30A3\u30EA\u30B9"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P010.png"
@@ -4589,10 +4585,12 @@
     {
       "Serial": "GZ/001B-P011",
       "Name": {
-        "EN": "Godzilla Amphibia"
+        "EN": "Godzilla Amphibia",
+        "JP": "\u30B4\u30B8\u30E9\u30A2\u30F3\u30D5\u30A3\u30D3\u30A2"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P011.png"
@@ -4606,10 +4604,12 @@
     {
       "Serial": "GZ/001B-P012",
       "Name": {
-        "EN": "Godzilla Terrestris"
+        "EN": "Godzilla Terrestris",
+        "JP": "\u30B4\u30B8\u30E9\u30C6\u30EC\u30B9\u30C8\u30EA\u30B9"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P012.png"
@@ -4622,11 +4622,22 @@
     },
     {
       "Serial": "GZ/001B-P013",
+      "Alternates": [
+        {
+          "Serial": "GZ/001B-P013PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P013PP.png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Godzilla Ultima"
+        "EN": "Godzilla Ultima",
+        "JP": "\u30B4\u30B8\u30E9\u30A6\u30EB\u30C6\u30A3\u30DE"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P013.png"
@@ -4638,29 +4649,14 @@
       }
     },
     {
-      "Serial": "GZ/001B-P013PP",
-      "Name": {
-        "EN": "Godzilla Ultima"
-      },
-      "Traits": [],
-      "Type": "Partner",
-      "Effect": [],
-      "Images": [
-        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P013PP.png"
-      ],
-      "Language": "Japanese",
-      "Set": {
-        "ReleaseCode": "GZ/001B",
-        "Name": "Booster Pack Godzilla S.P. \u003CSingular Point\u003E"
-      }
-    },
-    {
       "Serial": "GZ/001B-P014",
       "Name": {
-        "EN": "Rodan"
+        "EN": "Rodan",
+        "JP": "\u30E9\u30C9\u30F3"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P014.png"
@@ -4674,10 +4670,12 @@
     {
       "Serial": "GZ/001B-P015",
       "Name": {
-        "EN": "Anguirus"
+        "EN": "Anguirus",
+        "JP": "\u30A2\u30F3\u30AE\u30E9\u30B9"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P015.png"
@@ -4691,10 +4689,12 @@
     {
       "Serial": "GZ/001B-P016",
       "Name": {
-        "EN": "Salunga"
+        "EN": "Salunga",
+        "JP": "\u30B5\u30EB\u30F3\u30AC"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P016.png"
@@ -4708,10 +4708,12 @@
     {
       "Serial": "GZ/001B-P017",
       "Name": {
-        "EN": "Manda"
+        "EN": "Manda",
+        "JP": "\u30DE\u30F3\u30C0"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P017.png"
@@ -4725,10 +4727,12 @@
     {
       "Serial": "GZ/001B-P018",
       "Name": {
-        "EN": "Kamanga"
+        "EN": "Kamanga",
+        "JP": "\u30AB\u30DE\u30F3\u30AC"
       },
       "Traits": [],
       "Type": "Partner",
+      "Rarity": "NBP",
       "Effect": [],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GZBP/gz001b-P018.png"
