@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GP/001E-001",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-001EX",
+          "Rarity": "EXR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-001ex.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Appearance of Yukina, Ako",
+        "JP": "\u898B\u305F\u76EE\u306F\u53CB\u5E0C\u90A3 \u3042\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E",
+        "Name": "Acrylic Keychain Set Booster Pack \"Bang Dream Garupa Pico Oomori Roselia\""
+      }
+    },
+    {
+      "Serial": "GP/001E-002",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-002EX",
+          "Rarity": "EXR",
+          "Flavor": {
+            "JP": "\u3054\u3081\u3093\u3054\u3081\u30FC\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-002ex.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Appearance of Sayo, Lisa",
+        "JP": "\u898B\u305F\u76EE\u306F\u7D17\u591C \u30EA\u30B5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3054\u3081\u3093\u3054\u3081\u30FC\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each of your energy.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-003",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-003EX",
+          "Rarity": "EXR",
+          "Flavor": {
+            "JP": "\u6C34\u306E\u5973\u795E\u3088\u3001\u50B7\u4ED8\u3044\u305F\u4F53\u3092\u7652\u3057\u305F\u307E\u3048"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-003ex.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Appearance of Lisa, Rinko",
+        "JP": "\u898B\u305F\u76EE\u306F\u30EA\u30B5 \u71D0\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6C34\u306E\u5973\u795E\u3088\u3001\u50B7\u4ED8\u3044\u305F\u4F53\u3092\u7652\u3057\u305F\u307E\u3048"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5][1/Turn]:[Put one of your energy into your waiting room], choose a card from your entry, until end of turn, that character gets \u002B1/\u00B10, and when this character supports a \u003CRoselia\u003E, this character cannot be chosen by your opponent until end of that attack.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014Roselia\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u305D\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-004",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-004EX",
+          "Rarity": "EXR",
+          "Flavor": {
+            "JP": "\u3053\u306E\u90AA\u6559\u306E\u6756\u3092\u6368\u3066\u3066\u3082\u3044\u3044\u304B\u3057\u3089\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-004ex.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Appearance of Ako, Yukina",
+        "JP": "\u898B\u305F\u76EE\u306F\u3042\u3053 \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        },
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3053\u306E\u90AA\u6559\u306E\u6756\u3092\u6368\u3066\u3066\u3082\u3044\u3044\u304B\u3057\u3089\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CRoselia\u003E]:[Put a card from your hand on the bottom of your deck], choose two cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Roselia\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-005",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-005EX",
+          "Rarity": "EXR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-005ex.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Appearance of Rinko, Sayo",
+        "JP": "\u898B\u305F\u76EE\u306F\u71D0\u5B50 \u7D17\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is retired by an opponent\u0027s attack, and you have more cards in your retire area than your opponent, choose a \u003CRoselia\u003E with [Blocker] from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u3067\u30EA\u30BF\u30A4\u30A2\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u6301\u3064\u3014Roselia\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-P001",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-P001PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p001pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yukina Minato",
+        "JP": "\u6E4A \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-P002",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-P002PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p002pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sayo Hikawa",
+        "JP": "\u6C37\u5DDD \u7D17\u591C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-P003",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-P003PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p003pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lisa Imai",
+        "JP": "\u4ECA\u4E95 \u30EA\u30B5"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-P004",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-P004PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p004pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ako Udagawa",
+        "JP": "\u5B87\u7530\u5DDD \u3042\u3053"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    },
+    {
+      "Serial": "GP/001E-P005",
+      "Alternates": [
+        {
+          "Serial": "GP/001E-P005PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p005pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rinko Shirokane",
+        "JP": "\u767D\u91D1 \u71D0\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPEX/gp001e-p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001E"
+      }
+    }
+  ]
+}

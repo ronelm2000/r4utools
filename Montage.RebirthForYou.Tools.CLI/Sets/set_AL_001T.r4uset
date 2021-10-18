@@ -1,0 +1,1077 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "AL/001T-001",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "Commander, these ears aren\u0027t real, so please stop staring at them so much\u2026",
+            "JP": "\u6307\u63EE\u5B98\u3001\u3053\u306E\u8033\u306F\u672C\u7269\u3058\u3083\u306A\u3044\u304B\u3089\u3001\u305D\u3093\u306A\u306B\u3058\u3063\u3068\u898B\u306A\u3044\u3067\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Laffey",
+        "JP": "\u30E9\u30D5\u30A3\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Destroyer",
+          "JP": "\u99C6\u9010\u8266"
+        },
+        {
+          "EN": "Eagle Union",
+          "JP": "\u30E6\u30CB\u30AA\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Commander, these ears aren\u0027t real, so please stop staring at them so much\u2026",
+        "JP": "\u6307\u63EE\u5B98\u3001\u3053\u306E\u8033\u306F\u672C\u7269\u3058\u3083\u306A\u3044\u304B\u3089\u3001\u305D\u3093\u306A\u306B\u3058\u3063\u3068\u898B\u306A\u3044\u3067\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your partners or energy, and [Stand] it.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-002",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "My name comes from the Siege of Yorktown... You know? In the Revolutionary War.",
+            "JP": "\u540D\u524D\u306F\u304B\u306E\u30E6\u30CB\u30AA\u30F3\u72EC\u7ACB\u6226\u4E89\u3067\u306E\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3\u5305\u56F2\u6226\u304B\u3089\u6765\u3066\u3044\u308B\u308F\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yorktown",
+        "JP": "\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Eagle Union",
+          "JP": "\u30E6\u30CB\u30AA\u30F3"
+        },
+        {
+          "EN": "Aircraft Carrier",
+          "JP": "\u7A7A\u6BCD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "My name comes from the Siege of Yorktown... You know? In the Revolutionary War.",
+        "JP": "\u540D\u524D\u306F\u304B\u306E\u30E6\u30CB\u30AA\u30F3\u72EC\u7ACB\u6226\u4E89\u3067\u306E\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3\u5305\u56F2\u6226\u304B\u3089\u6765\u3066\u3044\u308B\u308F\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:During your opponent\u0027s first attack each turn, the damage this character takes becomes zero. (Partner attack cannot be prevented)\n([Skill Showcase Level 5]:Active if there are five or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u304C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002\uFF08\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306F\u9632\u3052\u306A\u3044\uFF09\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-003",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "Enterprise, the Yorktown-class\u0027 second ship, has arrived.",
+            "JP": "\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3\u578B\u4E8C\u756A\u8266\u30A8\u30F3\u30BF\u30FC\u30D7\u30E9\u30A4\u30BA\u3001\u7740\u4EFB\u3057\u305F\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-003s.png"
+          ]
+        },
+        {
+          "Serial": "AL/001T-003SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "Enterprise, the Yorktown-class\u0027 second ship, has arrived.",
+            "JP": "\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3\u578B\u4E8C\u756A\u8266\u30A8\u30F3\u30BF\u30FC\u30D7\u30E9\u30A4\u30BA\u3001\u7740\u4EFB\u3057\u305F\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-003sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Enterprise",
+        "JP": "\u30A8\u30F3\u30BF\u30FC\u30D7\u30E9\u30A4\u30BA"
+      },
+      "Traits": [
+        {
+          "EN": "Eagle Union",
+          "JP": "\u30E6\u30CB\u30AA\u30F3"
+        },
+        {
+          "EN": "Aircraft Carrier",
+          "JP": "\u7A7A\u6BCD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Enterprise, the Yorktown-class\u0027 second ship, has arrived.",
+        "JP": "\u30E8\u30FC\u30AF\u30BF\u30A6\u30F3\u578B\u4E8C\u756A\u8266\u30A8\u30F3\u30BF\u30FC\u30D7\u30E9\u30A4\u30BA\u3001\u7740\u4EFB\u3057\u305F\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Sisterly Bond\u0022]:When this character supports, until the end of that attack, the supported character gets \u002B3/\u00B10, and this character cannot be chosen by your opponent.\n(Active if you have \u0022Sisterly Bond\u0022 set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u59C9\u59B9\u306E\u7D46\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u59C9\u59B9\u306E\u7D46\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-004",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "There\u0027s no need to be formal, you can go ahead and call me Miss Hornet~",
+            "JP": "\u9060\u616E\u306F\u3044\u3089\u306A\u3044\u304B\u3089\u3001\u79C1\u306E\u3053\u3068\u3092\u30DB\u30FC\u30CD\u30C3\u30C8\u69D8\u3063\u3066\u547C\u3093\u3067\u3044\u3044\u3088\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hornet",
+        "JP": "\u30DB\u30FC\u30CD\u30C3\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Eagle Union",
+          "JP": "\u30E6\u30CB\u30AA\u30F3"
+        },
+        {
+          "EN": "Aircraft Carrier",
+          "JP": "\u7A7A\u6BCD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "There\u0027s no need to be formal, you can go ahead and call me Miss Hornet~",
+        "JP": "\u9060\u616E\u306F\u3044\u3089\u306A\u3044\u304B\u3089\u3001\u79C1\u306E\u3053\u3068\u3092\u30DB\u30FC\u30CD\u30C3\u30C8\u69D8\u3063\u3066\u547C\u3093\u3067\u3044\u3044\u3088\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-005",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "I\u0027m Javelin, Commander. Nice to meet you.",
+            "JP": "\u30B8\u30E3\u30D9\u30EA\u30F3\u3067\u3059\uFF01\u6307\u63EE\u5B98\u3001\u3069\u3046\u305E\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Javelin",
+        "JP": "\u30B8\u30E3\u30D9\u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Royal Navy",
+          "JP": "\u30ED\u30A4\u30E4\u30EB"
+        },
+        {
+          "EN": "Destroyer",
+          "JP": "\u99C6\u9010\u8266"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "I\u0027m Javelin, Commander. Nice to meet you.",
+        "JP": "\u30B8\u30E3\u30D9\u30EA\u30F3\u3067\u3059\uFF01\u6307\u63EE\u5B98\u3001\u3069\u3046\u305E\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-006",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "I\u0027m Sheffield of the Royal Maid Corps, awaiting your command.",
+            "JP": "\u30ED\u30A4\u30E4\u30EB\u30E1\u30A4\u30C9\u968A\u3001\u8EFD\u5DE1\u6D0B\u8266\u30B7\u30A7\u30D5\u30A3\u30FC\u30EB\u30C9\u3002\u4EF0\u305B\u306E\u307E\u307E\u306B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sheffield",
+        "JP": "\u30B7\u30A7\u30D5\u30A3\u30FC\u30EB\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Royal Navy",
+          "JP": "\u30ED\u30A4\u30E4\u30EB"
+        },
+        {
+          "EN": "Light Cruiser",
+          "JP": "\u8EFD\u5DE1\u6D0B\u8266"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "I\u0027m Sheffield of the Royal Maid Corps, awaiting your command.",
+        "JP": "\u30ED\u30A4\u30E4\u30EB\u30E1\u30A4\u30C9\u968A\u3001\u8EFD\u5DE1\u6D0B\u8266\u30B7\u30A7\u30D5\u30A3\u30FC\u30EB\u30C9\u3002\u4EF0\u305B\u306E\u307E\u307E\u306B"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-007",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "It\u0027s my turn to shine! I\u0027m \u0022that girl\u0027s\u0022 big sister, Edinburgh!",
+            "JP": "\u79C1\u306E\u51FA\u756A\u3063\u3066\u3053\u3068\u3067\u3059\u306D\uFF01\u79C1\u306F\u300C\u30A2\u30A4\u30C4\u300D\u306E\u59C9\u3001\u30A8\u30C7\u30A3\u30F3\u30D0\u30E9\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Edinburgh",
+        "JP": "\u30A8\u30C7\u30A3\u30F3\u30D0\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "Royal Navy",
+          "JP": "\u30ED\u30A4\u30E4\u30EB"
+        },
+        {
+          "EN": "Light Cruiser",
+          "JP": "\u8EFD\u5DE1\u6D0B\u8266"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "It\u0027s my turn to shine! I\u0027m \u0022that girl\u0027s\u0022 big sister, Edinburgh!",
+        "JP": "\u79C1\u306E\u51FA\u756A\u3063\u3066\u3053\u3068\u3067\u3059\u306D\uFF01\u79C1\u306F\u300C\u30A2\u30A4\u30C4\u300D\u306E\u59C9\u3001\u30A8\u30C7\u30A3\u30F3\u30D0\u30E9\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-008",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "It is a great pleasure to meet you. I am Belfast the maid.",
+            "JP": "\u3054\u6A5F\u5ACC\u9E97\u3057\u3085\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u30E1\u30A4\u30C9\u306E\u30D9\u30EB\u30D5\u30A1\u30B9\u30C8\u3068\u7533\u3057\u307E\u3059\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-008s.png"
+          ]
+        },
+        {
+          "Serial": "AL/001T-008SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "It is a great pleasure to meet you. I am Belfast the maid.",
+            "JP": "\u3054\u6A5F\u5ACC\u9E97\u3057\u3085\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u30E1\u30A4\u30C9\u306E\u30D9\u30EB\u30D5\u30A1\u30B9\u30C8\u3068\u7533\u3057\u307E\u3059\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-008sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Belfast",
+        "JP": "\u30D9\u30EB\u30D5\u30A1\u30B9\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Light Cruiser",
+          "JP": "\u8EFD\u5DE1\u6D0B\u8266"
+        },
+        {
+          "EN": "Royal Navy",
+          "JP": "\u30ED\u30A4\u30E4\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "It is a great pleasure to meet you. I am Belfast the maid.",
+        "JP": "\u3054\u6A5F\u5ACC\u9E97\u3057\u3085\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u30E1\u30A4\u30C9\u306E\u30D9\u30EB\u30D5\u30A1\u30B9\u30C8\u3068\u7533\u3057\u307E\u3059\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Rest (3) Energy], choose a character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-009",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "I\u0027m... Ayanami. I am often called the \u0022Demon.\u0022 Pleasure to meet you.",
+            "JP": "\u7DBE\u6CE2\u2026\u2026\u3067\u3059\u3002\u300C\u9B3C\u795E\u300D\u3068\u3088\u304F\u8A00\u308F\u308C\u308B\u306E\u3067\u3059\u3002\u3088\u308D\u3057\u304F\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ayanami",
+        "JP": "\u7DBE\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Destroyer",
+          "JP": "\u99C6\u9010\u8266"
+        },
+        {
+          "EN": "Sakura Empire",
+          "JP": "\u91CD\u685C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "I\u0027m... Ayanami. I am often called the \u0022Demon.\u0022 Pleasure to meet you.",
+        "JP": "\u7DBE\u6CE2\u2026\u2026\u3067\u3059\u3002\u300C\u9B3C\u795E\u300D\u3068\u3088\u304F\u8A00\u308F\u308C\u308B\u306E\u3067\u3059\u3002\u3088\u308D\u3057\u304F\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When your member is put into your waiting room by your opponent\u0027s card effect, choose a character from your waiting room other than that character, put it onto your member area. (If two or more members were put into your waiting room, choose any character)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u76F8\u624B\u306E\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u4EE5\u5916\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\uFF08\uFF12\u679A\u4EE5\u4E0A\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u5834\u5408\u306F\u597D\u304D\u306A\u30AD\u30E3\u30E9\u3092\u9078\u3079\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-010",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "I am Nagato, the flagship of the Sakura Empire\u0027s Combined Fleet.",
+            "JP": "\u4F59\u306F\u91CD\u685C\u9023\u5408\u8266\u968A\u65D7\u8266\u2015\u2015\u9577\u9580\u3067\u3042\u308B\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nagato",
+        "JP": "\u9577\u9580"
+      },
+      "Traits": [
+        {
+          "EN": "Battleship",
+          "JP": "\u6226\u8266"
+        },
+        {
+          "EN": "Sakura Empire",
+          "JP": "\u91CD\u685C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 9,
+      "Flavor": {
+        "EN": "I am Nagato, the flagship of the Sakura Empire\u0027s Combined Fleet.",
+        "JP": "\u4F59\u306F\u91CD\u685C\u9023\u5408\u8266\u968A\u65D7\u8266\u2015\u2015\u9577\u9580\u3067\u3042\u308B\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-011",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "We meet at last, Commander.",
+            "JP": "\u3088\u3046\u3084\u304F\u4F1A\u3048\u305F\u306D\u3001\u6307\u63EE\u5B98\u69D8\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-011s.png"
+          ]
+        },
+        {
+          "Serial": "AL/001T-011SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "We meet at last, Commander.",
+            "JP": "\u3088\u3046\u3084\u304F\u4F1A\u3048\u305F\u306D\u3001\u6307\u63EE\u5B98\u69D8\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-011sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Akagi",
+        "JP": "\u8D64\u57CE"
+      },
+      "Traits": [
+        {
+          "EN": "Aircraft Carrier",
+          "JP": "\u7A7A\u6BCD"
+        },
+        {
+          "EN": "Sakura Empire",
+          "JP": "\u91CD\u685C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "We meet at last, Commander.",
+        "JP": "\u3088\u3046\u3084\u304F\u4F1A\u3048\u305F\u306D\u3001\u6307\u63EE\u5B98\u69D8\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo]:Your entry gets \u002B1/\u002B1.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\n(\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9)"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-012",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "All your problems will be gone if you let me, Z1, handle them!",
+            "JP": "\u3053\u308C\u304B\u3089\u306F\u3053\u306EZ1\u69D8\u306B\u4EFB\u305B\u308C\u3070\u554F\u984C\u306A\u3044\u306E\u3060\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Z1",
+        "JP": "Z1"
+      },
+      "Traits": [
+        {
+          "EN": "Iron Blood",
+          "JP": "\u9244\u8840"
+        },
+        {
+          "EN": "Destroyer",
+          "JP": "\u99C6\u9010\u8266"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "All your problems will be gone if you let me, Z1, handle them!",
+        "JP": "\u3053\u308C\u304B\u3089\u306F\u3053\u306EZ1\u69D8\u306B\u4EFB\u305B\u308C\u3070\u554F\u984C\u306A\u3044\u306E\u3060\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.\n([Skill Showcase Level 4]:Active if there are four or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-013",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "Let\u0027s study hard together and aim for the top!",
+            "JP": "\u4E00\u7DD2\u306B\u52C9\u5F37\u3057\u3066\u9802\u70B9\u3092\u76EE\u6307\u3057\u307E\u3057\u3087\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Z23",
+        "JP": "Z23"
+      },
+      "Traits": [
+        {
+          "EN": "Destroyer",
+          "JP": "\u99C6\u9010\u8266"
+        },
+        {
+          "EN": "Iron Blood",
+          "JP": "\u9244\u8840"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Let\u0027s study hard together and aim for the top!",
+        "JP": "\u4E00\u7DD2\u306B\u52C9\u5F37\u3057\u3066\u9802\u70B9\u3092\u76EE\u6307\u3057\u307E\u3057\u3087\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-014",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "EN": "How long can you keep me amused? I\u0027m looking forward to it.",
+            "JP": "\u3069\u3053\u307E\u3067\u697D\u3057\u307E\u305B\u3066\u304F\u308C\u308B\u306E\u304B\u3057\u3089\uFF1F\u671F\u5F85\u3057\u3066\u308B\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-014s.png"
+          ]
+        },
+        {
+          "Serial": "AL/001T-014SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "How long can you keep me amused? I\u0027m looking forward to it.",
+            "JP": "\u3069\u3053\u307E\u3067\u697D\u3057\u307E\u305B\u3066\u304F\u308C\u308B\u306E\u304B\u3057\u3089\uFF1F\u671F\u5F85\u3057\u3066\u308B\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-014sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Prinz Eugen",
+        "JP": "\u30D7\u30EA\u30F3\u30C4\u30FB\u30AA\u30A4\u30B2\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Heavy Cruiser",
+          "JP": "\u91CD\u5DE1\u6D0B\u8266"
+        },
+        {
+          "EN": "Iron Blood",
+          "JP": "\u9244\u8840"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "How long can you keep me amused? I\u0027m looking forward to it.",
+        "JP": "\u3069\u3053\u307E\u3067\u697D\u3057\u307E\u305B\u3066\u304F\u308C\u308B\u306E\u304B\u3057\u3089\uFF1F\u671F\u5F85\u3057\u3066\u308B\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-015",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-015S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Midsummer Sunlight",
+        "JP": "\u771F\u590F\u306E\u967D\u5149"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-016",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-016S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sisterly Bond",
+        "JP": "\u59C9\u59B9\u306E\u7D46"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P01",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P01S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p01s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Laffey",
+        "JP": "\u30E9\u30D5\u30A3\u30FC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P02",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P02S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p02s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Enterprise",
+        "JP": "\u30A8\u30F3\u30BF\u30FC\u30D7\u30E9\u30A4\u30BA"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P03",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P03S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p03s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Javelin",
+        "JP": "\u30B8\u30E3\u30D9\u30EA\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P04",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P04S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p04s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Belfast",
+        "JP": "\u30D9\u30EB\u30D5\u30A1\u30B9\u30C8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p04.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P05",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P05S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p05s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ayanami",
+        "JP": "\u7DBE\u6CE2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p05.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P06",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P06S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p06s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Akagi",
+        "JP": "\u8D64\u57CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p06.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    },
+    {
+      "Serial": "AL/001T-P07",
+      "Alternates": [
+        {
+          "Serial": "AL/001T-P07S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p07s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Prinz Eugen",
+        "JP": "\u30D7\u30EA\u30F3\u30C4\u30FB\u30AA\u30A4\u30B2\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/ALT/al001t-p07.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "AL/001T",
+        "Name": "Trial Deck Azur Lane"
+      }
+    }
+  ]
+}
