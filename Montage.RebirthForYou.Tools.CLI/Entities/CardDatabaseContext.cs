@@ -111,6 +111,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 
             modelBuilder.Entity<ActivityLog>(b =>
             {
+                var index = 0;
                 b.HasKey(a => a.LogID);
                 b.HasData(
                     new ActivityLog
@@ -681,6 +682,41 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HG_001T.r4uset",
                         DateAdded = new DateTime(2021, 10, 18, 14, 26, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 78,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_SSSS_002B.r4uset",
+                        DateAdded = new DateTime(2022, 04, 14, 14, 26, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 79,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_AL_002B.r4uset",
+                        DateAdded = new DateTime(2022, 04, 14, 14, 26, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 80,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_002E.r4uset",
+                        DateAdded = new DateTime(2022, 04, 14, 14, 26, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 81,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_BKRM_001B.r4uset",
+                        DateAdded = new DateTime(2022, 04, 14, 14, 26, 0)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 82,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_BKRM_001T.r4uset",
+                        DateAdded = new DateTime(2022, 04, 14, 14, 26, 0)
                     }
                 );
             });

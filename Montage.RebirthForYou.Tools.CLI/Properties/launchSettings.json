@@ -8,18 +8,6 @@
       "commandName": "Project",
       "commandLineArgs": "parse ./sample.r4uset"
     },
-    "Parse GochiUsa": {
-      "commandName": "Project",
-      "commandLineArgs": "parse ./Sets/gochiusa_bp.r4uset"
-    },
-    "Parse GUBP from GH": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/gochiusa_bp.r4uset"
-    },
-    "Parse HP02 from Fandom": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_%28ver._1st_Gen%29"
-    },
     "Parse HP01 from Fandom": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Deck_Hololive_Production_(ver._0th_Gen)"
@@ -52,41 +40,17 @@
       "commandName": "Project",
       "commandLineArgs": "export https://decklog.bushiroad.com/view/9S4K --out sharex --with sendtcp"
     },
-    "Export DB IMC": {
-      "commandName": "Project",
-      "commandLineArgs": "export-db --rids IMC/001B"
-    },
-    "Parse GP/002B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/03/10/gp-002b-full-set-list/"
-    },
     "Export DB GP/002B": {
       "commandName": "Project",
       "commandLineArgs": "export-db --rids GP/002B"
-    },
-    "Parse IMC/001T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/03/10/gp-002b-full-set-list/"
-    },
-    "Parse DJ/001T / DJ/002T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2020/12/23/dj-001t-dj-002t-full-set-list/"
     },
     "Export DB DJ/001T": {
       "commandName": "Project",
       "commandLineArgs": "export-db --rids DJ/001B"
     },
-    "Parse GU/001E (Renegades COTD)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/tag/gu-001e/"
-    },
     "Parse DJ/001B (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/28/dj-001b-full-set-list/"
-    },
-    "Parse SSSS/001T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/05/19/ssss-001t-full-set-list/"
     },
     "Parse SSSS/001B (Renegades)": {
       "commandName": "Project",
@@ -143,6 +107,22 @@
     "Parse GZ/001B (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/10/07/gz-001b-full-set-list/"
+    },
+    "Parse SSSS/002B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/10/20/ssss-002b-full-set-list/"
+    },
+    "Parse AL/002B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/12/01/al-002b-full-set-list/"
+    },
+    "Parse HP/002E (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/12/08/hp-002e-full-set-list/"
+    },
+    "Parse BKRM/001BE (Regenades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/12/15/bkrm-001t-bkrm-001b-full-set-list/"
     }
   }
 }

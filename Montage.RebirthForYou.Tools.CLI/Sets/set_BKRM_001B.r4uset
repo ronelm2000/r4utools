@@ -1,0 +1,4752 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "BKRM/001B-001",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-001 SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Eiko",
+        "JP": "\u3082\u3046\u4E00\u5EA6\u3042\u306E\u9803\u306B\u623B\u3063\u3066 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Put a card from your hand into the waiting room], and set a Rebirth from your waiting room. If you set \u0022I\u0027ll definitely find a way!\u0022, [choose a \u003CShare House Kitayama\u003E or an \u0022Eiko\u0022 from your hand or energy, and put it onto your entry area], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B\u3092\u30BB\u30C3\u30C8\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\u304B\u300A\u82F1\u5B50\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B",
+        "Name": "Booster Pack \"Bokutachi no Remake! (Remake Our Life!)\""
+      }
+    },
+    {
+      "Serial": "BKRM/001B-002",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-002 S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u4ED5\u65B9\u306A\u304F\u306A\u3093\u304B\u306A\u3044 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022I\u0027ll definitely find a way!\u0022][Skill Showcase Level 4]:[Cost (3), and put this character on the bottom of your deck], choose up to one each of a character and a Rebirth from your waiting room, put that character onto your open member area, and set that Rebirth. If you put a \u0022Kyoya\u0022 onto your member area, choose a character from your hand, and you may put it onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-003",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-003 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aspired Arts Uni Life, Kyoya",
+        "JP": "\u61A7\u308C\u306E\u82B8\u5927\u751F\u6D3B \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from entry area, look at three cards from the top of your deck, reveal up to two Rebirths from among them, add them to your hand, and put the rest on the bottom of your deck in any order.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF12\u679A\u307E\u3067\u516C\u958B\u3057\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Entry):[Cost (4)], choose a character from your hand, and exchange it with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-004",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-004 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sitting Down, Kyoya",
+        "JP": "\u304A\u5EA7\u308A \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your member area, put the top card of your deck onto your energy area as [Rest]. If you have another \u003CShare House Kitayama\u003E member, choose one of your energy, and [Stand] it. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-005",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-005 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308C\u3067\u97F3\u5468\u308A\u306E\u3053\u3068\u3001\u304B\u306A\u308A\u899A\u3048\u305F\u3088\u306A\u3042"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsurayuki",
+        "JP": "\u904E\u53BB\u306E\u7D4C\u9A13 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u308C\u3067\u97F3\u5468\u308A\u306E\u3053\u3068\u3001\u304B\u306A\u308A\u899A\u3048\u305F\u3088\u306A\u3042"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, if you have an \u0022Aki\u0022, a \u0022Nanako\u0022, and a \u0022Tsurayuki\u0022 on your member or retire areas, this character gets \u002B5/\u002B3 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u4E9C\u8CB4\u300B\u3068\u300A\u5948\u3005\u5B50\u300B\u3068\u300A\u8CAB\u4E4B\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-006",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-006 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6839\u62E0\u3082\u306A\u304F\u8A00\u3063\u3066\u308B\u308F\u3051\u3058\u3083\u306A\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ways To Do Things, Kyoya",
+        "JP": "\u4F55\u3068\u304B\u3059\u308B\u65B9\u6CD5 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6839\u62E0\u3082\u306A\u304F\u8A00\u3063\u3066\u308B\u308F\u3051\u3058\u3083\u306A\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-007",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-007 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3059\u3067\u306B\u30A4\u30E9\u30B9\u30C8\u306E\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB\u306F\u7834\u7DBB\u3057\u304B\u3051\u3066\u3044\u308B\u3002 \u3053\u308C\u4EE5\u4E0A\u306E\u8FFD\u52A0\u306F\u73FE\u5B9F\u7684\u3058\u3083\u306A\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Production Troubles, Kyoya",
+        "JP": "\u5236\u4F5C\u306E\u82E6\u60A9 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3059\u3067\u306B\u30A4\u30E9\u30B9\u30C8\u306E\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB\u306F\u7834\u7DBB\u3057\u304B\u3051\u3066\u3044\u308B\u3002 \u3053\u308C\u4EE5\u4E0A\u306E\u8FFD\u52A0\u306F\u73FE\u5B9F\u7684\u3058\u3083\u306A\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-008",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-008 S",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027ll definitely find a way!",
+        "JP": "\u306A\u306B\u304B\u3067\u304D\u308B\u3053\u3068\u3092\u63A2\u3057\u3066 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark]:You may put a card from your hand onto your energy area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Desperately Searching\u0022][Skill Showcase Level 7][1/Turn]:When this character attacks, [Cost (2)], and that attack becomes a partner attack. In addition, if you have \u0022I\u0027ll definitely find a way!\u0022 set, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5FC5\u6B7B\u3067\u63A2\u3057\u3066\u308B\u300B\u672C\u9818\u767A\u63EELv\uFF17"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-009",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-009 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u306F\u3069\u3046\u3044\u3046\u30B7\u30FC\u30F3\u306A\u3093\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u30B7\u30FC\u30F3\u306E\u8CEA\u554F \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3053\u308C\u306F\u3069\u3046\u3044\u3046\u30B7\u30FC\u30F3\u306A\u3093\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a card from the waiting room, and put it onto your energy area as [Rest]. If you have a \u0022Kyoya\u0022 member, you may put it from the top of your deck instead of the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u63A7\u3048\u5BA4\u3067\u306F\u306A\u304F\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-010",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-010 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5B66\u5712\u796D\u306E\u7D42\u308F\u308A \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a \u0022Kyoya\u0022 from your energy or waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u63A7\u3048\u5BA4\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Kinda\u2026 Got Carried Away\u0022][Skill Showcase Level 4]:[Cost (3)], choose two cards from your waiting room, put them onto your energy area as [Rest]. If you have a \u0022Kyoya\u0022 member, this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u306A\u3093\u304B\u3001\u3057\u3061\u3083\u3063\u305F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-011",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-011 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306E\u6642\u3082\u3001\u308F\u305F\u3057\u672C\u5F53\u306B\u5B09\u3057\u304B\u3063\u305F\u3068\u3088\u3002 \u3084\u3081\u3061\u3083\u30C0\u30E1\u3060\u3001\u308F\u305F\u3057\u306E\u7D75\u304C\u597D\u304D\u3060\u3063\u3066\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lap Pillow, Aki",
+        "JP": "\u819D\u6795 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u306E\u6642\u3082\u3001\u308F\u305F\u3057\u672C\u5F53\u306B\u5B09\u3057\u304B\u3063\u305F\u3068\u3088\u3002 \u3084\u3081\u3061\u3083\u30C0\u30E1\u3060\u3001\u308F\u305F\u3057\u306E\u7D75\u304C\u597D\u304D\u3060\u3063\u3066\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CShare House Kitayama\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CShare House Kitayama\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-012",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-012 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Desperate\u200Bly Searching",
+        "JP": "\u304A\u5EA7\u308A \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area from hand, [Cost (3)], and set an \u0022I\u0027ll definitely find a way!\u0022 or a \u0022Desperate\u200Bly Searching\u0022 from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B\u304B\u300A\u5FC5\u6B7B\u3067\u63A2\u3057\u3066\u308B\u300B\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-013",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-013 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u6DFB\u3044\u5BDD\u30CF\u30D7\u30CB\u30F3\u30B0 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Kyoya\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-014",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-014 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u606D\u4E5F\u300C\u50D5\u306F\u2026\u597D\u304D\u3060\u3088\u3002\u30B7\u30CE\u30A2\u30AD\u306E\u7D75\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5FC3\u306B\u97FF\u304F\u4E00\u8A00 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u606D\u4E5F\u300C\u50D5\u306F\u2026\u597D\u304D\u3060\u3088\u3002\u30B7\u30CE\u30A2\u30AD\u306E\u7D75\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:If you have a \u0022Kyoya\u0022 member, this character gets \u002B2/\u00B10, and if you have five or more energy, then it gets an additional \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3057\u3001\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-015",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-015 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u5E30\u308A\u306A\u3055\u3044\u307E\u305B\u3001\u3054\u4E3B\u4EBA\u69D8\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u30E1\u30A4\u30C9\u670D \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304A\u5E30\u308A\u306A\u3055\u3044\u307E\u305B\u3001\u3054\u4E3B\u4EBA\u69D8\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have a \u0022Nanako\u0022 and a \u0022Tsurayuki\u0022 member, your \u0022Kyoya\u0022 entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5948\u3005\u5B50\u300B\u3068\u300A\u8CAB\u4E4B\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u300A\u606D\u4E5F\u300B\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-016",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-016 SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027ll definitely find a way!",
+        "JP": "\u597D\u304D\u306A\u3053\u3068\u306B\u672C\u6C17\u306B\u306A\u3063\u3066 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Possibility\u0022][Skill Showcase Level 6][1/Turn]:When this character attacks, choose one of your allied members, and [Stand] it. If you have \u0022I\u0027ll definitely find a way!\u0022 set, this character gets \u002B1/\u00B10 until end of turn for every two cards in your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u53EF\u80FD\u6027\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002\u3042\u306A\u305F\u306E\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u624B\u672D\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Entry):[Cost (4)], and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-017",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-017 S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Singing Practice, Nanako",
+        "JP": "\u6B4C\u306E\u7DF4\u7FD2 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CShare House Kitayama\u003E]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-018",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-018 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5C4A\u3051\u3001\u3053\u306E\u60F3\u3044 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a \u0022Kyoya\u0022 from your hand or waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Nice to Meet You, N@NA\u0022][Skill Showcase Level 4][1/Turn]:When this character attacks, if you have a \u0022Kyoya\u0022 member, draw a card, and your opponent cannot use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u306F\u3058\u3081\u307E\u3057\u3066\u3001NNA\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-019",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-019 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u7279\u306B\u7406\u7531\u304C\u3042\u3063\u305F\u308F\u3051\u3058\u3083\u306A\u3044\u3051\u3069\u2026\u2026\u7435\u7436\u6E56\u306B\u98FD\u304D\u305F\u304B\u3089\u3001\u304B\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Part-Time at the Convenience Store, Nanako",
+        "JP": "\u30B3\u30F3\u30D3\u30CB\u30D0\u30A4\u30C8 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u7279\u306B\u7406\u7531\u304C\u3042\u3063\u305F\u308F\u3051\u3058\u3083\u306A\u3044\u3051\u3069\u2026\u2026\u7435\u7436\u6E56\u306B\u98FD\u304D\u305F\u304B\u3089\u3001\u304B\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5 \u003CShare House Kitayama\u003E]:This character gets \u002B1/\u00B10 for each card in your hand.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-020",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-020 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u304A\u5EA7\u308A \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a character from your hand, and you may put it onto your member area. If you put a \u0022Kyoya\u0022, this character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u300A\u606D\u4E5F\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-021",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-021 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5AC9\u59AC\u306E\u773C\u5DEE\u3057 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character retires an opponent\u0027s character, if you have a \u0022Kyoya\u0022 on your member or retire area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-022",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-022 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Thank You, Nananako",
+        "JP": "\u3042\u308A\u304C\u3068\u3046 \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for every two cards in your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-023",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-023 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u5E30\u308A\u306A\u3055\u3044\u307E\u305B\u3001\u3054\u4E3B\u4EBA\u69D8\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u30E1\u30A4\u30C9\u670D \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        },
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u304A\u5E30\u308A\u306A\u3055\u3044\u307E\u305B\u3001\u3054\u4E3B\u4EBA\u69D8\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:If you have an \u0022Aki\u0022 or a \u0022Tsurayuki\u0022 member, choose a \u0022Kyoya\u0022 from your hand, and you may put it onto your entry area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u4E9C\u8CB4\u300B\u304B\u300A\u8CAB\u4E4B\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-024",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-024 SP",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Doesn\u0027t Want to Lose to You, Eiko",
+        "JP": "\u3042\u306A\u305F\u306B\u8CA0\u3051\u305F\u304F\u306A\u3044\u3063\u3066 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4][1/Turn]:[Cost (3), and put a card from your hand on the bottom of your deck], reveal three cards from the top of your deck, choose a [Spark] of a character from among them, activate it as this character\u0027s [Spark], and put the revealed cards into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u3001\u516C\u958B\u3057\u305F\u30AB\u30FC\u30C9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-025",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-025 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3046\u3057\u3066\u6A4B\u5834\u306E\u30C1\u30FC\u30E0\u304C1\u4F4D\u3058\u3083\u306A\u3044\u306E\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027ll definitely find a way!",
+        "JP": "\u7D50\u679C\u3078\u306E\u6297\u8B70 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3069\u3046\u3057\u3066\u6A4B\u5834\u306E\u30C1\u30FC\u30E0\u304C1\u4F4D\u3058\u3083\u306A\u3044\u306E\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022As A Production\u0022][Skill Showcase Level 5][1/Turn]:When this character retires an opponent\u0027s character, choose one of your opponent\u0027s partners, and during your opponent\u0027s next turn, it does not [Stand]. If you have \u0022I\u0027ll definitely find a way!\u0022 set, choose an additional one of your opponent\u0027s members.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5236\u4F5C\u3068\u3057\u3066\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002\u3042\u306A\u305F\u306E\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u8FFD\u52A0\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3082\uFF11\u679A\u9078\u3076\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-026",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-026 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3058\u3083\u3001\u308F\u305F\u3057\u306F\u3053\u3053\u3067"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u3084\u3055\u3057\u3044\u58F0\u304B\u3051 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3058\u3083\u3001\u308F\u305F\u3057\u306F\u3053\u3053\u3067"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a \u0022Kyoya\u0022 from your hand or energy, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Are You Alright?\u0022][1/Turn]:[Cost (1)], if you have a \u0022Kyoya\u0022 member, choose a [Cancel] from your waiting room or set Rebirths, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5927\u4E08\u592B\u306A\u306E\uFF1F\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u63A7\u3048\u5BA4\u304B\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-027",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-027 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sitting Down, Eiko",
+        "JP": "\u304A\u5EA7\u308A \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-028",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-028 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u6A4B\u5834\uFF01 \u3053\u308C\u3069\u3046\u3057\u305F\u3089\u3044\u3044\u306E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Debugging Crunch Time, Eiko",
+        "JP": "\u30C7\u30D0\u30C3\u30B0\u306E\u4FEE\u7F85\u5834 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6A4B\u5834\uFF01 \u3053\u308C\u3069\u3046\u3057\u305F\u3089\u3044\u3044\u306E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a character, [Cost (3)], choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-029",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-029 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u4F55\u3088\u3001\u3082\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sullen Look, Eiko",
+        "JP": "\u81A8\u308C\u9762 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4F55\u3088\u3001\u3082\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each card in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-030",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-030 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u606D\u4E5F\u300C\u3048\u2026\u306A\u306B\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u88CF\u6280\u306E\u4ED5\u639B\u3051 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u606D\u4E5F\u300C\u3048\u2026\u306A\u306B\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u0022Kyoya\u0022]\n(If you discard it from hand, the damage from one attack to your allied \u0022Kyoya\u0022 becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u300A\u606D\u4E5F\u300B\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u300A\u606D\u4E5F\u300B\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks a \u0022Kyoya\u0022, you may put this character onto your open member area.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u300A\u606D\u4E5F\u300B\u3092\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-031",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-031 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u7F8E\u65E9\u7D00\u300C\u304A\u3084\u3001\u305D\u306E\u3064\u3082\u308A\u3067\u8A00\u3063\u305F\u3093\u3060\u304C\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Misaki",
+        "JP": "\u8D64\u9762 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "JP": "\u7F8E\u65E9\u7D00\u300C\u304A\u3084\u3001\u305D\u306E\u3064\u3082\u308A\u3067\u8A00\u3063\u305F\u3093\u3060\u304C\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have a \u0022Kyoya\u0022 or a \u0022Misaki\u0022 member, then it gets an additional \u002B1/\u002B1.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u606D\u4E5F\u300B\u304B\u300A\u7F8E\u65E9\u7D00\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-032",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-032 S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u3044\u3044\u3082\u306E\u3092\u3064\u304F\u308A\u305F\u3044\u3063\u3066 \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Cost (4)], choose one of your opponent\u0027s members, put it into the waiting room, and put this character onto your member area. If you have a \u0022Kyoya\u0022 member, put it onto your energy area instead of putting it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u304B\u308F\u308A\u306B\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-033",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-033 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3001\u305D\u3046\u306A\u306E\u304B\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Conflict of Feelings and Reality, Tsurayuki",
+        "JP": "\u60F3\u3044\u3068\u73FE\u5B9F\u306E\u305B\u3081\u304E\u3042\u3044 \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u3001\u305D\u3046\u306A\u306E\u304B\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CShare House Kitayama\u003E]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-034",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-034 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u304A\u524D\u306E\u540D\u524D\u306E\u8AAD\u307F\u3092\u3082\u3089\u304A\u3046\u3068\u601D\u3063\u3066\u305F\u3093\u3060\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027ll definitely find a way!",
+        "JP": "\u30DA\u30F3\u30CD\u30FC\u30E0 \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u304A\u524D\u306E\u540D\u524D\u306E\u8AAD\u307F\u3092\u3082\u3089\u304A\u3046\u3068\u601D\u3063\u3066\u305F\u3093\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Kyouichi Kawagoe\u0022][Skill Showcase Level 4]:When this character supports, [put this character into the waiting room], choose two of your opponent\u0027s members, and put them into the waiting room. In addition, if you have \u0022I\u0027ll definitely find a way!\u0022 set, you may put this character onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5DDD\u8D8A\u4EAC\u4E00\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u300A\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01\u300B\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-035",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-035 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sitting Down, Tsurayuki",
+        "JP": "\u304A\u5EA7\u308A \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character onto the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-036",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-036 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nanako",
+        "JP": "\u934B\u306E\u4EE3\u511F \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have a \u0022Kyoya\u0022, an \u0022Aki\u0022, and a \u0022Nanako\u0022 on your member or retire areas, this character gets \u002B3/\u002B5.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u606D\u4E5F\u300B\u3068\u300A\u4E9C\u8CB4\u300B\u3068\u300A\u5948\u3005\u5B50\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF15\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-037",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-037 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u901A\u308A\u3059\u304C\u308A\u306E\u2026\u2026\u9053\u5316\u3067\u3057\u3066\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "A Passing Jester, Tsurayuki",
+        "JP": "\u901A\u308A\u3059\u304C\u308A\u306E\u9053\u5316 \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u901A\u308A\u3059\u304C\u308A\u306E\u2026\u2026\u9053\u5316\u3067\u3057\u3066\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-038",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-038 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u96E2\u305B\u3063\u3066\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fatigue, Tsurayuki",
+        "JP": "\u75B2\u52B4\u6194\u60B4 \u8CAB\u4E4B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        },
+        {
+          "EN": "Share House Kitayama",
+          "JP": "\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u96E2\u305B\u3063\u3066\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each \u003CShare House Kitayama\u003E in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-039",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-039 S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kawasegawa\u0027s Sister, Misaki",
+        "JP": "\u6CB3\u702C\u5DDD\u306E\u59C9 \u7F8E\u65E9\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put into the waiting room from entry area, choose two cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-040",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-040 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u5236\u4F5C\u306B\u95A2\u308F\u308B\u3082\u306E\u3059\u3079\u3066\u304C\u52C9\u5F37\u3060\u3088\u3002\u3044\u3044\u7D4C\u9A13\u306B\u306A\u308B\u306F\u305A\u3060"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Emphatic Encouragement",
+        "JP": "\u5FDC\u63F4\u306E\u8A00\u8449 \u7F8E\u65E9\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u5236\u4F5C\u306B\u95A2\u308F\u308B\u3082\u306E\u3059\u3079\u3066\u304C\u52C9\u5F37\u3060\u3088\u3002\u3044\u3044\u7D4C\u9A13\u306B\u306A\u308B\u306F\u305A\u3060"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, the supported character gets \u002B1/\u00B10 until end of the attack. If you have \u0022Emphatic Encouragement\u0022 set, [Cost (2)], choose two cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u300A\u53F1\u54A4\u6FC0\u52B1\u300B\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-041",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-041 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Keiko",
+        "JP": "\u7533\u8ACB\u66F8\u78BA\u8A8D \u7F8E\u65E9\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 5]:When this character is put onto your member area, choose one of your opponent\u0027s members, and put it into the waiting room. Choose one of your \u0022Kyoya\u0022, \u0022Eiko\u0022, or \u0022Keiko\u0022 members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u300A\u606D\u4E5F\u300B\u304B\u300A\u82F1\u5B50\u300B\u304B\u300A\u7F6B\u5B50\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-042",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-042 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u805E\u3044\u3066\u308B\u305E\u3001\u63C9\u3081\u3066\u3044\u308B\u3093\u3060\u3063\u3066\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "What is a Creator? Misaki",
+        "JP": "\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u3068\u306F \u7F8E\u65E9\u7D00"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u805E\u3044\u3066\u308B\u305E\u3001\u63C9\u3081\u3066\u3044\u308B\u3093\u3060\u3063\u3066\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-043",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-043 S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u767B\u7F8E\u4E18 \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose one of your entries, and return it to your hand. If you returned a \u0022Kyoya\u0022 with this effect, choose two of your energy, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u3053\u306E\u52B9\u679C\u3067\u300A\u606D\u4E5F\u300B\u3092\u623B\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-044",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-044 S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Why\u2026 did things turn out like this?",
+        "JP": "\u77E5\u308B\u8005 \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Why\u2026 did things turn out like this?\u0022][Skill Showcase Level 6]:When you would put Rebirths into the waiting room at the end of your turn, you may leave one. If you have no cards in your hand, instead of leaving one, you may return up to one to your hand, and leave up to one. (If you have no cards in your hand and have one Rebirth set you may choose to leave it or return it to hand)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3069\u3046\u3057\u3066\u3001\u3053\u3046\u306A\u3063\u305F\u306E\u304B\u306A\uFF1F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\uFF11\u679A\u6B8B\u3057\u3066\u3088\u3044\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\uFF11\u679A\u6B8B\u3059\u304B\u308F\u308A\u306B\u3001\uFF11\u679A\u307E\u3067\u624B\u672D\u306B\u623B\u3057\u3001\uFF11\u679A\u307E\u3067\u6B8B\u3057\u3066\u3088\u3044\u3002\uFF08\u624B\u672D\u304C\u306A\u304FRe\u30D0\u30FC\u30B9\u304C\uFF11\u679A\u306A\u3089\u6B8B\u3057\u3066\u3082\u623B\u3057\u3066\u3082\u3088\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-045",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-045 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sitting Down, Keiko",
+        "JP": "\u304A\u5EA7\u308A \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-046",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-046 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u305D\u306E\u4EE3\u308F\u308A\u3001\u6761\u4EF6\u3084"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Making a Hit Product, Keiko",
+        "JP": "\u58F2\u308C\u308B\u3082\u306E\u3092\u4F5C\u308B\u4E8B \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u305D\u306E\u4EE3\u308F\u308A\u3001\u6761\u4EF6\u3084"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a card from your hand on the bottom of your deck], choose one of your set Rebirths, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-047",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-047 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306A\u3093\u3084\u3001\u6B63\u76F4\u306B\u8A00\u3046\u305F\u3089\u3088\u304B\u3063\u305F\u306E\u306B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Old Friend, Keiko",
+        "JP": "\u304B\u3064\u3066\u306E\u53CB\u4EBA \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u306A\u3093\u3084\u3001\u6B63\u76F4\u306B\u8A00\u3046\u305F\u3089\u3088\u304B\u3063\u305F\u306E\u306B"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-048",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-048 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u8CB8\u3057\u3072\u3068\u3064 \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose one of your \u0022Kyoya\u0022 members, and put it on the bottom of your deck], draw a card, and put a card from your hand into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-049",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-049 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30B2\u30FC\u30E0\u4F5C\u308B\u3093\u3084\u3063\u305F\u3089\u30B9\u30DA\u30C3\u30AF\u306F\u3057\u3063\u304B\u308A\u3057\u3068\u3044\u305F\u65B9\u304C\u3048\u3048\u304B\u3089\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u6A5F\u6750\u8ABF\u9054 \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Hallucigenia Soft",
+          "JP": "\u30CF\u30EB\u30AD\u30B2\u30CB\u30A2\u30BD\u30D5\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30B2\u30FC\u30E0\u4F5C\u308B\u3093\u3084\u3063\u305F\u3089\u30B9\u30DA\u30C3\u30AF\u306F\u3057\u3063\u304B\u308A\u3057\u3068\u3044\u305F\u65B9\u304C\u3048\u3048\u304B\u3089\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a \u0022Kyoya\u0022 from your hand, and put it into the waiting room], choose a \u0022Kyoya\u0022 from your retire area, and exchange its position with this character.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-050",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-050 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306F\u3058\u3081\u307E\u3057\u3066\u3002\u308F\u305F\u304F\u3057\u6148\u7167\u5BFA\u3055\u3086\u308A\u3068\u7533\u3057\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsurayuki",
+        "JP": "\u6148\u7167\u5BFA \u3055\u3086\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Lady",
+          "JP": "\u304A\u5B22\u69D8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u306F\u3058\u3081\u307E\u3057\u3066\u3002\u308F\u305F\u304F\u3057\u6148\u7167\u5BFA\u3055\u3086\u308A\u3068\u7533\u3057\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[ReCombo][Skill Showcase Level 3]:[Cost (2), and reveal this character and put it onto your entry area], choose a \u0022Tsurayuki\u0022 from your hand, and you may put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3057\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u8CAB\u4E4B\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-051",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-051 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3064\u30FC\u304F\u3093\u306F\u3061\u3087\u3063\u3068\u75B2\u308C\u3066\u3044\u308B\u307F\u305F\u3044\u3067\u3059\u3057\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsurayuki",
+        "JP": "\u59C9\u306E\u3088\u3046\u306A\u5B58\u5728 \u3055\u3086\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Lady",
+          "JP": "\u304A\u5B22\u69D8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3064\u30FC\u304F\u3093\u306F\u3061\u3087\u3063\u3068\u75B2\u308C\u3066\u3044\u308B\u307F\u305F\u3044\u3067\u3059\u3057\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area, choose up to one of your \u0022Tsurayuki\u0022 members, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u8CAB\u4E4B\u300B\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-052",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-052 S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Eiko",
+        "JP": "\u658E\u5DDD \u7F8E\u4E43\u68A8"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Cost (3)], choose a \u0022Kyoya\u0022, an \u0022Aki\u0022, or an \u0022Eiko\u0022 with \u003COonaka University of Arts\u003E from your waiting room, and put it onto your entry area. If you put, draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014\u5927\u4E2D\u82B8\u8853\u5927\u5B66\u3015\u3092\u6301\u3064\u3001\u300A\u606D\u4E5F\u300B\u304B\u300A\u4E9C\u8CB4\u300B\u304B\u300A\u82F1\u5B50\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-053",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-053 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3042\u3042\u306E\u3001\u3054\u3001\u3054\u3081\u3093\u306A\u3055\u3044\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sudden Reunion, Minori",
+        "JP": "\u7A81\u7136\u306E\u518D\u4F1A \u7F8E\u4E43\u68A8"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\u3042\u3042\u306E\u3001\u3054\u3001\u3054\u3081\u3093\u306A\u3055\u3044\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-054",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-054 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Genkirou Hikawa",
+        "JP": "\u706B\u5DDD \u5143\u6C17\u90CE"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-055",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-055 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3042\u3001\u30B9\u30C6\u30FC\u30B8\u306B\u306F\u4FFA\u3082\u5F79\u8005\u3067\u51FA\u308B\u305E\uFF01\u662F\u975E\u898B\u306B\u6765\u3066\u304F\u308C\u3088\u306A\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ninja Study Group, Genkirou",
+        "JP": "\u5FCD\u8005\u7814\u7A76\u4F1A \u5143\u6C17\u90CE"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3042\u3042\u3001\u30B9\u30C6\u30FC\u30B8\u306B\u306F\u4FFA\u3082\u5F79\u8005\u3067\u51FA\u308B\u305E\uFF01\u662F\u975E\u898B\u306B\u6765\u3066\u304F\u308C\u3088\u306A\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-056",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-056 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5199\u771F\u5B66\u79D15\u56DE\u751F\u3001\u6850\u751F\u5B5D\u53F2"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsurayuki",
+        "JP": "\u6850\u751F \u5B5D\u53F2"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5199\u771F\u5B66\u79D15\u56DE\u751F\u3001\u6850\u751F\u5B5D\u53F2"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When your \u003CShare House Kitayama\u003E other than \u0022Tsurayuki\u0022 is put onto your member area, if you have no cards in your hand, you may return that character and this character to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u300A\u8CAB\u4E4B\u300B\u4EE5\u5916\u306E\u3014\u30B7\u30A7\u30A2\u30CF\u30A6\u30B9\u304D\u305F\u3084\u307E\u3015\u304C\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3068\u305D\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-057",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-057 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u5199\u771F\u306B\u95A2\u3059\u308B\u3053\u3068\u306A\u3089\u306A\u3093\u3067\u3082\u805E\u3044\u3066\u304F\u308C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-057s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Photography Department, Takashi",
+        "JP": "\u5199\u771F\u5B66\u79D1 \u5B5D\u53F2"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u5199\u771F\u306B\u95A2\u3059\u308B\u3053\u3068\u306A\u3089\u306A\u3093\u3067\u3082\u805E\u3044\u3066\u304F\u308C"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-058",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-058 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3057\u3083\u3079\u3093\u306A\u3063\u3064\u3063\u305F\u3067\u3057\u3087\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yurika Hiyama",
+        "JP": "\u6A0B\u5C71 \u53CB\u68A8\u4F73"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3057\u3083\u3079\u3093\u306A\u3063\u3064\u3063\u305F\u3067\u3057\u3087\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo]:If you have more cards in your retire area than your opponent, your [Growing] entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-059",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-059 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u50CD\u3051\u30B4\u30E9\u30A1\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Director\u0027s Stopper, Yurika",
+        "JP": "\u90E8\u9577\u306E\u30B9\u30C8\u30C3\u30D1\u30FC \u53CB\u68A8\u4F73"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u50CD\u3051\u30B4\u30E9\u30A1\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-060",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-060 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mikio Sugimoto",
+        "JP": "\u6749\u672C \u30DF\u30AD\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a [Growing] member, this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-061",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-061 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Singing Instructor, Mikio",
+        "JP": "\u6B4C\u5531\u6307\u5C0E \u30DF\u30AD\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 5,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-062",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-062 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sho Kakihara",
+        "JP": "\u67FF\u539F \u5C06"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a [Growing] from your waiting room, and put it onto your member area. This character gets \u002B1/\u002B1 until end of turn for each of your [Growing] members.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3044\u308B\u3010\u306E\u3073\u3057\u308D\u3011\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-063",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-063 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Art Study Group, Sho",
+        "JP": "\u7F8E\u8853\u7814\u7A76\u4F1A \u5C06"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 4,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-064",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-064 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u90E8\u9577\u306E\u5C71\u79D1\u3067\u3059\u3002\u3088\u308D\u3057\u304F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5C71\u79D1 \u548C\u592B"
+      },
+      "Traits": [
+        {
+          "EN": "Oonaka University of Arts",
+          "JP": "\u5927\u4E2D\u82B8\u8853\u5927\u5B66"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u90E8\u9577\u306E\u5C71\u79D1\u3067\u3059\u3002\u3088\u308D\u3057\u304F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand):[Cost (2), and reveal this character], if you have a \u0022Kyoya\u0022 entry, put this character onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-065",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-065 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u606D\u4E5F\u300C\u304A\u524D\u3001\u30B3\u30B9\u30D7\u30EC\u3059\u308B\u8DA3\u5473\u3068\u304B\u3042\u3063\u305F\u306E\u304B\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "10\u5E74\u524D\u306E\u59FF \u7F8E\u4E16\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Little Sister",
+          "JP": "\u59B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u606D\u4E5F\u300C\u304A\u524D\u3001\u30B3\u30B9\u30D7\u30EC\u3059\u308B\u8DA3\u5473\u3068\u304B\u3042\u3063\u305F\u306E\u304B\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Cost (2)], choose a \u0022Kyoya\u0022 from your waiting room, and put it onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-066",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-066 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3093\u306A\u3001\u30A6\u30BD\u3060\u308D\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Eiko",
+        "JP": "\u7A81\u7136\u306E\u672A\u6765 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u305D\u3093\u306A\u3001\u30A6\u30BD\u3060\u308D\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area, [Cost (2)], choose this character and one of your \u003CYear 2018\u003E members, and they cannot be chosen by your opponent until end of turn. In addition, if you chose an \u0022Aki\u0022, a \u0022Maki\u0022 or an \u0022Eiko\u0022, choose one of your partners or energy, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30142018\u5E74\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u3089\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002\u300A\u4E9C\u8CB4\u300B\u304B\u300A\u30DE\u30AD\u300B\u304B\u300A\u82F1\u5B50\u300B\u3092\u9078\u3093\u3060\u3089\u3001\u3055\u3089\u306B\u81EA\u5206\u306E\u3001\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-067",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-067 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Have a Safe Trip",
+        "JP": "\u3044\u3063\u3066\u304D\u307E\u3059 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        },
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022Have a Safe Trip\u0022][1/Turn]:[Put one of your energy into the waiting room], choose three of your energy, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF13\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO](Member):When this character supports, [Cost (1)], and the supported character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2460\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-068",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-068 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC\u3068\u3082\u306A\u308C\u3070\u3001\u305D\u3046\u8EFD\u7387\u306A\u884C\u52D5\u3082\u3067\u304D\u306A\u3044\u3057"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lunch Time, Kyoya",
+        "JP": "\u30E9\u30F3\u30C1\u30BF\u30A4\u30E0 \u606D\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC\u3068\u3082\u306A\u308C\u3070\u3001\u305D\u3046\u8EFD\u7387\u306A\u884C\u52D5\u3082\u3067\u304D\u306A\u3044\u3057"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:You may put two cards from your hand onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-069",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-069 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u304A\u3068\u3046\u3055\u2026\u2026\u606D\u4E5F\u304F\u3093\u3001\u3069\u3046\u3057\u305F\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aki Hashiba",
+        "JP": "\u6A4B\u5834 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u304A\u3068\u3046\u3055\u2026\u2026\u606D\u4E5F\u304F\u3093\u3001\u3069\u3046\u3057\u305F\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each of your energy.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-070",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-070 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Maki",
+        "JP": "\u304A\u898B\u9001\u308A \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Have a Safe Trip\u0022][Skill Showcase Level 4]:[Cost (3)], choose up to one character from your energy area, put it into your member area, and this character gets \u002B2/\u00B10 until end of turn. If you put a \u0022Kyoya\u0022 or a \u0022Maki\u0022, choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u300A\u606D\u4E5F\u300B\u304B\u300A\u30DE\u30AD\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-071",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-071 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mother\u0027s Kindness, Aki",
+        "JP": "\u6BCD\u306E\u3084\u3055\u3057\u3055 \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 4]:When you would put cards from your hand onto your energy area, you may put from your waiting room instead.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u624B\u672D\u304B\u3089\u30A8\u30CD\u30EB\u30AE\u30FC\u3092\u7F6E\u304F\u969B\u3001\u304B\u308F\u308A\u306B\u63A7\u3048\u5BA4\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-072",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-072 S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3046\u30FC\u3093\u3001\u3054\u3081\u3093\u306D\u3002\u304A\u304B\u3042\u3055\u3093\u3001\u3042\u307E\u308A\u7D75\u304C\u4E0A\u624B\u3058\u3083\u306A\u3044\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-072s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Stopped Painting, Aki",
+        "JP": "\u7D75\u3092\u3084\u3081\u3066\u3057\u307E\u3063\u305F \u4E9C\u8CB4"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3046\u30FC\u3093\u3001\u3054\u3081\u3093\u306D\u3002\u304A\u304B\u3042\u3055\u3093\u3001\u3042\u307E\u308A\u7D75\u304C\u4E0A\u624B\u3058\u3083\u306A\u3044\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (2)], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-073",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-073 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u307E\u3067\u8074\u3044\u3066\u304F\u308C\u305F\u4EBA\u3001\u3054\u3081\u3093\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Announcement, Nanako",
+        "JP": "\u304A\u77E5\u3089\u305B \u5948\u3005\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4ECA\u307E\u3067\u8074\u3044\u3066\u304F\u308C\u305F\u4EBA\u3001\u3054\u3081\u3093\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CYear 2018\u003E]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u30142018\u5E74\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-074",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-074 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3054\u3081\u3093\u306D\u3001\u671D\u65E9\u304F\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u7B2C\u4E09\u30A8\u30F3\u30BF\u30FC\u30C6\u30A4\u30F3\u30E1\u30F3\u30C8\u8AB2\u8AB2\u9577 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3054\u3081\u3093\u306D\u3001\u671D\u65E9\u304F\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 6]:When this character retires an opponent\u0027s character, [Cost (3)], choose an \u003CAttraction Point\u003E from your waiting room, and return it to your hand. In addition, if you have five or more cards in your retire area, and a \u0022Kyoya\u0022 supported, choose a [Cancel] from your waiting room, return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF15\u679A\u4EE5\u4E0A\u3067\u3001\u300A\u606D\u4E5F\u300B\u306B\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u3089\u3001\u3055\u3089\u306B\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-075",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-075 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lunch Time, Eiko",
+        "JP": "\u30E9\u30F3\u30C1\u30BF\u30A4\u30E0 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CYear 2018\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CYear 2018\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u30142018\u5E74\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u30142018\u5E74\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-076",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-076 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u307E\u3067\u4F1A\u3063\u3066\u6765\u305F\u4EBA\u9593\u306E\u4E2D \u3067\u3001\u3044\u3061\u3070\u3093\u5927\u304D\u304F\u3066\u3001\u523A\u6FC0\u7684\u3067\u3001\u4E88\u60F3\u304C\u3064\u304B\u306A\u304F\u3066\u3001 \u305D\u3046\u3044\u3046\u3068\u3053\u304C\u597D\u304D\u3067\u3001\u3042\u3053\u304C\u308C\u3066\u3066\u3001\u3060\u304B\u3089\u305D\u3093\u306A\u5351\u5C48\u306B\u306A\u3093\u304B\u306A\u3089\u306A\u3044\u3067\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Expressing Feelings, Eiko",
+        "JP": "\u60F3\u3044\u306E\u5410\u9732 \u82F1\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 7,
+      "DEF": 2,
+      "Flavor": {
+        "JP": "\u4ECA\u307E\u3067\u4F1A\u3063\u3066\u6765\u305F\u4EBA\u9593\u306E\u4E2D \u3067\u3001\u3044\u3061\u3070\u3093\u5927\u304D\u304F\u3066\u3001\u523A\u6FC0\u7684\u3067\u3001\u4E88\u60F3\u304C\u3064\u304B\u306A\u304F\u3066\u3001 \u305D\u3046\u3044\u3046\u3068\u3053\u304C\u597D\u304D\u3067\u3001\u3042\u3053\u304C\u308C\u3066\u3066\u3001\u3060\u304B\u3089\u305D\u3093\u306A\u5351\u5C48\u306B\u306A\u3093\u304B\u306A\u3089\u306A\u3044\u3067\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-077",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-077 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3058\u3083\u3042\u3001\u884C\u3053\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya",
+        "JP": "\u5E30\u9084\u306E\u6642 \u7F6B\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3058\u3083\u3042\u3001\u884C\u3053\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose one of your \u0022Kyoya\u0022 members, and put it onto your energy area], choose a \u0022Kyoya\u0022 from your waiting room, and put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089\u300A\u606D\u4E5F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-078",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-078 S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saikawa Minori",
+        "JP": "\u5FA1\u6CD5 \u5F69\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:This character gets \u002B1/\u002B1 until end of turn for every two of your energy. If you have five or more energy, choose one of your opponent\u0027s members, and put it onto their energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-079",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-079 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u9B45\u529B\u306E\u3042\u308B\u30A4\u30E9\u30B9\u30C8\u3063\u3066\u3053\u3093\u306A\u306B\u3059\u3054\u3044\u3093\u3060\u3063\u3066\u3002\u4EBA\u306E\u5FC3\u3092\u5927\u304D\u304F\u63FA\u308A\u52D5\u304B\u3057\u3061\u3083\u3046\u3093\u3060\u3063\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aki",
+        "JP": "\u304D\u3063\u304B\u3051 \u5F69\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 6,
+      "ATK": 6,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u9B45\u529B\u306E\u3042\u308B\u30A4\u30E9\u30B9\u30C8\u3063\u3066\u3053\u3093\u306A\u306B\u3059\u3054\u3044\u3093\u3060\u3063\u3066\u3002\u4EBA\u306E\u5FC3\u3092\u5927\u304D\u304F\u63FA\u308A\u52D5\u304B\u3057\u3061\u3083\u3046\u3093\u3060\u3063\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022I Want to Draw!\u0022][1/Turn]:When this character attacks, put a card from the top of your deck onto your energy area as [Rest]. If you have five or more cards in your retire area, and have a \u0022Kyoya\u0022 or an \u0022Aki\u0022 member, [Cost (2)], choose a character from your energy area, and you may put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u63CF\u304D\u305F\u3044\u3067\u3059\uFF01\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF15\u679A\u4EE5\u4E0A\u3067\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u606D\u4E5F\u300B\u304B\u300A\u4E9C\u8CB4\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-080",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-080 S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Change of Pace, Saikawa",
+        "JP": "\u6C17\u5206\u8EE2\u63DB \u5F69\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have five or more energy, this character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-081",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-081 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u308F\u305F\u3057\u306E\u540D\u524D\u306F\u3001\u306F\u3057\u3070\u307E\u304D\u3067\u3059\u3063"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aki",
+        "JP": "\u6A4B\u5834 \u30DE\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u308F\u305F\u3057\u306E\u540D\u524D\u306F\u3001\u306F\u3057\u3070\u307E\u304D\u3067\u3059\u3063"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area, put the top card of your deck onto your energy as [Rest]. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        },
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports a \u0022Kyoya\u0022 or an \u0022Aki\u0022, [Cost (1)], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u300A\u606D\u4E5F\u300B\u304B\u300A\u4E9C\u8CB4\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2460\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-082",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-082 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "See Off, Maki",
+        "JP": "\u304A\u898B\u9001\u308A \u30DE\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B3/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-083",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-083 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u3068\u3046\u3055\u3093\u3001\u305A\u308B\u30FC\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-083s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aki",
+        "JP": "\u982C\u3092\u81A8\u3089\u307E\u305B\u308B \u30DE\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304A\u3068\u3046\u3055\u3093\u3001\u305A\u308B\u30FC\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a \u0022Kyoya\u0022 or an \u0022Aki\u0022 from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u606D\u4E5F\u300B\u304B\u300A\u4E9C\u8CB4\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-084",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-084 S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u6025\u304E\u30BF\u30D2\u30C1\u307E\u3067\u6765\u3066\u304F\u3060\u3055\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Miki Morishita",
+        "JP": "\u68EE\u4E0B \u7F8E\u6A39"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u6025\u304E\u30BF\u30D2\u30C1\u307E\u3067\u6765\u3066\u304F\u3060\u3055\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CYear 2018\u003E]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u30142018\u5E74\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-085",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-085 S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saikawa",
+        "JP": "\u6CB3\u702C\u5DDD\u306E\u90E8\u4E0B \u7F8E\u6A39"
+      },
+      "Traits": [
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        },
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a \u003CAttraction Point\u003E or a \u0022Saikawa\u0022, [put this character on the bottom of your deck], choose two cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u3014\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8\u3015\u304B\u300A\u5F69\u82B1\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-086",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-086 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6A4B\u5834\u3055\u3093\u3063\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Third Entertainment Division, Miki",
+        "JP": "\u7B2C\u4E09\u30A8\u30F3\u30BF\u30FC\u30C6\u30A4\u30F3\u30E1\u30F3\u30C8\u8AB2 \u7F8E\u6A39"
+      },
+      "Traits": [
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        },
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 5,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u6A4B\u5834\u3055\u3093\u3063\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-087",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-087 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3059\u307F\u307E\u305B\u3093\u3001\u9045\u304F\u306A\u308A\u307E\u3057\u305F\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-087s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jun Kishida",
+        "JP": "\u5CB8\u7530 \u6F64"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3059\u307F\u307E\u305B\u3093\u3001\u9045\u304F\u306A\u308A\u307E\u3057\u305F\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-088",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-088 S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3093\u306A\u3053\u3068\u3001\u4ECA\u66F4\u3067\u304D\u308B\u308F\u3051\u306A\u3044\u3060\u308D\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "President of Attraction Point",
+        "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8\u793E\u9577"
+      },
+      "Traits": [
+        {
+          "EN": "Year 2018",
+          "JP": "2018\u5E74"
+        },
+        {
+          "EN": "Attraction Point",
+          "JP": "\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u30DD\u30A4\u30F3\u30C8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u3093\u306A\u3053\u3068\u3001\u4ECA\u66F4\u3067\u304D\u308B\u308F\u3051\u306A\u3044\u3060\u308D\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:This character does not [Stand].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put from your member area into the waiting room, draw a card.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-089",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-089 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027ll definitely find a way!",
+        "JP": "\u305C\u3063\u3066\u3048\u3001\u306A\u3093\u3068\u304B\u3059\u308B\uFF01\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-090",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-090 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Desperately Searching",
+        "JP": "\u5FC5\u6B7B\u3067\u63A2\u3057\u3066\u308B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-091",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-091 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kinda\u2026 Got Carried Away",
+        "JP": "\u306A\u3093\u304B\u3001\u3057\u3061\u3083\u3063\u305F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-092",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-092 S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u304C\u2026\u2026\u30CA\u30CA\u30B3\u306E\u672C\u5F53\u306E\u6B4C\u3001 \u306A\u3093\u3060\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-092s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Possibility",
+        "JP": "\u53EF\u80FD\u6027"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3053\u308C\u304C\u2026\u2026\u30CA\u30CA\u30B3\u306E\u672C\u5F53\u306E\u6B4C\u3001 \u306A\u3093\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-093",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-093 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nice to Meet You, N@NA",
+        "JP": "\u306F\u3058\u3081\u307E\u3057\u3066\u3001NNA"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-094",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-094 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "As A Production",
+        "JP": "\u5236\u4F5C\u3068\u3057\u3066"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-095",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-095 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Are You Alright?",
+        "JP": "\u5927\u4E08\u592B\u306A\u306E\uFF1F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-096",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-096 S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u606D\u4E5F\u304C\u3001\u4E00\u756A\u3059\u3052\u3048\u3063\u3066\u540D\u524D\u3060\u3002\u3044\u3044\u3060\u308D?"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyouichi Kawagoe",
+        "JP": "\u5DDD\u8D8A\u4EAC\u4E00"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u606D\u4E5F\u304C\u3001\u4E00\u756A\u3059\u3052\u3048\u3063\u3066\u540D\u524D\u3060\u3002\u3044\u3044\u3060\u308D?"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-097",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-097 S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u308F\u305F\u3057\u306F\u305D\u308C\u3092\u5FC3\u304B\u3089\u697D\u3057\u307F\u306B\u3057\u3066\u3044\u308B\u3002\u2015\u2015\u4EE5\u4E0A\u3060"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Emphatic Encouragement",
+        "JP": "\u53F1\u54A4\u6FC0\u52B1"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u308F\u305F\u3057\u306F\u305D\u308C\u3092\u5FC3\u304B\u3089\u697D\u3057\u307F\u306B\u3057\u3066\u3044\u308B\u3002\u2015\u2015\u4EE5\u4E0A\u3060"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-098",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-098 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u2026\u003C/strong\u003E did things turn out like this?",
+        "JP": "\u3069\u3046\u3057\u3066\u3001\u3053\u3046\u306A\u3063\u305F\u306E\u304B\u306A\uFF1F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into the waiting room], and the next character to be put on your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-099",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-099 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Have a Safe Trip",
+        "JP": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-100",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-100 S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I Want to Draw!",
+        "JP": "\u63CF\u304D\u305F\u3044\u3067\u3059\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P001",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P001 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kyoya Hashiba",
+        "JP": "\u6A4B\u5834 \u606D\u4E5F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P002",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P002 PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p002pp.png"
+          ]
+        },
+        {
+          "Serial": "BKRM/001B-P002 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aki Shino",
+        "JP": "\u5FD7\u91CE \u4E9C\u8CB4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P003",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P003 PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p003pp.png"
+          ]
+        },
+        {
+          "Serial": "BKRM/001B-P003 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nanako Kogure",
+        "JP": "\u5C0F\u66AE \u5948\u3005\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P004",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P004 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Eiko Kawasegawa",
+        "JP": "\u6CB3\u702C\u5DDD \u82F1\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P005",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P005 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tsurayuki Rokuonji",
+        "JP": "\u9E7F\u82D1\u5BFA \u8CAB\u4E4B"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    },
+    {
+      "Serial": "BKRM/001B-P006",
+      "Alternates": [
+        {
+          "Serial": "BKRM/001B-P006 S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Keiko Tomioka",
+        "JP": "\u767B\u7F8E\u4E18 \u7F6B\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PR",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BKBP/bkrm001b-p006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BKRM/001B"
+      }
+    }
+  ]
+}

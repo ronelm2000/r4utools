@@ -19,10 +19,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     {
         private readonly ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
-        private readonly Regex serialRarityJPNameMatcher = new(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>$)");
+        private readonly Regex serialRarityJPNameMatcher = new(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>|<\/strong>&ZeroWidthSpace;<br>$)");
         private readonly Regex serialTrialJPNameMatcher = new(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
         private readonly Regex costSeriesTraitMatcher = new(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
-        private readonly Regex seriesRebirthMatcher = new(@"(.+) \/ (.+) Rebirth");
+        private readonly Regex seriesRebirthMatcher = new(@"(.+)(?: )*(\/|\\)(?: )*(.+) Rebirth");
         private readonly Regex rubyMatcher = new(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private readonly Regex releaseIDMatcher = new(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
         private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:).+");
@@ -72,6 +72,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
         private IEnumerable<R4UCard> CreateBaseCards(IElement figureOrImage, Dictionary<string, R4UReleaseSet> setMap)
         {
+            var nextElementSibling = figureOrImage.NextElementSibling;
+            if (nextElementSibling.TagName.ToLower() == "figure")
+            {
+                Log.Information("Another Figure is right after this Figure; we'll skip it and check for that figure instead.");
+                return Array.Empty<R4UCard>();
+            }
             if (figureOrImage.NextElementSibling is not IHtmlParagraphElement paragraph)
                 throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
             return CreateBaseCards(paragraph, setMap);

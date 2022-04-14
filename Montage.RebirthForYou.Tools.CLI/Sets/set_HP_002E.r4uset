@@ -1,0 +1,1068 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "HP/002E-001",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-001S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u3042\u30FC\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "How to Raise a Chick, Mel",
+        "JP": "\u3072\u3088\u3053\u306E\u80B2\u3066\u65B9 \u30E1\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "D",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3042\u30FC\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E",
+        "Name": "Special Deck Set Hololive Production Gen. 1 & GAMERS"
+      }
+    },
+    {
+      "Serial": "HP/002E-002",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-002S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Vampire Tried to Sing",
+        "JP": "#\u30E1\u30EB\u751F\u653E\u9001 \u30E1\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022The Vampire Tried to Sing\u0022][Skill Showcase Level 4][1/Turn]:When this character attacks, choose one of your members, put it onto your energy area, and [Stand] all your allied partners.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5438\u8840\u9B3C\u304C\u6B4C\u3063\u3066\u307F\u305F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304D\u3001\u5473\u65B9\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-003",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-003S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Vampire Tried to Sing",
+        "JP": "\u5438\u8840\u9B3C\u304C\u6B4C\u3063\u3066\u307F\u305F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-004",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-004S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u3053\u3046\u3084\u3063\u3066\u898B\u308B\u3068\u3001\u3061\u3087\u3063\u3068\u304B\u308F\u3044\u3044\u304B\u3082"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "It Came Out\u2026 Akirose",
+        "JP": "\u51FA\u3061\u3083\u3063\u305F\u2026 \u30A2\u30AD\u30ED\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3053\u3046\u3084\u3063\u3066\u898B\u308B\u3068\u3001\u3061\u3087\u3063\u3068\u304B\u308F\u3044\u3044\u304B\u3082"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each of your energy.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-005",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-005S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "It\u0027s the Same",
+        "JP": "#\u30A2\u30AD\u3073\u3085\u30FC\u308F\u30FC\u308B\u3069 \u30A2\u30AD\u30ED\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022It\u0027s the Same\u0022][Skill Showcase Level 3]:When this character attacks, [you have one or more [Stand] energy, and [Rest] all of them], choose one of your opponent\u0027s members, put it into the waiting room, and your opponent can not use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4E00\u7DD2\u3060\u3088\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u4EE5\u4E0A\u3001\u3059\u3079\u3066\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-006",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-006S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "It\u0027s the Same",
+        "JP": "\u4E00\u7DD2\u3060\u3088"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-007",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-007S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u30D5\u30A1\u30FC\u30B9\u30C8\u30A4\u30F3\u30D7\u30EC\u30C3\u30B7\u30E7\u30F3\u304C\u5927\u4E8B\u3063\u3066\u308F\u3051"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Senior Style, Haato",
+        "JP": "\u5148\u8F29\u98A8 \u306F\u3042\u3068"
+      },
+      "Traits": [
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "JP": "\u30D5\u30A1\u30FC\u30B9\u30C8\u30A4\u30F3\u30D7\u30EC\u30C3\u30B7\u30E7\u30F3\u304C\u5927\u4E8B\u3063\u3066\u308F\u3051"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into the waiting room from member area by a card effect, you may return this character from the waiting room to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u304B\u3089\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-008",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-008S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Haachamachama~",
+        "JP": "#\u306F\u3042\u3061\u3083\u307E\u306A\u3046 \u306F\u3042\u3068"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Haachamachama~\u0022][Skill Showcase Level 5]:If you have three or more members, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u306F\u3042\u3061\u3083\u307E\u3063\u3061\u3083\u307E\uFF5E\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-009",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-009S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Haachamachama~",
+        "JP": "\u306F\u3042\u3061\u3083\u307E\u3063\u3061\u3083\u307E\uFF5E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-010",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-010S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u30B3\u30F3\u30DC\u767A\u52D5\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Patience Tournament Live, Fubuki",
+        "JP": "\u6211\u6162\u5927\u4F1A\u5B9F\u6CC1 \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30B3\u30F3\u30DC\u767A\u52D5\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 4]:If each of your members have different card names, your entry gets \u00B10/\u002B1, and if all the cards in your retire and member area have different card names, it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u30AB\u30FC\u30C9\u540D\u304C\u305D\u308C\u305E\u308C\u9055\u3046\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3057\u3001\u30EA\u30BF\u30A4\u30A2\u3068\u30E1\u30F3\u30D0\u30FC\u3082\u3059\u3079\u3066\u9055\u3046\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-011",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-011S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Arms Folded in the Back Boyfriend Kitsune",
+        "JP": "#\u30D5\u30D6\u30ADch \u30D5\u30D6\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Arms Folded in the Back Boyfriend Kitsune\u0022]:When this character is supported, this character gets \u002B1/\u00B10 until end of that attack for each trait on the supporting character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5F8C\u65B9\u8155\u7D44\u307F\u5F7C\u6C0F\u304D\u30FC\u3064\u306D\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u305D\u306E\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30E1\u30F3\u30D0\u30FC\u306E\u5C5E\u6027\uFF11\u3064\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-012",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-012S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Arms Folded in the Back Boyfriend Kitsune",
+        "JP": "\u5F8C\u65B9\u8155\u7D44\u307F\u5F7C\u6C0F\u304D\u30FC\u3064\u306D"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-013",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-013S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u30D0\u30F3\u30C9\u2026\u2026\u3084\u308D\u3063\u304B\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s make a band, Matsuri",
+        "JP": "\u30D0\u30F3\u30C9\u3084\u308D\u3046\u305C \u307E\u3064\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30D0\u30F3\u30C9\u2026\u2026\u3084\u308D\u3063\u304B\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5][1/Turn]:When this character retires an opponent\u0027s character, choose one of your opponent\u0027s members, and during your opponent\u0027s next turn, that character does not [Stand].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-014",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-014S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hololive Symbol of Purity",
+        "JP": "#\u590F\u307E\u3064ch \u307E\u3064\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "1st Gen",
+          "JP": "\uFF11\u671F\u751F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Hololive Symbol of Purity\u0022][Skill Showcase Level 4]:This character gets \u002B1/\u00B10 for each of your members. This character gets \u002B1/\u00B10 for each of your set Rebirth.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30B3\u30F3\u30DC\u3011\u300A\u30DB\u30ED\u30E9\u30A4\u30D6\u306E\u6E05\u695A\u62C5\u5F53\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-015",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-015S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hololive Symbol of Purity",
+        "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u306E\u6E05\u695A\u62C5\u5F53"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-016",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-016S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Subaru",
+        "JP": "\u6016\u3044\u8089\u98DF\u7363 \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        },
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 3]:When this character retires an opponent\u0027s character, if you have an \u0022Okayu\u0022, \u0022Korone\u0022, \u0022Fubuki\u0022, \u0022Ayame\u0022, \u0022Mio\u0022, or \u0022Subaru\u0022 member, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u304A\u304B\u3086\u300B\u304B\u300A\u3053\u308D\u306D\u300B\u304B\u300A\u30D5\u30D6\u30AD\u300B\u304B\u300A\u3042\u3084\u3081\u300B\u304B\u300A\u30DF\u30AA\u300B\u304B\u300A\u30B9\u30D0\u30EB\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-017",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-017S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hololive Retort In Charge",
+        "JP": "#\u30DF\u30AA\u304B\u308F\u3044\u3044 \u30DF\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022Hololive Retort In Charge\u0022][1/Turn]:[Rest (1) Energy], choose a character from your hand, and you may exchange it with your entry.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30DB\u30ED\u30E9\u30A4\u30D6\u306E\u30C4\u30C3\u30B3\u30DF\u62C5\u5F53\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-018",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-018S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hololive Retort In Charge",
+        "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u306E\u30C4\u30C3\u30B3\u30DF\u62C5\u5F53"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-019",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-019S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u9762\u767D\u305D\u3046\u3060\u304B\u3089\u304D\u305F\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Korone",
+        "JP": "\u732B\u5148\u8F29 \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u9762\u767D\u305D\u3046\u3060\u304B\u3089\u304D\u305F\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 4][1/Turn]:At the end of this character\u0027s attack, choose a \u0022Korone\u0022 character from your hand, and exchange it with this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u306E\u300A\u3053\u308D\u306D\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-020",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-020S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "DD",
+        "JP": "#\u751F\u304A\u304B\u3086 \u304A\u304B\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022DD\u0022][Skill Showcase Level 4][1/Turn]:When this character supports, [Stand] this character, choose one of your opponent\u0027s entries, and that character gets \u00B10/\u002B4 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300ADD\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-021",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-021S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "DD",
+        "JP": "DD"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-022",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-022S",
+          "Rarity": "",
+          "Flavor": {
+            "JP": "\u62BC\u3057\u3066\u3082\u5F15\u3044\u3066\u3082\u99C4\u76EE\u306A\u3089\u3070\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "To Rise Above, Korone",
+        "JP": "\u4E0A\u306B\u4E0A\u3052\u308B \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u62BC\u3057\u3066\u3082\u5F15\u3044\u3066\u3082\u99C4\u76EE\u306A\u3089\u3070\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character attacks, [Rest (1) Energy], choose one of each player\u0027s [Rest] members, put them on the bottom of their decks, and this character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F[\u30A8\u30CD\u2460]\u3059\u308B\u3053\u3068\u3067\u3001\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-023",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-023S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Overflowing Love",
+        "JP": "#\u751F\u795E\u3082\u3093\u3056\u3048\u3082\u3093 \u3053\u308D\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Hololive",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6"
+        },
+        {
+          "EN": "Hololive GAMERS",
+          "JP": "\u30DB\u30ED\u30E9\u30A4\u30D6\u30B2\u30FC\u30DE\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "D",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Overflowing Love\u0022]:When your member is put into the waiting room by card effect during your attack phase, if this character has 10 or less ATK, put the character that was put into the waiting room onto your open member area, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30B3\u30F3\u30DC\u3011\u300A\u6EA2\u308C\u308B\u611B\u300B\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u4E2D\u306B\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u304C10\u4EE5\u4E0B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    },
+    {
+      "Serial": "HP/002E-024",
+      "Alternates": [
+        {
+          "Serial": "HP/002E-024S",
+          "Rarity": "",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Overflowing Love",
+        "JP": "\u6EA2\u308C\u308B\u611B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/HPSS/hp002e-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "HP/002E"
+      }
+    }
+  ]
+}
