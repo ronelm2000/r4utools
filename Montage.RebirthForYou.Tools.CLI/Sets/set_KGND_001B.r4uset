@@ -1,0 +1,3994 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "KGND/001B-001[VA]",
+      "Name": {
+        "EN": "First Generation Protagonist, Yuichi",
+        "JP": "\u521D\u4EE3\u4E3B\u4EBA\u516C \u7950\u4E00"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3088\u304F\u308F\u304B\u3089\u3093\u304C\u2026\u2026\u89AA\u53CB\u306E\u53F0\u8A5E\u30D1\u30AF\u308B\u307B\u3069\u73FE\u5B9F\u304C\u8F9B\u304B\u3063\u305F\u3093\u3060\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], if you have a five or more cards in total on your member and retire areas with different card names, reveal three cards from the top of your deck, choose up to one character from among them, put it onto your entry or member area, and put the rest into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u30AB\u30FC\u30C9\u540D\u304C\uFF15\u7A2E\u985E\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-001[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-002[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Ayu",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u3042\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo][Skill Showcase Level 7]:When this character supports the first attack of this turn, [Stand] this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u3092\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put into the waiting room from your member area by your opponent\u0027s card effect, [choose one of your energy, and put it into the waiting room], and put this character onto an open member area.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-002[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-003[VA]",
+      "Name": {
+        "EN": "Nayuki Minase",
+        "JP": "\u6C34\u702C \u540D\u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u660E\u65E5\u306F\u2015\u2015"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Perform all of the following based on the number of cards in your member and retire areas with different card names.\nThree or more: This character gets \u002B3/\u002B3 until end of turn.\nFive or more: Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u30AB\u30FC\u30C9\u540D\u306E\u7A2E\u985E\u6570\u306B\u3088\u308A\u4EE5\u4E0B\u3092\u3059\u3079\u3066\u884C\u3046\u3002\n\uFF13\u7A2E\u985E\u4EE5\u4E0A\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002\n\uFF15\u7A2E\u985E\u4EE5\u4E0A\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-003[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-004[VA]",
+      "Name": {
+        "EN": "School Festival, Nayuki",
+        "JP": "\u5B66\u5712\u796D \u540D\u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3084\u3081\u3066\u304A\u6BCD\u3055\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put into the waiting room by this character\u0027s [Cancel], you may put this character onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-004[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-005[VA]",
+      "Name": {
+        "EN": "Makoto Sawatari",
+        "JP": "\u6CA2\u6E21 \u771F\u7434"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u697D\u3057\u3044\u306D\uFF01 \u5B66\u5712\u796D\u304C\u6765\u3066\u3001\u305A\u3063\u3068\u5B66\u5712\u796D\u306A\u3089\u3044\u3044\u306E\u306B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose one of your energy, and put it into the waiting room], and put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-005[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-006[VA]",
+      "Name": {
+        "EN": "Swimming Lesson, Makoto",
+        "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u771F\u7434"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u771F\u7434\u306E\u756A\u3060\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:If your members have different card names from each other, your entry gets \u00B10/\u002B1, and if cards in your retire and member area all have different card names, it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u30AB\u30FC\u30C9\u540D\u304C\u305D\u308C\u305E\u308C\u9055\u3046\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3057\u3001\u30EA\u30BF\u30A4\u30A2\u3068\u30E1\u30F3\u30D0\u30FC\u3082\u3059\u3079\u3066\u9055\u3046\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-006[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-007[VA]",
+      "Name": {
+        "EN": "Shiori Misaka",
+        "JP": "\u7F8E\u5742 \u681E"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have more cards in your retire area than your opponent, [choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 4]:[Cost (2), and put this character into the waiting room], and the next character to be put onto your entry area gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-007[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-008[VA]",
+      "Name": {
+        "EN": "Sister\u0027s Trust Relationship, Shiori",
+        "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u681E"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose one of your members, and put it into the waiting room], choose one of your opponent\u0027s entries, and put it on the bottom of the deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-008[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-009[VA]",
+      "Name": {
+        "EN": "Mai Kawasumi",
+        "JP": "\u5DDD\u6F84 \u821E"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u9B54\u7269\u3092\u8A0E\u3064\u8005\u3060\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 7][1/Turn]:When this character retires an opponent\u0027s character, choose two of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-009[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-010[VA]",
+      "Name": {
+        "EN": "Demon Hunter, Mai",
+        "JP": "\u9B54\u7269\u3092\u8A0E\u3064\u8005 \u821E"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u9B54\u7269\u3092\u8A0E\u3064\u8005\u3060\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-010[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-011[VA]",
+      "Name": {
+        "EN": "Shiori",
+        "JP": "\u7F8E\u5742 \u9999\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3042\u306A\u305F\u305F\u3061\u3001\u59C9\u306E\u98A8\u4E0A\u306B\u3082\u7F6E\u3051\u306A\u3044\u308F\u306D\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When your \u0022Shiori\u0022 is put onto your entry area, put this character into the waiting room. (This effect is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u300A\u681E\u300B\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-011[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-012[VA]",
+      "Name": {
+        "EN": "Sayuri Kurata",
+        "JP": "\u5009\u7530 \u4F50\u7950\u7406"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3042\u306F\u306F\u30FC\u3001\u9060\u616E\u306A\u304F\u53EC\u3057\u4E0A\u304C\u3063\u3066\u304F\u3060\u3055\u3044\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-012[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-013[VA]",
+      "Name": {
+        "EN": "Nayuki",
+        "JP": "\u6C34\u702C \u79CB\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u305D\u3046\u3067\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from your hand, this character gets \u002B4/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Hand)[Skill Showcase Level 7]:[Cost (1), and reveal this character], choose one of your \u0022Nayuki\u0022 entries, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u300A\u540D\u96EA\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-013[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-014[VA]",
+      "Name": {
+        "EN": "Wearing Uniform, Akiko",
+        "JP": "\u5236\u670D\u7740\u7528 \u79CB\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have more cards in your retire area than your opponent, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-014[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-015[VA]",
+      "Name": {
+        "EN": "Jun Kitagawa",
+        "JP": "\u5317\u5DDD \u6F64"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character onto an open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-015[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-016[VA]",
+      "Name": {
+        "EN": "Nayuki",
+        "JP": "\u30D4\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Cat",
+          "JP": "\u732B"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, choose one of your \u0022Nayuki\u0022 members, and you may put it on the bottom of the deck.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u540D\u96EA\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-016[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-017[VA]",
+      "Name": {
+        "EN": "Self-proclaimed Street Performer, Yukito",
+        "JP": "\u81EA\u79F0\u5927\u9053\u82B8\u4EBA \u5F80\u4EBA"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 1,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3055\u3041\u3001\u697D\u3057\u3044\u4EBA\u5F62\u5287\u306E\u59CB\u307E\u308A\u3060\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 3]:At the start of your attack phase, choose a card from your hand, put it into your waiting room, and this character gets \u002B5/\u00B10 until end of turn. If you have no cards in your hand, then draw a card. (This effect is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3055\u3089\u306B\uFF11\u679A\u5F15\u304F\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-017[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-018[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Misuzu",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u89B3\u9234"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u2026\u2026\u30B4\u30FC\u30EB"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 7][1/Turn]:When this character retires an opponent\u0027s character, [choose a card from your hand, and put it into the waiting room], and this character\u0027s next attack this turn becomes a partner attack. At the end of this turn, put this character into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-018[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-019[VA]",
+      "Name": {
+        "EN": "Yellow Bandana",
+        "JP": "\u9727\u5CF6 \u4F73\u4E43"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3044\u3084\u3044\u3084\u30D0\u30F3\u30C0\u30CA\u306F\u666E\u901A\u3060\u3088\u3049\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4][1/Turn]:[Cost (4)], and turn this character face down as a Cost 1/ATK 1/DEF 1 \u0022Yellow Bandana\u0022 character. At the end of this turn, [put that character on the bottom of your deck], draw two cards, and if you have a \u0022Potato\u0022 member, draw an additional card. If you didn\u0027t put on the bottom of your deck, turn that \u0022Yellow Bandana\u0022 face up.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30B3\u30B9\u30C8\uFF11\u3067ATK\uFF11/DEF\uFF11\u306E\u300E\u9EC4\u8272\u3044\u30D0\u30F3\u30C0\u30CA\u300F\u306E\u30AD\u30E3\u30E9\u3068\u3057\u3066\u88CF\u5411\u304D\u306B\u3059\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30DD\u30C6\u30C8\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF11\u679A\u5F15\u304F\u3002\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304B\u306A\u3044\u306A\u3089\u3001\u305D\u306E\u300E\u9EC4\u8272\u3044\u30D0\u30F3\u30C0\u30CA\u300F\u3092\u8868\u5411\u304D\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-019[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-020[VA]",
+      "Name": {
+        "EN": "Music Contest, Kano",
+        "JP": "\u6B4C\u5408\u6226 \u4F73\u4E43"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-020[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-021[VA]",
+      "Name": {
+        "EN": "Minagi Tohno",
+        "JP": "\u9060\u91CE \u7F8E\u51EA"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3001\u3044\u305F\u3060\u304D\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-021[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-022[VA]",
+      "Name": {
+        "EN": "Swimming Lesson, Minagi",
+        "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u7F8E\u51EA"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\u306E\u3001\u5143\u6C17\u51FA\u3057\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:This character gets \u002B1/\u00B10 for each card in your hand.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-022[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-023[VA]",
+      "Name": {
+        "EN": "Michiru",
+        "JP": "\u307F\u3061\u308B"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[[Rest] a partner], and put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-023[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-024[VA]",
+      "Name": {
+        "EN": "Misuzu",
+        "JP": "\u795E\u5C3E \u6674\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u3053\u3084\u3063\u2026\u2026\u89B3\u9234\u3001\u3046\u3061\u3001\u3053\u3053\u3084"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When your \u0022Misuzu\u0022 is put into the waiting room from your entry or member area by a card effect, return that character to your hand. (This effect is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u89B3\u9234\u300B\u304C\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u305D\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-024[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-025[VA]",
+      "Name": {
+        "EN": "Ryuya",
+        "JP": "\u67F3\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3088\u3057\uFF01\u6B21\u884C\u304F\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each card in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-025[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-026[VA]",
+      "Name": {
+        "EN": "Misuzu",
+        "JP": "\u795E\u5948\u5099\u547D"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u304C\u304A\u30FC\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a \u0022Misuzu\u0022 from your hand, and you may exchange its position with this character. If you exchanged, at the end of this turn, choose one of your \u0022Misuzu\u0022 entries, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u89B3\u9234\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u300A\u89B3\u9234\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-026[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-027[VA]",
+      "Name": {
+        "EN": "Uraha",
+        "JP": "\u88CF\u8449"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u7652\u3084\u3057\u7CFB\u306E\u65B9\u52E2\u63C3\u3044\u3067\u3059\u304B\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-027[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-028[VA]",
+      "Name": {
+        "EN": "Potato",
+        "JP": "\u30DD\u30C6\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Dog",
+          "JP": "\u72AC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-028[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-029[VA]",
+      "Name": {
+        "EN": "Ushio",
+        "JP": "\u5B66\u5712\u796D\u306E\u6E96\u5099 \u670B\u4E5F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3044\u3084\u3001\u305D\u308C\u306F\u3042\u3093\u305F\u304C\u3001\u3042\u30FC\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character attacks, if you have 13 or more energy, [choose all of your energy, and put them into the waiting room], choose one each of a \u0022Nagisa\u0022 and an \u0022Ushio\u0022 from your waiting room, put it onto your member area, and until end of turn, this character\u0027s ATK becomes 13, and your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u6E1A\u300B\u3068\u300A\u6C50\u300B\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u309213\u306B\u3057\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-029[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-030[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Nagisa",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u6E1A"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u5BB6\u65CF\u4E00\u7DD2\u306B\u53EC\u3057\u4E0A\u304C\u3063\u3066\u304F\u3060\u3055\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 5]:[Cost (1)], if you have more cards in your retire area than your opponent, put this character onto your energy area as [Rest], choose two cards from your waiting room, and put them onto your energy area as [Rest]. End this phase.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3053\u306E\u30D5\u30A7\u30A4\u30BA\u3092\u7D42\u4E86\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-030[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-031[VA]",
+      "Name": {
+        "EN": "Kyou Fujibayashi",
+        "JP": "\u85E4\u6797 \u674F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u3082\u305D\u3082\u3060\u3051\u3069\u3001\u59B9\u304C\u53EF\u611B\u304F\u306A\u3044\u306A\u3093\u3066\u601D\u8003\u306E\u6301\u3061\u4E3B\u3044\u308B\u306E\u304B\u3057\u3089\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for each of your energy.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-031[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-032[VA]",
+      "Name": {
+        "EN": "Sister\u0027s Trust Relationship, Kyou",
+        "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u674F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-032[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-033[VA]",
+      "Name": {
+        "EN": "Ryou Fujibayashi",
+        "JP": "\u85E4\u6797 \u690B"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:If you have five or more cards in your energy area, [choose one of your members, and put it onto your energy area as [Rest]], choose one of your opponent\u0027s members, and put it onto their energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-033[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-034[VA]",
+      "Name": {
+        "EN": "Kotomi Ichinose",
+        "JP": "\u4E00\u30CE\u702C \u3053\u3068\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-034[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-035[VA]",
+      "Name": {
+        "EN": "Swimming Lesson, Kotomi",
+        "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u3053\u3068\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3093\u3063\u2026\u2026\u3059\u3054\u304F\u3001\u51B7\u305F\u3044\u306E\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s members, and [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-035[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-036[VA]",
+      "Name": {
+        "EN": "Tomoyo Sakagami",
+        "JP": "\u5742\u4E0A \u667A\u4EE3"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for every two of your energy.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-036[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-037[VA]",
+      "Name": {
+        "EN": "Fuko Ibuki",
+        "JP": "\u4F0A\u5439 \u98A8\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, look at three cards from the top of your deck, reveal up to two Rebirths from among them, add them to your hand, and put the rest on the bottom of your deck in any order.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF12\u679A\u307E\u3067\u516C\u958B\u3057\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Entry):[Cost (4)], choose a character from your hand, and you may exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-037[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-038[VA]",
+      "Name": {
+        "EN": "Shizuru",
+        "JP": "\u6D77\u7523\u6027\u306E\u9055\u3044 \u98A8\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30D2\u30C8\u30C7\u306E\u3053\u306E\u7F8E\u3057\u3044\u30B9\u30BF\u30A4\u30EB\u3053\u305D\u3001\u4EBA\u3005\u306E\u5FC3\u3092\u7652\u3084\u3059\u6D77\u7523\u7269\u306A\u306E\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose all of your members, and put them into the waiting room. (This effect is mandatory)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        },
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], if you have no other members, choose one each of an \u0022Ayu\u0022 and a \u0022Shizuru\u0022 from your waiting room, and put them onto your entry area or open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u3042\u3086\u300B\u3068\u300A\u9759\u6D41\u300B\u3092\u305D\u308C\u305E\u308C\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-038[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-039[VA]",
+      "Name": {
+        "EN": "Yukine Miyazawa",
+        "JP": "\u5BAE\u6CA2 \u6709\u7D00\u5BE7"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u7686\u3055\u3093\u30B3\u30FC\u30D2\u30FC\u306F\u3044\u304B\u304C\u3067\u3059\u304B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-039[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-040[VA]",
+      "Name": {
+        "EN": "Okazaki\u0027s Best Friend, Youhei",
+        "JP": "\u5CA1\u5D0E\u306E\u89AA\u53CB \u967D\u5E73"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3082\u3061\u308D\u3093\u3055"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-040[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-041[VA]",
+      "Name": {
+        "EN": "Mei Sunohara",
+        "JP": "\u6625\u539F \u82BD\u8863"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u304A\u5144\u3061\u3083\u3093\u3001\u30AD\u30E2\u3044\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-041[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-042[VA]",
+      "Name": {
+        "EN": "Akio Furukawa",
+        "JP": "\u53E4\u6CB3 \u79CB\u751F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showce Level 3]:[Choose a card from your hand, and put it onto your energy area as [Rest]], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-042[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-043[VA]",
+      "Name": {
+        "EN": "Sanae Furukawa",
+        "JP": "\u53E4\u6CB3 \u65E9\u82D7"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30B5\u30F3\u30DE\u30AF\u30EA\u30FC\u30E0\u3092\u305F\u3063\u3077\u308A\u306E\u30B5\u30F3\u30DE\u30D1\u30F3\u3001\u4F55\u304C\u3044\u3051\u306A\u304B\u3063\u305F\u3093\u3067\u3057\u3087\u3046\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Cost (3)], choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-043[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-044[VA]",
+      "Name": {
+        "EN": "Botan",
+        "JP": "\u30DC\u30BF\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u732A\uFF08\u30A6\u30EA\u574A\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your entry area, if you have three or more members, choose a character from your waiting room, and put it onto your energy area as [Rest]. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-044[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-045[VA]",
+      "Name": {
+        "EN": "Ushio Okazaki",
+        "JP": "\u5CA1\u5D0E \u6C50"
+      },
+      "Traits": [
+        {
+          "EN": "Guest",
+          "JP": "\u304A\u5BA2\u69D8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (3)], and if you have 13 or more energy, put this character onto your member area. If you put, choose a character and any number of Rebirths from your energy area, put that character onto your entry area, and set those Rebirths.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u3068Re\u30D0\u30FC\u30B9\u3092\u671B\u3080\u679A\u6570\u9078\u3073\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u305D\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-045[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-046[VA]",
+      "Name": {
+        "EN": "After Tomoyo",
+        "JP": "\u30A2\u30D5\u30BF\u30FC\u667A\u4EE3"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "After",
+          "JP": "\u30A2\u30D5\u30BF\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u30A2\u30D5\u30BF\u30FC\u667A\u4EE3\u3060\u3002\u8179\u9055\u3044\u306E\u59B9\u304C\u3044\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4][1/Turn]:[Cost (4), and return your entry to your hand], and the next character to be put onto your entry area gets \u002B2/\u00B10 until end of turn. If you have no other members, choose a character from your waiting room, and you may put it onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u624B\u672D\u306B\u623B\u3059\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-046[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-047[VA]",
+      "Name": {
+        "EN": "Mister-Miss Kaginado Contest, Riki",
+        "JP": "\u30DF\u30B9\u30BF\u30FC\u30DF\u30B9\u304B\u304E\u306A\u3069\u30B3\u30F3\u30C6\u30B9\u30C8 \u7406\u6A39"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 1,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):This character gets \u002B1/\u002B1 for every two cards in your waiting room.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[CONT](Entry):If your waiting room has five or more cards, up to twice per turn, you can block this character using a character from your hand. (Use as if it has [Blocker])",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5404\u30BF\u30FC\u30F3\uFF12\u56DE\u307E\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306E\u30AD\u30E3\u30E9\u3067\u30D6\u30ED\u30C3\u30AF\u3067\u304D\u308B\u3002\uFF08\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3067\u3042\u308B\u304B\u306E\u3088\u3046\u306B\u4F7F\u3048\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-047[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-048[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Rin",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u9234"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose one of your members, and put it into the waiting room], draw a card, and this character gets \u002B1/\u002B1 until end of turn for every two cards in your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-048[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-049[VA]",
+      "Name": {
+        "EN": "Leader of Little Busters, Kyosuke",
+        "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA\u306E\u30EA\u30FC\u30C0\u30FC \u606D\u4ECB"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 9,
+      "Flavor": {
+        "JP": "\u306A\u308B\u307B\u3069\u3001\u91CE\u7403\u3060\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of the following.\ni. Choose a character from your waiting room, and put it onto your member area.\nii. This character gets \u002B4/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\n\u2171\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-049[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-050[VA]",
+      "Name": {
+        "EN": "Sibling\u0027s Trust Relationship, Kyosuke",
+        "JP": "\u5144\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u606D\u4ECB"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u4FFA\u305F\u3061\u5144\u59B9\u306B\u99B4\u308C\u5408\u3044\u306F\u5FC5\u8981\u306A\u3044\u3002\u5E38\u306B\u771F\u5263\u52DD\u8CA0\u3092\u3057\u3066\u304D\u305F\u304B\u3089\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):At the start of your main phase, if you have six or more cards in your retire area, choose all of your members, and you may put them onto your energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-050[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-051[VA]",
+      "Name": {
+        "EN": "Masato Inohara",
+        "JP": "\u4E95\u30CE\u539F \u771F\u4EBA"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u7B4B\u8089\u3092\u8CB8\u3057\u3066\u304F\u308C\u3068\u8A00\u308F\u308C\u3061\u3083\u65AD\u308C\u306D\u3048"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (2)], and if your entry has lower Cost than your opponent, put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u30B3\u30B9\u30C8\u304C\u76F8\u624B\u3088\u308A\u5C0F\u3055\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-051[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-052[VA]",
+      "Name": {
+        "EN": "Kengo Miyazawa",
+        "JP": "\u5BAE\u6CA2 \u8B19\u543E"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u5263\u9053\u3092\u6C5A\u3059\u8F29\u306B\u9244\u69CC\u3092"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (2)], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-052[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-053[VA]",
+      "Name": {
+        "EN": "Komari Kamikita",
+        "JP": "\u795E\u5317 \u5C0F\u6BEC"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have seven or more cards in your waiting room, [put this character on the bottom of your deck], choose two of your allied members, and they cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\u304C\uFF17\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-053[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-054[VA]",
+      "Name": {
+        "EN": "Healing Cafe, Komari",
+        "JP": "\u7652\u3055\u308C\u55AB\u8336 \u5C0F\u6BEC"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4F50\u7950\u7406\u3061\u3083\u3093\u304C\u4F5C\u3063\u3066\u304F\u308C\u305F\u30B1\u30FC\u30AD\u3001\u304A\u3044\u3057\u3044\u306D\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Each player may put one of their members into the waiting room. If one or more is put, this character gets \u002B1/\u002B1 until end of turn. (That player decides)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF11\u679A\u4EE5\u4E0A\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\uFF08\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u6C7A\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-054[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-055[VA]",
+      "Name": {
+        "EN": "Haruka Saigusa",
+        "JP": "\u4E09\u679D \u8449\u7559\u4F73"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo]:[Put this character and a card from your hand into the waiting room], choose a character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3068\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-055[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-056[VA]",
+      "Name": {
+        "EN": "Sister\u0027s Trust Relationship, Haruka",
+        "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u8449\u7559\u4F73"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u4EFB\u305B\u3066\u304A\u3044\u3066\u304F\u3060\u3055\u3044\u30E8\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose one of your members, and put it into the waiting room], and this character gets \u002B0/\u00B12 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-056[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-057[VA]",
+      "Name": {
+        "EN": "Kudryavka Noumi",
+        "JP": "\u80FD\u7F8E \u30AF\u30C9\u30EA\u30E3\u30D5\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo][Skill Showcase Level 4][1/Turn]:[Cost (1)], choose one of your entries, and that character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[ACT](Waiting room):[Cost (1)], and if your waiting room has 18 or more cards, put this character onto an open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\u304C18\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-057[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-058[VA]",
+      "Name": {
+        "EN": "Swimming Lesson, Kudryavka",
+        "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u30AF\u30C9\u30EA\u30E3\u30D5\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u2026\u2026\u3042\u308A\u304C\u3068\u3046\u2026\u2026\u3054\u3056\u3044\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have five or more cards in your waiting room, your entry gets \u00B10/\u002B1. If you have seven or more, then it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\uFF17\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-058[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-059[VA]",
+      "Name": {
+        "EN": "Yuiko Kurugaya",
+        "JP": "\u6765\u30F6\u8C37 \u552F\u6E56"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u306F\u3042\u3042\u3042\u3042\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When your member is put into the waiting room by a card effect, choose a character from your hand, and you may put it onto your member area. In addition, if you have more cards in your retire area than your opponent, choose the character put into the waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3055\u3089\u306B\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-059[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-060[VA]",
+      "Name": {
+        "EN": "Cutting in Two, Yukio",
+        "JP": "\u4E00\u5200\u4E21\u65AD \u552F\u6E56"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u002B1 until end of turn for every two cards in your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-060[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-061[VA]",
+      "Name": {
+        "EN": "Mio Nishizono",
+        "JP": "\u897F\u5712 \u7F8E\u9B5A"
+      },
+      "Traits": [
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one each of a character from your member and retire areas, and you may exchange their positions.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-061[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-062[VA]",
+      "Name": {
+        "EN": "The Most Carefree? Mio",
+        "JP": "\u4E00\u756A\u30D5\u30EA\u30FC\u30C0\u30E0\uFF1F \u7F8E\u9B5A"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u7537\u3068\u7537\u304C\u5DF1\u306E\u7F8E\u3092\u7AF6\u3063\u3066\u3076\u3064\u304B\u308A\u3042\u3046\u2026\u2026 \u3075\u3075\u3075\u3001\u9F3B\u8840\u51FA\u305D\u3046"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character would support the first attack each turn, if you have an open member area, this character does not [Rest].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u3092\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3059\u308B\u969B\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u3010\u30EC\u30B9\u30C8\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-062[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-063[VA]",
+      "Name": {
+        "EN": "Kanata Futaki",
+        "JP": "\u4E8C\u6728 \u4F73\u5948\u591A"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "JP": "\u8449\u7559\u4F73\u3001\u79C1\u305F\u3061\u306E\u7D46\u3092\u898B\u305B\u308B\u6642\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a character from your hand, put it into the waiting room], and this character gets \u002B4/\u002B4 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-063[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-064[VA]",
+      "Name": {
+        "EN": "Sasami Sasasegawa",
+        "JP": "\u7B39\u702C\u5DDD \u4F50\u3005\u7F8E"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have seven or more cards in your waiting room, choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u63A7\u3048\u5BA4\u304C\uFF17\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-064[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-065[VA]",
+      "Name": {
+        "EN": "Saya Tokido",
+        "JP": "\u6731\u9DFA\u6238 \u6C99\u8036"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u8D85\u4E00\u6D41\u306E\u30B9\u30D1\u30A4\u3068\u3057\u3066\u5F53\u7136\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose one of your opponent\u0027s [Rest] members, and you may put it into the waiting room. If you put, choose one of any player\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u7F6E\u3044\u305F\u3089\u3001\u3044\u305A\u308C\u304B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-065[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-066[VA]",
+      "Name": {
+        "EN": "Dorj",
+        "JP": "\u30C9\u30EB\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Cat",
+          "JP": "\u732B"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-066[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-067[VA]",
+      "Name": {
+        "EN": "Pochi",
+        "JP": "\u51FA\u756A\u306E\u591A\u304B\u3063\u305F\u3082\u306E \u745A\u592A\u6717"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put from your hand onto your entry area with a \u0022Kotarou\u0022 or a \u0022Pochi\u0022, add the ATK of that \u0022Kotarou\u0022 or \u0022Pochi\u0022 to this character\u0027s ATK. If this character\u0027s ATK is 10 or more, then for the first attack of this turn, this character\u0027s attack may be done without being supported.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u3001\u300A\u745A\u592A\u6717\u300B\u304B\u300A\u30DD\u30C1\u300B\u306E\u3044\u305F\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3044\u305F\u3001\u300A\u745A\u592A\u6717\u300B\u304B\u300A\u30DD\u30C1\u300B\u306EATK\u3092\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u306B\u52A0\u3048\u308B\u3002\u3053\u306E\u30AD\u30E3\u30E9\u306EATK10\u4EE5\u4E0A\u306A\u3089\u3001\u3055\u3089\u306B\u3053\u306E\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u3092\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u30B5\u30DD\u30FC\u30C8\u306A\u3057\u3067\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u308B\u3002\uFF08ATK\u306B\u52A0\u3048\u308B\u5024\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3044\u305F\u3001\u300A\u745A\u592A\u6717\u300B\u304B\u300A\u30DD\u30C1\u300B\u306E\u305D\u306E\u6642\u306E\u5024\u3092\u4F7F\u3046\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-067[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-068[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Kagari",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u7BDD"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4][1/Turn]:[Cost (3)], choose one of your entries, choose one of its [Spark], and activate it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u9078\u3073\u3001\u767A\u52D5\u3055\u305B\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-068[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-069[VA]",
+      "Name": {
+        "EN": "Kotori Kanbe",
+        "JP": "\u795E\u6238 \u5C0F\u9CE5"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Cost (3), and put this character on the bottom of your deck], choose up to two characters from your waiting room, and put them onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-069[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-070[VA]",
+      "Name": {
+        "EN": "Cheering for the Stage, Kotori",
+        "JP": "\u30B9\u30C6\u30FC\u30B8\u3078\u306E\u58F0\u63F4 \u5C0F\u9CE5"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5409\u91CE\u304F\uFF5E\u3093\u3001\u53EF\u611B\u3044\u3088\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:At the start of your main phase, [put this character on the bottom of the deck], choose a card from your waiting room, put it onto your member area, choose one of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-070[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-071[VA]",
+      "Name": {
+        "EN": "Chihaya Ohtori",
+        "JP": "\u9CF3 \u3061\u306F\u3084"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:This character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-071[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-072[VA]",
+      "Name": {
+        "EN": "Sibling\u0027s Trust Relationship, Kyou",
+        "JP": "\u5144\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u3061\u306F\u3084"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose one of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-072[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-073[VA]",
+      "Name": {
+        "EN": "Akane Senri",
+        "JP": "\u5343\u91CC \u6731\u97F3"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, [Cost (2)], each player reveals two cards from the top of their deck, sets a Rebirth from among them, and puts the rest into the waiting room. If you have a Rebirth set, choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-073[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-074[VA]",
+      "Name": {
+        "EN": "Swimming Lesson, Akane",
+        "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u6731\u97F3"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3042\u3093\u3063\u2026\u2026\u3001\u51B7\u305F\u3044\u308F\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Each player reveals the top card of their deck. This character gets \u002B1/\u002B1 until end of turn for each [Spark] revealed. If two or more [Spark] were revealed, then it gets an additional \u002B2/\u002B2. Put the revealed cards on the bottom of the deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u516C\u958B\u3059\u308B\u3002\u516C\u958B\u3057\u305F\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304C\uFF12\u679A\u4EE5\u4E0A\u516C\u958B\u3055\u308C\u305F\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\uFF0B\uFF12\u3002\u516C\u958B\u3057\u305F\u30AB\u30FC\u30C9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-074[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-075[VA]",
+      "Name": {
+        "EN": "Soul Maid? Shizuru",
+        "JP": "\u30BD\u30A6\u30EB\u30E1\u30A4\u30C8\uFF1F \u9759\u6D41"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u30D5\u30FC\u30AD\u30A4\u30FC\u30F3\u30C1\u30E7\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 5]:[Cost (2)], choose a character from your waiting room, put it onto your member area, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-075[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-076[VA]",
+      "Name": {
+        "EN": "Lucia Konohana",
+        "JP": "\u6B64\u82B1 \u30EB\u30C1\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u5FA1\u8A17\u306F\u3044\u3044\u3002\u3053\u306E\u5834\u6240\u3092\u660E\u3051\u6E21\u3057\u3066\u3082\u3089\u3046\u305E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose one of your members, and put it on the bottom of the deck], and the next attack on this character cannot be a partner attack until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3078\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-076[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-077[VA]",
+      "Name": {
+        "EN": "Guardian, Lucia",
+        "JP": "\u30AC\u30FC\u30C7\u30A3\u30A2\u30F3 \u30EB\u30C1\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u30AC\u30FC\u30C7\u30A3\u30A2\u30F3\u3002\u9B54\u7269\u306F\u72E9\u308B"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have six or more cards in your retire area, choose all of you and your opponent\u0027s members, and return them to the hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3001\u81EA\u5206\u3068\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-077[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-078[VA]",
+      "Name": {
+        "EN": "Haruhiko Yoshino",
+        "JP": "\u5409\u91CE \u6674\u5F66"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-078[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-079[VA]",
+      "Name": {
+        "EN": "Sakuya Ohtori",
+        "JP": "\u9CF3 \u54B2\u591C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "C",
+      "ATK": 6,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u53CC\u5B50\u306E\u59B9\u306F\u95C7\u304C\u6DF1\u3044\u3088\u3046\u3067\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-079[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-080[VA]",
+      "Name": {
+        "EN": "Touka Nishikujou",
+        "JP": "\u897F\u4E5D\u6761 \u706F\u82B1"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\uFF5E\u3001\u4ECA\u65E5\u306E\u4F53\u80B2\u306F\u6C34\u6CF3\u3088\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from your entry area, choose one of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-080[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-081[VA]",
+      "Name": {
+        "EN": "Kagari",
+        "JP": "\u3061\u3073\u3082\u3059"
+      },
+      "Traits": [
+        {
+          "EN": "Familiar",
+          "JP": "\u9B54\u7269"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character is supported by a \u0022Kotarou\u0022, a \u0022Pochi\u0022, a \u0022Kotori\u0022, or a \u0022Kagari\u0022, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u300A\u745A\u592A\u6717\u300B\u304B\u300A\u30DD\u30C1\u300B\u304B\u300A\u5C0F\u9CE5\u300B\u304B\u300A\u7BDD\u300B\u306B\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-081[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-082[VA]",
+      "Name": {
+        "EN": "Story of Many Shining Stars",
+        "JP": "\u30BD\u30A6\u30EB\u30E1\u30A4\u30C8\uFF1F \u3086\u3081\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Docent",
+          "JP": "\u89E3\u8AAC\u54E1"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30B7\u30E3\u30AB\u30B7\u30E3\u30AB\u30D8\u30A4\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo][Skill Showcase Level 4]:[Cost (2), and put this character on the bottom of your deck], choose up to one each of a character and a Rebirth from your waiting room, put that character onto an open member area, and set that Rebirth. If you set \u0022Story of Many Shining Stars\u0022, choose one of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3068Re\u30D0\u30FC\u30B9\u3092\u305D\u308C\u305E\u308C\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u305D\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3002\u300A\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061\u306E\u7269\u8A9E\u300B\u3092\u30BB\u30C3\u30C8\u3057\u305F\u3089\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-082[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-083[VA]",
+      "Name": {
+        "EN": "Yuzuru Otonashi",
+        "JP": "\u97F3\u7121 \u7D50\u5F26"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 6]:When your opponent would put a card onto the energy area, if it is not a partner, it is put as [Rest].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u76F8\u624B\u306F\u30A8\u30CD\u30EB\u30AE\u30FC\u3092\u7F6E\u304F\u969B\u3001\u305D\u308C\u304C\u30D1\u30FC\u30C8\u30CA\u30FC\u3067\u306A\u3044\u306A\u3089\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-083[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-084[VA]",
+      "Name": {
+        "EN": "Intrusion, Yuri",
+        "JP": "\u4E71\u5165 \u3086\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3053\u3093\u306A\u30A4\u30D9\u30F3\u30C8\u3082\u3001\u3053\u3093\u306A\u5B66\u5712\u3082\u3001\u3053\u3093\u306A\u2015\u2015\u4E16\u754C\u3082"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 6][1/Turn]:[Cost (2)], choose up to one character from your hand, put it onto your member area, choose one each of your opponent\u0027s members and energy, and during your opponent\u0027s next turn, they do not [Stand].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u76F8\u624B\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306E\u305D\u308C\u3089\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-084[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-085[VA]",
+      "Name": {
+        "EN": "Sudden Reunion, Yuri",
+        "JP": "\u7A81\u7136\u306E\u518D\u4F1A \u3086\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u5929\u4F7F\u5C45\u305F\u30FC\uFF01\u4F55\u304B\u98DF\u3079\u306A\u304C\u3089\u73FE\u308C\u305F\u30FC\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):When your opponent would set Rebirths during your turn, if it is your opponent\u0027s first set this turn, only one card can be set, and if it is your opponent\u0027s second or more set, put it into the waiting room instead. (Put into the waiting room if it is the second or more set even if there are no Rebirths in your opponent\u0027s Rebirth area)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306B\u76F8\u624B\u304CRe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u969B\u3001\u305D\u308C\u304C\u3053\u306E\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30BB\u30C3\u30C8\u306A\u3089\u3001\uFF11\u679A\u3057\u304B\u30BB\u30C3\u30C8\u3067\u304D\u305A\u3001\u76F8\u624B\u306E\uFF12\u56DE\u76EE\u4EE5\u964D\u306E\u30BB\u30C3\u30C8\u306A\u3089\u3001\u304B\u308F\u308A\u306B\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u308B\u3002\uFF08\u76F8\u624B\u306ERe\u30D0\u30FC\u30B9\u7F6E\u304D\u5834\u306BRe\u30D0\u30FC\u30B9\u304C\u7121\u304F\u3066\u3082\uFF12\u56DE\u76EE\u4EE5\u964D\u306E\u30BB\u30C3\u30C8\u306A\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-085[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-086[VA]",
+      "Name": {
+        "EN": "Many Shining Stars, Angel",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u5929\u4F7F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 9,
+      "Flavor": {
+        "JP": "\u3042\u305F\u3057\u3082\u5BEE\u751F\u6D3B\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u00B10 until end of turn, and during the next attack of this character this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-086[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-087[VA]",
+      "Name": {
+        "EN": "Angel",
+        "JP": "\u30CF\u30A6\u30EA\u30F3\u30B0 \u5929\u4F7F"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30AC\u30FC\u30C9\u30B9\u30AD\u30EB\u30FB\u30CF\u30A6\u30EA\u30F3\u30B0"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose up to three \u0022Angel\u0022 from your waiting room, and put them onto your member area as [Rest]. If you have three or more \u0022Angel\u0022 in total on your member and retire areas, and choose all of your opponent\u0027s members, and [Rest] them.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u5929\u4F7F\u300B\u3092\uFF13\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u5929\u4F7F\u300B\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from energy area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-087[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-088[VA]",
+      "Name": {
+        "EN": "Hideki Hinata",
+        "JP": "\u65E5\u5411 \u79C0\u6A39"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4FFA\u304C\u512A\u52DD\u3057\u3066\u3084\u3093\u3088\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-088[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-089[VA]",
+      "Name": {
+        "EN": "Ayato Naoi",
+        "JP": "\u76F4\u4E95 \u6587\u4EBA"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 7]:When this character retires an opponent\u0027s character, choose one of your opponent\u0027s energy, and during your opponent\u0027s next turn, that energy does not [Stand].",
+          "JP": "\u3010\u81EA\u3011\u30A8\u30F3\u30C8\u30EA\u30FC\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-089[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-090[VA]",
+      "Name": {
+        "EN": "Yui",
+        "JP": "\u30E6\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u304A\u307E\u3048\u3089\u306F\u624B\u3076\u3089\u3067\u5E30\u3063\u3066\u6765\u3044\u3084\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):When your member would be chosen by your opponent\u0027s card effects, this character is chosen first.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u76F8\u624B\u306F\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-090[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-091[VA]",
+      "Name": {
+        "EN": "Noda",
+        "JP": "\u91CE\u7530"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-091[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-092[VA]",
+      "Name": {
+        "EN": "Shiina",
+        "JP": "\u690E\u540D"
+      },
+      "Traits": [
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        },
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "...... \u3042\u3055\u306F\u304B\u306A\u308A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-092[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-093[VA]",
+      "Name": {
+        "EN": "Yusa",
+        "JP": "\u904A\u4F50"
+      },
+      "Traits": [
+        {
+          "EN": "Kaginado Academy",
+          "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, look at all cards in your opponent\u0027s hand, choose one of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u3066\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-093[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-094[VA]",
+      "Name": {
+        "EN": "Story of Many Shining Stars",
+        "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[ACT][1/Turn]:Reveal two cards from the top of your deck, choose up to one Rebirth or two characters from among them, make them become your entry\u0027s [Soul], and put the rest into the waiting room. Choose up to two [Spark] from the cards put into [Soul] by this effect, and activate them as your entry character\u0027s [Spark].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u304B\u30AD\u30E3\u30E9\u3092\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u9B42\u3011\u306B\u3057\u3066\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3053\u306E\u52B9\u679C\u3067\u3010\u9B42\u3011\u306B\u7F6E\u3044\u305F\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\u5408\u8A08\uFF12\u3064\u307E\u3067\u9078\u3073\u3001\u305D\u308C\u3092\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3044\u308B\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-094[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095a[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095a[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095b[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095b[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095c[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095c[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095d[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095d[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095e[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095e[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095f[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095f[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095g[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095g[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095h[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095h[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095i[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095i[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095j[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095j[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095k[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095k[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095l[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095l[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095m[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095m[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095n[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095n[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095o[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095o[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095p[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095p[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-095q[VA]",
+      "Name": {
+        "EN": "\u2013This, is the story of a small miracle",
+        "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095q[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-096[VA]",
+      "Name": {
+        "EN": "Selling Great Dango Family Bread",
+        "JP": "\u3060\u3093\u3054\u5927\u5BB6\u65CF\u30D1\u30F3\u8CA9\u58F2\u4E2D"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3060\u3093\u3054\u5927\u5BB6\u65CF\u30D1\u30F3\u3092\u8CA9\u58F2\u4E2D\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-096[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-097[VA]",
+      "Name": {
+        "EN": "Operation Start",
+        "JP": "\u30AA\u30DA\u30EC\u30FC\u30B7\u30E7\u30F3\u30B9\u30BF\u30FC\u30C8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-097[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-098[VA]",
+      "Name": {
+        "EN": "Out of the way~!",
+        "JP": "\u3069\u3044\u3066\uFF5E\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-098[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-099[VA]",
+      "Name": {
+        "EN": "We covet that title!",
+        "JP": "\u4FFA\u305F\u3061\u3082\u547C\u3070\u308C\u305F\u3044\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u304A\u5144\u3061\u3083\u3093\u3068\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-099[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-100[VA]",
+      "Name": {
+        "EN": "Roar-!",
+        "JP": "\u304C\u304A\u30FC\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-100[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-101[VA]",
+      "Name": {
+        "EN": "Princess is The Princess",
+        "JP": "Princess is The Princess"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-101[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    }
+  ]
+}

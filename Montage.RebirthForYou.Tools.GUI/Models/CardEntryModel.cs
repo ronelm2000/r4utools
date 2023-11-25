@@ -1,6 +1,7 @@
 ﻿using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.Threading;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
@@ -9,6 +10,7 @@ using Montage.RebirthForYou.Tools.GUI.Dialogs;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using ReactiveUI;
 using System;
+using System.IO;
 using System.Linq;
 using System.Reactive;
 using System.Reactive.Linq;
@@ -70,20 +72,16 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
             });
         }
 
-        private async Task<IImage> LoadImage()
+        private async Task<IImage> LoadImage() => await LoadImage(s => Bitmap.DecodeToWidth(s, 100));
+        private async Task<IImage> LoadLargeImage() => await LoadImage(s => new Bitmap(s));
+   
+        
+        private async Task<IImage> LoadImage(Func<Stream, IImage> imageFunction)
         {
             if (!Card.IsCached)
                 await new CacheVerb().AddCachedImageAsync(Card);
             await using (var imageStream = await Card.GetImageStreamAsync())
-                return Bitmap.DecodeToWidth(imageStream, 100);
-        }
-
-        private async Task<IImage> LoadLargeImage()
-        {
-            if (!Card.IsCached)
-                await new CacheVerb().AddCachedImageAsync(Card);
-            await using (var imageStream = await Card.GetImageStreamAsync())
-                return new Bitmap(imageStream);
+                return imageFunction?.Invoke(imageStream);
         }
 
         public async Task<IImage> LoadImageAsync() => await _imageSource;

@@ -1,0 +1,938 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "BA/001T-001",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u304B\u3089\u5148\u3001\u9811\u5F35\u3063\u3066\u8272\u3005\u306A\u9762\u3067\u5148\u751F\u306E\u3053\u3068\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u3066\u3044\u304D\u307E\u3059\u306D\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_001tdp.png"
+          ]
+        },
+        {
+          "Serial": "BA/001T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_001snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shittim Chest",
+        "JP": "\u30A2\u30ED\u30CA"
+      },
+      "Traits": [
+        {
+          "EN": "???",
+          "JP": "\uFF1F\uFF1F\uFF1F"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u5148\u751F\u3092\u305A\u3063\u3068\u3001\u305A\u30FC\u3063\u3068\u5F85\u3063\u3066\u3044\u307E\u3057\u305F\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Shittim Chest\u0022]:When this character supports, [put this character on the bottom of your deck], look at two cards from the top of your deck, add a card from among them into your hand, put the rest into the waiting room, and the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30B7\u30C3\u30C6\u30E0\u306E\u7BB1\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089\uFF11\u679A\u3092\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u30B7\u30C3\u30C6\u30E0\u306E\u7BB1\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_001td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-002",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30DB\u30B7\u30CE\u5148\u8F29\u3001\u304A\u304B\u3048\u308A\u306A\u3055\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_002tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Ayane",
+        "JP": "\u4EFB\u52D9\u4E2D \u30A2\u30E4\u30CD"
+      },
+      "Traits": [
+        {
+          "EN": "Foreclosure Task Force",
+          "JP": "\u5BFE\u7B56\u59D4\u54E1\u4F1A"
+        },
+        {
+          "EN": "Abydos High School",
+          "JP": "\u30A2\u30D3\u30C9\u30B9\u9AD8\u7B49\u5B66\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3055\u3041\u3001\u304A\u9858\u3044\u3057\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_002td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-003",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u7121\u4E8B\u3067\u826F\u304B\u3063\u305F\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_003tdp.png"
+          ]
+        },
+        {
+          "Serial": "BA/001T-003SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_003snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Shiroko",
+        "JP": "\u4EFB\u52D9\u4E2D \u30B7\u30ED\u30B3"
+      },
+      "Traits": [
+        {
+          "EN": "Abydos High School",
+          "JP": "\u30A2\u30D3\u30C9\u30B9\u9AD8\u7B49\u5B66\u6821"
+        },
+        {
+          "EN": "Foreclosure Task Force",
+          "JP": "\u5BFE\u7B56\u59D4\u54E1\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30D5\u30A9\u30FC\u30E1\u30FC\u30B7\u30E7\u30F3B\u3067\u884C\u304F\u3088\u2026\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo]:[Cost (1)], and this character gets \u002B1/\u00B10 until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_003td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-004",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3001\u3046\u308B\u3055\u3044\u3046\u308B\u3055\u3044\u3063\uFF01\u9806\u756A\u306A\u3093\u3066\u3069\u3046\u3067\u3082\u3044\u3044\u3067\u3057\u3087\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_004tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Serika",
+        "JP": "\u4EFB\u52D9\u4E2D \u30BB\u30EA\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Abydos High School",
+          "JP": "\u30A2\u30D3\u30C9\u30B9\u9AD8\u7B49\u5B66\u6821"
+        },
+        {
+          "EN": "Foreclosure Task Force",
+          "JP": "\u5BFE\u7B56\u59D4\u54E1\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3055\u3041\u3001\u884C\u3053\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_004td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-005",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u6065\u305A\u304B\u3057\u3044\u304B\u3089\u8A00\u308F\u306A\u3044\u3063\u3066\u8A00\u3063\u3066\u305F\u306E\u306B\u3001\u305A\u308B\u3044\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_005tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Nonomi",
+        "JP": "\u4EFB\u52D9\u4E2D \u30CE\u30CE\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Abydos High School",
+          "JP": "\u30A2\u30D3\u30C9\u30B9\u9AD8\u7B49\u5B66\u6821"
+        },
+        {
+          "EN": "Foreclosure Task Force",
+          "JP": "\u5BFE\u7B56\u59D4\u54E1\u4F1A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6700\u5584\u306F\u5C3D\u304F\u3057\u307E\u3059\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_005td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-006",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3063\u304B\u2026\u2026\u307F\u3093\u306A\u304C\u3001\u5148\u751F\u304C\u2026\u2026\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_006tdp.png"
+          ]
+        },
+        {
+          "Serial": "BA/001T-006SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_006snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Hoshino",
+        "JP": "\u4EFB\u52D9\u4E2D \u30DB\u30B7\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Foreclosure Task Force",
+          "JP": "\u5BFE\u7B56\u59D4\u54E1\u4F1A"
+        },
+        {
+          "EN": "Abydos High School",
+          "JP": "\u30A2\u30D3\u30C9\u30B9\u9AD8\u7B49\u5B66\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3055\u3041\u3001\u6E96\u5099\u3067\u304D\u305F\uFF1F\u3044\u304F\u3088\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_006td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-007",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4FBF\u5229\u5C4B\u306B\u4EFB\u305B\u3066\u304A\u3051\u3070\u3001\u5B8C\u74A7\u306A\u3093\u3060\u304B\u3089\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_007tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Aru",
+        "JP": "\u4EFB\u52D9\u4E2D \u30A2\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Problem Solver 68",
+          "JP": "\u4FBF\u5229\u5C4B68"
+        },
+        {
+          "EN": "Gehenna Academy",
+          "JP": "\u30B2\u30D8\u30CA\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u4FBF\u5229\u5C4B\u306B\u4EFB\u305B\u3066\u304A\u3051\u3070\u3001\u5B8C\u74A7\u306A\u3093\u3060\u304B\u3089\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:During the next attack of this character this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_007td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-008",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u65E9\u304F\u7D42\u308F\u3089\u305B\u3066\u3001\u3054\u98EF\u98DF\u3079\u306B\u884C\u3053\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_008tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Junko",
+        "JP": "\u4EFB\u52D9\u4E2D \u30B8\u30E5\u30F3\u30B3"
+      },
+      "Traits": [
+        {
+          "EN": "Gourmet Research Society",
+          "JP": "\u7F8E\u98DF\u7814\u7A76\u4F1A"
+        },
+        {
+          "EN": "Gehenna Academy",
+          "JP": "\u30B2\u30D8\u30CA\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u65E9\u304F\u7D42\u308F\u3089\u305B\u3066\u3001\u3054\u98EF\u98DF\u3079\u306B\u884C\u3053\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 7]:Your entry gets \u00B10/\u002B1.\n([Skill Showcase Level 7]:Active if there are seven or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF17\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_008td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-009",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u304F\u3089\u3044\u306E\u4EFB\u52D9\u3001\u5225\u306B\u4F55\u3068\u3082\u306A\u3044\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_009tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Hina",
+        "JP": "\u4EFB\u52D9\u4E2D \u30D2\u30CA"
+      },
+      "Traits": [
+        {
+          "EN": "Prefect Team",
+          "JP": "\u98A8\u7D00\u59D4\u54E1\u4F1A"
+        },
+        {
+          "EN": "Gehenna Academy",
+          "JP": "\u30B2\u30D8\u30CA\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3053\u308C\u304F\u3089\u3044\u306E\u4EFB\u52D9\u3001\u5225\u306B\u4F55\u3068\u3082\u306A\u3044\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:You may put a card from your hand onto your energy area as [Rest]. If you have no cards in your hand, choose two of your opponent\u0027s [Rest] members, put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_009td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-010",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u3001\u30D5\u30A1\u30A4\u30C8\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_010tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Airi",
+        "JP": "\u4EFB\u52D9\u4E2D \u30A2\u30A4\u30EA"
+      },
+      "Traits": [
+        {
+          "EN": "After-School Sweets Club",
+          "JP": "\u653E\u8AB2\u5F8C\u30B9\u30A4\u30FC\u30C4\u90E8"
+        },
+        {
+          "EN": "Trinity General School",
+          "JP": "\u30C8\u30EA\u30CB\u30C6\u30A3\u7DCF\u5408\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3001\u30D5\u30A1\u30A4\u30C8\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose one of your members, and put it into the waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_010td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-011",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u88C5\u586B\u5B8C\u4E86\u3002\u3053\u308C\u3088\u308A\u6575\u3092\u6BB2\u6EC5\u3057\u307E\u3059\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_011tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Hasumi",
+        "JP": "\u4EFB\u52D9\u4E2D \u30CF\u30B9\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Justice Task Force",
+          "JP": "\u6B63\u7FA9\u5B9F\u73FE\u59D4\u54E1\u4F1A"
+        },
+        {
+          "EN": "Trinity General School",
+          "JP": "\u30C8\u30EA\u30CB\u30C6\u30A3\u7DCF\u5408\u5B66\u5712"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u88C5\u586B\u5B8C\u4E86\u3002\u3053\u308C\u3088\u308A\u6575\u3092\u6BB2\u6EC5\u3057\u307E\u3059\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_011td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-012",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u7D50\u679C\u304C\u5C0E\u304D\u51FA\u305B\u305F\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_012tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Eimi",
+        "JP": "\u4EFB\u52D9\u4E2D \u30A8\u30A4\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Millennium Science School",
+          "JP": "\u30DF\u30EC\u30CB\u30A2\u30E0\u30B5\u30A4\u30A8\u30F3\u30B9\u30B9\u30AF\u30FC\u30EB"
+        },
+        {
+          "EN": "Super Phenomenon Task Force",
+          "JP": "\u7279\u7570\u73FE\u8C61\u635C\u67FB\u90E8"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u7D50\u679C\u304C\u5C0E\u304D\u51FA\u305B\u305F\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a card from your waiting room, put it onto your energy area as [Rest], and if your retire area has five or more cards, this character gets \u00B10/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_012td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-013",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4E00\u767A\u3067\u3075\u3063\u3068\u3070\u3059\u2026\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_013tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Karin",
+        "JP": "\u4EFB\u52D9\u4E2D \u30AB\u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Millennium Science School",
+          "JP": "\u30DF\u30EC\u30CB\u30A2\u30E0\u30B5\u30A4\u30A8\u30F3\u30B9\u30B9\u30AF\u30FC\u30EB"
+        },
+        {
+          "EN": "Cleaning \u0026 Clearing",
+          "JP": "C\u0026C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u4E00\u767A\u3067\u3075\u3063\u3068\u3070\u3059\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (3)], choose one of your opponent\u0027s members, put it into the waiting room, and this character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_013td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-014",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u8A08\u7B97\u306F\u5B8C\u74A7\u3001\u843D\u3061\u7740\u3044\u3066\u3044\u3053\u3046\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_014tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "On a Mission, Yuuka",
+        "JP": "\u4EFB\u52D9\u4E2D \u30E6\u30A6\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Millennium Science School",
+          "JP": "\u30DF\u30EC\u30CB\u30A2\u30E0\u30B5\u30A4\u30A8\u30F3\u30B9\u30B9\u30AF\u30FC\u30EB"
+        },
+        {
+          "EN": "Seminar",
+          "JP": "\u30BB\u30DF\u30CA\u30FC"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8A08\u7B97\u306F\u5B8C\u74A7\u3001\u843D\u3061\u7740\u3044\u3066\u3044\u3053\u3046\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Put a card from your hand onto your energy area as [Rest]], until end of turn, this character cannot be chosen by your opponent, and this character gets \u002B2/\u002B2.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u305A\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_014td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-015",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30B7\u30B9\u30C6\u30E0\u63A5\u7D9A\u30D1\u30B9\u30EF\u30FC\u30C9\u3092\u3054\u5165\u529B\u304F\u3060\u3055\u3044\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_015tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shittim Chest",
+        "JP": "\u30B7\u30C3\u30C6\u30E0\u306E\u7BB1"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u30B7\u30B9\u30C6\u30E0\u63A5\u7D9A\u30D1\u30B9\u30EF\u30FC\u30C9\u3092\u3054\u5165\u529B\u304F\u3060\u3055\u3044\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_015td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-016",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-016S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u8A00\u3063\u3066\u3082\u304D\u3063\u3068\u3001\u7406\u89E3\u3067\u304D\u306A\u3044\u3068\u601D\u3046\u3088\u3002"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_016tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Things Lost and Others Held On To",
+        "JP": "\u5931\u3063\u305F\u3082\u306E\u3001\u624B\u653E\u3055\u306A\u304B\u3063\u305F\u3082\u306E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u2026\u2026\u8A00\u3063\u3066\u3082\u304D\u3063\u3068\u3001\u7406\u89E3\u3067\u304D\u306A\u3044\u3068\u601D\u3046\u3088\u3002"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_016td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-P001",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-P001S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p001tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Arona",
+        "JP": "\u30A2\u30ED\u30CA"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p001td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-P002",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-P002S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p002tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shiroko",
+        "JP": "\u30B7\u30ED\u30B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p002td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-P003",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-P003S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p003tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Serika",
+        "JP": "\u30BB\u30EA\u30AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p003td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    },
+    {
+      "Serial": "BA/001T-P004",
+      "Alternates": [
+        {
+          "Serial": "BA/001T-P004S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p004tdp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hoshino",
+        "JP": "\u30DB\u30B7\u30CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/BATD/ba_001t_p004td.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "BA/001T"
+      }
+    }
+  ]
+}

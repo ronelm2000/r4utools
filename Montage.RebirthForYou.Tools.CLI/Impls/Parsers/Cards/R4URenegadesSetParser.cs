@@ -12,6 +12,7 @@ using AngleSharp.Dom;
 using System.Linq;
 using Lamar;
 using System.Threading.Tasks;
+using System.Reflection.Metadata;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
@@ -25,7 +26,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private readonly Regex seriesRebirthMatcher = new(@"(.+)(?: )*(\/|\\)(?: )*(.+) Rebirth");
         private readonly Regex rubyMatcher = new(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private readonly Regex releaseIDMatcher = new(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
-        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:).+");
+        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:|(One|Two|Three|Four|Five|Six|Seven) or more:).+");
 
         public bool IsCompatible(IParseInfo parseInfo)
         {
@@ -73,14 +74,21 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private IEnumerable<R4UCard> CreateBaseCards(IElement figureOrImage, Dictionary<string, R4UReleaseSet> setMap)
         {
             var nextElementSibling = figureOrImage.NextElementSibling;
+            if (nextElementSibling == null)
+            {
+                Log.Information("There seems to be nothing after this figure; ignoring and returning no cards.");
+                return Enumerable.Empty<R4UCard>();
+            }
             if (nextElementSibling.TagName.ToLower() == "figure")
             {
                 Log.Information("Another Figure is right after this Figure; we'll skip it and check for that figure instead.");
                 return Array.Empty<R4UCard>();
             }
-            if (figureOrImage.NextElementSibling is not IHtmlParagraphElement paragraph)
-                throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
-            return CreateBaseCards(paragraph, setMap);
+            if (figureOrImage.NextElementSibling is IHtmlParagraphElement paragraph)
+            {
+                return CreateBaseCards(paragraph, setMap);
+            }
+            throw new NotImplementedException("There should have been a <p> tag after the <figure> tag, but instead found nothing.");
         }
 
         private IEnumerable<R4UCard> CreateBaseCards(IHtmlParagraphElement paragraph, Dictionary<string, R4UReleaseSet> setMap)
@@ -219,7 +227,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Color = CardUtils.InferFromEffect(card.Effect);
             }
 
+            if (TryGetErrata(card) is (int ATK, int DEF, MultiLanguageString[] Effects) errataEntry)
+            {
+                card.ATK = ATK;
+                card.DEF = DEF;
+                card.Effect = Effects;
+            }
+
             yield return card;
+
             foreach (var dupCard in cards.Skip(1))
             {
                 var detailedDupCard = card.Clone();
@@ -242,6 +258,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 _ => null
             };
             return errata != null;
+        }
+
+        private (int ATK, int DEF, MultiLanguageString[] Effects)? TryGetErrata(R4UCard card)
+        {
+            return card.Serial switch
+            {
+                "KGND/001B-079[VA]" => (ATK: 6, DEF: 7, Effects: new[] { new MultiLanguageString() { EN = "[Growing](Expect growth in the future!)" } }),
+                _ => null
+            };
         }
 
         private bool TryGetExceptionalSerialRarityName(string line, out (string Serial, string Rarity, MultiLanguageString Name)[] exceptionalResult)
@@ -284,6 +309,23 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 "GGZ/001B-040 R リーナ・バーン Lina Byrne"
                     => new[] { (Serial: "GZ/001B-040", Rarity: "R", Name: new MultiLanguageString { EN = "Lina Byrne", JP = "リーナ・バーン" }) },
                 // Exception due to Sleeves Slideshow in Touhou EX
+
+
+                // Exception due to having a/b in the same line.
+                "KS/001B-096a/b Re 爆裂魔法 Explosion Magic"
+                    => new[]
+                    {
+                        (Serial: "KS/001B-096a", Rarity: "Re", Name: new MultiLanguageString { EN = "Explosion Magic", JP = "爆裂魔法" }),
+                        (Serial: "KS/001B-096b", Rarity: "Re", Name: new MultiLanguageString { EN = "Explosion Magic", JP = "爆裂魔法" })
+                    },
+
+                // Exception due to a~q serial
+                "KGND/001B-095a~q[VA] Re ――これは、小さな奇跡の物語 –This, is the story of a small miracle"
+                => Enumerable.Range('a', 17)
+                    .Select(x => (char)x)
+                    .Select(c => (Serial: $"KGND/001B-095{c}[VA]", Rarity: "Re", Name: new MultiLanguageString { EN = "–This, is the story of a small miracle", JP = "――これは、小さな奇跡の物語" }))
+                    .ToArray(),
+                  
                 "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null
             };  

@@ -13,6 +13,7 @@ using Avalonia.Threading;
 using DynamicData;
 using DynamicData.Binding;
 using Lamar;
+using Lamar.Scanning.Conventions;
 using MessageBox.Avalonia.DTO;
 using MessageBox.Avalonia.Enums;
 using MessageBox.Avalonia.Models;
@@ -79,8 +80,21 @@ namespace Montage.RebirthForYou.Tools.GUI
             context.Parent = this;
             Task.Run(async() =>
             {
-                await context.InitializeSettings();
-                await context.InitializeDatabase();
+                try
+                {
+                    await context.InitializeSettings();
+                    await context.InitializeDatabase();
+                } catch (Exception e)
+                {
+                    Log.Error("Error Occurred while Loading: {exception}", e);
+                } finally
+                {
+                    await Dispatcher.UIThread.InvokeAsync(() =>
+                    {
+                        LoadingBox.IsVisible = false;
+                        SearchBarTextbox.IsEnabled = true;
+                    });
+                }
             });
             //_searchBarTextBox.IsEnabled = true;
         }

@@ -48,45 +48,9 @@
       "commandName": "Project",
       "commandLineArgs": "export-db --rids DJ/001B"
     },
-    "Parse DJ/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/01/28/dj-001b-full-set-list/"
-    },
-    "Parse SSSS/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/06/02/ssss-001b-full-set-list/"
-    },
-    "Parse RZ/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/04/rz-001b-full-set-list/"
-    },
-    "Parse HG/001T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/04/hg-001t-full-set-list/"
-    },
-    "Parse HP/001B (Fandom)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Hololive_Production"
-    },
-    "Parse HG/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/25/hg-001b-full-set-list/"
-    },
-    "Parse HP/001E (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/08/25/hp-001e-full-set-list/"
-    },
-    "Parse HP/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2020/12/02/hp-001b-full-set-list/"
-    },
     "Parse HP/001B (GH)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_HP_001B.r4uset"
-    },
-    "Parse GP/001B (Fandom)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_BanG_Dream!_Girls_Band_Party!%E2%98%86PICO"
     },
     "Parse GP/SD (Fandom)": {
       "commandName": "Project",
@@ -95,18 +59,6 @@
     "Parse TH/001B (Fandom)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Booster_Pack_Touhou_Project"
-    },
-    "Parse RE/002B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/06/23/re-002b-full-set-list/"
-    },
-    "Parse SSSS/002T (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/09/15/ssss-002t-full-set-list/"
-    },
-    "Parse GZ/001B (Renegades)": {
-      "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/10/07/gz-001b-full-set-list/"
     },
     "Parse SSSS/002B (Renegades)": {
       "commandName": "Project",
@@ -120,9 +72,21 @@
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/12/08/hp-002e-full-set-list/"
     },
-    "Parse BKRM/001BE (Regenades)": {
+    "Parse DJ/002E (Regenades)": {
       "commandName": "Project",
-      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2021/12/15/bkrm-001t-bkrm-001b-full-set-list/"
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/01/26/dj-002b-full-set-list/"
+    },
+    "Parse KS/001B (Regenades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/03/16/ks-001t-ks-001b-full-set-list/"
+    },
+    "Parse BA/001T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/04/20/ba-001t-full-set-list/"
+    },
+    "Parse KGND/001B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/06/29/kgnd-001b-full-set-list/"
     }
   }
 }

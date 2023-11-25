@@ -93,9 +93,14 @@ namespace Montage.RebirthForYou.Tools.CLI.CLI
                     await using (var stream = savePath.OpenStream(System.IO.FileMode.OpenOrCreate))
                         await img.SaveAsJpegAsync(stream);
                 }
-            } catch (InvalidOperationException e) when (e.Message == "Sequence contains no elements")
+            }
+            catch (InvalidOperationException e) when (e.Message == "Sequence contains no elements")
             {
                 Log.Warning("Cannot be cached as no image URLs were found: {serial}", card.Serial);
+            }
+            catch (Exception e)
+            {
+                Log.Warning("Cannot be cached due to {exception}", e);
             }
         }
 

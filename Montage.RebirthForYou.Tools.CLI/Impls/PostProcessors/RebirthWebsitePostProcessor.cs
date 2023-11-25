@@ -51,7 +51,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
             if (!HasMissingInformation(card)) return card;
             var updatedCard = card.Clone();
             var url = rebirthURLPrefix
-                .SetQueryParam("cardno", updatedCard.Serial.Replace("+", "＋")) //
+                .SetQueryParam("cardno", updatedCard.Serial.Replace("+", "＋"))
                 ;
             Log.Debug("Opening Link: {url}", url);
             try

@@ -213,18 +213,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 });
             }
 
-            await Dispatcher.UIThread.InvokeAsync(() =>
-            {
-                this.Parent.LoadingBox.IsVisible = false;
-                this.Parent.SearchBarTextbox.IsEnabled = true;
-            });
-
             Log.Information("Completed!");
         }
 
         internal async Task InitializeSettings()
         {
             await using var db = ioc.GetInstance<CardDatabaseContext>();
+            await db.Database.MigrateAsync();
+
             Setting sharedXFlagSettings = await db.Settings.FindAsync("gui.flags.sharex.enabled") ?? (await db.Settings.AddAsync(new Setting { Key = "gui.flags.sharex.enabled", Value = "true" })).Entity;
             Setting sendtcpFlagSettings = await db.Settings.FindAsync("gui.flags.sendtcp.enabled") ?? (await db.Settings.AddAsync(new Setting { Key = "gui.flags.sendtcp.enabled", Value = "true" })).Entity;
             IsShareXFlagged = bool.Parse(sharedXFlagSettings.Value);
