@@ -1,7 +1,6 @@
 ﻿using AngleSharp.Dom;
 using Flurl.Http;
 using Lamar;
-using LamarCodeGeneration;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
