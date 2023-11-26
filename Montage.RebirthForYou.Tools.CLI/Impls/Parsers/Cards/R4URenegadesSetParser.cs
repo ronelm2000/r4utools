@@ -13,6 +13,9 @@ using System.Linq;
 using Lamar;
 using System.Threading.Tasks;
 using System.Reflection.Metadata;
+using AngleSharp.Common;
+using CommandLine;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
@@ -26,7 +29,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private readonly Regex seriesRebirthMatcher = new(@"(.+)(?: )*(\/|\\)(?: )*(.+) Rebirth");
         private readonly Regex rubyMatcher = new(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private readonly Regex releaseIDMatcher = new(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
-        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:|(One|Two|Three|Four|Five|Six|Seven) or more:).+");
+        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:|(One|Two|Three|Four|Five|Six|Seven) or more:|(1st|2nd|3rd|4th|5th|1st and 2nd) time:).+");
 
         public bool IsCompatible(IParseInfo parseInfo)
         {
@@ -53,8 +56,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             Log.Information("Parsing as Set List page...");
             var postContent = document.QuerySelector(".post-content");
             var setMap = new Dictionary<string, R4UReleaseSet>();
-            var allDivs = postContent.QuerySelectorAll(".wp-block-image").AsEnumerable();
-            allDivs = allDivs.Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"));
+            var allDivs = postContent.QuerySelectorAll(".wp-block-image").AsEnumerable()
+                .Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"))
+                .Concat(postContent.QuerySelectorAll(".wp-block-group"));
+
             return allDivs.ToAsyncEnumerable().SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable());
         }
 
@@ -66,7 +71,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 .Select(a => a.QuerySelector<IHtmlAnchorElement>(".post-title > a").Href)
                 .ToAsyncEnumerable()
                 .SelectAwait(async a => await new Uri(a).DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10))
-                .SelectMany(d => d.QuerySelectorAll(".wp-block-image").Concat(d.QuerySelectorAll(".wp-block-jetpack-slideshow")).ToAsyncEnumerable())
+                .SelectMany(d => d.QuerySelectorAll(".wp-block-group")
+                                    .Concat(d.QuerySelectorAll(".wp-block-image"))
+                                    .Concat(d.QuerySelectorAll(".wp-block-jetpack-slideshow"))
+                                    .ToAsyncEnumerable()
+                                    )
                 .SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable())
                 ;
         }
@@ -125,13 +134,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             }
             else if (serialRarityJPNameMatcher.IsMatch(content))
             {
-                var firstLineMatch = serialRarityJPNameMatcher.Match(content);
-                card.Serial = firstLineMatch.Groups[1].Value.Trim();
-                card.Rarity = firstLineMatch.Groups[2].Value.Trim();
+                var firstLineMatch = PatchExceptionalSerialRarityMatches(serialRarityJPNameMatcher.Match(content));
+                card.Serial = firstLineMatch.Serial;
+                card.Rarity = firstLineMatch.Rarity;
                 card.Name = new MultiLanguageString
                 {
-                    JP = rubyMatcher.Replace(firstLineMatch.Groups[3].Value, "").Trim(), // TODO: Resolve <ruby>永<rt>えい</rt>遠<rt>えん</rt></ruby>の<ruby>巫<rt>み</rt>女<rt>こ</rt></ruby> <ruby>霊<rt>れい</rt>夢<rt>む</rt></ruby>
-                    EN = firstLineMatch.Groups[4].Value.Trim()
+                    JP = firstLineMatch.NameJP,
+                    EN = firstLineMatch.NameEN
                 };
             }
             else if (serialTrialJPNameMatcher.IsMatch(content))
@@ -258,6 +267,11 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     Type: CardType.Character,
                     Traits: new[] { "Rebirth", "Go Go Stew's!" }
                     ),
+                "Cost4C / BanG Dream! Girls Band Party!☆PICO Fever! / Music – Afterglow" => (
+                    Cost: 4,
+                    Type: CardType.Character,
+                    Traits: new[] { "Music", "Afterglow" }
+                ),
                 _ => null
             };
             return errata != null;
@@ -293,6 +307,27 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         new MultiLanguageString
                         {
                             EN = "[AUTO] When this character blocks, you may place this card into your vacant member area."
+                        }
+                    }
+                ),
+
+                "HS/001B-049" =>
+                (
+                    ATK: 3,
+                    DEF: 5,
+                    Effects: new[]
+                    {
+                        new MultiLanguageString
+                        {
+                            EN = "[Blocker [Growing]]"
+                        },
+                        new MultiLanguageString
+                        {
+                            EN = "[Cancel]:[Spark] of non-Rebirth cards."
+                        },
+                        new MultiLanguageString
+                        {
+                            EN = "[CONT]:This character’s [Cancel] can only be used when you have a [Growing] entry."
                         }
                     }
                 ),
@@ -407,6 +442,28 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 _ => null
             };  
             return exceptionalResult != null;
+        }
+
+        private (String Serial, String Rarity, String NameJP, String NameEN) PatchExceptionalSerialRarityMatches(Match serialRarityNameMatch)
+        {
+            return serialRarityNameMatch switch
+            {
+                Match m when m.Groups[1].Value.StartsWith("HS/001B-P") && (m.Groups[2] is { Value: "SNP" or "PP" }) => 
+                (
+                    Serial: m.Groups[1].Value.Trim() + m.Groups[2].Value.Trim(),
+                    Rarity: serialRarityNameMatch.Groups[2].Value.Trim(),
+                    NameJP: rubyMatcher.Replace(serialRarityNameMatch.Groups[3].Value, "").Trim(),
+                    NameEN: serialRarityNameMatch.Groups[4].Value.Trim()
+                ),
+
+                _ =>
+                (
+                    Serial: serialRarityNameMatch.Groups[1].Value.Trim(),
+                    Rarity: serialRarityNameMatch.Groups[2].Value.Trim(),
+                    NameJP: rubyMatcher.Replace(serialRarityNameMatch.Groups[3].Value, "").Trim(),
+                    NameEN: serialRarityNameMatch.Groups[4].Value.Trim()
+                )
+            };
         }
 
         private List<MultiLanguageString> Compress(List<MultiLanguageString> effects)

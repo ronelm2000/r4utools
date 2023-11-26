@@ -1,0 +1,3225 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GP/001C-001",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-001CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-001cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-001SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-001sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-001UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-001ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Kasumi",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u9999\u6F84"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS1",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5 \u003CPoppin\u0027Party\u003E]:Choose 2 of your opponent\u0027s [Rest] members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014Poppin\u0027Party\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Entry):[Cost (4)], and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C",
+        "Name": "Concept Booster Pack \"BanG Dream! Garupa☆Pico Fever!\""
+      }
+    },
+    {
+      "Serial": "GP/001C-002",
+      "Name": {
+        "EN": "7 Band Joint Concert, Kasumi",
+        "JP": "7\u30D0\u30F3\u30C9\u5408\u540C\u30E9\u30A4\u30D6 \u9999\u6F84"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S1",
+      "Cost": 7,
+      "ATK": 7,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307E\u308A\u306A\u3055\u3093\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have 7 or more unique traits between \u003CPoppin\u0027Party\u003E, \u003CAfterglow\u003E, \u003CPastel\uFF0APalettes\u003E, \u003CRoselia\u003E, \u003CHello, Happy World!\u003E, \u003CMorfonica\u003E, or \u003CRAISE A SUILEN\u003E in total among cards on your member or retire areas, choose all of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u3014Poppin\u0027Party\u3015\u304B\u3014Afterglow\u3015\u304B\u3014Pastel\uFF0APalettes\u3015\u304B\u3014Roselia\u3015\u304B\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\u304B\u3014Morfonica\u3015\u304B\u3014RAISE A SUILEN\u3015\u304C\u5408\u8A08\uFF17\u7A2E\u985E\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-003",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-003CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-003cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-003UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-003ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Tae",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u305F\u3048"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS1",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 3]:If your opponent has an open member area, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-004",
+      "Name": {
+        "EN": "Girls Band Party Theatre, Taederella",
+        "JP": "\u30AC\u30EB\u30D1\u5287\u5834 \u305F\u3048\u30C7\u30EC\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S1",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30A4\u30A7\u30FC\u30A4"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from hand, you may put this character onto your open member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-005",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-005CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-005cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-005UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-005ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Rimi",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u308A\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS1",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo][Skill Showcase Level 4]:If your opponent has an open member area, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-006",
+      "Name": {
+        "EN": "Victim, Rimi",
+        "JP": "\u88AB\u5BB3\u8005 \u308A\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S1",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u79C1\u306E\u2026\u2026\u30C1\u30E7\u30B3\u30B3\u30ED\u30CD\u304C\u3041\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):This character gets \u002B1/\u00B10 for every 2 unique traits other than \u003CMusic\u003E among cards in your member and retire area. If you have 5 or more unique traits, your opponent\u0027s attacks cannot be partner attacks. (For example, \u002B2/\u00B10 if you have the five traits \u003CPoppin\u0027Party\u003E, \u003CAfterglow\u003E, \u003CPastel\uFF0APalettes\u003E, \u003CRoselia\u003E, and \u003CHello, Happy World!\u003E)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u3001\u3014\u97F3\u697D\u3015\u4EE5\u5916\u306E\u5C5E\u6027\uFF12\u7A2E\u985E\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\uFF15\u7A2E\u985E\u4EE5\u4E0A\u306A\u3089\u3001\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002\uFF08\u4F8B\u3048\u3070\u3014Poppin\u0027Party\u3015\u3068\u3014Afterglow\u3015\u3068\u3014Pastel\uFF0APalettes\u3015\u3068\u3014Roselia\u3015\u3068\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\u306E\uFF15\u7A2E\u985E\u306A\u3089\uFF0B\uFF12/\u00B1\uFF10\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-007",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-007CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-007cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-007UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-007ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Saya",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u6C99\u7DBE"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS1",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, if your opponent has an open member area, [Cost (3)], and your opponent cannot use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-008",
+      "Name": {
+        "EN": "Searching Assistance, Saya",
+        "JP": "\u635C\u7D22\u306E\u304A\u624B\u4F1D\u3044 \u6C99\u7DBE"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S1",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u79C1\u305F\u3061\u3082\u624B\u4F1D\u3046\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s [Rest] members, put it into the waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-009",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-009CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-009cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-009UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-009ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Arisa",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u6709\u54B2"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS1",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CPoppin\u0027Party\u003E]:This character gets \u002B1/\u002B1 until end of turn for each card in your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Poppin\u0027Party\u3015\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-010",
+      "Name": {
+        "EN": "Hiking Yahoo, Arisa",
+        "JP": "\u306F\u3044\u304D\u3093\u3050\u3084\u3063\u307B\u30FC \u6709\u54B2"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Poppin\u0027Party",
+          "JP": "Poppin\u0027Party"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S1",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3 \u003CPoppin\u0027Party\u003E][1/Turn]:[Cost (2)], choose 1 of your opponent\u0027s entries, and put it on the bottom of the deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Poppin\u0027Party\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-011",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-011CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-011cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-011SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-011sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-011UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-011ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Ran",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u862D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS2",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CAfterglow\u003E]:[Choose 1 of your \u003CAfterglow\u003E members, and put it into the waiting room], this character gets \u002B2/\u002B2 until end of turn, and if it is your turn, then choose up to 1 \u003CAfterglow\u003E from your waiting room, and put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Afterglow\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014Afterglow\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3057\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306A\u3089\u3001\u3055\u3089\u306B\u63A7\u3048\u5BA4\u304B\u3089\u3014Afterglow\u3015\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-012",
+      "Name": {
+        "EN": "Running Down a Dream, Ran",
+        "JP": "\u99C6\u3051\u629C\u3051\u308D\u9752\u6625 \u862D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S2",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CAfterglow\u003E]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Afterglow\u3015\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-013",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-013CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-013cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-013UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-013ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Moca",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30E2\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS2",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Until end of turn, this character gets \u002B3/\u00B10, and during this character\u0027s next attack, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-014",
+      "Name": {
+        "EN": "Spring of Emotion, Moca",
+        "JP": "\u30A8\u30E2\u30A4\u30CA\u306E\u6CC9 \u30E2\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S2",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30A8\u30E2\u3044\u8A71\u3092\u62AB\u9732\u3057\u3066\u304F\u308C\u305F\u7686\u3055\u3093\u306B\u306F\u3001 \u3084\u307E\u3076\u304D\u30D9\u30FC\u30AB\u30EA\u30FC\u306E\u30E1\u30ED\u30F3\u30D1\u30F3\u3092\u30D7\u30EC\u30BC\u30F3\u30C8\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u0022Ran\u0022 member, draw a card, choose a card from your hand, put it into the waiting room, and this character gets \u002B3/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u862D\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-015",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-015CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-015cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-015UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-015ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Himari",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u3072\u307E\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS2",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Cost (3)], choose 1 of your entries, and exchange its position with this character. After exchanging, if your retire area has 3 or more \u003CAfterglow\u003E, this character gets \u002B4/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u5165\u308C\u66FF\u3048\u305F\u5F8C\u306B\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u3014Afterglow\u3015\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-016",
+      "Name": {
+        "EN": "SNS WARS, Himari",
+        "JP": "SNS WARS \u3072\u307E\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S2",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u79C1\u3082\u30A4\u30B1\u3066\u308B\u6295\u7A3F\u3057\u3066\u30D0\u30BA\u308B\u305E\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your waiting room, choose 2 cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u63A7\u3048\u5BA4\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-017",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-017CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-017cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-017UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-017ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Tomoe",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u5DF4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS2",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 5]:[Cost (1), and put this character into the waiting room], reveal 2 cards from the top of your deck, choose up to 1 character from among them, put it onto your member area, choose up to 1 Rebirth, add it to your hand, and put the rest into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-018",
+      "Name": {
+        "EN": "Akomic Tomoester Hurricane, Tomoe",
+        "JP": "\u30A2\u30B3\u30DF\u30C3\u30AF\u30C8\u30E2\u30A8\u30B9\u30BF\u30CF\u30EA\u30B1\u30FC\u30F3 \u5DF4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "S2",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CAfterglow\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Afterglow\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, choose 1 of your entries, and that character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-019",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-019CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-019cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-019UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-019ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Tsugumi",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u3064\u3050\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS2",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose up to 2 cards from your hand, put them into the waiting room, and draw the same number of cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u3089\u3068\u540C\u3058\u679A\u6570\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-020",
+      "Name": {
+        "EN": "Stenographer, Tsugumi",
+        "JP": "\u66F8\u8A18\u5B98 \u3064\u3050\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Afterglow",
+          "JP": "Afterglow"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S2",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-021",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-021CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-021cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-021SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-021sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-021UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-021ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Aya",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS3",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 7 \u003CPastel\uFF0APalettes\u003E][1/Turn]:When this character attacks, choose any number of cards from your hand, put them into the waiting room, and this character gets \u002B1/\u00B10 until end of turn for each card put. If you have no cards in your hand, choose an allied member, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014Pastel\uFF0APalettes\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u671B\u3080\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u306E\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-022",
+      "Name": {
+        "EN": "Checking on the Fields, Aya",
+        "JP": "\u7530\u3093\u307C\u306E\u69D8\u5B50 \u5F69"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S3",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u7A76\u6975\u306E\u304A\u7C73\u307E\u3067\u3001\u3042\u3068\u4E00\u6B69\u306A\u306E\u306B\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5]:At the end of your turn, if you have no cards in your hand, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-023",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-023CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-023cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-023UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-023ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Hina",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u65E5\u83DC"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS3",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, and put it into the waiting room], and until end of turn, your opponent cannot use their member\u0027s AUTOs, and the next time your opponent\u0027s character attacks this turn, the damage from that attack becomes 0. (Does not affect partner attacks)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3010\u81EA\u3011\u3092\u4F7F\u3048\u305A\u3001\u3053\u306E\u30BF\u30FC\u30F3\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u305D\u306E\u30A2\u30BF\u30C3\u30AF\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002\uFF08\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306F\u9632\u3052\u306A\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-024",
+      "Name": {
+        "EN": "Start by Making the Soil, Hina",
+        "JP": "\u571F\u304B\u3089\u624B\u4F5C\u308A \u65E5\u83DC"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "S3",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u306A\u304B\u306A\u304B\u3046\u307E\u304F\u3044\u304B\u306A\u3044\u306D\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CPastel\uFF0APalettes\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014Pastel\uFF0APalettes\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, choose 1 of your entries, and that character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-025",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-025CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-025cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-025UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-025ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Chisato",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u5343\u8056"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS3",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:During your opponent\u0027s first attack each turn, you can block an allied entry using a \u003CPastel\uFF0APalettes\u003E from your hand. (Use as if it has [Blocker])",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u5473\u65B9\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u3001\u624B\u672D\u306E\u3014Pastel\uFF0APalettes\u3015\u3067\u30D6\u30ED\u30C3\u30AF\u3067\u304D\u308B\u3002\uFF08\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3067\u3042\u308B\u304B\u306E\u3088\u3046\u306B\u4F7F\u3048\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-026",
+      "Name": {
+        "EN": "Searching for Jennifer-chan! Chisato",
+        "JP": "\u30B8\u30A7\u30CB\u30D5\u30A1\u30FC\u3061\u3083\u3093\u3092\u635C\u305B\uFF01 \u5343\u8056"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S3",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u3001\u3042\u308A\u304C\u3068\u3046\u2026\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (2)], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-027",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-027CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-027cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-027UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-027ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Maya",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u9EBB\u5F25"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS3",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose 1 of your opponent\u0027s members, [Rest] it, and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-028",
+      "Name": {
+        "EN": "True Champion, Maya",
+        "JP": "\u771F\u306E\u738B\u8005 \u9EBB\u5F25"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S3",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6]:[Choose a card each from your member area and hand, and put them into the waiting room], and return this character to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-029",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-029CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-029cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-029UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-029ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Eve",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30A4\u30F4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS3",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5]:[Put this character and a card from your hand into the waiting room], choose 1 of your \u003CPastel\uFF0APalettes\u003E entries, and put it onto your open member area. If you have no cards in your hand, choose a \u003CPastel\uFF0APalettes\u003E from your waiting room, and you may put it onto your entry area. (Putting onto your entry area has priority over entry in)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3068\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014Pastel\uFF0APalettes\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3014Pastel\uFF0APalettes\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u5834\u5408\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-030",
+      "Name": {
+        "EN": "The Pastel * Palettes Dish, Eve",
+        "JP": "THE \u30D1\u30B9\u30D1\u30EC DISH \u30A4\u30F4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Pastel\uFF0APalettes",
+          "JP": "Pastel\uFF0APalettes"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "S3",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-031",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-031CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-031cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-031SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-031sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-031UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-031ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Yukina",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS4",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 7 \u003CRoselia\u003E]:[Choose 1 of your energy, and put it into the waiting room], reveal 3 cards from the top of your deck, choose up to 2 \u003CRoselia\u003E from among them, put them into your energy area as [Rest], put the rest into your waiting room, and this character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014Roselia\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u3014Roselia\u3015\u3092\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-032",
+      "Name": {
+        "EN": "Thank You, Yukina",
+        "JP": "\u3042\u308A\u304C\u3068\u3046 \u53CB\u5E0C\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S4",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u2026\u3042\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (2)], choose 1 of your entries, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-033",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-033CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-033cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-033UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-033ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Sayo",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u7D17\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS4",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, [put this character on the bottom of your deck], choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-034",
+      "Name": {
+        "EN": "Was Very Hungry, Sayo",
+        "JP": "\u304A\u306A\u304B\u304C\u7A7A\u3044\u3066\u3057\u307E\u3063\u3066 \u7D17\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S4",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:If you have only \u0022Sayo\u0022 members, your entry gets \u002B1/\u002B1, and this character gets \u003CFries\u003E.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u300A\u7D17\u591C\u300B\u306E\u307F\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u3014\u30DD\u30C6\u30C8\u3015\u3092\u5F97\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-035",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-035CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-035cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-035UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-035ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Lisa",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30EA\u30B5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS4",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003CRoselia\u003E]:When this character is put onto your entry area other than from your deck, this character gets \u002B2/\u002B2 until end of turn. [Choose 1 of your energy, and put it into the waiting room], and it gets an additional \u002B1/\u002B1.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Roselia\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3055\u3089\u306B\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-036",
+      "Name": {
+        "EN": "Trembling in Fear, Lisa",
+        "JP": "\u6050\u6016\u306B\u6144\u304F \u30EA\u30B5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S4",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AE\u30E3\u2015\u2015\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:If all of your members have different card names from each other, your entry gets \u00B10/\u002B1, and if all cards in your retire and member areas also have different card names from each other, it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u30AB\u30FC\u30C9\u540D\u304C\u305D\u308C\u305E\u308C\u9055\u3046\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3057\u3001\u30EA\u30BF\u30A4\u30A2\u3068\u30E1\u30F3\u30D0\u30FC\u3082\u3059\u3079\u3066\u9055\u3046\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-037",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-037CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-037cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-037UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-037ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Ako",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u3042\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS4",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, [choose 1 of your energy, and put it into your waiting room], choose 2 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-038",
+      "Name": {
+        "EN": "The Black La Vie en Note, Ako",
+        "JP": "\u6F06\u9ED2\u306E\u30E9\u30F4\u30A3\u30A2\u30F3\u30CE\u30FC\u30C8 \u3042\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S4",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6C17\u306B\u306A\u308B\uFF5E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area other than from your deck, this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-039",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-039CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-039cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-039UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-039ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Rinko",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u71D0\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS4",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[CONT][Entry][Skill Showcase Level 6]:This character gets \u00B10/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-040",
+      "Name": {
+        "EN": "Pension Andante, Rinko",
+        "JP": "\u30DA\u30F3\u30B7\u30E7\u30F3\u30A2\u30F3\u30C0\u30F3\u30C6 \u71D0\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Roselia",
+          "JP": "Roselia"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S4",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u305D\u308C\u306B\u3057\u3066\u3082\u8C6A\u83EF\u306A\u5408\u5BBF\u6240\u3067\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into the waiting room from your energy area, you may put this character onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-041",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-041CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-041cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-041SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-041sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-041UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-041ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Kokoro",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u3053\u3053\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS5",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6 \u003CHello, Happy World!\u003E]:Choose up to 3 cards each from your member and retire areas, and exchange their positions. If you put 3 \u003CHello, Happy World!\u003E on your member area, this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3001\u305D\u308C\u305E\u308C\uFF13\u679A\u307E\u3067\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u308B\u3002\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\u3092\uFF13\u679A\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-042",
+      "Name": {
+        "EN": "Happy, Happy Vacation\u266A Kokoro",
+        "JP": "\u30CF\u30D4\u30CF\u30D4\u266A\u30D0\u30B1\u30FC\u30B7\u30E7\u30F3 \u3053\u3053\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "S5",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-043",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-043CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-043cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-043UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-043ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Kaoru",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u85AB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS5",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5 \u003CHello, Happy World!\u003E]:At the start of your main phase, [put this character on the bottom of your deck], draw a card, choose all of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-044",
+      "Name": {
+        "EN": "Fleeting, Kaoru",
+        "JP": "\u5C65\u304B\u306A\u3044 \u85AB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S5",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u82B1\u97F3\u300C\u85AB\u3055\u3093\u71B1\u304F\u306A\u3044\u3093\u3067\u3059\u304B\uFF1F\u30D3\u30FC\u30C1\u30B5\u30F3\u30C0\u30EB\u306F\u2026\u2026\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 3]:At the start of your main phase, choose 1 each of a card from your entry and member areas, exchange their positions, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-045",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-045CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-045cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-045UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-045ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Hagumi",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u306F\u3050\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS5",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-046",
+      "Name": {
+        "EN": "In the Satisfaction of Sportsmanship, Hagumi",
+        "JP": "\u30B9\u30DD\u30FC\u30C4\u30DE\u30F3\u30B7\u30C3\u30D7\u306B\u307B\u3063\u3053\u308A \u306F\u3050\u307F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S5",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3066\u3044\u3084\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-047",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-047CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-047cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-047UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-047ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Kanon",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u82B1\u97F3"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS5",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo]:[Cost (3)], choose a \u003CHello, Happy World!\u003E from your retire area, and exchange its position with this character. If you exchanged, choose 1 of your \u003CHello, Happy World!\u003E entries, and you may put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-048",
+      "Name": {
+        "EN": "Dodgeball, Kanon",
+        "JP": "\u30C9\u30C3\u30B8\u30DC\u30FC\u30EB \u82B1\u97F3"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S5",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304D\u3083\u3042\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CHello, Happy World!\u003E]:[Choose 1 of your members, and put it into your area], choose a card from your retire area, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30EA\u30BF\u30A4\u30A2\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30EA\u30BF\u30A4\u30A2\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-049",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-049CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-049cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-049UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-049ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Michelle",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30DF\u30C3\u30B7\u30A7\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS5",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-050",
+      "Name": {
+        "EN": "The Origin of the Noise, Michelle",
+        "JP": "\u97F3\u306E\u6B63\u4F53 \u30DF\u30C3\u30B7\u30A7\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Hello, Happy World!",
+          "JP": "\u30CF\u30ED\u30FC\u3001\u30CF\u30C3\u30D4\u30FC\u30EF\u30FC\u30EB\u30C9\uFF01"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "S5",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3042\u308C\u3001\u307F\u3093\u306A\u3069\u3046\u3057\u3066\u3053\u3053\u306B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-051",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-051CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-051cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-051SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-051sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-051UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-051ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Mashiro",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u307E\u3057\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS6",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, and put it into the waiting room], set a Rebirth from your waiting room, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-052",
+      "Name": {
+        "EN": "Worrywart, Mashiro",
+        "JP": "\u5FC3\u914D\u6027 \u307E\u3057\u308D"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S6",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u7D76\u5BFE\u306A\u306B\u304B\u96A0\u3057\u3066\u308B\u2026\u2026\u3082\u3001\u3082\u3057\u304B\u3057\u3066\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of any player\u0027s [Rest] members, and put it on the bottom of that player\u0027s deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u3001\u3044\u305A\u308C\u304B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u306E\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-053",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-053CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-053cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-053UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-053ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Toko",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u900F\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS6",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Reveal 2 cards with [Spark] from your hand], choose 1 of your partners, [Stand] it, choose 1 of your opponent\u0027s partners, and [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AB\u30FC\u30C9\u3092\uFF12\u679A\u516C\u958B\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u304B\u3001\u76F8\u624B\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-054",
+      "Name": {
+        "EN": "Meanwhile at the Cabin, Toko",
+        "JP": "\u4E00\u65B9\u30AD\u30E3\u30D3\u30F3\u3067\u306F \u900F\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S6",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u4F55\u3053\u308C\uFF01\u30E4\u30D0\u2026\u3048\u3063\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-055",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-055CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-055cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-055UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-055ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Nanami",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u4E03\u6DF1"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS6",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CMorfonica\u003E]:You may put this character onto your open member area. After you put, if you have 3 or more members, the next character to be put onto your entry area gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Morfonica\u3015\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u7F6E\u3044\u305F\u5F8C\u306B\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-056",
+      "Name": {
+        "EN": "Style is the Lifeblood of Horror, Nanami",
+        "JP": "\u30DB\u30E9\u30FC\u306F\u69D8\u5F0F\u7F8E \u4E03\u6DF1"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S6",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][ReCombo][Skill Showcase Level 4 \u003CMorfonica\u003E]:[Choose a card from your hand, and put it into the waiting room], and put this character onto your energy area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014Morfonica\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-057",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-057CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-057cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-057UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-057ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Tsukushi",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u3064\u304F\u3057"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS6",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose one of your entries, return it to your hand. If you returned a \u0022Mashiro\u0022, choose 2 of your energy, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u300A\u307E\u3057\u308D\u300B\u3092\u623B\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-058",
+      "Name": {
+        "EN": "Bad at Hiding Things, Tsukushi",
+        "JP": "\u96A0\u3057\u4E8B\u304C\u82E6\u624B \u3064\u304F\u3057"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S6",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3048\u3063\u6628\u65E5\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s energy, and during your opponent\u0027s next turn, that energy does not [Stand]. This character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-059",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-059CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-059cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-059UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-059ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! Rui",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u7460\u552F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS6",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo]:[Put this character and a card from your hand into the waiting room], choose a character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3068\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-060",
+      "Name": {
+        "EN": "Judge, Rui",
+        "JP": "\u88C1\u5224\u5B98 \u7460\u552F"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "Morfonica",
+          "JP": "Morfonica"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S6",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u305F\u3060\u3044\u307E\u3088\u308A\u3001\u88C1\u5224\u3092\u958B\u5EF7\u3044\u305F\u3057\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-061",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-061CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-061cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-061SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-061sp.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-061UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-061ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! LAYER",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30EC\u30A4\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "SS7",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6 \u003CRAISE A SUILEN\u003E]:Choose up to 3 characters from your hand, and put them onto your member area. If you put 2 or more \u003CRAISE A SUILEN\u003E, draw a card, and this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014RAISE A SUILEN\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF13\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u3014RAISE A SUILEN\u3015\u3092\uFF12\u679A\u4EE5\u4E0A\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-062",
+      "Name": {
+        "EN": "Prince, LAYER",
+        "JP": "\u30D7\u30EA\u30F3\u30B9 \u30EC\u30A4\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S7",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u983C\u3080\uFF01\u79C1\u306E\u30D0\u30F3\u30C9\u306B\u5165\u3063\u3066\u304F\u308C\u306A\u3044\u304B\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry/Member):\u0022Tae\u0022 on your member and retire area get \u003CRAISE A SUILEN\u003E.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u305F\u3048\u300B\u306F\u3014RAISE A SUILEN\u3015\u3092\u5F97\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-063",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-063CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-063cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-063UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-063ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! LOCK",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30ED\u30C3\u30AF"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS7",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-064",
+      "Name": {
+        "EN": "Fairy Godmother, LOCK",
+        "JP": "\u9B54\u6CD5\u4F7F\u3044 \u30ED\u30C3\u30AF"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "S7",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u305D\u3093\u306A\u306B\u30D5\u30A7\u30B9\u306B\u884C\u304D\u305F\u3044\u3093\u3067\u3059\u304B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your hand, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-065",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-065CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-065cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-065UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-065ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! MASKING",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30DE\u30B9\u30AD\u30F3\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS7",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your member area from your hand, put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-066",
+      "Name": {
+        "EN": "Produce\u2606Galaxy, MASKING",
+        "JP": "\u30D7\u30ED\u30C7\u30E5\u30FC\u30B9\u2606\u9280\u6CB3 \u30DE\u30B9\u30AD\u30F3\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S7",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3089\u3063\u3057\u3083\u30FC\u305B\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[Skill Showcase Level 5]:[Cost (1), and reveal this character], choose 1 of your \u0022MASKING\u0022 members, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u30DE\u30B9\u30AD\u30F3\u30B0\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-067",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-067CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-067cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-067UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-067ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! PAREO",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30D1\u30EC\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS7",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4 \u003CRAISE A SUILEN\u003E]:When this character supports, [put this character onto your energy area], choose 1 of your members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014RAISE A SUILEN\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-068",
+      "Name": {
+        "EN": "Jerky Adventure, PAREO",
+        "JP": "\u30B8\u30E3\u30FC\u30AD\u30FC\u30A2\u30C9\u30D9\u30F3\u30C1\u30E3\u30FC \u30D1\u30EC\u30AA"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S7",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u304A\u4EFB\u305B\u304F\u3060\u3055\u3044\u3001\u30C1\u30E5\u30C1\u30E5\u69D8\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-069",
+      "Alternates": [
+        {
+          "Serial": "GP/001C-069CR",
+          "Rarity": "CR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-069cr.png"
+          ]
+        },
+        {
+          "Serial": "GP/001C-069UR",
+          "Rarity": "UR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-069ur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "PICO tarumono, FEVER! CHU\u00B2",
+        "JP": "\u30D4\u30B3\u305F\u308B\u3082\u306E\u3001\u3075\u3043\u30FC\u3070\u30FC\uFF01 \u30C1\u30E5\u30C1\u30E5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "SS7",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 3]:[Cost (3), and return 1 of your members to your hand], choose up to 1 character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u624B\u672D\u306B\u623B\u3059\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    },
+    {
+      "Serial": "GP/001C-070",
+      "Name": {
+        "EN": "Ultimate Jerky, CHU\u00B2",
+        "JP": "\u7A76\u6975\u306E\u30B8\u30E3\u30FC\u30AD\u30FC \u30C1\u30E5\u30C1\u30E5"
+      },
+      "Traits": [
+        {
+          "EN": "Music",
+          "JP": "\u97F3\u697D"
+        },
+        {
+          "EN": "RAISE A SUILEN",
+          "JP": "RAISE A SUILEN"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "S7",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u7A76\u6975\u306B\u30A8\u30EC\u30AC\u30F3\u30B9\u3067\u30B4\u30FC\u30B8\u30E3\u30B9\u3067\u30C7\u30EA\u30B7\u30E3\u30B9\u306A\u30B8\u30E3\u30FC\u30AD\u30FC\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 3 \u003CRAISE A SUILEN\u003E]:When you would put a card from your hand onto your energy area, you may put from your waiting room instead.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014RAISE A SUILEN\u3015\uFF1A\u3042\u306A\u305F\u306F\u624B\u672D\u304B\u3089\u30A8\u30CD\u30EB\u30AE\u30FC\u3092\u7F6E\u304F\u969B\u3001\u304B\u308F\u308A\u306B\u63A7\u3048\u5BA4\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GPCB/gp001c-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GP/001C"
+      }
+    }
+  ]
+}

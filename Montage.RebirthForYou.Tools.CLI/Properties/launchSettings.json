@@ -91,6 +91,14 @@
     "Parse YC (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/08/10/yc-001t-yc-001b-full-set-list/"
+    },
+    "Parse GP/001C (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/09/14/gp-001c-full-set-list-translations/"
+    },
+    "Parse HS (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/10/05/hs-001t-hs-001b-full-set-list-translations/"
     }
   }
 }
