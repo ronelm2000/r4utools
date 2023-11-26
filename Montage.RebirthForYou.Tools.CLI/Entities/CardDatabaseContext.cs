@@ -81,11 +81,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 b.HasOne(c => c.NonFoil).WithMany(c => c.Alternates).OnDelete(DeleteBehavior.Cascade);
                 b.HasMany(c => c.Alternates).WithOne(c => c.NonFoil);
                 b.OwnsMany(s => s.Traits, bb =>
-                 {
-                     bb.Property<int>("Id").HasAnnotation("Sqlite:Autoincrement", true);
-                     bb.HasKey("Id");
-                     bb.WithOwner().HasPrincipalKey(s => s.Serial);
-                 });
+                {
+                    bb.Property<int>("Id").HasAnnotation("Sqlite:Autoincrement", true);
+                    bb.HasKey("Id");        
+                    bb  .WithOwner()
+                        .HasPrincipalKey(s => s.Serial);
+                });
 
                 b   .OwnsOne(c => c.Name, bb =>
                 {

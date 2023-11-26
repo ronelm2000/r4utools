@@ -37,6 +37,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 var dbSets = await db.R4UReleaseSets
                     .AsQueryable()
                     .Include(s => s.Cards)
+                    .ThenInclude(c => c.Traits)
                     .ToAsyncEnumerable()
                     .Where(s => sets.ContainsKey(s.ReleaseCode))
                     .ToListAsync();
@@ -51,6 +52,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 
                 if (dbSets.Count > 0)
                     db.R4UReleaseSets.RemoveRange(dbSets);
+
+                var traits = dbSets
+                    .SelectMany(s => s.Cards)
+                    .SelectMany(c => c.Traits);
+                
+                db.RemoveRange(traits);
+                
                 await db.SaveChangesAsync();
             }
 

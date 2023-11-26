@@ -216,7 +216,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Christmas Camp Invitation, Nadeshiko",
         "JP": "\u30AF\u30EA\u30AD\u30E3\u30F3\u306E\u304A\u8A98\u3044 \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -264,7 +264,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Under the Same Sky, Nadeshiko",
         "JP": "\u540C\u3058\u7A7A\u306E\u4E0B\u3067 \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -312,7 +312,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "Blissful Moment, Nadeshiko",
         "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -408,7 +408,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Fire Starting, Nadeshiko",
         "JP": "\u706B\u8D77\u3053\u3057 \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -459,7 +459,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Time of Sunrise, Nadeshiko",
         "JP": "\u65E5\u306E\u51FA\u306E\u6642\u9593 \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -552,7 +552,7 @@
         }
       ],
       "Name": {
-        "EN": "Minami",
+        "EN": "Delicious Time, Nadeshiko",
         "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u306A\u3067\u3057\u3053"
       },
       "Traits": [
@@ -687,7 +687,7 @@
         }
       ],
       "Name": {
-        "EN": "Lakeside Camp",
+        "EN": "Two Persons\u0027 Camp, Rin",
         "JP": "\u3075\u305F\u308A\u30AD\u30E3\u30F3\u30D7 \u30EA\u30F3"
       },
       "Traits": [
@@ -1059,7 +1059,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Encounter with the Cow Monster, Rin",
         "JP": "\u725B\u306E\u304A\u5316\u3051\u3068\u306E\u906D\u9047 \u30EA\u30F3"
       },
       "Traits": [
@@ -1147,7 +1147,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Delicious Time, Rin",
         "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u30EA\u30F3"
       },
       "Traits": [
@@ -1229,7 +1229,7 @@
         }
       ],
       "Name": {
-        "EN": "Dialogue heard repeatedly",
+        "EN": "I\u0027m sure, we are connected by the sky, Chiaki",
         "JP": "\u304D\u3063\u3068\u3001\u305D\u3089\u3067\u3064\u306A\u304C\u3063\u3066\u308B \u5343\u660E"
       },
       "Traits": [
@@ -1278,7 +1278,7 @@
         }
       ],
       "Name": {
-        "EN": "Ena",
+        "EN": "SHINY DAYS, Chiaki",
         "JP": "SHINY DAYS \u5343\u660E"
       },
       "Traits": [
@@ -1323,7 +1323,7 @@
         }
       ],
       "Name": {
-        "EN": "Yamanashi Girl Aki-chan",
+        "EN": "I am also a Yamanashi citizen, Chiaki",
         "JP": "\u79C1\u3060\u3063\u3066\u5C71\u68A8\u770C\u6C11 \u5343\u660E"
       },
       "Traits": [
@@ -1422,7 +1422,7 @@
         }
       ],
       "Name": {
-        "EN": "What if she gets stranded!!",
+        "EN": "Reply to the Invitation, Chiaki",
         "JP": "\u8A98\u3044\u306E\u8FD4\u4E8B \u5343\u660E"
       },
       "Traits": [
@@ -1473,7 +1473,7 @@
         }
       ],
       "Name": {
-        "EN": "Ena",
+        "EN": "Good Speech Like, Chiaki",
         "JP": "\u30A4\u30A4\u30CF\u30CA\u30B7\u98A8 \u5343\u660E"
       },
       "Traits": [
@@ -1677,7 +1677,7 @@
         }
       ],
       "Name": {
-        "EN": "Shuichiro",
+        "EN": "Cooking Houtou, Chiaki",
         "JP": "\u307B\u3046\u3068\u3046\u4F5C\u308A \u5343\u660E"
       },
       "Traits": [
@@ -1728,7 +1728,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "Blissful Moment, Chiaki",
         "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u5343\u660E"
       },
       "Traits": [
@@ -1779,7 +1779,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "980yen Tent, Chiaki",
         "JP": "980\u5186\u30C6\u30F3\u30C8 \u5343\u660E"
       },
       "Traits": [
@@ -1917,7 +1917,7 @@
         }
       ],
       "Name": {
-        "EN": "Dialogue heard repeatedly",
+        "EN": "I\u0027m sure, we are connected by the sky, Aoi",
         "JP": "\u304D\u3063\u3068\u3001\u305D\u3089\u3067\u3064\u306A\u304C\u3063\u3066\u308B \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2014,7 +2014,7 @@
         }
       ],
       "Name": {
-        "EN": "Ena",
+        "EN": "Dinner Preparation, Aoi",
         "JP": "\u5915\u98EF\u306E\u652F\u5EA6 \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2065,7 +2065,7 @@
         }
       ],
       "Name": {
-        "EN": "Chiaki",
+        "EN": "Price of a Sleeping Bag, Aoi",
         "JP": "\u30B7\u30E5\u30E9\u30D5\u306E\u304A\u5024\u6BB5 \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2167,7 +2167,7 @@
         }
       ],
       "Name": {
-        "EN": "Chiaki",
+        "EN": "Cafe Break, Aoi",
         "JP": "\u30AB\u30D5\u30A7\u4F11\u61A9 \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2215,7 +2215,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "Pleasant Notice, Aoi",
         "JP": "\u697D\u3057\u307F\u306A\u304A\u77E5\u3089\u305B \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2359,7 +2359,7 @@
         }
       ],
       "Name": {
-        "EN": "Chiaki",
+        "EN": "Blissful Moment, Aoi",
         "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2410,7 +2410,7 @@
         }
       ],
       "Name": {
-        "EN": "Chiaki",
+        "EN": "Ranch Sweets, Aoi",
         "JP": "\u7267\u5834\u30B9\u30A4\u30FC\u30C4 \u3042\u304A\u3044"
       },
       "Traits": [
@@ -2640,7 +2640,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "SHINY DAYS, Ena",
         "JP": "SHINY DAYS \u6075\u90A3"
       },
       "Traits": [
@@ -2684,7 +2684,7 @@
         }
       ],
       "Name": {
-        "EN": "Run For Your Life!!",
+        "EN": "Bunny Dog Owner, Ena",
         "JP": "\u30A6\u30B5\u30AE\u30A4\u30CC\u306E\u98FC\u3044\u4E3B \u6075\u90A3"
       },
       "Traits": [
@@ -2731,7 +2731,7 @@
         }
       ],
       "Name": {
-        "EN": "Run For Your Life!!",
+        "EN": "Camping Gear, Ena",
         "JP": "\u30AD\u30E3\u30F3\u30D7\u9053\u5177 \u6075\u90A3"
       },
       "Traits": [
@@ -2775,7 +2775,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Craftsmanship, Ena",
         "JP": "\u8077\u4EBA\u6280 \u6075\u90A3"
       },
       "Traits": [
@@ -2866,7 +2866,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Sneaky Mediation, Ena",
         "JP": "\u305D\u3063\u3068\u6A4B\u6E21\u3057 \u6075\u90A3"
       },
       "Traits": [
@@ -2913,7 +2913,7 @@
         }
       ],
       "Name": {
-        "EN": "Chikuwa",
+        "EN": "Imaginary Yakiniku, Ena",
         "JP": "\u60F3\u50CF\u713C\u8089 \u6075\u90A3"
       },
       "Traits": [
@@ -3039,7 +3039,7 @@
         }
       ],
       "Name": {
-        "EN": "Chikuwa",
+        "EN": "Sensitive to Cold, Ena",
         "JP": "\u5BD2\u304C\u308A \u6075\u90A3"
       },
       "Traits": [
@@ -3083,7 +3083,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Winter Equipment, Ena",
         "JP": "\u51AC\u7528\u88C5\u5099 \u6075\u90A3"
       },
       "Traits": [
@@ -3127,7 +3127,7 @@
         }
       ],
       "Name": {
-        "EN": "Chikuwa",
+        "EN": "Delicious Time, Ena",
         "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u6075\u90A3"
       },
       "Traits": [
@@ -3168,7 +3168,7 @@
         }
       ],
       "Name": {
-        "EN": "Chikuwa",
+        "EN": "Rebirth GO! Ena",
         "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u6075\u90A3"
       },
       "Traits": [
@@ -3326,7 +3326,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Caring Good Older Sister, Sakura",
         "JP": "\u9762\u5012\u898B\u306E\u3044\u3044\u59C9 \u685C"
       },
       "Traits": [],
@@ -3368,7 +3368,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Soft on her Little Sister? Sakura",
         "JP": "\u59B9\u306B\u7518\u3044\uFF1F \u685C"
       },
       "Traits": [],
@@ -3411,7 +3411,7 @@
         }
       ],
       "Name": {
-        "EN": "The Truth Behind D\u00E9j\u00E0 Vu",
+        "EN": "Advisor of the Outdoor Activities Club, Minami",
         "JP": "\u91CE\u30AF\u30EB\u306E\u9867\u554F \u7F8E\u6CE2"
       },
       "Traits": [
@@ -3552,7 +3552,7 @@
         }
       ],
       "Name": {
-        "EN": "Minami",
+        "EN": "Making Trouble For Herself, Minami",
         "JP": "\u3084\u3076\u3078\u3073 \u7F8E\u6CE2"
       },
       "Traits": [
@@ -3698,7 +3698,7 @@
         }
       ],
       "Name": {
-        "EN": "Ena",
+        "EN": "Dispatched Assassin, Chikuwa",
         "JP": "\u5DEE\u3057\u5411\u3051\u3089\u308C\u305F\u523A\u5BA2 \u3061\u304F\u308F"
       },
       "Traits": [],
@@ -3770,7 +3770,7 @@
         }
       ],
       "Name": {
-        "EN": "Ena",
+        "EN": "Sensitive to Cold, Chikuwa",
         "JP": "\u5BD2\u304C\u308A \u3061\u304F\u308F"
       },
       "Traits": [],
@@ -3809,7 +3809,7 @@
         }
       ],
       "Name": {
-        "EN": "Hajime",
+        "EN": "Saki Shima",
         "JP": "\u5FD7\u6469 \u54B2"
       },
       "Traits": [],
@@ -3920,7 +3920,7 @@
         }
       ],
       "Name": {
-        "EN": "Shizuka",
+        "EN": "Shuichiro Kagamihara",
         "JP": "\u5404\u52D9\u539F \u4FEE\u4E00\u6717"
       },
       "Traits": [],
@@ -4001,7 +4001,7 @@
         }
       ],
       "Name": {
-        "EN": "Nadeshiko",
+        "EN": "Ryoko Toba",
         "JP": "\u9CE5\u7FBD \u6DBC\u5B50"
       },
       "Traits": [],
@@ -4043,7 +4043,7 @@
         }
       ],
       "Name": {
-        "EN": "Rin",
+        "EN": "Subaru Kikukawa",
         "JP": "\u83CA\u5DDD \u6634"
       },
       "Traits": [],
@@ -4082,7 +4082,7 @@
         }
       ],
       "Name": {
-        "EN": "Aoi",
+        "EN": "Dialogue heard repeatedly",
         "JP": "\u4F55\u5EA6\u3082\u805E\u3044\u305F\u53F0\u8A5E"
       },
       "Traits": [],

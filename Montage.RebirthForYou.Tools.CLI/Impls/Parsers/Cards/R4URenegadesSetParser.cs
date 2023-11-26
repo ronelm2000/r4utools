@@ -20,7 +20,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     {
         private readonly ILogger Log = Serilog.Log.ForContext<R4URenegadesSetParser>();
 
-        private readonly Regex serialRarityJPNameMatcher = new(@"([^ ]+) ([A-Za-z0-9]+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>|<\/strong>|<\/strong>&ZeroWidthSpace;<br>$)");
+        private readonly Regex serialRarityJPNameMatcher = new(@"([^ ]+) ([A-Za-z0-9]+) (.*?(?=(?: ?)<strong>))(?:<strong>)(.+?(?=<br><\/strong>|<\/strong><br>|<\/strong>|<\/strong>&ZeroWidthSpace;<br>$))");
         private readonly Regex serialTrialJPNameMatcher = new(@"((?:\w)+\/(?:\d)+T-(?:\d)+) (.*)(?:(?: ?)<strong>)(.+)(?:<br><\/strong>|<\/strong><br>)");
         private readonly Regex costSeriesTraitMatcher = new(@"(?:Cost )([0-9]+)(?: \/ )(.+)(?: \/ )(.+)");
         private readonly Regex seriesRebirthMatcher = new(@"(.+)(?: )*(\/|\\)(?: )*(.+) Rebirth");
@@ -233,6 +233,9 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.DEF = DEF;
                 card.Effect = Effects;
             }
+
+            if (card.Serial == null)
+                throw new NullReferenceException("Serial cannot be null; there must be a parsing error somewhere.");
 
             yield return card;
 
