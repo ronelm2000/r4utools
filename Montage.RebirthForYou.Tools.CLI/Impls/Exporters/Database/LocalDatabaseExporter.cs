@@ -36,7 +36,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters.Database
                 .Include(s => s.Cards)
                 .ThenInclude(c => c.Traits)
                 .Include(s => s.Cards)
-                .ThenInclude(c => c.Set)
                 .Where(set => info.ReleaseIDs.Contains(set.ReleaseCode))
                 .ToListAsync();
             //var cards2 = await database.R4UCards.Where(c => sets.Contains(c.Set)).ToList();

@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 
@@ -10,9 +11,11 @@ using Montage.RebirthForYou.Tools.CLI.Entities;
 namespace Montage.RebirthForYou.Tools.CLI.Migrations
 {
     [DbContext(typeof(CardDatabaseContext))]
-    partial class CardDatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20231126110651_AddsYCandNJPWvol2")]
+    partial class AddsYCandNJPWvol2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.0");

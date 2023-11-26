@@ -787,6 +787,34 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_STD_001TV.r4uset",
                         DateAdded = new DateTime(638365563916606059L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 93,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_001TV.r4uset",
+                        DateAdded = new DateTime(638366221721891022L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 94,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_002B.r4uset",
+                        DateAdded = new DateTime(638366221721891022L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 95,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_YC_001B.r4uset",
+                        DateAdded = new DateTime(638366221721891022L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 96,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_YC_001T.r4uset",
+                        DateAdded = new DateTime(638366221721891022L)
                     }
                 );
             });

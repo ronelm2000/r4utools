@@ -1,0 +1,4454 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "YC/001B-002",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-002S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SHINY DAYS, Nadeshiko",
+        "JP": "SHINY DAYS \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 7]:When this character blocks, you may set a Rebirth without [Spark] from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u305F\u306A\u3044Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B",
+        "Name": "Booster Pack Yuru Camp"
+      }
+    },
+    {
+      "Serial": "YC/001B-003",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-003S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Stick-On Warmers, Nadeshiko",
+        "JP": "\u8CBC\u308B\u30AB\u30A4\u30ED \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\u308A\u304C\u3068\u3046\uFF01\u2026\u306F\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area from entry area, choose 1 of your members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-004",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-004S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u4E8C\u4EBA\u3068\u3082\u304A\u304F\u308C\u3066\u3054\u3081\u3093\u30FC\u30FC\u3063\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Outclub Camp, Nadeshiko",
+        "JP": "\u91CE\u30AF\u30EB\u30AD\u30E3\u30F3\u30D7 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4E8C\u4EBA\u3068\u3082\u304A\u304F\u308C\u3066\u3054\u3081\u3093\u30FC\u30FC\u3063\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-005",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-005S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30F3\u3061\u3083\u30FC\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Two Persons\u0027 Camp, Nadeshiko",
+        "JP": "\u3075\u305F\u308A\u30AD\u30E3\u30F3\u30D7 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30EA\u30F3\u3061\u3083\u30FC\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-006",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-006S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5343\u660E\u300C\u2026\u3042\u306E\u3055 \u4ECA\u5EA6\u91CE\u30AF\u30EB\u3067\u30AF\u30EA\u30B9\u30DE\u30B9\u30AD\u30E3\u30F3\u30D7\u3059\u308B\u3093\u3060\u3051\u3069\u2026\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u30AF\u30EA\u30AD\u30E3\u30F3\u306E\u304A\u8A98\u3044 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5343\u660E\u300C\u2026\u3042\u306E\u3055 \u4ECA\u5EA6\u91CE\u30AF\u30EB\u3067\u30AF\u30EA\u30B9\u30DE\u30B9\u30AD\u30E3\u30F3\u30D7\u3059\u308B\u3093\u3060\u3051\u3069\u2026\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022What if she gets stranded!!\u0022][1/Turn]:[Cost (2)], choose a \u0022Chiaki\u0022 or \u0022Aoi\u0022 from your energy area, and put it onto your entry area. If you have an \u0022Ena\u0022 member, you may also choose a \u0022Rin\u0022.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u906D\u96E3\u3057\u3061\u3083\u3063\u305F\u3089\u3069\u3046\u3057\u3088\u3046\uFF01\uFF01\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u6075\u90A3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u300A\u30EA\u30F3\u300B\u3092\u9078\u3093\u3067\u3082\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-007",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-007S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u540C\u3058\u7A7A\u306E\u4E0B\u3067 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Put a card from your hand into the waiting room], and if you have a \u0022Rin\u0022 entry, put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-008",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-008S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3093 \u3042\u304B\u3093\u3084\u3064\u3084\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3046\u3093 \u3042\u304B\u3093\u3084\u3064\u3084\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3][1/Turn]:When your \u0022Chiaki\u0022 or \u0022Aoi\u0022 member is put, draw a card, choose a card from your hand and put it into the waiting room. If you have a \u0022Chiaki\u0022 and an \u0022Aoi\u0022 member, you may put it onto your energy area as [Rest] instead of putting it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u304C\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u304B\u308F\u308A\u306B\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-009",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-009S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Solo-camp Girl, Nadeshiko",
+        "JP": "\u30BD\u30ED\u30AD\u30E3\u30F3\u30AC\u30FC\u30EB \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose 1 of your members, and put it into the waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-010",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-010S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6DBC\u5B50\u300C\u3042\u3068\u306F\u305D\u306E\u4E0A\u306B\u5099\u9577\u70AD\u3092\u4E26\u3079\u3066\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u706B\u8D77\u3053\u3057 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u6DBC\u5B50\u300C\u3042\u3068\u306F\u305D\u306E\u4E0A\u306B\u5099\u9577\u70AD\u3092\u4E26\u3079\u3066\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 6]:[Cost (2), and put this character on the bottom of your deck], if you have a \u0022Rin\u0022 member, choose 1 each of a \u0022Nadeshiko\u0022 and a \u0022Ryoko\u0022 from your waiting room, and put them onto your member areas without a \u0022Rin\u0022.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u6DBC\u5B50\u300B\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u81EA\u5206\u306E\u300A\u30EA\u30F3\u300B\u306E\u3044\u306A\u3044\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-011",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-011S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3093\uFF5E\u2026\u8D77\u304D\u3066\u308B\u3088\u2026\u30EA\u30F3\u3061\u3083\u3093\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u65E5\u306E\u51FA\u306E\u6642\u9593 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3093\uFF5E\u2026\u8D77\u304D\u3066\u308B\u3088\u2026\u30EA\u30F3\u3061\u3083\u3093\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Rin\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-012",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-012S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "More More, Nadeshiko",
+        "JP": "\u30E2\u30A2\u30E2\u30A2 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 7]:[Cost (2)], choose 2 cards from your waiting room, and put them onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-013",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-013S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minami",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u0022Nadeshiko\u0022, a \u0022Chiaki\u0022, an \u0022Aoi\u0022, an \u0022Ena\u0022, and a \u0022Minami\u0022 on your member or retire areas, choose 2 of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u3068\u300A\u6075\u90A3\u300B\u3068\u300A\u7F8E\u6CE2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-014",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-014S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth GO! Nadeshiko",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u306A\u3067\u3057\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-016",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-016S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SHINY DAYS, Rin",
+        "JP": "SHINY DAYS \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):Your opponent\u0027s first attack each turn cannot be a partner attack. If you have 0 members, this character gets \u00B10/\u002B2.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF10\u679A\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 7]:At the end of your turn, [choose all of your other members, and put them into the waiting room], and put this character onto your entry area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-017",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-017S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lakeside Camp",
+        "JP": "\u3075\u305F\u308A\u30AD\u30E3\u30F3\u30D7 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Lakeside Camp\u0022]:[Cost (3)], put this character into your member area, and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6E56\u7554\u306E\u30AD\u30E3\u30F3\u30D7\u300B\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Member):When you would count the number of your members for effects without Skill Showcase, your members exist, but the count is treated as 0.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u672C\u9818\u767A\u63EE\u3092\u6301\u305F\u306A\u3044\u52B9\u679C\u3067\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u679A\u6570\u3092\u6570\u3048\u308B\u969B\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306F\u5B58\u5728\u3057\u3066\u3044\u308B\u304C\u3001\u305D\u306E\u679A\u6570\u306F\uFF10\u679A\u3068\u3057\u3066\u6271\u3046\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-018",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-018S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u304B\u2026\u304B\u308F\u3048\u3048"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Irresistible Mascot Fortune Telling, Rin",
+        "JP": "\u3086\u308B\u30AD\u30E3\u30E9\u306A\u3089\u306C\u3086\u308B\u307F\u304F\u3058 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u304B\u2026\u304B\u308F\u3048\u3048"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):Your opponent\u0027s first attack each turn cannot be a partner attack.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[1/Turn]:When this character is attacked, if you have 0 members and 4 or more cards in your retire area, choose 1 of your opponent\u0027s members, and [Rest] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304C\uFF10\u679A\u3067\u30EA\u30BF\u30A4\u30A2\u304C\uFF14\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-019",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-019S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30AD\u30E3\u30F3\u30D7\u5834\u7740\u304F\u306E\u3053\u3093\u306A\u6642\u9593\u306B\u306A\u3063\u3061\u3083\u3063\u305F\u3057"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Miss Unskillful Traveller, Rin",
+        "JP": "\u65C5\u4E0B\u624B\u3055\u3093 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AD\u30E3\u30F3\u30D7\u5834\u7740\u304F\u306E\u3053\u3093\u306A\u6642\u9593\u306B\u306A\u3063\u3061\u3083\u3063\u305F\u3057"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-020",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-020S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3053\u3067\u8EFD\u304F\u304A\u3084\u3064\u98DF\u3079\u308B\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Snacks Preparation, Rin",
+        "JP": "\u304A\u3084\u3064\u306E\u7528\u610F \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3053\u3053\u3067\u8EFD\u304F\u304A\u3084\u3064\u98DF\u3079\u308B\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-021",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-021S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3046\u3059\u3050\u8305\u91CE\u5E02\u304B\u3041 \u5BD2\u3044\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bike Journey, Rin",
+        "JP": "\u30D0\u30A4\u30AF\u65C5 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3082\u3046\u3059\u3050\u8305\u91CE\u5E02\u304B\u3041 \u5BD2\u3044\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn. If you have 0 members, then it gets an additional \u002B2/\u002B2.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF10\u679A\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-022",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-022S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u304A\u3044\u3001\u307E\u3058\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Disappointing Bad News, Rin",
+        "JP": "\u7121\u5FF5\u306E\u60B2\u5831 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u304A\u3044\u3001\u307E\u3058\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):When you would count the number of your members for effects without Skill Showcase, your members exist, but the count is treated as 0.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u672C\u9818\u767A\u63EE\u3092\u6301\u305F\u306A\u3044\u52B9\u679C\u3067\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u679A\u6570\u3092\u6570\u3048\u308B\u969B\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306F\u5B58\u5728\u3057\u3066\u3044\u308B\u304C\u3001\u305D\u306E\u679A\u6570\u306F\uFF10\u679A\u3068\u3057\u3066\u6271\u3046\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-023",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-023S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AD\u30E3\u30F3\u30D7\u3067YAKINIKU\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "YAKINIKU during Camp, Rin",
+        "JP": "\u30AD\u30E3\u30F3\u30D7\u3067YAKINIKU \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30AD\u30E3\u30F3\u30D7\u3067YAKINIKU\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-024",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-024S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Under the Same Sky, Rin",
+        "JP": "\u540C\u3058\u7A7A\u306E\u4E0B\u3067 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-025",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-025S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u725B\u306E\u304A\u5316\u3051\u3068\u306E\u906D\u9047 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4][1/Turn]:When your Rebirth is set while you have a \u0022Minami\u0022 entry, choose this character and 1 of your \u0022Nadeshiko\u0022 members, and you may return them to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u300A\u7F8E\u6CE2\u300B\u304C\u3044\u3066\u3001\u81EA\u5206\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u306A\u3067\u3057\u3053\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-026",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-026S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u8D77\u304D\u306A\u3088\u3002\u306A\u3067\u3057\u3053"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Time of Sunrise, Rin",
+        "JP": "\u65E5\u306E\u51FA\u306E\u6642\u9593 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u2026\u2026\u8D77\u304D\u306A\u3088\u3002\u306A\u3067\u3057\u3053"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Nadeshiko\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u306A\u3067\u3057\u3053\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-027",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-027S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (3), but if you have a \u0022Nadeshiko\u0022 member, Cost (2) instead], and put this character onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u306A\u3067\u3057\u3053\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u304B\u308F\u308A\u306B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-028",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-028S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth GO! Rin",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-029",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-029SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-029sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dialogue heard repeatedly",
+        "JP": "\u304D\u3063\u3068\u3001\u305D\u3089\u3067\u3064\u306A\u304C\u3063\u3066\u308B \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u0022Chiaki\u0022 and an \u0022Aoi\u0022 member, this character gets \u002B2/\u00B10 until end of turn. If you also have a \u0022Nadeshiko\u0022 member, then it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u300A\u306A\u3067\u3057\u3053\u300B\u3082\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Dialogue heard repeatedly\u0022][Skill Showcase Level 4]:At the end of your turn, choose 1 of your set Rebirths, and return it to your hand.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4F55\u5EA6\u3082\u805E\u3044\u305F\u53F0\u8A5E\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-030",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-030S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ena",
+        "JP": "SHINY DAYS \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 5]:[Cost (3), and put this character on the bottom of your deck], reveal 3 cards from the top of your deck, choose up to 1 \u0022Nadeshiko\u0022, \u0022Chiaki\u0022, \u0022Aoi\u0022, or \u0022Ena\u0022 from among them, put it onto your member area, choose up to 1 Rebirth from among them, add it to your hand, and put the rest into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u304B\u300A\u6075\u90A3\u300B\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-031",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-031S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yamanashi Girl Aki-chan",
+        "JP": "\u79C1\u3060\u3063\u3066\u5C71\u68A8\u770C\u6C11 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Yamanashi Girl Aki-chan\u0022][Skill Showcase Level 6]:When you would put Rebirths into the waiting room at the end of your turn, you may leave one. If you have no cards in your hand, instead of leaving 1, you may return up to 1 to your hand, and leave up to 1. (If you have no cards in your hand and 1 Rebirth, you may leave it or return it to your hand)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u68A8\u3063\u5B50\u3042\u304D\u3061\u3083\u3093\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\uFF11\u679A\u6B8B\u3057\u3066\u3088\u3044\u3002\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\uFF11\u679A\u6B8B\u3059\u304B\u308F\u308A\u306B\u3001\uFF11\u679A\u307E\u3067\u624B\u672D\u306B\u623B\u3057\u3001\uFF11\u679A\u307E\u3067\u6B8B\u3057\u3066\u3088\u3044\u3002\uFF08\u624B\u672D\u304C\u306A\u304FRe\u30D0\u30FC\u30B9\u304C\uFF11\u679A\u306A\u3089\u6B8B\u3057\u3066\u3082\u623B\u3057\u3066\u3082\u3088\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-032",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-032S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u6696\u623F\u304D\u3044\u3066\u308B\u5E97\u5185\u3067\u98DF\u3046\u30A2\u30A4\u30B9\u3046\u307E\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cafe Break, Chiaki",
+        "JP": "\u30AB\u30D5\u30A7\u4F11\u61A9 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u6696\u623F\u304D\u3044\u3066\u308B\u5E97\u5185\u3067\u98DF\u3046\u30A2\u30A4\u30B9\u3046\u307E\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo]:When this character supports, the supported character gets \u002B2/\u00B10 until end of that attack. If you have 3 or more members, it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-033",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-033S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u7D20\u76F4\u3058\u3083\u306D\u30FC\u306A\u2015"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "What if she gets stranded!!",
+        "JP": "\u8A98\u3044\u306E\u8FD4\u4E8B \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u7D20\u76F4\u3058\u3083\u306D\u30FC\u306A\u2015"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, [choose a card from your hand, and put it into the waiting room], and set a \u0022Dialogue heard repeatedly\u0022 or a \u0022What if she gets stranded!!\u0022 from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u4F55\u5EA6\u3082\u805E\u3044\u305F\u53F0\u8A5E\u300B\u304B\u300A\u906D\u96E3\u3057\u3061\u3083\u3063\u305F\u3089\u3069\u3046\u3057\u3088\u3046\uFF01\uFF01\u300B\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-034",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-034S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u672C\u5F53\u306E\u30AF\u30EA\u30B9\u30DE\u30B9\u30D7\u30EC\u30BC\u30F3\u30C8\u306F\u306A \u307F\u3093\u306A\u306E\u5FC3\u306E\u4E2D\u306B\u3042\u308B\u3082\u306E\u306A\u3093\u3060\u305C"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ena",
+        "JP": "\u30A4\u30A4\u30CF\u30CA\u30B7\u98A8 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u672C\u5F53\u306E\u30AF\u30EA\u30B9\u30DE\u30B9\u30D7\u30EC\u30BC\u30F3\u30C8\u306F\u306A \u307F\u3093\u306A\u306E\u5FC3\u306E\u4E2D\u306B\u3042\u308B\u3082\u306E\u306A\u3093\u3060\u305C"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a \u0022Nadeshiko\u0022 from your waiting room, and you may put it onto your open member area. If you have 3 or more cards in your retire area, then choose an \u0022Ena\u0022 from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u306A\u3067\u3057\u3053\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3055\u3089\u306B\u63A7\u3048\u5BA4\u304B\u3089\u300A\u6075\u90A3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-035",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-035S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5F85\u3063\u3066\u305F\u305E\u30A4\u30CC\u5B50\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Look at This! Chiaki",
+        "JP": "\u3053\u308C\u3092\u898B\u308D\uFF01 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5F85\u3063\u3066\u305F\u305E\u30A4\u30CC\u5B50\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-036",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-036S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3063\u3066\u4F55\u306B\u4F7F\u3048\u3070\u3044\u3044\u3093\u3060\u3088\u3063\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ways to Use a Wooden Bowl, Chiaki",
+        "JP": "\u6728\u76BF\u306E\u4F7F\u3044\u65B9 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3063\u3066\u4F55\u306B\u4F7F\u3048\u3070\u3044\u3044\u3093\u3060\u3088\u3063\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put into the waiting room from your member area, [choose a card from your hand, and put it into the waiting room], choose a Rebirth from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-037",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-037S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3044\u305F\u3060\u304D\u307E\u3059\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Campsite Inspection, Chiaki",
+        "JP": "\u30AD\u30E3\u30F3\u30D7\u5834\u306E\u4E0B\u898B \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3044\u305F\u3060\u304D\u307E\u3059\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose 1 of your entries, and put it on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-038",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-038S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u7C89\u4ED8\u304D\u306E\u307E\u307E\u716E\u308B\u3053\u3068\u306B\u3088\u308A\u30B9\u30FC\u30D7\u306E\u3068\u308D\u307F\u304C\u5897\u3057\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shuichiro",
+        "JP": "\u307B\u3046\u3068\u3046\u4F5C\u308A \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u7C89\u4ED8\u304D\u306E\u307E\u307E\u716E\u308B\u3053\u3068\u306B\u3088\u308A\u30B9\u30FC\u30D7\u306E\u3068\u308D\u307F\u304C\u5897\u3057\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have a \u0022Nadeshiko\u0022, a \u0022Sakura\u0022, a \u0022Shizuka, and a \u0022Shuichiro\u0022 on your member or retire areas, this character gets \u002B4/\u002B4.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u685C\u300B\u3068\u300A\u9759\u82B1\u300B\u3068\u300A\u4FEE\u4E00\u6717\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-039",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-039S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u304B\u3093\u3042\u304B\u3093\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3042\u304B\u3093\u3042\u304B\u3093\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Aoi\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-040",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-040S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3068\u3044\u3046\u3053\u3068\u3067\u5B9F\u7269\u3092\u3054\u7528\u610F\u3057\u307E\u3057\u305F\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "980\u5186\u30C6\u30F3\u30C8 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3068\u3044\u3046\u3053\u3068\u3067\u5B9F\u7269\u3092\u3054\u7528\u610F\u3057\u307E\u3057\u305F\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 3]:When this character is supported by a \u0022Nadeshiko\u0022 or an \u0022Aoi\u0022, this character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u306B\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-041",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-041S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Delicious Time, Chiaki",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011 \uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-042",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-042S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth GO! Chiaki",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u5343\u660E"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-043",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-043SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-043sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dialogue heard repeatedly",
+        "JP": "\u304D\u3063\u3068\u3001\u305D\u3089\u3067\u3064\u306A\u304C\u3063\u3066\u308B \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u0022Chiaki\u0022 and an \u0022Aoi\u0022 member, this character gets \u002B2/\u00B10 until end of turn. If you also have a \u0022Nadeshiko\u0022 member, then it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u300A\u306A\u3067\u3057\u3053\u300B\u3082\u3044\u308B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Dialogue heard repeatedly\u0022][Skill Showcase Level 7][1/Turn]:When this character attacks, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4F55\u5EA6\u3082\u805E\u3044\u305F\u53F0\u8A5E\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-044",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-044S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SHINY DAYS, Aoi",
+        "JP": "SHINY DAYS \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4][1/Turn]:[Cost (3), and put a card from your hand on the bottom of your deck], reveal 3 cards from the top of your deck, choose a [Spark] of a character from among them, activate it as this character\u0027s [Spark], and put the revealed cards into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u3001\u516C\u958B\u3057\u305F\u30AB\u30FC\u30C9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-045",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-045S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u65E5\u306F\u30AF\u30EA\u30B9\u30DE\u30B9\u3061\u3085\u30FC\u4E8B\u3067"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ena",
+        "JP": "\u5915\u98EF\u306E\u652F\u5EA6 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4ECA\u65E5\u306F\u30AF\u30EA\u30B9\u30DE\u30B9\u3061\u3085\u30FC\u4E8B\u3067"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[ReCombo \u0022SUKIYAKI???\u0022][Skill Showcase Level 4]:[Cost (2), and put this character into the waiting room], choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn. If you chose a \u0022Nadeshiko\u0022, a \u0022Chiaki\u0022, or a \u0022Ena\u0022, then it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300ASUKIYAKI\uFF1F\uFF1F\uFF1F\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u5343\u660E\u300B\u304B\u300A\u6075\u90A3\u300B\u3092\u9078\u3093\u3060\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-046",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-046S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u540C\u3058\u8010\u5BD2\u6E29\u5EA6\u3067\u5316\u7E4A\u306E\u7269\u3088\u308A2~3\u8AED\u5409\u307B\u3069\u304A\u9AD8\u304F\u306A\u3063\u3068\u308A\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiaki",
+        "JP": "\u30B7\u30E5\u30E9\u30D5\u306E\u304A\u5024\u6BB5 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u540C\u3058\u8010\u5BD2\u6E29\u5EA6\u3067\u5316\u7E4A\u306E\u7269\u3088\u308A2~3\u8AED\u5409\u307B\u3069\u304A\u9AD8\u304F\u306A\u3063\u3068\u308A\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Perform all of the following based on the characters on your member area. \u0022Nadeshiko\u0022: Draw a card, choose a card from your hand, and put it into the waiting room. \u0022Chiaki\u0022: Choose a character from your waiting room, and you may put it onto an open member area.\r\n\u0022Nadeshiko\u0022 and \u0022Chiaki\u0022: This character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3044\u308B\u30AD\u30E3\u30E9\u306B\u3088\u308A\u3001\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u3092\u3059\u3079\u3066\u884C\u3046\u3002\n\u300A\u306A\u3067\u3057\u3053\u300B.\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\u300A\u5343\u660E\u300B\uFF0E\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\n\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u5343\u660E\u300B\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-047",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-047S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u3082\u3057\u304B\u3057\u3066\u5E30\u308C\u3093\u304F\u306A\u308B\u30D1\u30BF\u30FC\u30F3\u3058\u3083"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bad Feeling, Aoi",
+        "JP": "\u5ACC\u306A\u4E88\u611F \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3053\u308C\u3082\u3057\u304B\u3057\u3066\u5E30\u308C\u3093\u304F\u306A\u308B\u30D1\u30BF\u30FC\u30F3\u3058\u3083"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, choose a character each from your hand and retire area, and you may exchange their positions.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-048",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-048S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306E\u3061\u3087\u3063\u3068\u98DF\u3079\u308B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiaki",
+        "JP": "\u30AB\u30D5\u30A7\u4F11\u61A9 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u79C1\u306E\u3061\u3087\u3063\u3068\u98DF\u3079\u308B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:If you have 1 or less members, [choose a \u0022Nadeshiko\u0022 or a \u0022Chiaki\u0022 from your waiting room, and put it onto your open member area], and this character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF11\u679A\u4EE5\u4E0B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u5343\u660E\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-049",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-049S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "\u697D\u3057\u307F\u306A\u304A\u77E5\u3089\u305B \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (5)], choose 1 of your entries, and activate 1 of its [Spark]. If that character is a \u0022Chiaki\u0022 or an \u0022Aoi\u0022, choose 2 of your partners, and [Stand] them.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2464\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u767A\u52D5\u3055\u305B\u308B\u3002\u305D\u306E\u30AD\u30E3\u30E9\u304C\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-050",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-050S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306A\u3067\u3057\u3053\u300C\u3042\u304A\u3044\u3061\u3083\u3093\uFF01\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Supermarket Part-time, Aoi",
+        "JP": "\u30B9\u30FC\u30D1\u30FC\u306E\u30A2\u30EB\u30D0\u30A4\u30C8 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u306A\u3067\u3057\u3053\u300C\u3042\u304A\u3044\u3061\u3083\u3093\uFF01\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-051",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-051S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Thing to Enjoy on Special Days, Aoi",
+        "JP": "\u7279\u5225\u306A\u65E5\u306B\u9802\u304F\u3082\u306E \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s members, [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-052",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-052S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u6E6F\u4E0A\u308A\u306B\u98DF\u3063\u305F\u3089\u3042\u304B\u3093\u3084\u3064\u3084\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiaki",
+        "JP": "\u81F3\u798F\u306E\u3072\u3068\u3068\u304D \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3053\u308C\u6E6F\u4E0A\u308A\u306B\u98DF\u3063\u305F\u3089\u3042\u304B\u3093\u3084\u3064\u3084\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Chiaki\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u5343\u660E\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-053",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-053S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3046\u30FC\u30FC\u307E\u3041\uFF5E\uFF5E\u3063\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiaki",
+        "JP": "\u7267\u5834\u30B9\u30A4\u30FC\u30C4 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3046\u30FC\u30FC\u307E\u3041\uFF5E\uFF5E\u3063\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Put 2 cards from your hand into the waiting room, [Rest] 1 of your \u0022Minami\u0022 members, and return 1 of your \u0022Chiaki\u0022 members to your hand], and return this character to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF12\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3001\u30E1\u30F3\u30D0\u30FC\u306E\u300A\u7F8E\u6CE2\u300B\u3092\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3001\u30E1\u30F3\u30D0\u30FC\u306E\u300A\u5343\u660E\u300B\u3092\u624B\u672D\u306B\u623B\u3059\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-054",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-054S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u304B\u3093\u308F\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Devil\u0027s Whisper, Aoi",
+        "JP": "\u60AA\u9B54\u306E\u3055\u3055\u3084\u304D \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3042\u304B\u3093\u308F\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-055",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-055S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Delicious Time, Aoi",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 6,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-056",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-056S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth GO! Aoi",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u3042\u304A\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a card from your hand, and you may present it face down. If you presented, your opponent declares \u0022even\u0022 or \u0022odd\u0022. Reveal the presented card, and if its Cost matches what your opponent declared, perform i, if not, perform ii, if it is a Rebirth, treat it as \u0022Tadaa~\u0022 and perform i and ii.\ni. Your opponent looks at all cards in your hand.\nii. You look at all cards in your opponent\u0027s hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u88CF\u5411\u304D\u3067\u63D0\u793A\u3057\u3066\u3088\u3044\u3002\u63D0\u793A\u3057\u305F\u3089\u3001\u76F8\u624B\u306F\u300C\u5076\u6570\u300D\u304B\u300C\u5947\u6570\u300D\u3092\u5BA3\u8A00\u3059\u308B\u3002\u305D\u308C\u3092\u516C\u958B\u3057\u3001\u305D\u306E\u30B3\u30B9\u30C8\u304C\u5BA3\u8A00\u3068\u540C\u3058\u306A\u3089\u2170\u3001\u9055\u3046\u306A\u3089\u2171\u3001\u305D\u308C\u304CRe\u30D0\u30FC\u30B9\u306A\u3089\u300C\u30DB\u30E9\u300D\u3068\u3057\u3066\u2170\u3068\u2171\u3092\u884C\u3046\u3002\n\u2170\uFF0E\u76F8\u624B\u306F\u3042\u306A\u305F\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u308B\u3002\n\u2171\uFF0E\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-057",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-057SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-057sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I\u0027m sure, we are connected by the sky, Ena",
+        "JP": "\u304D\u3063\u3068\u3001\u305D\u3089\u3067\u3064\u306A\u304C\u3063\u3066\u308B \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose 1 of your opponent\u0027s members, [Rest] it, and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-058",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-058S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "SHINY DAYS \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack. If it supported a \u0022Nadeshiko\u0022, \u0022Chiaki\u0022, or \u0022Aoi\u0022, then choose a card from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u3089\u3001\u3055\u3089\u306B\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-059",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-059S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30F3 \u306A\u3067\u3057\u3053\u3061\u3083\u3093\u304A\u306F\u3088\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Run For Your Life!!",
+        "JP": "\u30A6\u30B5\u30AE\u30A4\u30CC\u306E\u98FC\u3044\u4E3B \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30EA\u30F3 \u306A\u3067\u3057\u3053\u3061\u3083\u3093\u304A\u306F\u3088\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Run For Your Life!!\u0022][Skill Showcase Level 5][1/Turn]:[Cost (3)], choose a [Blocker] or [Cancel] from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5168\u529B\u30C0\u30C3\u30B7\u30E5\uFF01\uFF01\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-060",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-060S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u767B\u5C71\u3068\u304B\u3067\u4F7F\u3046\u30B3\u30F3\u30ED\u3082\u6301\u3063\u3066\u3093\u3060\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Run For Your Life!!",
+        "JP": "\u30AD\u30E3\u30F3\u30D7\u9053\u5177 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u767B\u5C71\u3068\u304B\u3067\u4F7F\u3046\u30B3\u30F3\u30ED\u3082\u6301\u3063\u3066\u3093\u3060\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose a character from your hand, and put it into the waiting room], choose a Rebirth from your waiting room, and return it to your hand. If you returned \u0022Run For Your Life!!\u0022, then choose a Rebirth from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u300A\u5168\u529B\u30C0\u30C3\u30B7\u30E5\uFF01\uFF01\u300B\u3092\u623B\u3057\u305F\u3089\u3001\u3055\u3089\u306B\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-061",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-061S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u8077\u4EBA\u6280 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (3)], put this character onto your member area, choose 1 of your \u0022Nadeshiko\u0022 or \u0022Rin\u0022 entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u30EA\u30F3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-062",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-062S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5343\u660E\u300C\u899A\u609F\u306F\u3042\u308B\u304B\uFF01\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Trial Enlistment, Ena",
+        "JP": "\u4F53\u9A13\u5165\u968A \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u5343\u660E\u300C\u899A\u609F\u306F\u3042\u308B\u304B\uFF01\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 4]:[Cost (3)], and if you have a \u0022Nadeshiko\u0022, a \u0022Chiaki\u0022, and an \u0022Aoi\u0022 on your member and retire areas, put this character onto your member area. If you put, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn. End this phase.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3053\u306E\u30D5\u30A7\u30A4\u30BA\u3092\u7D42\u4E86\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-063",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-063S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306D\u3047\u6B21\u306F\u3069\u3053\u884C\u304F\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u305D\u3063\u3068\u6A4B\u6E21\u3057 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u306D\u3047\u6B21\u306F\u3069\u3053\u884C\u304F\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[Skill Showcase Level 6]:[Cost (2), and put this character into the waiting room], if you have only \u0022Rin\u0022 members, choose 1 of the following.\ni. Put this character onto your member area.\nii. Put this character on the bottom of your deck, choose a \u0022Nadeshiko\u0022 from your waiting room, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u300A\u30EA\u30F3\u300B\u306E\u307F\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\n\u2171\uFF0E\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u306A\u3067\u3057\u3053\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-064",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-064S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5916\u3067\u4E00\u4EBA\u713C\u8089\u304B\u3041\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chikuwa",
+        "JP": "\u60F3\u50CF\u713C\u8089 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5916\u3067\u4E00\u4EBA\u713C\u8089\u304B\u3041\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Put a card from your hand into the waiting room], if you have a \u0022Nadeshiko\u0022, a \u0022Rin\u0022, or a \u0022Chikuwa\u0022 entry, and you have more cards in your retire area than your opponent, return this character to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u30EA\u30F3\u300B\u304B\u300A\u3061\u304F\u308F\u300B\u304C\u3044\u3066\u3001\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-065",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-065S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "First Winter Camp, Ena",
+        "JP": "\u306F\u3058\u3081\u3066\u306E\u51AC\u30AD\u30E3\u30F3\u30D7 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your entry area, if you have 3 or more members, choose any number of characters from your hand and member area, and exchange their positions.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\u671B\u3080\u679A\u6570\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-066",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-066S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Time to Eat, Ena",
+        "JP": "\u3044\u305F\u3060\u304D\u307E\u3059 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-067",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-067S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chikuwa",
+        "JP": "\u5BD2\u304C\u308A \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Chikuwa\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u3061\u304F\u308F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-068",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-068S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u5BD2\u3044\u306E\u82E6\u624B\u3060\u304B\u3089\u3053\u308C\u306B\u3057\u305F\u3093\u3060\u3051\u3069"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u51AC\u7528\u88C5\u5099 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u79C1\u5BD2\u3044\u306E\u82E6\u624B\u3060\u304B\u3089\u3053\u308C\u306B\u3057\u305F\u3093\u3060\u3051\u3069"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have a \u0022Chiaki\u0022 and an \u0022Aoi\u0022 member, your \u0022Nadeshiko\u0022 entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u300A\u306A\u3067\u3057\u3053\u300B\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-069",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-069S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chikuwa",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose a character from your waiting room, and put it onto your entry area. If you put a \u0022Nadeshiko\u0022, choose a \u0022Chikuwa\u0022 from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u300A\u306A\u3067\u3057\u3053\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u63A7\u3048\u5BA4\u304B\u3089\u300A\u3061\u304F\u308F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-070",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-070S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chikuwa",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u6075\u90A3"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:If you have a \u0022Rin\u0022 member, this character gets \u002B2/\u00B10. If you have a \u0022Chikuwa\u0022 member, this character gets \u00B10/\u002B1. (If you have both, get \u002B2/\u002B1)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u3061\u304F\u308F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\uFF08\u4E21\u65B9\u3044\u308B\u306A\u3089\uFF0B\uFF12/\uFF0B\uFF11\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-071",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-071S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Driver, Sakura",
+        "JP": "\u8ECA\u306E\u904B\u8EE2 \u685C"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 3]:[Cost (2)], put this character onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-072",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-072S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30C0\u30E1\u306B\u6C7A\u307E\u3063\u3066\u308B\u3067\u3057\u3087"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-072s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Stopper, Sakura",
+        "JP": "\u30B9\u30C8\u30C3\u30D1\u30FC \u685C"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30C0\u30E1\u306B\u6C7A\u307E\u3063\u3066\u308B\u3067\u3057\u3087"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-073",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-073S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pick Up, Sakura",
+        "JP": "\u304A\u8FCE\u3048 \u685C"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from your hand, you may put this character onto your open member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-074",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-074S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6301\u3061\u6B69\u304B\u306A\u304D\u3083\u643A\u5E2F\u96FB\u8A71\u3068\u306F\u8A00\u308F\u306A\u3044\u306E\u3088\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u9762\u5012\u898B\u306E\u3044\u3044\u59C9 \u685C"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u6301\u3061\u6B69\u304B\u306A\u304D\u3083\u643A\u5E2F\u96FB\u8A71\u3068\u306F\u8A00\u308F\u306A\u3044\u306E\u3088\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:If you have a \u0022Nadeshiko\u0022 and a \u0022Rin\u0022 member, you may put this character onto your open member area. If you put, at the end of this turn, choose this character and 1 of your \u0022Nadeshiko\u0022 members, and you may return them to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u306A\u3067\u3057\u3053\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-075",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-075S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305D\u308D\u305D\u308D\u7740\u304F\u308F\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u59B9\u306B\u7518\u3044\uFF1F \u685C"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u305D\u308D\u305D\u308D\u7740\u304F\u308F\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u0022Nadeshiko\u0022]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u300A\u306A\u3067\u3057\u3053\u300B\n"
+        },
+        {
+          "EN": "[AUTO] When this character blocks, you may place this card into your vacant member area.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-076",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-076S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Truth Behind D\u00E9j\u00E0 Vu",
+        "JP": "\u91CE\u30AF\u30EB\u306E\u9867\u554F \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022The Truth Behind D\u00E9j\u00E0 Vu\u0022][1/Turn]:Choose 1 of either [Spark], [ReCombo], or [Growing]. This character gets \u002B1/\u00B10 until end of turn for each character in your retire area with that ability. If you chose [Growing], then during the next attack, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u65E2\u8996\u611F\u306E\u6B63\u4F53\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3001\u3010Re\u30B3\u30F3\u30DC\u3011\u3001\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u3064\u9078\u3076\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u3001\u305D\u306E\u80FD\u529B\u3092\u6301\u3064\u30AD\u30E3\u30E9\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u9078\u3093\u3060\u3089\u3001\u3055\u3089\u306B\u76F8\u624B\u306F\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-077",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-077S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Near Sunset, Minami",
+        "JP": "\u5915\u66AE\u308C\u6642 \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-078",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-078S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3059\u304E\u3084\u304E\u306B\u5408\u3094\u65E5\u672C\u9152\u5FD8\u308C\u3062\u3083\u3063\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Forgotten Thing, Minami",
+        "JP": "\u5FD8\u308C\u3082\u306E \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3059\u304E\u3084\u304E\u306B\u5408\u3094\u65E5\u672C\u9152\u5FD8\u308C\u3062\u3083\u3063\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B1/\u002B1 for every 2 [Growing] in total on your member and retire areas.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306E\u3001\u3010\u306E\u3073\u3057\u308D\u3011\u5408\u8A08\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-079",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-079S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minami",
+        "JP": "\u3084\u3076\u3078\u3073 \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3061\u3087\u3063\u3068\u3042\u306A\u305F\u9054\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have a \u0022Nadeshiko\u0022, a \u0022Chiaki\u0022, an \u0022Aoi\u0022, and an \u0022Ena\u0022 on your member or retire areas, choose a \u0022Minami\u0022 from your waiting room, put it onto your entry area, and that character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u3068\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u3068\u300A\u6075\u90A3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u7F8E\u6CE2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-080",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-080S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Delicious Time, Minami",
+        "JP": "\u304A\u3044\u3057\u3044\u6642\u9593 \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker][Growing]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011\n"
+        },
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards.",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[CONT]:This character\u0027s [Cancel] can only be used when you have a [Growing] entry.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u306F\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u6642\u306E\u307F\u4F7F\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-081",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-081S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rebirth GO! Minami",
+        "JP": "Re\u30D0\u30FC\u30B9 GO\uFF01 \u7F8E\u6CE2"
+      },
+      "Traits": [
+        {
+          "EN": "Motosu High School",
+          "JP": "\u672C\u6816\u9AD8\u6821"
+        },
+        {
+          "EN": "Outdoor Activities Club",
+          "JP": "\u91CE\u5916\u6D3B\u52D5\u30B5\u30FC\u30AF\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-082",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-082S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ena",
+        "JP": "\u5DEE\u3057\u5411\u3051\u3089\u308C\u305F\u523A\u5BA2 \u3061\u304F\u308F"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose 1 of your energy, and put it into the waiting room], and set a Rebirth from your waiting room. If you set \u0022It\u0027s Chikuwa!!\u0022, choose a \u0022Nadeshiko\u0022, \u0022Rin\u0022, \u0022Chiaki\u0022, \u0022Aoi\u0022, or \u0022Ena\u0022 from your retire area, and exchange its position with this character.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\u300ACHIKUWA\u3060\u30FC\u3063\uFF01\uFF01\u300B\u3092\u30BB\u30C3\u30C8\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3001\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u30EA\u30F3\u300B\u304B\u300A\u5343\u660E\u300B\u304B\u300A\u3042\u304A\u3044\u300B\u304B\u300A\u6075\u90A3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-083",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-083S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-083s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Christmas Camp Invitation, Chikuwa",
+        "JP": "\u30AF\u30EA\u30AD\u30E3\u30F3\u306E\u304A\u8A98\u3044 \u3061\u304F\u308F"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from your entry area, choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-084",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-084S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ena",
+        "JP": "\u5BD2\u304C\u308A \u3061\u304F\u308F"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Ena\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u6075\u90A3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-085",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-085S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u307E\u3063\u305F\u304F\u2026\u8AB0\u306B\u4F3C\u305F\u306E\u304B\u3057\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hajime",
+        "JP": "\u5FD7\u6469 \u54B2"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u307E\u3063\u305F\u304F\u2026\u8AB0\u306B\u4F3C\u305F\u306E\u304B\u3057\u3089"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:If you have a \u0022Rin\u0022 member, this character gets \u002B2/\u00B10 until end of turn. If you have a \u0022Hajime\u0022 member, this character gets \u00B10/\u002B1. (If you have both, get \u002B2/\u002B1)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30EA\u30F3\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u8087\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\uFF08\u4E21\u65B9\u3044\u308B\u306A\u3089\uFF0B\uFF12/\uFF0B\uFF11\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-086",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-086S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hajime Shinshiro",
+        "JP": "\u65B0\u57CE \u8087"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4][1/Turn]:Your opponent may draw a card. If they drew, put this character onto your member area. If they did not draw, choose 2 of your opponent\u0027s [Rest] members, and put them into the waiting room. (Your opponent chooses whether to draw)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u76F8\u624B\u306F\uFF11\u679A\u5F15\u3044\u3066\u3088\u3044\u3002\u5F15\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u5F15\u304B\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u5F15\u304F\u304B\u306F\u76F8\u624B\u304C\u6C7A\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-087",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-087S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-087s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shizuka Kagamihara",
+        "JP": "\u5404\u52D9\u539F \u9759\u82B1"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-088",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-088S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shizuka",
+        "JP": "\u5404\u52D9\u539F \u4FEE\u4E00\u6717"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Cost (1), and make a \u0022Nadeshiko\u0022, \u0022Sakura\u0022, or \u0022Shizuka\u0022 from your hand become this character\u0027s [Soul]], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u624B\u672D\u304B\u3089\u300A\u306A\u3067\u3057\u3053\u300B\u304B\u300A\u685C\u300B\u304B\u300A\u9759\u82B1\u300B\u3092\uFF11\u679A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u9B42\u3011\u306B\u3059\u308B\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-089",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-089S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306A\u30FC\u306A\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Akari Inuyama",
+        "JP": "\u72AC\u5C71 \u3042\u304B\u308A"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u306A\u30FC\u306A\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to 2 cards from your hand, put them into the waiting room, and draw the same number of cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u3089\u3068\u540C\u3058\u679A\u6570\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-090",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-090S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3001\u3053\u3093\u306B\u3061\u306F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nadeshiko",
+        "JP": "\u9CE5\u7FBD \u6DBC\u5B50"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3053\u3001\u3053\u3093\u306B\u3061\u306F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports a \u0022Rin\u0022, if you have a \u0022Nadeshiko\u0022 member, [put this character into the waiting room], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u300A\u30EA\u30F3\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u306A\u3067\u3057\u3053\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-091",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-091S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u83CA\u5DDD \u6634"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When your opponent blocks the attack of your \u0022Rin\u0022, [[Rest] this character], and during the next attack of your \u0022Rin\u0022 this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u300A\u30EA\u30F3\u300B\u306E\u30A2\u30BF\u30C3\u30AF\u3092\u76F8\u624B\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u6B21\u306E\u3042\u306A\u305F\u306E\u300A\u30EA\u30F3\u300B\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-093",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-093S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Aoi",
+        "JP": "\u4F55\u5EA6\u3082\u805E\u3044\u305F\u53F0\u8A5E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[ACT][Skill Showcase Level 3][1/Turn]:[Put the top card of your deck into the waiting room], choose up to 2 total \u0022Chiaki\u0022 and \u0022Aoi\u0022 (1 each) from your hand or waiting room, and put them onto your member area. (You may choose 1 each from your hand and waiting room or 2 from either)",
+          "JP": "\u3010\u8D77\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u5343\u660E\u300B\u3068\u300A\u3042\u304A\u3044\u300B\u3092\u305D\u308C\u305E\u308C\uFF11\u679A\u305A\u3064\u5408\u8A08\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\uFF08\u624B\u672D\u3068\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u305A\u3064\u3067\u3082\u3069\u3061\u3089\u304B\u304B\u3089\uFF12\u679A\u3067\u3082\u3088\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-094",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-094S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "What if she gets stranded!!",
+        "JP": "\u906D\u96E3\u3057\u3061\u3083\u3063\u305F\u3089\u3069\u3046\u3057\u3088\u3046\uFF01\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put 2 cards from the top of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-095",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-095S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lakeside Camp",
+        "JP": "\u6E56\u7554\u306E\u30AD\u30E3\u30F3\u30D7"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-096",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-096S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306B\u3060\u3063\u3066\u672C\u5834\u306E\u6FC0\u30A6\u30DE\u307B\u3046\u3068\u3046\u304C \u4F5C\u308C\u308B\u7B48\u3060\u2015\u2015\u2015\u2015\u30C3\uFF01\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yamanashi Girl Aki-chan",
+        "JP": "\u68A8\u3063\u5B50\u3042\u304D\u3061\u3083\u3093"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u79C1\u306B\u3060\u3063\u3066\u672C\u5834\u306E\u6FC0\u30A6\u30DE\u307B\u3046\u3068\u3046\u304C \u4F5C\u308C\u308B\u7B48\u3060\u2015\u2015\u2015\u2015\u30C3\uFF01\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to 1 [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put 1 of your entries into the waiting room], and the next character to be put onto your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-097",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-097S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3059\u304D\u713C\u304D\u3084"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "SUKIYAKI???",
+        "JP": "SUKIYAKI\uFF1F\uFF1F\uFF1F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3059\u304D\u713C\u304D\u3084"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal 1.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-098",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-098S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Run For Your Life!!",
+        "JP": "\u5168\u529B\u30C0\u30C3\u30B7\u30E5\uFF01\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-099",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-099S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Truth Behind D\u00E9j\u00E0 Vu",
+        "JP": "\u65E2\u8996\u611F\u306E\u6B63\u4F53"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-100",
+      "Alternates": [
+        {
+          "Serial": "YC/001B-100S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "It\u0027s Chikuwa!!",
+        "JP": "CHIKUWA\u3060\u30FC\u3063\uFF01\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-P008S",
+      "Name": {
+        "EN": "Laid-Back Camp \u25B3",
+        "JP": "\u3086\u308B\u30AD\u30E3\u30F3\u25B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-p008s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-P009S",
+      "Name": {
+        "EN": "Laid-Back Camp \u25B3",
+        "JP": "\u3086\u308B\u30AD\u30E3\u30F3\u25B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-p009s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-P010S",
+      "Name": {
+        "EN": "Laid-Back Camp \u25B3",
+        "JP": "\u3086\u308B\u30AD\u30E3\u30F3\u25B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-p010s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    },
+    {
+      "Serial": "YC/001B-P011S",
+      "Name": {
+        "EN": "Laid-Back Camp \u25B3",
+        "JP": "\u3086\u308B\u30AD\u30E3\u30F3\u25B3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/YCBP/yc001b-p011s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "YC/001B"
+      }
+    }
+  ]
+}

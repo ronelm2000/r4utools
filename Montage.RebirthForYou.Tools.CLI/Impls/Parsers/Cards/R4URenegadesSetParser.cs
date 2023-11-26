@@ -264,8 +264,37 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         {
             return card.Serial switch
             {
-                "KGND/001B-079[VA]" => (ATK: 6, DEF: 7, Effects: new[] { new MultiLanguageString() { EN = "[Growing](Expect growth in the future!)" } }),
-                _ => null
+                "KGND/001B-079[VA]" => 
+                (
+                    ATK: 6, 
+                    DEF: 7, 
+                    Effects: new[] { new MultiLanguageString() { EN = "[Growing](Expect growth in the future!)" } }
+                ),
+
+                "YC/001B-046" =>
+                (
+                    ATK: 4,
+                    DEF: 5,
+                    Effects: new[] { new MultiLanguageString { EN = "[Spark]:Perform all of the following based on the characters on your member area. \"Nadeshiko\": Draw a card, choose a card from your hand, and put it into the waiting room. \"Chiaki\": Choose a character from your waiting room, and you may put it onto an open member area.\r\n“Nadeshiko” and “Chiaki“: This character gets +3/+3 until end of turn." } }
+                 ),
+                "YC/001B-075" =>
+                (
+                    ATK: 2,
+                    DEF: 3,
+                    Effects: new[]
+                    {
+                        new MultiLanguageString
+                        {
+                            EN = "[Blocker \"Nadeshiko\"]"
+                        },
+                        new MultiLanguageString
+                        {
+                            EN = "[AUTO] When this character blocks, you may place this card into your vacant member area."
+                        }
+                    }
+                ),
+
+               _ => null
             };
         }
 
@@ -317,6 +346,51 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     {
                         (Serial: "KS/001B-096a", Rarity: "Re", Name: new MultiLanguageString { EN = "Explosion Magic", JP = "爆裂魔法" }),
                         (Serial: "KS/001B-096b", Rarity: "Re", Name: new MultiLanguageString { EN = "Explosion Magic", JP = "爆裂魔法" })
+                    },
+
+                // Exception due to missing rarity
+                "NJPW/001TV-034 リングイン 鈴木 みのる Ring In, Minoru Suzuki"
+                    => new[] { (Serial: "NJPW/001TV-034", Rarity: "TD", Name: new MultiLanguageString { EN = "Ring In, Minoru Suzuki", JP = "リングイン 鈴木 みのる" }) },
+                "NJPW/002B-P015 PP 内藤 哲也 Tetsuya Naito"
+                    => new[]
+                    {
+                        (
+                            Serial: "NJPW/002B-P015PP",
+                            Rarity: "PP",
+                            Name: new MultiLanguageString { EN = "Tetsuya Naito", JP = "内藤 哲也" }
+                        )
+                    },
+                "NJPW/002B-P020 PP グレート-O-カーン Great-O-Khan"
+                    => new[]
+                    {
+                        (
+                            Serial: "NJPW/002B-P020PP",
+                            Rarity: "PP",
+                            Name: new MultiLanguageString { EN = "Great-O-Khan", JP = "グレート-O-カーン" }
+                        )
+                    },
+
+                "YC/001B-026 日の出の時間 リン Time of Sunrise, Rin"
+                    => new[]
+                    {
+                        (
+                            Serial: "YC/001B-026",
+                            Rarity: "C",
+                            Name: new MultiLanguageString { EN = "Time of Sunrise, Rin", JP = "日の出の時間 リン" }
+                        )
+                    },
+                "YC/001B-062 体験入隊 恵那 Trial Enlistment, Ena"
+                    => new[]
+                    {
+                        (
+                            Serial: "YC/001B-062",
+                            Rarity: "R",
+                            Name: new MultiLanguageString
+                            {
+                                EN = "Trial Enlistment, Ena",
+                                JP = "体験入隊 恵那"
+                            }
+                        )
                     },
 
                 // Exception due to a~q serial

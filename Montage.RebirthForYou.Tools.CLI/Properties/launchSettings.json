@@ -87,6 +87,10 @@
     "Parse KGND/001B (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/06/29/kgnd-001b-full-set-list/"
+    },
+    "Parse YC (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/08/10/yc-001t-yc-001b-full-set-list/"
     }
   }
 }
