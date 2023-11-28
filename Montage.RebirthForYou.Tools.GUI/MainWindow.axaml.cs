@@ -4,6 +4,7 @@ using Avalonia.Collections;
 using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Input;
+using Avalonia.Input.Raw;
 using Avalonia.Layout;
 using Avalonia.Logging;
 using Avalonia.Markup.Xaml;
@@ -14,10 +15,6 @@ using DynamicData;
 using DynamicData.Binding;
 using Lamar;
 using Lamar.Scanning.Conventions;
-using MessageBox.Avalonia.DTO;
-using MessageBox.Avalonia.Enums;
-using MessageBox.Avalonia.Models;
-using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
@@ -25,6 +22,9 @@ using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Impls.Exporters.TTS;
 using Montage.RebirthForYou.Tools.GUI.Models;
 using Montage.RebirthForYou.Tools.GUI.ModelViews;
+using MsBox.Avalonia;
+using MsBox.Avalonia.Dto;
+using MsBox.Avalonia.Enums;
 using Newtonsoft.Json;
 using ReactiveUI;
 using Serilog;
@@ -39,7 +39,7 @@ using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI
 {
-    public class MainWindow : Window
+    public partial class MainWindow : Window
     {
         private readonly TextBox _searchBarTextBox;
         private readonly ItemsRepeater _decklistRepeater;
@@ -59,9 +59,6 @@ namespace Montage.RebirthForYou.Tools.GUI
 
         public MainWindow(IContainer ioc) : this()
         {
-            // Do stuff here.
-            //var messageBoxStandardWindow = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow("title", "orem ipsum dolor sit amet, consectetur adipiscing elit, sed...");
-            // messageBoxStandardWindow.Show();
             _ioc = ioc;
             Log = Serilog.Log.ForContext<MainWindow>();
             DataContext = _ioc.GetService<MainWindowViewModel>();
@@ -103,7 +100,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         /// This method is needed to make the WYSIWYG editor work.
         /// The actual execution method uses the one with IOC.
         /// </summary>
-           public MainWindow()
+        public MainWindow()
         {
             InitializeComponent();
             _searchBarTextBox = this.FindControl<TextBox>("searchBarTextBox");
@@ -159,16 +156,14 @@ namespace Montage.RebirthForYou.Tools.GUI
                 {
                     ContentTitle = "Save", 
                     ContentMessage = "You still have unsaved changes. Are you sure you want to exit?", 
-                    ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.YesNo,
+                    ButtonDefinitions = ButtonEnum.YesNo,
                     WindowStartupLocation = WindowStartupLocation.CenterOwner,
                     Width = 300,
                     SizeToContent = SizeToContent.Height
                 };
-                var window = MessageBox.Avalonia.MessageBoxManager
-                    .GetMessageBoxStandardWindow(msgBoxParams)
-                    ;
-                var task = await window.ShowDialog(this);
-                if (task == ButtonResult.Yes)
+                var window = MessageBoxManager.GetMessageBoxStandard(msgBoxParams);
+                var dialogResult = await window.ShowAsPopupAsync(this);
+                if (dialogResult == ButtonResult.Yes)
                 {
                     _dataContext().Saved = "";
                     this.Close();
@@ -211,7 +206,7 @@ namespace Montage.RebirthForYou.Tools.GUI
 
         public void Item_OnPointerLeave(object sender, PointerEventArgs e)
         {
-            var border = e.Source as Border;
+            var border = sender as Border;
             border.Background = oldBrush?[border] ?? null;
         }
 

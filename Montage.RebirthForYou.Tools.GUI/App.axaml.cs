@@ -37,8 +37,8 @@ namespace Montage.RebirthForYou.Tools.GUI
             {
                 //x.AddLogging(l => l.AddSerilog(Serilog.Log.Logger, dispose: true));
                 x.AddSingleton<ILogger>(Serilog.Log.Logger);
-                x.AddSingleton<IAvaloniaObject, MainWindow>();
-                x.AddSingleton<IAvaloniaObject, App>();
+                x.AddSingleton<AvaloniaObject, MainWindow>();
+                x.AddSingleton<AvaloniaObject, App>();
                 x.Scan(s =>
                 {
                     s.AssemblyContainingType<Montage.RebirthForYou.Tools.GUI.Program>();

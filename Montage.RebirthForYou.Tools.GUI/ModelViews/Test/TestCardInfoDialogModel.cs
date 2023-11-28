@@ -2,19 +2,14 @@
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.Platform;
-using Flurl.Http;
-using MessageBox.Avalonia.ViewModels;
-using Montage.RebirthForYou.Tools.CLI.CLI;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.CLI.Utilities.Components;
-using Montage.RebirthForYou.Tools.GUI.ModelViews;
 using Montage.RebirthForYou.Tools.GUI.ModelViews.Interfaces;
 using ReactiveUI;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -110,8 +105,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews.Test
 
         private async Task<IImage> LoadImage()
         {
-            var assets = AvaloniaLocator.Current.GetService<IAssetLoader>();
-            await using (var stream = assets.Open(new Uri("avares://deckbuilder4u/Assets/IMC_001T_001.jpg")))
+            await using (var stream = AssetLoader.Open(new Uri("avares://deckbuilder4u/Assets/IMC_001T_001.jpg")))
                 return new Bitmap(stream);
         }
     }

@@ -4,15 +4,12 @@ using Avalonia.Controls.Shapes;
 using Avalonia.Input;
 using Avalonia.Media.Imaging;
 using Avalonia.OpenGL;
+using Avalonia.Platform.Storage;
 using Avalonia.Threading;
 using Avalonia.VisualTree;
 using DynamicData;
 using DynamicData.Binding;
 using Lamar;
-using MessageBox.Avalonia.DTO;
-using MessageBox.Avalonia.Models;
-using MessageBox.Avalonia.ViewModels;
-using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Montage.RebirthForYou.Tools.CLI.API;
@@ -26,6 +23,10 @@ using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Deck;
 using Montage.RebirthForYou.Tools.CLI.Utilities;
 using Montage.RebirthForYou.Tools.GUI.Dialogs;
 using Montage.RebirthForYou.Tools.GUI.Models;
+using MsBox.Avalonia;
+using MsBox.Avalonia.Dto;
+using MsBox.Avalonia.Enums;
+using MsBox.Avalonia.Models;
 using Octokit;
 using ReactiveUI;
 using Serilog;
@@ -47,8 +48,9 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
     public class MainWindowViewModel : ReactiveObject
     {
         #region Private Fields
-        private readonly SaveFileDialog _saveFileDialog;
-        private readonly OpenFileDialog _openFileDialog;
+        private readonly FilePickerSaveOptions _saveFileDialogOptions;
+        private readonly FilePickerOpenOptions _openFileDialogOptions;
+
         private readonly ILogger Log;
 
         private ConcurrentDictionary<string,CardEntryModel> _database = new ConcurrentDictionary<string,CardEntryModel>();
@@ -121,6 +123,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         public ReactiveCommand<Unit, Unit> ExportViaDeckImageCommand { get; }
         public ReactiveCommand<Unit, Unit> ImportDeckCommand { get; }
         public ReactiveCommand<Unit, Unit> OpenAboutCommand { get; }
+
+
         public MainWindow Parent { get; internal set; }
 
         public MainWindowViewModel()
@@ -147,19 +151,28 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             ImportDeckCommand = ReactiveCommand.CreateFromTask(ImportDeck);
             OpenAboutCommand = ReactiveCommand.CreateFromTask(OpenAbout);
 
-            _saveFileDialog = new SaveFileDialog
+            var fileTypeChoices = new FilePickerFileType[]
             {
-                DefaultExtension = "r4udek",
+                new FilePickerFileType("Rebirth For You (R4U) Deck")
+                {
+                    Patterns = new[] { "*.r4udek" }
+                }
+            };
+
+            _saveFileDialogOptions = new FilePickerSaveOptions
+            {
+                FileTypeChoices = fileTypeChoices,
+                DefaultExtension = "Rebirth For You (R4U) Deck",
+                ShowOverwritePrompt = true,
                 Title = "Save R4U Deck..."
             };
-            _saveFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
-            _openFileDialog = new OpenFileDialog
+            _openFileDialogOptions = new FilePickerOpenOptions
             {
+                FileTypeFilter = fileTypeChoices,
                 AllowMultiple = false,
                 Title = "Load R4U Deck..."
             };
-            _openFileDialog.Filters.Add(new FileDialogFilter { Extensions = new[] { "r4udek" }.ToList(), Name = "Rebirth For You (R4U) Deck" });
 
             //    dataContext.WhenValueChanged(x => x.DeckRemarks).Subscribe(s => _dataContext().Saved = "*");
             //    dataContext.WhenValueChanged(dc => dc.Saved).Subscribe(ChangeWindowTitle);
@@ -267,45 +280,35 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             DeckResults.Remove(cardEntry);
             SortDeck();
         }
-        private async Task SaveDeck()
+        private async Task SaveDeck(CancellationToken token)
         {
-            var saveFilePath = await _saveFileDialog.ShowAsync(Parent);
-            if (!String.IsNullOrWhiteSpace(saveFilePath))
-            {
-                var result = await SaveDeck(saveFilePath);
-                var prms = GenerateStandardMessageParams(result.Title, result.Details);
-                await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms).ShowDialog(Parent);//(this);
-            }
+            if (!Parent.StorageProvider.CanSave)
+                return;
+
+            var saveFile = await Parent.StorageProvider.SaveFilePickerAsync(_saveFileDialogOptions);
+            if (saveFile is null)
+                return;
+            
+            var result = await SaveDeck(saveFile, token);
+            var prms = GenerateStandardMessageParams(result.Title, result.Details);
+            await MessageBoxManager.GetMessageBoxStandard(prms).ShowAsPopupAsync(Parent);//(this);
         }
-        private async Task LoadDeck()
+        private async Task LoadDeck(CancellationToken token)
         {
-            var loadFilePath = await _openFileDialog.ShowAsync(Parent);
-            if (loadFilePath?.Length > 0)
-            {
-                var result = await LoadDeck(loadFilePath?[0]);
-                var prms = GenerateStandardMessageParams(result.Title, result.Details);
-                var msgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(prms);// (result.Title, result.Details);
-                await msgBox.ShowDialog(Parent);// (this);
-            }
+            if (!Parent.StorageProvider.CanOpen)
+                return;
+
+            var loadedFile = (await Parent.StorageProvider.OpenFilePickerAsync(_openFileDialogOptions)).FirstOrDefault();
+            if (loadedFile is null or default(IStorageFile))
+                return;
+
+            var result = await LoadDeck(loadedFile, token);
+            var prms = GenerateStandardMessageParams(result.Title, result.Details);
+            var msgBox = MessageBoxManager.GetMessageBoxStandard(prms);// (result.Title, result.Details);
+            await msgBox.ShowAsPopupAsync(Parent);// (this);
         }
         private async Task ImportDeck()
         {
-            var prms = new MessageBoxInputParams
-            {
-                ShowInCenter = true,
-                WatermarkText = "Deck URL",
-                ContentTitle = "Import...",
-                WindowStartupLocation = WindowStartupLocation.CenterOwner,
-                ContentMessage = "URL:",
-                ButtonDefinitions = new []
-                {
-                    new ButtonDefinition
-                    {
-                        Name = "Import",
-                        Type = MessageBox.Avalonia.Enums.ButtonType.Colored
-                    }
-                }
-            };
             var dialog = ioc.GetService<RemoteImportDialog>();
             var url = await dialog.GetResult(Parent);
             if (!string.IsNullOrWhiteSpace(url))
@@ -331,8 +334,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                     Log.Error("Logging an unacconted error during import.", e);
                     resultParams = GenerateStandardMessageParams("Failed!", $"Failed because of an unknown error: {e.Message}");
                 }
-                var resultMsgBox = MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(resultParams);
-                await resultMsgBox.ShowDialog(Parent);
+                var resultMsgBox = MessageBoxManager.GetMessageBoxStandard(resultParams);
+                await resultMsgBox.ShowAsPopupAsync(Parent);
             }
         }
         private void Exit()
@@ -342,7 +345,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private async Task ExportWithResult<T>() where T : IDeckExporter
         {
             var result = await Export<T>();
-            await MessageBox.Avalonia.MessageBoxManager.GetMessageBoxStandardWindow(result.Title, result.Details).ShowDialog(Parent);
+            await MessageBoxManager.GetMessageBoxStandard(result.Title, result.Details).ShowAsPopupAsync(Parent);
         }
         #endregion
 
@@ -438,12 +441,12 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 .Select(c => new CardEntryModel(this, c));
         }
 
-        internal async Task<(string Title, string Details)> SaveDeck(string saveFilePath)
+        internal async Task<(string Title, string Details)> SaveDeck(IStorageFile saveFilePath, CancellationToken token)
         {
             var exporter = ioc.GetInstance<LocalDeckJSONExporter>();
             try
             {
-                await exporter.Export(GenerateDeck(deckResults, deckName, deckRemarks), null, Fluent.IO.Path.Get(saveFilePath));
+                await exporter.Export(GenerateDeck(deckResults, deckName, deckRemarks), null, saveFilePath.OpenWriteAsync, token);
                 Saved = "";
                 var nonNulldeckName = string.IsNullOrWhiteSpace(deckName) ? "An unnamed deck" : deckName;
                 return ("Success", $"{deckName} was saved successfully!");
@@ -455,12 +458,13 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             }
         }
 
-        internal async Task<(string Title, string Details)> LoadDeck(string loadFilePath)
+        internal async Task<(string Title, string Details)> LoadDeck(IStorageFile loadFilePath, CancellationToken token)
         {
             try
             {
                 var exporter = ioc.GetInstance<LocalDeckJSONParser>();
-                var deck = await exporter.Parse(loadFilePath);
+                await using var stream = await loadFilePath.OpenReadAsync().WaitAsync(token);
+                var deck = await exporter.Parse(stream, token);
                 var deckName = string.IsNullOrWhiteSpace(deck.Name) ? "An unnamed deck": deck.Name;
                 await ApplyDeck(deck);
                 return ("Success", $"{deckName} was loaded successfully!");
@@ -508,20 +512,16 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         }
         private MessageBoxStandardParams GenerateStandardMessageParams(string title, string details)
         {
-            var result = new MessageBoxStandardParams();
-            result.MinWidth = 400;
-            /*
-            result.Window = new MsBoxStandardWindow
-            {
-                MinWidth = 400
+            var result = new MessageBoxStandardParams {
+                MinWidth = 400,
+                ButtonDefinitions = ButtonEnum.Ok,
+                ContentTitle = title,
+                ContentMessage = details,
+                ShowInCenter = true,
+                WindowStartupLocation = WindowStartupLocation.CenterOwner
             };
-            */
-            result.ButtonDefinitions = MessageBox.Avalonia.Enums.ButtonEnum.Ok;
-            result.ContentTitle = title;
-            result.ContentMessage = details;
-            result.ShowInCenter = true;
-            result.WindowStartupLocation = WindowStartupLocation.CenterOwner;
-            if (title == "Failed!") result.Icon = MessageBox.Avalonia.Enums.Icon.Error;
+
+            if (title == "Failed!") result.Icon = Icon.Error;
             return result;
         }
 

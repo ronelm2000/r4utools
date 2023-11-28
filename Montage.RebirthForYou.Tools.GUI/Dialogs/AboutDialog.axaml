@@ -17,7 +17,7 @@
                       >
         <ItemsRepeater Name="detailsRepeater"
                        Background="Transparent"
-                       Items="{Binding Rows}">
+                       ItemsSource="{Binding Rows}">
           <ItemsRepeater.ItemTemplate>
             <DataTemplate>
               <StackPanel>

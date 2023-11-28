@@ -7,7 +7,7 @@ using Montage.RebirthForYou.Tools.GUI.ModelViews;
 
 namespace Montage.RebirthForYou.Tools.GUI.Dialogs
 {
-    public class AboutDialog : Window
+    public partial class AboutDialog : Window
     {
         public AboutDialog()
         {

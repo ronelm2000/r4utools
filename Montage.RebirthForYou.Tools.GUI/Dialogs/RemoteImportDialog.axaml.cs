@@ -14,10 +14,6 @@ using Avalonia.Threading;
 using DynamicData;
 using DynamicData.Binding;
 using Lamar;
-using MessageBox.Avalonia.DTO;
-using MessageBox.Avalonia.Enums;
-using MessageBox.Avalonia.Models;
-using MessageBox.Avalonia.Views;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.DependencyInjection;
@@ -36,7 +32,7 @@ using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.GUI.Dialogs
 {
-    public class RemoteImportDialog : Window
+    public partial class RemoteImportDialog : Window
     {
         private readonly IContainer _ioc;
         private readonly TextBox _importURLTextBox;

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Utilities
@@ -38,6 +39,21 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
                 { }
             while (true);
         }
+
+        public static async Task<System.IO.Stream> OpenStreamAsync(this Path path, System.IO.FileMode fileMode, CancellationToken token = default)
+        {
+            do try
+                {
+                    token.ThrowIfCancellationRequested();
+                    return System.IO.File.Open(path.FullPath, fileMode);
+                }
+                catch (System.IO.IOException)
+                {
+                    await Task.Delay(500, token);
+                }
+            while (true);
+        }
+
 
         /// 
         /// <summary>

@@ -1,4 +1,5 @@
-﻿using Avalonia.Media;
+﻿using Avalonia.Controls;
+using Avalonia.Media;
 using Avalonia.Media.Imaging;
 using Avalonia.Threading;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
@@ -80,15 +81,23 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
         {
             if (!Card.IsCached)
                 await new CacheVerb().AddCachedImageAsync(Card);
-            await using (var imageStream = await Card.GetImageStreamAsync())
-                return imageFunction?.Invoke(imageStream);
+
+            try
+            {
+                await using (var imageStream = await Card.GetImageStreamAsync())
+                    return new Bitmap(imageStream);
+                    // return imageFunction(imageStream);
+            } catch (Exception ex)
+            {
+                return null;
+            }
         }
 
         public async Task<IImage> LoadImageAsync() => await _imageSource;
 
         internal void SubscribeOnImageLoaded(Action action)
         {
-            _imageSource.OnChanged = () => Dispatcher.UIThread.InvokeAsync(action);
+            _imageSource.OnChanged = async () => await Dispatcher.UIThread.InvokeAsync(action);
         }
         internal void SubscribeOnImageLoaded(Task action)
         {

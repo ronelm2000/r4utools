@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
@@ -27,11 +28,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
         public async Task Export(R4UDeck deck, IExportInfo info)
         {
             Log.Information("Exporting as Deck JSON.");
-            var jsonFilename = Path.CreateDirectory(info.Destination).Combine($"deck_{deck.Name.AsFileNameFriendly()}.json");
-            await Export(deck, info, jsonFilename);
+            var jsonFilename = Fluent.IO.Path.CreateDirectory(info.Destination).Combine($"deck_{deck.Name.AsFileNameFriendly()}.json");
+            await Export(deck, info, () => jsonFilename.OpenStreamAsync(System.IO.FileMode.Create));
+
+            Log.Information($"Done: {jsonFilename.FullPath}");
+
+            if (!String.IsNullOrWhiteSpace(info?.OutCommand))
+                await ExecuteCommandAsync(info.OutCommand, jsonFilename);
         }
 
-        public async Task Export(R4UDeck deck, IExportInfo info, Path jsonFilename)
+        public async Task Export(R4UDeck deck, IExportInfo info, Func<Task<System.IO.Stream>> streamFunction, CancellationToken token = default)
         {
             var simplifiedDeck = new
             {
@@ -40,13 +46,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Exporters
                 Ratios = deck.AsSimpleDictionary()
             };
 
-            await using (var stream = jsonFilename.OpenStream(System.IO.FileMode.Create))
-                await JsonSerializer.SerializeAsync(stream, simplifiedDeck, options: _defaultOptions);
-
-            Log.Information($"Done: {jsonFilename.FullPath}");
-
-            if (!String.IsNullOrWhiteSpace(info?.OutCommand))
-                await ExecuteCommandAsync(info.OutCommand, jsonFilename);
+            await using (var stream = await streamFunction().WaitAsync(token))
+                await JsonSerializer.SerializeAsync(stream, simplifiedDeck, _defaultOptions, token);
         }
 
         private async Task ExecuteCommandAsync(string outCommand, Path jsonFilename)

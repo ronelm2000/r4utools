@@ -9,6 +9,29 @@
       d:DataContext="{x:Static dd:DesignData.CardInfoDialogModel}"
       x:Class="Montage.RebirthForYou.Tools.GUI.Dialogs.CardInfoDialog"
       Title="Card Info">
+
+  <Window.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.ThemeDictionaries>
+        <ResourceDictionary x:Key='Light'>
+          <SolidColorBrush x:Key='BBTitleBorder'>#EEEEEE</SolidColorBrush>
+          <SolidColorBrush x:Key='BBNameBorder'>#909090</SolidColorBrush>
+          <SolidColorBrush x:Key='BBStatsBorder'>#B0B0B0</SolidColorBrush>
+          <SolidColorBrush x:Key='BBEffectBorder'>#D0D0D0</SolidColorBrush>
+          <SolidColorBrush x:Key='ForegroundBrush'>Black</SolidColorBrush>
+        </ResourceDictionary>
+        <ResourceDictionary x:Key='Dark'>
+          <SolidColorBrush x:Key='BBTitleBorder'>#1D201F</SolidColorBrush>
+          <SolidColorBrush x:Key='BBNameBorder'>#1F4247</SolidColorBrush>
+          <SolidColorBrush x:Key='BBStatsBorder'>#387780</SolidColorBrush>
+          <SolidColorBrush x:Key='BBEffectBorder'>#193439</SolidColorBrush>
+          <SolidColorBrush x:Key='ForegroundBrush'>White</SolidColorBrush>
+        </ResourceDictionary>
+      </ResourceDictionary.ThemeDictionaries>
+    </ResourceDictionary>
+  </Window.Resources>
+
+
   <Border Padding="4">
     <Grid   ColumnDefinitions="70*,30*"
             RowDefinitions="Auto,Auto,Auto,Auto"  Margin="4">
@@ -17,7 +40,7 @@
                 Grid.Row="0"
                 Grid.Column="0"
                 Grid.ColumnSpan="2"
-                Background="#EEEEEE"
+                Background="{DynamicResource BBTitleBorder}"
                 >
         <StackPanel>
           <TextBlock Text="{Binding Card.Name.EN}"
@@ -49,7 +72,7 @@
                     Margin="1"
                     Grid.Row="0"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="Cost"
                    HorizontalAlignment="Center"
@@ -60,7 +83,7 @@
                     Margin="1"
                     Grid.Row="0"
                     Grid.Column="1"
-                    Background="#B0B0B0"
+                    Background="{DynamicResource BBStatsBorder}"
                     >
               <TextBlock Text="{Binding Card.Cost}"
                    HorizontalAlignment="Center"
@@ -71,7 +94,7 @@
                     Margin="1"
                     Grid.Row="1"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="ATK"
                    HorizontalAlignment="Center"
@@ -82,7 +105,7 @@
                     Margin="1"
                     Grid.Row="1"
                     Grid.Column="1"
-                    Background="#B0B0B0"
+                    Background="{DynamicResource BBStatsBorder}"
                     >
               <TextBlock Text="{Binding Card.ATK}"
                    HorizontalAlignment="Center"
@@ -93,7 +116,7 @@
                     Margin="1"
                     Grid.Row="2"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="DEF"
                          HorizontalAlignment="Center"
@@ -104,7 +127,7 @@
                     Margin="1"
                     Grid.Row="2"
                     Grid.Column="1"
-                    Background="#B0B0B0"
+                    Background="{DynamicResource BBStatsBorder}"
                     >
               <TextBlock Text="{Binding Card.DEF}"
                    HorizontalAlignment="Center"
@@ -115,7 +138,7 @@
                     Margin="1"
                     Grid.Row="3"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="Set"
                          HorizontalAlignment="Center"
@@ -125,7 +148,7 @@
                     Margin="1"
                     Grid.Row="3"
                     Grid.Column="1"
-                    Background="#B0B0B0"
+                    Background="{DynamicResource BBStatsBorder}"
                     >
               <TextBlock Text="{Binding Card.Set.Name}"
                    HorizontalAlignment="Center"
@@ -135,7 +158,7 @@
                     Margin="1"
                     Grid.Row="4"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="Traits"
                          HorizontalAlignment="Center"
@@ -146,7 +169,7 @@
                     Margin="1"
                     Grid.Row="4"
                     Grid.Column="1"
-                    Background="#B0B0B0"
+                    Background="{DynamicResource BBStatsBorder}"
                     >
               <TextBlock Text="{Binding CardTraits}"
                    HorizontalAlignment="Center"
@@ -157,7 +180,7 @@
                     Margin="1"
                     Grid.Row="5"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     IsVisible="{Binding HasFlavor}"
                     >
               <TextBlock Text="Flavor"
@@ -169,7 +192,7 @@
                     Margin="1"
                     Grid.Row="5"
                     Grid.Column="1"
-                    Background="#D0D0D0"
+                    Background="{DynamicResource BBEffectBorder}"
                     IsVisible="{Binding HasFlavor}"
                     >
               <TextBlock Text="{Binding CardFlavor}"
@@ -185,7 +208,7 @@
                     Margin="1"
                     Grid.Row="6"
                     Grid.Column="0"
-                    Background="#909090"
+                    Background="{DynamicResource BBNameBorder}"
                     >
               <TextBlock Text="Effects"
                          HorizontalAlignment="Center"
@@ -196,7 +219,7 @@
                     Margin="1"
                     Grid.Row="6"
                     Grid.Column="1"
-                    Background="#D0D0D0"
+                    Background="{DynamicResource BBEffectBorder}"
                     >
               <TextBlock Text="{Binding CardEffects}"
                          TextWrapping="Wrap"

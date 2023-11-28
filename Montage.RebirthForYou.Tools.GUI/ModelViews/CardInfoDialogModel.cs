@@ -1,6 +1,5 @@
 ﻿using Avalonia.Media;
 using Avalonia.Media.Imaging;
-using MessageBox.Avalonia.ViewModels;
 using Montage.RebirthForYou.Tools.CLI.CLI;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Utilities;

@@ -7,6 +7,49 @@
         x:Class="Montage.RebirthForYou.Tools.GUI.MainWindow"
         Title="R4U Deck Builder (deckbuilder4u)"
         >
+
+  <Window.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.ThemeDictionaries>
+        <ResourceDictionary x:Key='Light'>
+          <LinearGradientBrush x:Key='BBDatabaseCards' StartPoint='0%,0%' EndPoint='0%,100%' Opacity='0.8'>
+            <GradientStop Offset="0" Color="#D0D0D0" />
+            <GradientStop Offset="1" Color="#909090" />
+          </LinearGradientBrush>
+
+          <LinearGradientBrush x:Key="BBBDatabaseCards" StartPoint="0%,0%" EndPoint="0%,100%">
+            <GradientStop Offset="1" Color="#909090" />
+            <GradientStop Offset="0" Color="#D0D0D0" />
+          </LinearGradientBrush>
+
+          <SolidColorBrush x:Key='BBTitleBorder'>#EEEEEE</SolidColorBrush>
+          <SolidColorBrush x:Key='BBNameBorder'>#909090</SolidColorBrush>
+          <SolidColorBrush x:Key='BBStatsBorder'>#B0B0B0</SolidColorBrush>
+          <SolidColorBrush x:Key='BBEffectBorder'>#D0D0D0</SolidColorBrush>
+          <SolidColorBrush x:Key='ForegroundBrush'>Black</SolidColorBrush>
+        </ResourceDictionary>
+        <ResourceDictionary x:Key='Dark'>
+          <LinearGradientBrush x:Key='BBDatabaseCards' StartPoint='0%,0%' EndPoint='0%,100%' Opacity='0.8'>
+            <GradientStop Offset="0" Color="#193439" />
+            <GradientStop Offset="1" Color="#1F4247" />
+          </LinearGradientBrush>
+
+          <LinearGradientBrush x:Key="BBBDatabaseCards" StartPoint="0%,0%" EndPoint="0%,100%">
+            <GradientStop Offset="1" Color="#1F4247" />
+            <GradientStop Offset="0" Color="#193439" />
+          </LinearGradientBrush>
+          
+          <SolidColorBrush x:Key='BBTitleBorder'>#1D201F</SolidColorBrush>
+          <SolidColorBrush x:Key='BBNameBorder'>#1F4247</SolidColorBrush>
+          <SolidColorBrush x:Key='BBStatsBorder'>#387780</SolidColorBrush>
+          <SolidColorBrush x:Key='BBEffectBorder'>#193439</SolidColorBrush>
+          <SolidColorBrush x:Key='ForegroundBrush'>White</SolidColorBrush>
+        </ResourceDictionary>
+      </ResourceDictionary.ThemeDictionaries>
+    </ResourceDictionary>
+  </Window.Resources>
+  
+  
   <DockPanel>
     <!-- Main Menu -->
     <Menu DockPanel.Dock="Top">
@@ -62,7 +105,7 @@
                       >
             <ItemsRepeater Name="decklistRepeater"
                            Background="Transparent"
-                           Items="{Binding DeckResults}">
+                           ItemsSource="{Binding DeckResults}">
               <ItemsRepeater.ItemTemplate>
                 <DataTemplate>
                   <StackPanel>
@@ -107,19 +150,9 @@
                   Grid.Column="1"
                   Grid.ColumnSpan="2"
                   Grid.RowSpan="3"
-                >
-          <Border.Background>
-            <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
-              <GradientStop Offset="0" Color="#D0D0D0" />
-              <GradientStop Offset="1" Color="#909090" />
-            </LinearGradientBrush>
-          </Border.Background>
-          <Border.BorderBrush>
-            <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
-              <GradientStop Offset="1" Color="#909090" />
-              <GradientStop Offset="0" Color="#D0D0D0" />
-            </LinearGradientBrush>
-          </Border.BorderBrush>
+                  Background="{DynamicResource BBDatabaseCards}"
+                  BorderBrush="{DynamicResource BBBDatabaseCards}"
+                  >
 
           <ScrollViewer Name="databaseScroller"
                         HorizontalScrollBarVisibility="Auto"
@@ -127,15 +160,17 @@
                       >
             <ItemsRepeater Name="databaseRepeater"
                             Background="Transparent"
-                            Items="{Binding DatabaseResults}"
+                            ItemsSource="{Binding DatabaseResults}"
                          >
               <ItemsRepeater.ItemTemplate>
                 <DataTemplate>
                   <Border   Padding="5"
                             Margin="2"
-                            PointerEnter="Item_OnPointerEnter"
-                            PointerLeave="Item_OnPointerLeave"
+                            PointerEntered="Item_OnPointerEnter"
+                            PointerExited="Item_OnPointerLeave"
                             PointerReleased="Item_OnPointerReleased"
+                            Background="{DynamicResource BBDatabaseCards}"
+                            BorderBrush="{DynamicResource BBBDatabaseCards}"
                           >
                     <ToolTip.Tip>
                       <StackPanel MaxWidth="300">
@@ -144,19 +179,6 @@
                         <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
                       </StackPanel>
                     </ToolTip.Tip>
-
-                    <Border.Background>
-                      <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%" Opacity="0.8">
-                        <GradientStop Offset="0" Color="#D0D0D0" />
-                        <GradientStop Offset="1" Color="#909090" />
-                      </LinearGradientBrush>
-                    </Border.Background>
-                    <Border.BorderBrush>
-                      <LinearGradientBrush StartPoint="0%,0%" EndPoint="0%,100%">
-                        <GradientStop Offset="1" Color="#909090" />
-                        <GradientStop Offset="0" Color="#D0D0D0" />
-                      </LinearGradientBrush>
-                    </Border.BorderBrush>
 
                     <Border.Styles>
                       <Style Selector="Border.Box:PointerPressed">
