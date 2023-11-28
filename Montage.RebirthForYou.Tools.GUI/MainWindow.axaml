@@ -26,6 +26,7 @@
           <SolidColorBrush x:Key='BBNameBorder'>#909090</SolidColorBrush>
           <SolidColorBrush x:Key='BBStatsBorder'>#B0B0B0</SolidColorBrush>
           <SolidColorBrush x:Key='BBEffectBorder'>#D0D0D0</SolidColorBrush>
+          <SolidColorBrush x:Key='BBLoading'>White</SolidColorBrush>
           <SolidColorBrush x:Key='ForegroundBrush'>Black</SolidColorBrush>
         </ResourceDictionary>
         <ResourceDictionary x:Key='Dark'>
@@ -43,6 +44,7 @@
           <SolidColorBrush x:Key='BBNameBorder'>#1F4247</SolidColorBrush>
           <SolidColorBrush x:Key='BBStatsBorder'>#387780</SolidColorBrush>
           <SolidColorBrush x:Key='BBEffectBorder'>#193439</SolidColorBrush>
+          <SolidColorBrush x:Key='BBLoading'>#31212B</SolidColorBrush>
           <SolidColorBrush x:Key='ForegroundBrush'>White</SolidColorBrush>
         </ResourceDictionary>
       </ResourceDictionary.ThemeDictionaries>
@@ -293,7 +295,7 @@
       <Button Content="SpansCol1-2Row1-2" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
       -->
       </Grid>
-      <Border Name="loadingBox" Background="White" MinWidth="600" MaxWidth="800" Height="60" Padding="2" IsVisible="true">
+      <Border Name="loadingBox" Background="{DynamicResource BBLoading}" MinWidth="600" MaxWidth="800" Height="60" Padding="2" IsVisible="true">
         <StackPanel VerticalAlignment="Center">
           <TextBlock  HorizontalAlignment="Center"
                       TextWrapping="Wrap" 
