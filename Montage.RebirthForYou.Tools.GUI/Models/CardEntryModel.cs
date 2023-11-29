@@ -87,7 +87,7 @@ namespace Montage.RebirthForYou.Tools.GUI.Models
                 await using (var imageStream = await Card.GetImageStreamAsync())
                     return new Bitmap(imageStream);
                     // return imageFunction(imageStream);
-            } catch (Exception ex)
+            } catch (Exception)
             {
                 return null;
             }

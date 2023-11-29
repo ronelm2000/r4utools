@@ -1,0 +1,1085 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "FG/001T-001",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-001S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_001s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_001snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ritsuka Fujimaru",
+        "JP": "\u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5]:At the end of this character\u0027s attack, choose a character from your waiting room, and you may put it onto your entry area.\n([Skill Showcase Level 5]:Active if there are 5 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF15\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T",
+        "Name": "Trial Deck \"Fate / Grand Carnival\""
+      }
+    },
+    {
+      "Serial": "FG/001T-002",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3046\u308F\u3056\u308F\u3056\u5468\u56DE\u306B\u9023\u308C\u3066\u884C\u304F\u5FC5\u8981\u304C\u306A\u304B\u3063\u305F\u304B\u3089\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bond Level Max, Ritsuka Fujimaru",
+        "JP": "\u7D46\u30AB\u30F3\u30B9\u30C8 \u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3082\u3046\u308F\u3056\u308F\u3056\u5468\u56DE\u306B\u9023\u308C\u3066\u884C\u304F\u5FC5\u8981\u304C\u306A\u304B\u3063\u305F\u304B\u3089\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-003",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-003S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_003s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001T-003SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_003snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mash Kyrielight",
+        "JP": "\u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][1/Turn]:When this character retires an opponent\u0027s character, [Cost (2)], choose 1 of your members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-004",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-004S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Serious Personality, Mash Kyrielight",
+        "JP": "\u771F\u9762\u76EE\u306A\u6027\u683C \u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-005",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4F55\u304C\u7537\u88C5\u306E\u9E97\u4EBA\u3060\u3002\u3053\u306E\u7834\u5EC9\u6065\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Excalibur, Artoria Pendragon",
+        "JP": "\u7D04\u675F\u3055\u308C\u305F\u52DD\u5229\u306E\u5263 \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u4F55\u304C\u7537\u88C5\u306E\u9E97\u4EBA\u3060\u3002\u3053\u306E\u7834\u5EC9\u6065\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][1/Turn]:[[Rest] 3 of your partners], and this character gets \u002B2/\u00B10 until end of turn. If you have 3 or more cards in your retire area, choose 2 of your opponent\u0027s members, and put them into the waiting room.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-006",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-006S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artoria Pendragon",
+        "JP": "\u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT][Waiting room]:[Put a character with [Spark] from your hand into the waiting room], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-007",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u7D20\u6674\u3089\u3057\u3044\u3002\u62CD\u624B\u3067\u3059\u3001\u30D1\u30C1\u30D1\u30C1\u30D1\u30C1"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artoria Pendragon (Lily)",
+        "JP": "\u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3\u3014\u30EA\u30EA\u30A3\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u2026\u2026\u7D20\u6674\u3089\u3057\u3044\u3002\u62CD\u624B\u3067\u3059\u3001\u30D1\u30C1\u30D1\u30C1\u30D1\u30C1"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-008",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306A\u305F\u306F\u304D\u3063\u3068\u3001\u3053\u306E\u8857\u306E\u30CA\u30F3\u30D0\u30FC1\u306B\u306A\u308A\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Girl Knight, Artoria Pendragon (Lily)",
+        "JP": "\u5C11\u5973\u9A0E\u58EB \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3\u3014\u30EA\u30EA\u30A3\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3042\u306A\u305F\u306F\u304D\u3063\u3068\u3001\u3053\u306E\u8857\u306E\u30CA\u30F3\u30D0\u30FC1\u306B\u306A\u308A\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are 4 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-009",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307E\u30FC\u304B\u305B\u3066\u304A\u304F\u304C\u3088\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nero Claudius",
+        "JP": "\u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u307E\u30FC\u304B\u305B\u3066\u304A\u304F\u304C\u3088\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have 2 or more other [Rest] members, this character cannot be chosen by your opponent\u0027s members.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u4ED6\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF12\u679A\u4EE5\u4E0A\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-010",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u826F\u304B\u3063\u305F\u308F\u306D\u2026\u2026\u3082\u3046\u4E00\u4EBA\u306E\u79C1"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jeanne d\u0027Arc",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u826F\u304B\u3063\u305F\u308F\u306D\u2026\u2026\u3082\u3046\u4E00\u4EBA\u306E\u79C1"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character attacks, put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards without [Spark], [Blocker], or [Cancel] from among them and your members, put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3082\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3082\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3082\u6301\u305F\u306A\u3044\u30AB\u30FC\u30C9\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-011",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3053\u306E\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015\u304C\u8A31\u3055\u306A\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jeanne d\u0027Arc (Alter)",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3053\u306E\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015\u304C\u8A31\u3055\u306A\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose 1 of your entries, and put it on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-012",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3001\u672C\u5F53\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jaguar Man",
+        "JP": "\u30B8\u30E3\u30AC\u30FC\u30DE\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 6,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3042\u3001\u672C\u5F53\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-013",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u65E5\u306F\u3001\u30A8\u30EC\u3061\u3083\u3093\u3068\u306E\u30B3\u30E9\u30DC\u4F01\u753B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_013s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001T-013SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_013snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Osakabehime",
+        "JP": "\u5211\u90E8\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u4ECA\u65E5\u306F\u3001\u30A8\u30EC\u3061\u3083\u3093\u3068\u306E\u30B3\u30E9\u30DC\u4F01\u753B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-014",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u914D\u4FE1\u5973\u738B\u6C7A\u5B9A\u6226\u2015\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_014s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001T-014SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_014snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ereshkigal",
+        "JP": "\u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u914D\u4FE1\u5973\u738B\u6C7A\u5B9A\u6226\u2015\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-015",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u9152\u5451\u7AE5\u5B50\u300C\u3042\u3089\u3089\u3001\u66B4\u529B\u3067\u306F\u4F55\u3082\u89E3\u6C7A\u3067\u304D\u3072\u3093\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ibaraki-Douji",
+        "JP": "\u8328\u6728\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u9152\u5451\u7AE5\u5B50\u300C\u3042\u3089\u3089\u3001\u66B4\u529B\u3067\u306F\u4F55\u3082\u89E3\u6C7A\u3067\u304D\u3072\u3093\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of the following.\ni. This character gets \u002B2/\u00B10 until end of turn.\nii. Choose 1 of your opponent\u0027s members or set Rebirths, and it loses all of its [CONT] until end of turn. (It also loses [Blocker], [Cancel], and [Growing])",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\u2171\uFF0E\u76F8\u624B\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308BRe\u30D0\u30FC\u30B9\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u306F\u3010\u6C38\u3011\u3092\u3059\u3079\u3066\u5931\u3046\u3002(\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3068\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3068\u3010\u306E\u3073\u3057\u308D\u3011\u3082\u5931\u308F\u308C\u308B)"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-016",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-016S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3046\u3082\u521D\u3081\u307E\u3057\u3066\uFF5E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sitonai",
+        "JP": "\u30B7\u30C8\u30CA\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3069\u3046\u3082\u521D\u3081\u307E\u3057\u3066\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-017",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-017S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3089\u3089\u3001\u66B4\u529B\u3067\u306F\u4F55\u3082\u89E3\u6C7A\u3067\u304D\u3072\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shuten-Douji",
+        "JP": "\u9152\u5451\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u3089\u3089\u3001\u66B4\u529B\u3067\u306F\u4F55\u3082\u89E3\u6C7A\u3067\u304D\u3072\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s entries, and that character gets -3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-018",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-018S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09 \u300C\u307E\u3055\u304B\u3042\u3093\u306A\u60B2\u3057\u3044\u77E5\u3089\u305B\u304C\u5165\u3063\u3066\u304F\u308B\u3068\u306F\u3001\u3053\u306E\u6642\u306F\u601D\u3044\u3082\u3088\u308A\u307E\u305B\u3093\u3067\u3057\u305F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Golden Fruits",
+        "JP": "\u9EC4\u91D1\u306E\u679C\u5B9F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09 \u300C\u307E\u3055\u304B\u3042\u3093\u306A\u60B2\u3057\u3044\u77E5\u3089\u305B\u304C\u5165\u3063\u3066\u304F\u308B\u3068\u306F\u3001\u3053\u306E\u6642\u306F\u601D\u3044\u3082\u3088\u308A\u307E\u305B\u3093\u3067\u3057\u305F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-019",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-019S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Come! Follow me!",
+        "JP": "\u3055\u3042\uFF01\u79C1\u306B\u3064\u3044\u3066\u304D\u306A\u3055\u3044\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P001",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P001S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ritsuka Fujimaru",
+        "JP": "\u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P002",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P002S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mash Kyrielight",
+        "JP": "\u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P003",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P003S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artoria Pendragon",
+        "JP": "\u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P004",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P004S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nero Claudius",
+        "JP": "\u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P005",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P005S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jeanne d\u0027Arc (Alter)",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P006",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P006S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Osakabehime",
+        "JP": "\u5211\u90E8\u59EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    },
+    {
+      "Serial": "FG/001T-P007",
+      "Alternates": [
+        {
+          "Serial": "FG/001T-P007S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ereshkigal",
+        "JP": "\u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGTD/fg_001t_s007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001T"
+      }
+    }
+  ]
+}

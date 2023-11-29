@@ -1,0 +1,4797 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "FG/001B-001",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-001S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Master, Ritsuka Fujimaru",
+        "JP": "\u30DE\u30B9\u30BF\u30FC \u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose 1 of your members, and put it into the waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B",
+        "Name": "Booster Pack \"Fate / Grand Carnival\""
+      }
+    },
+    {
+      "Serial": "FG/001B-002",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-002S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8\u300C\u30AA\u30EA\u30AA\u30F3\u3055\u3093\u306F\u53C2\u52A0\u306A\u3055\u3089\u306A\u3044\u306E\u3067\u3059\u304B\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Heroic Spirit Limitation Grand Festival Olympia, Ritsuka Fujimaru",
+        "JP": "\u82F1\u970A\u9650\u754C\u5927\u796D\u30AA\u30EA\u30F3\u30D4\u30A2 \u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8\u300C\u30AA\u30EA\u30AA\u30F3\u3055\u3093\u306F\u53C2\u52A0\u306A\u3055\u3089\u306A\u3044\u306E\u3067\u3059\u304B\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-003",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-003S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306F\u30DE\u30B9\u30BF\u30FC\u5931\u683C\u3060\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Harsh Reality, Ritsuka Fujimaru",
+        "JP": "\u53B3\u3057\u3044\u73FE\u5B9F \u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u79C1\u306F\u30DE\u30B9\u30BF\u30FC\u5931\u683C\u3060\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], choose a character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-004",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-004S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_004s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001B-004SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_004sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kind-hearted Girl, Mash Kyrielight",
+        "JP": "\u5FC3\u512A\u3057\u3044\u5C11\u5973 \u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (2)], and if you have more cards in your retire area than your opponent, choose a character from your waiting room, and put it onto your member area. After you put, if you have 3 or more members, choose 1 of your members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u5F8C\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-005",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-005S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AA\u30EA\u30F3\u30D4\u30A2\u3067\u3059\u304B\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Heroic Spirit Limitation Grand Festival Olympia, Mash Kyrielight",
+        "JP": "\u82F1\u970A\u9650\u754C\u5927\u796D\u30AA\u30EA\u30F3\u30D4\u30A2 \u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AA\u30EA\u30F3\u30D4\u30A2\u3067\u3059\u304B\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-006",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-006S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30AA\u30EA\u30AA\u30F3\u3055\u3093\u306F\u53C2\u52A0\u306A\u3055\u3089\u306A\u3044\u306E\u3067\u3059\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Commentary, Mash Kyrielight",
+        "JP": "\u89E3\u8AAC \u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30AA\u30EA\u30AA\u30F3\u3055\u3093\u306F\u53C2\u52A0\u306A\u3055\u3089\u306A\u3044\u306E\u3067\u3059\u304B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 6]:[Put a card from your hand on the bottom of your deck], choose 1 of your members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-007",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-007S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_007s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001B-007SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_007sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "King of Knights, Artoria Pendragon",
+        "JP": "\u9A0E\u58EB\u738B \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:This character gets \u002B1/\u002B1 until end of turn for every 2 cards on your energy area. If you have 5 or more energy, choose 1 of your opponent\u0027s members, and put it onto your opponent\u0027s energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\uFF12\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-008",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-008S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u9A0E\u58EB\u738B\u306E\u540D\u306B\u304B\u3051\u3066\uFF01\u306F\u3080 \u6211\u304C\u8ECD\u306B\u52DD\u5229\u3092\u7D04\u675F\u3059\u308B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Final Battle, Artoria Pendragon",
+        "JP": "\u6700\u7D42\u6C7A\u6226 \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u9A0E\u58EB\u738B\u306E\u540D\u306B\u304B\u3051\u3066\uFF01\u306F\u3080 \u6211\u304C\u8ECD\u306B\u52DD\u5229\u3092\u7D04\u675F\u3059\u308B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 5][1/Turn]:When this character retires an opponent\u0027s character, put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more \u0022Artoria\u0022 from among them and your members, choose 1 of your members, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u300A\u30A2\u30EB\u30C8\u30EA\u30A2\u300B\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-009",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-009S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30AC\u30A6\u30A7\u30A4\u30F3\u537F\u2026(\u3082\u3050)\u5F7C\u3082\u307E\u305F(\u3082\u3050)\u738B\u306E\u5EA7\u306B(\u3082\u3050)\u76F8\u5FDC\u3057\u3044\u3068(\u3082\u3050)\u547C\u3070\u308C\u305F\u9A0E\u58EB\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hungry King, Artoria Pendragon",
+        "JP": "\u8179\u30DA\u30B3\u738B \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30AC\u30A6\u30A7\u30A4\u30F3\u537F\u2026(\u3082\u3050)\u5F7C\u3082\u307E\u305F(\u3082\u3050)\u738B\u306E\u5EA7\u306B(\u3082\u3050)\u76F8\u5FDC\u3057\u3044\u3068(\u3082\u3050)\u547C\u3070\u308C\u305F\u9A0E\u58EB\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Cost (3)], choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-010",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-010S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Knight Princess, Artoria Pendragon (Lily)",
+        "JP": "\u9A0E\u58EB\u59EB \u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3\u3014\u30EA\u30EA\u30A3\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-011",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-011S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_011s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001B-011SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_011sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Almighty Self-Indulgent Emperor, Nero Claudius",
+        "JP": "\u4E07\u80FD\u30EF\u30AC\u30DE\u30DE\u7687\u5E1D \u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3044\u3056\uFF01\u6211\u304C\u5287\u5834\u306B\u8594\u8587\u306E\u795D\u798F\u3092\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 7][1/Turn]:When this character attacks, [choose a card from your hand, and put it into the waiting room], and this attack becomes a partner attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-012",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-012S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u6226\u58EB\u306E\u52DD\u8CA0\u3068\u3044\u3048\u3070\u30AA\u30EA\u30F3\u30D4\u30A2\u3067\u3042\u308B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Olympian Gym Clothes, Nero Claudius",
+        "JP": "\u30AA\u30EA\u30F3\u30D4\u30A2\u306E\u4F53\u64CD\u670D \u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u6226\u58EB\u306E\u52DD\u8CA0\u3068\u3044\u3048\u3070\u30AA\u30EA\u30F3\u30D4\u30A2\u3067\u3042\u308B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Until end of turn, when this character is put onto your retire area by your opponent\u0027s attack, [choose a card from your hand, and put it into the waiting room, and put this character onto your entry area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u3067\u30EA\u30BF\u30A4\u30A2\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Retire)[Skill Showcase Level 5]:[Cost (4)], choose 1 of your entries, and exchange its position with this character. At the end of this turn, put this character into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30EA\u30BF\u30A4\u30A2\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-013",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-013S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u8A71\u306F\u805E\u304B\u305B\u3066\u3082\u3089\u3063\u305F!!"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Veteran Heroic Spirit, Nero Claudius",
+        "JP": "\u6B74\u6226\u306E\u82F1\u970A \u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8A71\u306F\u805E\u304B\u305B\u3066\u3082\u3089\u3063\u305F!!"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-014",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-014S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gaius Julius Caesar",
+        "JP": "\u30AC\u30A4\u30A6\u30B9\uFF65\u30E6\u30EA\u30A6\u30B9\uFF65\u30AB\u30A8\u30B5\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to 2 allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-015",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-015S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3042\u5606\u304B\u308F\u3057\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gilles de Rais",
+        "JP": "\u30B8\u30EB\uFF65\u30C9\uFF65\u30EC\u30A7"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3042\u3042\u5606\u304B\u308F\u3057\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Cost (2)], choose a \u0022Jeanne\u0022 from your waiting room, and you may put it onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u30B8\u30E3\u30F3\u30CC\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-016",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-016S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chevalier d\u0027Eon",
+        "JP": "\u30B7\u30E5\u30F4\u30A1\u30EA\u30A8\uFF65\u30C7\u30AA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:Your opponent\u0027s entry gets -2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-017",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-017S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gilgamesh",
+        "JP": "\u30AE\u30EB\u30AC\u30E1\u30C3\u30B7\u30E5"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, draw a card, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-018",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-018S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6C5D\u3082\u53C2\u52A0\u3057\u3066\u3044\u305F\u306E\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Atalanta",
+        "JP": "\u30A2\u30BF\u30E9\u30F3\u30C6"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u6C5D\u3082\u53C2\u52A0\u3057\u3066\u3044\u305F\u306E\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-019",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-019S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "C\u00FA Chulainn (Lancer)",
+        "JP": "\u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\uFF08\u30E9\u30F3\u30B5\u30FC\uFF09"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3042\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your retire area by your opponent\u0027s attack, choose 1 of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u3067\u30EA\u30BF\u30A4\u30A2\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-020",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-020S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3046\u3057\u3066\u79C1\u304C\u30A2\u30CA\u30BF\u306E\u99AC\u306B!?"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Elizabeth Bathory",
+        "JP": "\u30A8\u30EA\u30B6\u30D9\u30FC\u30C8\uFF65\u30D0\u30FC\u30C8\u30EA\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3069\u3046\u3057\u3066\u79C1\u304C\u30A2\u30CA\u30BF\u306E\u99AC\u306B!?"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT][Waiting room][Skill Showcase Level 5]:[[Rest] 2 of your partners], and put this character onto your entry area. During this character\u0027s next attack this turn, this character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF12\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-021",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-021S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09\u300C\u901A\u79F0\u300E\u9ED2\u9AED\u300F\u3055\u3093\u3067\u3059\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Edward Teach",
+        "JP": "\u30A8\u30C9\u30EF\u30FC\u30C9\u30FB\u30C6\u30A3\u30FC\u30C1"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09\u300C\u901A\u79F0\u300E\u9ED2\u9AED\u300F\u3055\u3093\u3067\u3059\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s DEF 4 or greater entries, and until end of turn, that character gets \u00B10/-1, and this character gets \u002B1/\u00B10.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089DEF\uFF14\u4EE5\u4E0A\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0D\uFF11\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-022",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-022S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mephistopheles",
+        "JP": "\u30E1\u30D5\u30A3\u30B9\u30C8\u30D5\u30A7\u30EC\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, choose 1 of your opponent\u0027s entries, and that character\u0027s ATK and DEF cannot increase or decrease until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306FATK\u3068DEF\u304C\u5897\u6E1B\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-023",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-023S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Zhuge Liang (Lord El-Melloi II)",
+        "JP": "\u8AF8\u845B\u5B54\u660E\u3014\u30A8\u30EB\u30E1\u30ED\u30A4\u2161\u4E16\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area, put the top card of your deck onto your energy area as [Rest], choose 1 of your entries, and that character gets \u002B2/\u002B2 until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-024",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-024S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Spartacus",
+        "JP": "\u30B9\u30D1\u30EB\u30BF\u30AF\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have 3 or more [Rest] partners, your opponent cannot set Rebirths other than from entry area until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3067\u304D\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-025",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-025S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kiyohime",
+        "JP": "\u6E05\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s energy, and during your opponent\u0027s next turn, that energy does not [Stand]. This character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-026",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-026S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saint, Jeanne d\u0027Arc",
+        "JP": "\u8056\u5973 \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo]:[Cost (3)], and draw a card. Put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards without [Spark], [Blocker], or [Cancel] from among them and your members, choose 2 of your members, and they cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3082\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3082\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3082\u6301\u305F\u306A\u3044\u30AB\u30FC\u30C9\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u3089\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-027",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-027S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u305D\u308C\u3053\u305D\u3042\u306E\u3044\u304B\u304C\u308F\u3057\u3044\u7279\u7570\u70B9\u306B\u3067\u3082\u884C\u304B\u306A\u3044\u3068\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Singularity of the Night, Jeanne d\u0027Arc",
+        "JP": "\u591C\u306E\u7279\u7570\u70B9 \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u305D\u308C\u3053\u305D\u3042\u306E\u3044\u304B\u304C\u308F\u3057\u3044\u7279\u7570\u70B9\u306B\u3067\u3082\u884C\u304B\u306A\u3044\u3068\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from your hand, choose 1 of your members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-028",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-028S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3055\u3042\u3001\u30C0\u30FC\u30EA\u30F3\u3001\u79C1\u305F\u3061\u306E\u611B\u306E\u5DE3\u3078\u5E30\u308A\u307E\u3057\u3087\u3046\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artemis",
+        "JP": "\u30A2\u30EB\u30C6\u30DF\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3055\u3042\u3001\u30C0\u30FC\u30EA\u30F3\u3001\u79C1\u305F\u3061\u306E\u611B\u306E\u5DE3\u3078\u5E30\u308A\u307E\u3057\u3087\u3046\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from your hand, this character gets \u002B4/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Hand)[Skill Showcase Level 7]:[Cost (1), and reveal this card], choose 1 of your \u0022Orion\u0022 entries, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u300A\u30AA\u30EA\u30AA\u30F3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-029",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-029S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3053\u306E\u9593\u306B\u4FFA\u306F\u30CA\u30F3\u30D1\u3084\u308A\u653E\u984C\u3068"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Orion",
+        "JP": "\u30AA\u30EA\u30AA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3053\u306E\u9593\u306B\u4FFA\u306F\u30CA\u30F3\u30D1\u3084\u308A\u653E\u984C\u3068"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT][Waiting room]:[Cost (2)], and if your entry\u0027s Cost is lower than your opponent\u0027s, put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u30B3\u30B9\u30C8\u304C\u76F8\u624B\u3088\u308A\u5C0F\u3055\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-030",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-030S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tamamo-no-Mae",
+        "JP": "\u7389\u85FB\u306E\u524D"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT][Entry/Member][ReCombo]:[Cost (1)], and put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards without [Spark], [Blocker], or [Cancel] from among them and your members, choose 1 of your entries, and that character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3082\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3082\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3082\u6301\u305F\u306A\u3044\u30AB\u30FC\u30C9\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-031",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-031S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u6D41\u77F3\u306F\u4E16\u754C\u3092\u80A1\u306B\u304B\u3051\u308B\u30D7\u30EC\u30B8\u30C7\u30F3\u30C6\u2606"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Four Heavenly Kings: Man-Manipulating Good Wife-Type Wicked Wench, Tamamo-no-Mae",
+        "JP": "\u56DB\u5929\u738B \u7537\u8EE2\u304C\u3057\u306E\u826F\u59BB\u7CFB\u6BD2\u5A66 \u7389\u85FB\u306E\u524D"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6D41\u77F3\u306F\u4E16\u754C\u3092\u80A1\u306B\u304B\u3051\u308B\u30D7\u30EC\u30B8\u30C7\u30F3\u30C6\u2606"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-032",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-032S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3053\u304C\u6226\u5834\u306A\u3089\u3042\u306A\u305F\u306F\u6B7B\u3093\u3067\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Woman With a Scent Similar to Moolah, Tamamo-no-Mae",
+        "JP": "\u30C9\u30EB\u30BB\u30F3\u30C8\u3068\u4F3C\u305F\u5302\u3044\u306E\u3059\u308B\u5973 \u7389\u85FB\u306E\u524D"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3053\u3053\u304C\u6226\u5834\u306A\u3089\u3042\u306A\u305F\u306F\u6B7B\u3093\u3067\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):At the start of your main phase, you may put this character onto your energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-033",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-033S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30C3\u30C1\u58F2\u308A\u306E\u5C11\u5973\u3088\u308A\u3082\u5E78\u305B\u3060\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nursery Rhyme",
+        "JP": "\u30CA\u30FC\u30B5\u30EA\u30FC\uFF65\u30E9\u30A4\u30E0"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30DE\u30C3\u30C1\u58F2\u308A\u306E\u5C11\u5973\u3088\u308A\u3082\u5E78\u305B\u3060\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 4]:[Cost (1), and put this character onto your energy area as [Rest]], choose 1 of your opponent\u0027s members, and put it onto the energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-034",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-034S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u4E00\u7DD2\u306B\u3044\u3089\u308C\u308B\u3093\u3060\u3082\u306E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jack the Ripper",
+        "JP": "\u30B8\u30E3\u30C3\u30AF\uFF65\u30B6\uFF65\u30EA\u30C3\u30D1\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307F\u3093\u306A\u4E00\u7DD2\u306B\u3044\u3089\u308C\u308B\u3093\u3060\u3082\u306E"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][1/Turn]:When this character attacks, put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards with [Blocker] or [Cancel] from among them and your members, choose a character from your waiting room, return it to your hand, and this character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-035",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-035S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mordred",
+        "JP": "\u30E2\u30FC\u30C9\u30EC\u30C3\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4][1/Turn]:When this character retires an opponent\u0027s character, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-036",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-036S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u78BA\u304B\u306B\u6211\u304C\u4F53\u8EAF\u306F\u84B8\u6C17\u4ED5\u639B\u3051\u306E\u93A7"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Charles Babbage",
+        "JP": "\u30C1\u30E3\u30FC\u30EB\u30BA\uFF65\u30D0\u30D9\u30C3\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u78BA\u304B\u306B\u6211\u304C\u4F53\u8EAF\u306F\u84B8\u6C17\u4ED5\u639B\u3051\u306E\u93A7"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (2), and put a card from your hand into the waiting room], choose a character from your hand, and put it onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\u3001\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-037",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-037S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30A6\u3001\u30A6\uFF5E\u266A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Frankenstein",
+        "JP": "\u30D5\u30E9\u30F3\u30B1\u30F3\u30B7\u30E5\u30BF\u30A4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30A6\u3001\u30A6\uFF5E\u266A"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[ACT][Waiting room][ReCombo]:[Cost (3)], and put this character onto your member area.\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u30E1\u30F3\u30CF\u3099\u30FC\u306B\u7F6E\u304F.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-038",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-038S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015\u300C\u4E0B\u50D5\u5171\u304C\u52DD\u624B\u306BQP\u3092\u7A4D\u3093\u3067\u3044\u304F\u3082\u306E\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Amakusa Shirou",
+        "JP": "\u5929\u8349\u56DB\u90CE"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015\u300C\u4E0B\u50D5\u5171\u304C\u52DD\u624B\u306BQP\u3092\u7A4D\u3093\u3067\u3044\u304F\u3082\u306E\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose 1 of your partners or energy, and [Stand] it",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-039",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-039S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Child-Gil",
+        "JP": "\u5B50\u30AE\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Cost (1)], choose a \u0022Gilgamesh\u0022 from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u30AE\u30EB\u30AC\u30E1\u30C3\u30B7\u30E5\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-040",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-040S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Count of Monte Cristo, Edmond Dant\u00E8s",
+        "JP": "\u5DCC\u7A9F\u738B \u30A8\u30C9\u30E2\u30F3\uFF65\u30C0\u30F3\u30C6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u30CF\u30FC\u30CF\u30C3\u30CF\u30C3\u30CF\u30C3\u30CF\u30C3\u30CF\u30C3\u30CF\u30C3\u30CF\u30C3"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, if you have a total of 3 or more [Blocker] and [Cancel] on your member and retire areas, choose 1 of your opponent\u0027s entries, and during that character\u0027s next attack this turn, that character gets -1/\u00B10.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3068\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u305D\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-041",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-041S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u3075\u3093\u3001\u5F53\u7136\u3060\u308D\u3046\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "C\u00FA Chulainn (Alter)",
+        "JP": "\u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u2026\u2026\u3075\u3093\u3001\u5F53\u7136\u3060\u308D\u3046\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose 1 of your members, and put it into the waiting room], choose 1 of your opponent\u0027s entries, and put it on the bottom of the deck",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-042",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-042S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u307E\u3001\u7530\u820E\u5A18\u306B\u306F\u308F\u304B\u3093\u306A\u3044\u304B\u30FC\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Little Devil Honey Queen, Queen Medb",
+        "JP": "\u5C0F\u60AA\u9B54\u30CF\u30CB\u30FC\u30FB\u30AF\u30A4\u30FC\u30F3 \u5973\u738B\u30E1\u30A4\u30F4"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307E\u3001\u7530\u820E\u5A18\u306B\u306F\u308F\u304B\u3093\u306A\u3044\u304B\u30FC\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-043",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-043S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3084\u306D\u3047\u3002\u512A\u96C5\u3055\u306B\u6B20\u3051\u308B\u5973\u305F\u3061\u306F\u3053\u308C\u3060\u304B\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Queen Medb",
+        "JP": "\u5973\u738B\u30E1\u30A4\u30F4"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3044\u3084\u306D\u3047\u3002\u512A\u96C5\u3055\u306B\u6B20\u3051\u308B\u5973\u305F\u3061\u306F\u3053\u308C\u3060\u304B\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:If your members have different card names from each other, your entry gets \u00B10/\u002B1, and if cards in your retire and member area all have different card names, it gets an additional \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u30AB\u30FC\u30C9\u540D\u304C\u305D\u308C\u305E\u308C\u9055\u3046\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3057\u3001\u30EA\u30BF\u30A4\u30A2\u3068\u30E1\u30F3\u30D0\u30FC\u3082\u3059\u3079\u3066\u9055\u3046\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-044",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-044S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B~\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Helena Blavatsky",
+        "JP": "\u30A8\u30EC\u30CA\uFF65\u30D6\u30E9\u30F4\u30A1\u30C4\u30AD\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B~\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:At the start of your main phase, [put this character on the bottom of your deck], draw a card, and put the top card of your deck onto your energy area.\u81EA\u5206\u306E\u30C6\u3099\u30C3\u30AD\u306E\u4E0A\u304B\u30891\u679A\u30A8\u30CD\u30EB\u30AD\u3099\u30FC\u306B\u7F6E\u304F.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-045",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-045S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Witch of Vengeance, Jeanne d\u0027Arc (Alter)",
+        "JP": "\u5FA9\u8B90\u306E\u9B54\u5973 \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 9,
+      "Flavor": {
+        "JP": "\u300E\u543C\u3048\u7ACB\u3066\u3088\u3001\u6211\u304C\u61A4\u6012\u300F!"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 6][1/Turn]:[[Rest] 3 of your partners], choose 2 of your opponent\u0027s members, put them into the waiting room, choose 1 of their entries, and that character\u0027s ATK and DEF cannot increase or decrease until end of turn. The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306FATK\u3068DEF\u304C\u5897\u6E1B\u3057\u306A\u3044\u3002\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-046",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-046S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u4E88\u60F3\u901A\u308A\u3001\u8CA7\u76F8\u306A\u98DF\u5353\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Christmas Cake, Jeanne d\u0027Arc (Alter)",
+        "JP": "\u30AF\u30EA\u30B9\u30DE\u30B9\u30B1\u30FC\u30AD \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4E88\u60F3\u901A\u308A\u3001\u8CA7\u76F8\u306A\u98DF\u5353\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, [put this character on the bottom of your deck], choose 1 of your opponent\u0027s members, and put it into the waiting room",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-047",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-047S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u304C\u2026\u2026\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No. 1 in this Town, Jeanne d\u0027Arc (Alter)",
+        "JP": "\u3053\u306E\u8857\u306ENo.1 \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u79C1\u304C\u2026\u2026\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:At the start of your main phase, [put this character on the bottom of your deck], choose 2 of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-048",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-048S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30EC\u30D9\u30EB\u3092\u4E0A\u3052\u3066\u3082\u3089\u308F\u306A\u3044\u3068\u304A\u5F79\u306B\u3082\u7ACB\u3066\u307E\u305B\u3093\u304B\u3089\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kotarou Fuuma",
+        "JP": "\u98A8\u9B54\u5C0F\u592A\u90CE"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30EC\u30D9\u30EB\u3092\u4E0A\u3052\u3066\u3082\u3089\u308F\u306A\u3044\u3068\u304A\u5F79\u306B\u3082\u7ACB\u3066\u307E\u305B\u3093\u304B\u3089\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character is put into the waiting room by this character\u0027s [Cancel], if you have a total of 3 or more [Blocker] and [Cancel] on your member and retire areas, choose 1 of your opponent\u0027s members, and your opponent cannot use that character\u0027s [AUTO] until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3068\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u305D\u306E\u30AD\u30E3\u30E9\u306E\u3010\u81EA\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-049",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-049S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u606F\u5B50\u3001\u3044\u3084\u5A18\u304C\u5168\u7136\u306A\u3064\u3044\u3066\u304F\u308C\u306A\u3044\u3093\u3067\u3059\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lancelot",
+        "JP": "\u30E9\u30F3\u30B9\u30ED\u30C3\u30C8"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u606F\u5B50\u3001\u3044\u3084\u5A18\u304C\u5168\u7136\u306A\u3064\u3044\u3066\u304F\u308C\u306A\u3044\u3093\u3067\u3059\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have 3 or more members, choose up to 2 of your allied members, and put them on the bottom of the deck in any order.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-050",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-050S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u300E\u592A\u967D\u306E\u9A0E\u58EB\u300F\u3068\u8B83\u3048\u3089\u308C\u305F\u6211\u304C\u529B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gawain",
+        "JP": "\u30AC\u30A6\u30A7\u30A4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u300E\u592A\u967D\u306E\u9A0E\u58EB\u300F\u3068\u8B83\u3048\u3089\u308C\u305F\u6211\u304C\u529B"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-051",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-051S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Leonardo da Vinci",
+        "JP": "\u30EC\u30AA\u30CA\u30EB\u30C9\uFF65\u30C0\uFF65\u30F4\u30A3\u30F3\u30C1"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3053\u306E\u53CD\u5FDC\u306F\u2026\u2026\u7279\u7570\u70B9!?"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-052",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-052S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u6C17\u306B\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044\uFF01\u5E2B\u5320\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jeanne d\u0027Arc Alter Santa Lily",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\uFF65\u30AA\u30EB\u30BF\uFF65\u30B5\u30F3\u30BF\uFF65\u30EA\u30EA\u30A3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u6C17\u306B\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044\uFF01\u5E2B\u5320\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-053",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-053S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u306F\u3044\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Merry Christmas, Jeanne d\u0027Arc Alter Santa Lily",
+        "JP": "\u30E1\u30EA\u30FC\u30AF\u30EA\u30B9\u30DE\u30B9 \u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\uFF65\u30AA\u30EB\u30BF\uFF65\u30B5\u30F3\u30BF\uFF65\u30EA\u30EA\u30A3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u306F\u3044\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo][Skill Showcase Level 3]:During the first attack of this character each turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-054",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-054S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jaguar God, Jaguar Man",
+        "JP": "\u30B8\u30E3\u30AC\u30FC\u795E \u30B8\u30E3\u30AC\u30FC\u30DE\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character attacks, if you have more cards in your retire area than your opponent, this character gets \u002B3/\u00B10 until end of turn, and at the end of this turn, put this character into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-055",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-055S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Merlin",
+        "JP": "\u30DE\u30FC\u30EA\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than your entry area, put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-056",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-056S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5C11\u306A\u304F\u3068\u3082\u79C1\u306F\u7406\u89E3\u3057\u3066\u3044\u308B\u3064\u3082\u308A\u3060\u3051\u308C\u3069\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "James Moriarty",
+        "JP": "\u30B8\u30A7\u30FC\u30E0\u30BA\uFF65\u30E2\u30EA\u30A2\u30FC\u30C6\u30A3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u5C11\u306A\u304F\u3068\u3082\u79C1\u306F\u7406\u89E3\u3057\u3066\u3044\u308B\u3064\u3082\u308A\u3060\u3051\u308C\u3069\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Put this character on the bottom of your deck], choose 1 of your partners, and [Stand] it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-057",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-057S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_057s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kiara Sessyoin",
+        "JP": "\u6BBA\u751F\u9662\u30AD\u30A2\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, the damage the blocked character took becomes zero.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u30AD\u30E3\u30E9\u304C\u53D7\u3051\u3066\u3044\u308B\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-058",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-058S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09\u300C\u30E9\u30A4\u30C0\u30FC\u306EC\u3055\u3093\u3067\u3059\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Christopher Columbus",
+        "JP": "\u30AF\u30EA\u30B9\u30C8\u30D5\u30A1\u30FC\uFF65\u30B3\u30ED\u30F3\u30D6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30EF\u30EB\u30AD\u30E5\u30FC\u30EC\uFF08\u30AA\u30EB\u30C8\u30EA\u30F3\u30C7\uFF09\u300C\u30E9\u30A4\u30C0\u30FC\u306EC\u3055\u3093\u3067\u3059\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-059",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-059S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Paul Bunyan",
+        "JP": "\u30DD\u30FC\u30EB\uFF65\u30D0\u30CB\u30E4\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[ReCombo]:[Cost (1), and reveal this character], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-060",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-060S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nitocris",
+        "JP": "\u30CB\u30C8\u30AF\u30EA\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Each player may put 1 of their members into the waiting room. If 1 or more were put, this character gets \u002B1/\u002B1 until end of turn. (Each player decides)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF11\u679A\u4EE5\u4E0A\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\uFF08\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u6C7A\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-061",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-061S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minamoto no Raikou",
+        "JP": "\u6E90\u983C\u5149"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[[Rest] 3 partners], and choose 1 of the following.\ni. Set a Rebirth from your waiting room.\nii. This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\n\u2171\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-062",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-062S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ishtar",
+        "JP": "\u30A4\u30B7\u30E5\u30BF\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3042\u3089\u3001\u305D\u306E\u30BB\u30EA\u30D5\u79C1\u3092\u524D\u306B\u3057\u3066\u8A00\u3046\u308F\u3051\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][1/Turn]:When this character attacks, put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards with [Blocker] or [Cancel] from among them and your members, this character gets \u002B3/\u00B10 until end of turn, and your opponent cannot use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-063",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-063S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiyome Mochizuki",
+        "JP": "\u671B\u6708\u5343\u4EE3\u5973"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo][Skill Showcase Level 4]:At the end of the attack this character supported, [put this character onto your entry area], choose 1 of your opponent\u0027s entries, and put it ont the bottom of the deck.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-064",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-064S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Jinushigami of Himeji, Osakabehime",
+        "JP": "\u59EB\u8DEF\u306E\u5730\u4E3B\u795E \u5211\u90E8\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u7B4B\u91D1\u5165\u308A\u306E\u30CD\u30C3\u30C8\u30B8\u30E3\u30F3\u30AD\u30FC\u3060\u304B\u3089\u306D\u3001\u59EB\u3063\u3066\u3070\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room. If you set, this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\u30BB\u30C3\u30C8\u3057\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-065",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-065S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3001\u3042\u308C\u306F\u59EB\u306E\u305B\u3044\u3058\u3083\u306A\u3044\u3057\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Streaming Queen Decisive Battle, Osakabehime",
+        "JP": "\u914D\u4FE1\u5973\u738B\u6C7A\u5B9A\u6226 \u5211\u90E8\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3042\u3001\u3042\u308C\u306F\u59EB\u306E\u305B\u3044\u3058\u3083\u306A\u3044\u3057\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-066",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-066S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3066\u307F\u3066\u30FC\uFF01\u30DE\u30B8\u3067\u30D7\u30ED\u306E\u72AF\u884C\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "[Himegoto] Channel, Osakabehime",
+        "JP": "\u3010\u3072\u3081\u30B4\u30C8\u3011\u30C1\u30E3\u30F3\u30CD\u30EB \u5211\u90E8\u59EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u307F\u3066\u307F\u3066\u30FC\uFF01\u30DE\u30B8\u3067\u30D7\u30ED\u306E\u72AF\u884C\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your member area from your hand, choose a card from your retire area, and exchange its position with this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-067",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-067S",
+          "Rarity": "RRR\u002B",
+          "Flavor": {
+            "JP": "\u7981\u65AD\u306E\u76F4\u6D41\u3068\u4EA4\u6D41\u3001\u6D41\u3057\u3066\u307F\u305F\u3044\u3068\u601D\u3044\u307E\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_067s.png"
+          ]
+        },
+        {
+          "Serial": "FG/001B-067SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_067sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "God of the Underworld, Ereshkigal",
+        "JP": "\u51A5\u754C\u306E\u795E \u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3082\u3001\u3082\u3057\u304B\u3057\u3066\u2026\u2026\uFF01\u79C1\u306B\u98FD\u304D\u3061\u3083\u3063\u305F!?"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:This character gets \u00B10/\u002B2, and your opponent\u0027s first attack each turn cannot be a partner attack.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3057\u3001\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-068",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-068S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3067\u3001\u3067\u304D\u306A\u3044\u308F\uFF01\u79C1\u306F\u3001\u30B5\u30F4\u30A1\u30C1\u30E5\u30FC\u30D0\u30FC\u3067\u3042\u308B\u524D\u306B\u3001\u51A5\u754C\u306E\u5973\u4E3B\u4EBA\u306A\u306E\u3060\u3082\u306E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Streaming Queen Decisive Battle, Ereshkigal",
+        "JP": "\u914D\u4FE1\u5973\u738B\u6C7A\u5B9A\u6226 \u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3067\u3001\u3067\u304D\u306A\u3044\u308F\uFF01\u79C1\u306F\u3001\u30B5\u30F4\u30A1\u30C1\u30E5\u30FC\u30D0\u30FC\u3067\u3042\u308B\u524D\u306B\u3001\u51A5\u754C\u306E\u5973\u4E3B\u4EBA\u306A\u306E\u3060\u3082\u306E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-069",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-069S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u30D5\u30D5\u30D5\u30D5\u30D5\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bond Level Max, Ereshkigal",
+        "JP": "\u7D46\u30AB\u30F3\u30B9\u30C8 \u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u2026\u2026\u30D5\u30D5\u30D5\u30D5\u30D5\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-070",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-070S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3088\u3063\uFF01\u59D0\u3055\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Achilles",
+        "JP": "\u30A2\u30AD\u30EC\u30A6\u30B9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3088\u3063\uFF01\u59D0\u3055\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character retires an opponent\u0027s character, choose a character with [Blocker] or [Cancel] from your waiting room, and put it onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-071",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-071S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oni That Trampled Kyoto, Ibaraki-Douji",
+        "JP": "\u4EAC\u3092\u8E42\u8E99\u305B\u3057\u9B3C \u8328\u6728\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-072",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-072S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u9152\u5451\uFF01\u3044\u304D\u306A\u308A\u306E\u5916\u51FA\u81EA\u7C9B\u3068\u306F\u3069\u3046\u3044\u3046\u4E8B\u3060!?"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_072s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Uniform, Ibaraki-Douji",
+        "JP": "\u5236\u670D \u8328\u6728\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u9152\u5451\uFF01\u3044\u304D\u306A\u308A\u306E\u5916\u51FA\u81EA\u7C9B\u3068\u306F\u3069\u3046\u3044\u3046\u4E8B\u3060!?"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-073",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-073S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6B21\u56DE\u3001\u8B77\u6CD5\u5C11\u5973 \u9B3C\u6551\u963F \u3052\u3047\u3001\u3046\u304C\u3044\u85AC\u3067\u75C5\u6C17\u304C\u6CBB\u308B!?"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Candy Apple, Ibaraki-Douji",
+        "JP": "\u308A\u3093\u3054\u98F4 \u8328\u6728\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6B21\u56DE\u3001\u8B77\u6CD5\u5C11\u5973 \u9B3C\u6551\u963F \u3052\u3047\u3001\u3046\u304C\u3044\u85AC\u3067\u75C5\u6C17\u304C\u6CBB\u308B!?"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If you have a \u0022Shuten-Douji\u0022 member, your \u0022Ibaraki-Douji\u0022 or \u0022Shuten-Douji\u0022 entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u9152\u5451\u7AE5\u5B50\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3001\u300A\u8328\u6728\u7AE5\u5B50\u300B\u304B\u300A\u9152\u5451\u7AE5\u5B50\u300B\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-074",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-074S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Next Episode Preview, Sitonai",
+        "JP": "\u6B21\u56DE\u4E88\u544A \u30B7\u30C8\u30CA\u30A4"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo][Skill Showcase Level 5][1/Turn]:[Cost (3)], choose a character from your hand or energy area, and exchange its position with your entry.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-075",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-075S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u307B\u306A\u3089\u3001\u3046\u3061\u3089\u3067\u53E9\u304D\u6F70\u3059\u3068\u3057\u307E\u3057\u3087\u3046\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magifender Girl, Shuten-Douji",
+        "JP": "\u8B77\u6CD5\u5C11\u5973 \u9152\u5451\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u307B\u306A\u3089\u3001\u3046\u3061\u3089\u3067\u53E9\u304D\u6F70\u3059\u3068\u3057\u307E\u3057\u3087\u3046\u304B"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-076",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-076S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u8328\u6728\u7AE5\u5B50\u300C\u9152\u5451\uFF01\u3044\u304D\u306A\u308A\u306E\u5916\u51FA\u81EA\u7C9B\u3068\u306F\u3069\u3046\u3044\u3046\u4E8B\u3060!?\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Uniform, Shuten-Douji",
+        "JP": "\u5236\u670D \u9152\u5451\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8328\u6728\u7AE5\u5B50\u300C\u9152\u5451\uFF01\u3044\u304D\u306A\u308A\u306E\u5916\u51FA\u81EA\u7C9B\u3068\u306F\u3069\u3046\u3044\u3046\u4E8B\u3060!?\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:When this character retires an opponent\u0027s character by a partner attack this turn, choose 2 of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u3067\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-077",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-077S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oni of Law, Shuten-Douji",
+        "JP": "\u8B77\u6CD5\u306E\u9B3C \u9152\u5451\u7AE5\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character retires an opponent\u0027s character, if you have an \u0022Ibaraki-Douji\u0022 on your member or retire area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u8328\u6728\u7AE5\u5B50\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-078",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-078S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9\u300C\u30B4\u30FC\u30EB!!\u3057\u3085\uFF5E\u308A\u3087\u30FC\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kingprotea",
+        "JP": "\u30AD\u30F3\u30B0\u30D7\u30ED\u30C6\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 7,
+      "ATK": 7,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9\u300C\u30B4\u30FC\u30EB!!\u3057\u3085\uFF5E\u308A\u3087\u30FC\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT][Waiting room][ReCombo][Skill Showcase Level 7]:[[Rest] 3 of your partners], if you have more cards in your retire area than your opponent, put this character onto your entry area, then choose 2 of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\uFF3B\u30D1\u30FC\u30C8\u30CA\u30FC\u304B\u3089\uFF13\u679A\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3055\u3089\u306B\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-079",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-079S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u751F\u3051\u8D04\u3063\u3066\u3084\u3064\u304B\uFF1F\u30CF\u30CF\u30CF\u9996\u5207\u308B\u3088\u308A\u3072\u3067\u30FC\u3088\u306A\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mori Nagayoshi",
+        "JP": "\u68EE\u9577\u53EF"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u751F\u3051\u8D04\u3063\u3066\u3084\u3064\u304B\uFF1F\u30CF\u30CF\u30CF\u9996\u5207\u308B\u3088\u308A\u3072\u3067\u30FC\u3088\u306A\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-080",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-080S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Charlotte Corday",
+        "JP": "\u30B7\u30E3\u30EB\u30ED\u30C3\u30C8\uFF65\u30B3\u30EB\u30C7\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When this character attacks, if you have 6 or more cards in your retire area, put up to 2 cards from the top of your deck into the waiting room. If there are a total of 3 or more cards with [Spark], [Blocker], or [Cancel] from among them and your members, this attack becomes a partner attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u307E\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u3089\u3068\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u4E2D\u3067\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3082\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3082\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3082\u6301\u305F\u306A\u3044\u30AB\u30FC\u30C9\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-081",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-081S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Carmilla",
+        "JP": "\u30AB\u30FC\u30DF\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):At the end of the attack this character supported, if you have a total of 3 or more [Blocker] or [Cancel] on your member and retire areas, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u306B\u3001\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-082",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-082S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u672C\u5F53\u306D\u3001\u7F8E\u610F\u8B58\u306E\u6B20\u7247\u3082\u306A\u3044\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Alter Ego \u039B",
+        "JP": "\u8B0E\u306E\u30A2\u30EB\u30BF\u30FC\u30A8\u30B4\uFF65\u039B"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u672C\u5F53\u306D\u3001\u7F8E\u610F\u8B58\u306E\u6B20\u7247\u3082\u306A\u3044\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[ACT][Waiting room][ReCombo][Skill Showcase Level 5]:[Cost (3)], and put this character face down onto your entry area as a Cost 4/ATK 6/DEF 6 \u0022Leviathan\u0022 character. At the end of this turn, turn that \u0022Leviathan\u0022 face up.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30B3\u30B9\u30C8\uFF14\u3067ATK\uFF16/DEF\uFF16\u306E\u300E\u30EA\u30F4\u30A1\u30A4\u30A2\u30B5\u30F3\u300F\u306E\u30AD\u30E3\u30E9\u3068\u3057\u3066\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u88CF\u5411\u304D\u3067\u7F6E\u304F\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u305D\u306E\u300E\u30EA\u30F4\u30A1\u30A4\u30A2\u30B5\u30F3\u300F\u3092\u8868\u5411\u304D\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-083",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-083S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_083s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Abigail Williams (Summer)",
+        "JP": "\u30A2\u30D3\u30B2\u30A4\u30EB\uFF65\u30A6\u30A3\u30EA\u30A2\u30E0\u30BA\u3014\u590F\u3015"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-084",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-084S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Neko V",
+        "JP": "\u8B0E\u306E\u30CD\u30B3V"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-085",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-085S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Neko W",
+        "JP": "\u8B0E\u306E\u30CD\u30B3W"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-086",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-086S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Neko X",
+        "JP": "\u8B0E\u306E\u30CD\u30B3X"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-087",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-087S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_087s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Neko Y",
+        "JP": "\u8B0E\u306E\u30CD\u30B3Y"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-088",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-088S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mysterious Neko Z",
+        "JP": "\u8B0E\u306E\u30CD\u30B3Z"
+      },
+      "Traits": [
+        {
+          "EN": "Carnival",
+          "JP": "Carnival"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-089",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-089S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saint Quartz Summon",
+        "JP": "\u8056\u6676\u77F3\u53EC\u559A"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put 1 of your entries into the waiting room], if you have 1 or more cards in your retire area, reveal 2 cards from the top of your deck, choose up to 1 each of a character and a Rebirth from among them, put the character onto your member area, add the Rebirth to your hand, and put the rest on the bottom of your deck. (Has priority over entry in)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF11\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3068Re\u30D0\u30FC\u30B9\u3092\u305D\u308C\u305E\u308C\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001Re\u30D0\u30FC\u30B9\u3092\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-090",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-090S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u307E\u3055\u304B\u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB\u304C\u7279\u7570\u70B9\u3092\u767A\u751F\u3055\u305B\u308B\u306A\u3093\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saint Quartz Summon",
+        "JP": "\u5468\u56DE\u30AF\u30A8\u30B9\u30C8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u307E\u3055\u304B\u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB\u304C\u7279\u7570\u70B9\u3092\u767A\u751F\u3055\u305B\u308B\u306A\u3093\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-091",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-091S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3046\u3046\u2026\u2026\u8CA0\u3051\u3061\u3083\u3063\u305F\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Defeat of ServantTube",
+        "JP": "\u30B5\u30F4\u30A1\u30C1\u30E5\u30FC\u30D6\u306E\u6557\u5317"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3046\u3046\u3046\u2026\u2026\u8CA0\u3051\u3061\u3083\u3063\u305F\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-092",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-092S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u4F59\u306F\u30A2\u30C0\u30EB\u30C8\u306A\u30AA\u30C8\u30CA\u3067\u3042\u30FC\u308B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_092s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Child Emperor",
+        "JP": "\u5B50\u4F9B\u7687\u5E1D"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u4F59\u306F\u30A2\u30C0\u30EB\u30C8\u306A\u30AA\u30C8\u30CA\u3067\u3042\u30FC\u308B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-093",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-093S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3053\u306E\u5E97\u306E\u8D64\u30DE\u30F3\u30C9\u5168\u90E8\u6301\u3063\u3066\u3053\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Treat Me With All Your Might",
+        "JP": "\u5168\u529B\u3067\u6211\u3092\u3082\u3066\u306A\u305B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3053\u306E\u5E97\u306E\u8D64\u30DE\u30F3\u30C9\u5168\u90E8\u6301\u3063\u3066\u3053\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest]",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-094",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-094S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u30C7\u30DE\u30BB\u30A4"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Heroic Spirit Limitation Grand Festival Olympia",
+        "JP": "\u82F1\u970A\u9650\u754C\u5927\u796D\u30AA\u30EA\u30F3\u30D4\u30A2"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u30C7\u30DE\u30BB\u30A4"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-095",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-095S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u9152\u5451\u7AE5\u5B50\u300C\u3042\u3093\u3058\u3087\u3046\u3088\u308D\u3057\u3085\u3046\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magifender Girl Oni Cure",
+        "JP": "\u8B77\u6CD5\u5C11\u5973 \u9B3C\u6551\u963F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u9152\u5451\u7AE5\u5B50\u300C\u3042\u3093\u3058\u3087\u3046\u3088\u308D\u3057\u3085\u3046\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u306F\u8FFD\u52A0\u3067\u3082\u3046\u4E00\u5EA6\u767A\u52D5\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-096",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-096S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30FC\u30EA\u30F3\u300C\u9AD8\u96E3\u6613\u5EA6\u3060\u3068\u3001\u3069\u3046\u3057\u3066\u3082\u738B\u306E\u8A71\u304C\u9577\u304F\u306A\u3063\u3066\u306D\u2026\u2026\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Broadening Gap of Heroic Spirits ~Heroic Spirit Labor Standards Law~",
+        "JP": "\u62E1\u304C\u308B\u82F1\u970A\u683C\u5DEE \uFF5E\u82F1\u970A\u52B4\u50CD\u57FA\u6E96\u6CD5\uFF5E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u30DE\u30FC\u30EA\u30F3\u300C\u9AD8\u96E3\u6613\u5EA6\u3060\u3068\u3001\u3069\u3046\u3057\u3066\u3082\u738B\u306E\u8A71\u304C\u9577\u304F\u306A\u3063\u3066\u306D\u2026\u2026\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-097",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-097S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\u3014\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7\u3015\u300C\u3075\u3093\u3001\u8981\u306F\u52DD\u3066\u3070\u30EA\u30B9\u30C8\u30E9\u3055\u308C\u306D\u3047\u3063\u3066\u4E8B\u3060\u308D\uFF1F\u300D \u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\uFF08\u30AD\u30E3\u30B9\u30BF\u30FC\uFF09\u300C\u307E\u3001\u30AA\u30EC\u3082\u3053\u3046\u3044\u3046\u30B7\u30F3\u30D7\u30EB\u306A\u30D0\u30C8\u30EB\u306F\u597D\u307F\u3060\u300D \u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\uFF08\u30E9\u30F3\u30B5\u30FC\uFF09\u300C\u30D8\u30C3\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Only Servants 4-star and above may participate",
+        "JP": "\u53C2\u52A0\u3067\u304D\u308B\u306E\u306F\u26054\u4EE5\u4E0A\u306E\u30B5\u30FC\u30F4\u30A1\u30F3\u30C8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\u3014\u30D7\u30ED\u30C8\u30BF\u30A4\u30D7\u3015\u300C\u3075\u3093\u3001\u8981\u306F\u52DD\u3066\u3070\u30EA\u30B9\u30C8\u30E9\u3055\u308C\u306D\u3047\u3063\u3066\u4E8B\u3060\u308D\uFF1F\u300D \u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\uFF08\u30AD\u30E3\u30B9\u30BF\u30FC\uFF09\u300C\u307E\u3001\u30AA\u30EC\u3082\u3053\u3046\u3044\u3046\u30B7\u30F3\u30D7\u30EB\u306A\u30D0\u30C8\u30EB\u306F\u597D\u307F\u3060\u300D \u30AF\u30FC\uFF65\u30D5\u30FC\u30EA\u30F3\uFF08\u30E9\u30F3\u30B5\u30FC\uFF09\u300C\u30D8\u30C3\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-098",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-098S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "What the- there are more of you with the same face!",
+        "JP": "\u306A\u3093\u3060\u8CB4\u69D8\u3001\u307E\u305F\u540C\u3058\u9854\u304C\u5897\u3048\u305F\u306E\u304B\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-099",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-099S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u304A\u3070\u3042\u3061\u3083\u307E\u306B\u306F\u5206\u304B\u308B\u308F\u3002\u5B89\u5FC3\u3057\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Four Heavenly Kings: Mahatma Motherhood Grandma",
+        "JP": "\u56DB\u5929\u738B \u30DE\u30CF\u30C8\u30DE\uFF65\u30D0\u30D6\u307F\uFF65\u304A\u3070\u3042\u3061\u3083\u307E"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u304A\u3070\u3042\u3061\u3083\u307E\u306B\u306F\u5206\u304B\u308B\u308F\u3002\u5B89\u5FC3\u3057\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-100",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-100S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Enfer Ch\u00E2teau d\u0027If",
+        "JP": "\u864E\u3088\u3001\u714C\u3005\u3068\u71C3\u3048\u76DB\u308C"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P001",
+      "Name": {
+        "EN": "Ritsuka Fujimaru",
+        "JP": "\u85E4\u4E38\u7ACB\u9999"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P002",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-P002PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p002pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mash Kyrielight",
+        "JP": "\u30DE\u30B7\u30E5\uFF65\u30AD\u30EA\u30A8\u30E9\u30A4\u30C8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P003",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-P003PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p003pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artoria Pendragon",
+        "JP": "\u30A2\u30EB\u30C8\u30EA\u30A2\uFF65\u30DA\u30F3\u30C9\u30E9\u30B4\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P004",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-P004PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p004pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nero Claudius",
+        "JP": "\u30CD\u30ED\uFF65\u30AF\u30E9\u30A6\u30C7\u30A3\u30A6\u30B9"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P005",
+      "Name": {
+        "EN": "Jeanne d\u0027Arc",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P006",
+      "Name": {
+        "EN": "Count of Monte Cristo, Edmond Dant\u00E8s",
+        "JP": "\u5DCC\u7A9F\u738B \u30A8\u30C9\u30E2\u30F3\u30FB\u30C0\u30F3\u30C6\u30B9"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P007",
+      "Name": {
+        "EN": "Queen Medb",
+        "JP": "\u5973\u738B\u30E1\u30A4\u30F4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P008",
+      "Name": {
+        "EN": "Jeanne d\u0027Arc (Alter)",
+        "JP": "\u30B8\u30E3\u30F3\u30CC\uFF65\u30C0\u30EB\u30AF\u3014\u30AA\u30EB\u30BF\u3015"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P009",
+      "Name": {
+        "EN": "Gawain",
+        "JP": "\u30AC\u30A6\u30A7\u30A4\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P010",
+      "Name": {
+        "EN": "James Moriarty",
+        "JP": "\u30B8\u30A7\u30FC\u30E0\u30BA\uFF65\u30E2\u30EA\u30A2\u30FC\u30C6\u30A3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P011",
+      "Name": {
+        "EN": "Ishtar",
+        "JP": "\u30A4\u30B7\u30E5\u30BF\u30EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P012",
+      "Name": {
+        "EN": "Osakabehime",
+        "JP": "\u5211\u90E8\u59EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P013",
+      "Alternates": [
+        {
+          "Serial": "FG/001B-P013PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p013pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ereshkigal",
+        "JP": "\u30A8\u30EC\u30B7\u30E5\u30AD\u30AC\u30EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P014",
+      "Name": {
+        "EN": "Ibaraki-Douji",
+        "JP": "\u8328\u6728\u7AE5\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    },
+    {
+      "Serial": "FG/001B-P015",
+      "Name": {
+        "EN": "Shuten-Douji",
+        "JP": "\u9152\u5451\u7AE5\u5B50"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/FGBP/fg_001b_p015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "FG/001B"
+      }
+    }
+  ]
+}

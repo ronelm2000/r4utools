@@ -111,6 +111,14 @@
     "Parse KJ (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/01/11/kj-001t-kj-001b-full-set-list-translations/"
+    },
+    "Parse TH/002B (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/02/15/th-002b-full-set-list-translations/"
+    },
+    "Parse RE/001E (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/05/08/re-001e-full-set-list-translations/"
     }
   }
 }

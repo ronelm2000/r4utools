@@ -1,0 +1,1224 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "RE/001E-001",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-001SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-001sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Yuu",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022To Meet With You Again\u0022][Skill Showcase Level 3][1/Turn]:[Cost (3)], draw a card, and choose 1 of the following.\ni. Choose \u0022To Meet With You Again\u0022 from this character\u0027s [Soul], and return it to your hand.\nii. Choose 1 of your set \u0022To Meet With You Again\u0022, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u541B\u3068\u307E\u305F\u3001\u4F1A\u3046\u305F\u3081\u306B\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u9B42\u3011\u304B\u3089\u300A\u541B\u3068\u307E\u305F\u3001\u4F1A\u3046\u305F\u3081\u306B\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\n\u2171\uFF0E\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u300A\u541B\u3068\u307E\u305F\u3001\u4F1A\u3046\u305F\u3081\u306B\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E",
+        "Name": "Festival Set \"Rebirth\""
+      }
+    },
+    {
+      "Serial": "RE/001E-002",
+      "Name": {
+        "EN": "Team Formation, Yuu",
+        "JP": "\u30C1\u30FC\u30E0\u7D50\u6210 \u6709"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "GO\u2015\u2015\u2015\u2015\u2015\u2015\u2015\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-003",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-003SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-003sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Chiharu",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, the damage the blocked character took becomes zero.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u30AD\u30E3\u30E9\u304C\u53D7\u3051\u3066\u3044\u308B\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-004",
+      "Name": {
+        "EN": "Heated Fight, Chiharu",
+        "JP": "\u767D\u71B1\u306E\u30D5\u30A1\u30A4\u30C8 \u5343\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CGo Go Stew\u0027s!\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-005",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-005SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-005sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Shuko",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a \u003CGo Go Stew\u0027s!\u003E from your hand, and put it onto your member area], and this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-006",
+      "Name": {
+        "EN": "Cautious About The Back, Shuko",
+        "JP": "\u5F8C\u308D\u304C\u6C17\u306B\u306A\u308B \u5468\u5B50"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Go Go Stew\u0027s!",
+          "JP": "Go Go \u3057\u3061\u3085\u30FC\u0027s!"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u6709\u3055\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[ReCombo][Skill Showcase Level 3 \u003CGo Go Stew\u0027s!\u003E]:[Cost (2)], and put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014Go Go \u3057\u3061\u3085\u30FC\u2019s!\u3015\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:When you would count the number of cards in your retire area for the effect of your \u003CGo Go Stew\u0027s!\u003E entry, it is treated as 6.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3014Go Go \u3057\u3061\u3085\u30FC\u2019s!\u3015\u306E\u52B9\u679C\u3067\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u679A\u6570\u3092\u6570\u3048\u308B\u969B\u3001\uFF16\u679A\u3068\u3057\u3066\u6271\u3046\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-007",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-007SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-007sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Ao",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003C\u2042 (Asterism)\u003E]:[Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Chemical Reaction of Destiny\u0022][Skill Showcase Level 4]:[Cost (2)], choose an \u003C\u2042 (Asterism)\u003E from your hand or waiting room, and put it onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u904B\u547D\u306E\u5316\u5B66\u53CD\u5FDC\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-008",
+      "Name": {
+        "EN": "A Room You Cannot Leave Without Playing Rebirth, Ao",
+        "JP": "Re\u30D0\u30FC\u30B9\u3057\u306A\u3044\u3068\u51FA\u3089\u308C\u306A\u3044\u90E8\u5C4B \u9752"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u2026\u2026\u3054\u3081\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003C\u2042 (Asterism)\u003E]:When this character blocks, [choose a card from your hand, and put it into the waiting room], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-009",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-009SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-009sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Kozue",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-010",
+      "Name": {
+        "EN": "My Fated Opponent, Kozue",
+        "JP": "\u79C1\u306E\u904B\u547D\u306E\u76F8\u624B \u68A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose 1 of your members, and exchange its position with this character. If you exchanged this character\u0027s position with a character with [Spark], that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-011",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-011SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-011sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Ikumi",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u00B10 until end of turn, and during this character\u0027s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-012",
+      "Name": {
+        "EN": "Lively Shop Tournament, Ikumi",
+        "JP": "\u308F\u304F\u308F\u304F\u30B7\u30E7\u30C3\u30D7\u5927\u4F1A \u80B2\u672A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "\u2042 (Asterism)",
+          "JP": "\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B4 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-013",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-013SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-013sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Kei",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Our Trinity\u0022]:When your \u003CTRenity\u003E or \u0022Yuu\u0022 member is put into the waiting room by a character\u0027s card effect, if this character\u0027s ATK is 10 or less, put the character put into the waiting room onto your open member area, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u79C1\u305F\u3061\u306E\u4E09\u4F4D\u4E00\u4F53\u300B\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u4E2D\u306B\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3001\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u304B\u300A\u6709\u300B\u304C\u30AD\u30E3\u30E9\u306E\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306EATK\u304C10\u4EE5\u4E0B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-014",
+      "Name": {
+        "EN": "We Can Still Meet Again Anytime, Kei",
+        "JP": "\u3044\u3064\u3067\u3082\u3001\u307E\u305F\u4F1A\u3048\u308B \u572D"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:At the start of your main phase, [put this character on the bottom of your deck], put 2 cards from the top of your deck onto your energy area, choose 1 of your energy, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304D\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-015",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-015SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-015sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Miyako",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CTRenity\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, put this character onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-016",
+      "Name": {
+        "EN": "Hard at Work Deck Building, Miyako",
+        "JP": "\u61F8\u547D\u306A\u30C7\u30C3\u30AD\u69CB\u7BC9 \u4EAC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u2026\u2026\u3082\u3063\u3068\u2026\u3082\u3063\u3068\u5F37\u304F\u306A\u3089\u306A\u3044\u3068\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (3)], choose 1 of your \u003CTRenity\u003E entries, and that character gets \u002B1/\u00B10 until end of turn. If that character is a \u0022Kei\u0022, choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u305D\u306E\u30AD\u30E3\u30E9\u304C\u300A\u572D\u300B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-017",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-017SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-017sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Yuki",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose 1 of your \u003CTRenity\u003E energy, and put it onto your entry area], and put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-018",
+      "Name": {
+        "EN": "Head Sliding Catch, Yuki",
+        "JP": "\u30D8\u30C3\u30C9\u30B9\u30E9\u30A4\u30C7\u30A3\u30F3\u30B0\u30AD\u30E3\u30C3\u30C1 \u96EA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "TRenity",
+          "JP": "\u30C8Re\u30CB\u30C6\u30A3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6 \u003CTRenity\u003E]:Choose a card from your waiting room, and return it to your hand. When you would return a character to your hand by this effect, you may put that character onto your member area instead.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u3053\u306E\u52B9\u679C\u3067\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u969B\u3001\u304B\u308F\u308A\u306B\u3001\u3042\u306A\u305F\u306F\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-019",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-019SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-019sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Juri",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Harmony of Beginnings\u0022][Skill Showcase Level 5][1/Turn]:When this character attacks, choose 1 of your set \u0022Harmony of Beginnings\u0022, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u306F\u3058\u307E\u308A\u306E\u30CF\u30FC\u30E2\u30CB\u30FC\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u300A\u306F\u3058\u307E\u308A\u306E\u30CF\u30FC\u30E2\u30CB\u30FC\u300B\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        },
+        {
+          "EN": "[CONT][Entry/Member][Skill Showcase Level 7]:Your \u003CVenus\u003E entry gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-020",
+      "Name": {
+        "EN": "Guerilla Live, Juri",
+        "JP": "\u30B2\u30EA\u30E9\u30E9\u30A4\u30D6 \u6A39\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CVenus\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-021",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-021SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-021sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Yutaka",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a \u003CVenus\u003E, [put this character on the bottom of your deck], choose 1 of your set \u0022Harmony of Beginnings\u0022, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u300A\u306F\u3058\u307E\u308A\u306E\u30CF\u30FC\u30E2\u30CB\u30FC\u300B\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-022",
+      "Name": {
+        "EN": "Transfer Student, Yutaka",
+        "JP": "\u7DE8\u5165\u751F \u8C4A"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3068\u3063\u3066\u3082\u7D20\u6575\u3060\u3063\u305F\u3088\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CVenus\u003E]:Choose 1 of your members, and until end of turn, that character cannot be chosen by your opponent\u0027s characters, and this character gets \u002B3/\u00B10.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u305A\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-023",
+      "Alternates": [
+        {
+          "Serial": "RE/001E-023SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-023sp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Saki",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5 \u003CVenus\u003E][1/Turn]:When this character retires an opponent\u0027s character, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-024",
+      "Name": {
+        "EN": "Mysterious Door, Saki",
+        "JP": "\u4E0D\u601D\u8B70\u306A\u6249 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "Venus",
+          "JP": "\u30F4\u30A3\u30FC\u30CA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5931\u793C\u306D\u3001\u3053\u3093\u306A\u3053\u3068\u3082\u3042\u308D\u3046\u304B\u3068\u524D\u3082\u3063\u3066\u30B2\u30B9\u30C8\u3092\u547C\u3093\u3067\u3042\u308B\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], choose 1 of your \u003CVenus\u003E entries, and return it to your hand. If you returned a \u0022Yutaka\u0022 with this effect, choose 2 of your energy, and [Stand] it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u3053\u306E\u52B9\u679C\u3067\u300A\u8C4A\u300B\u3092\u623B\u3057\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-025",
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Kanna",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u30AB\u30F3\u30CA"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "FS",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]:[Growing] or \u003Ctwinkle\u2661way\u003E",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011or\u3014twinkle\u2661way\u3015\n"
+        },
+        {
+          "EN": "[AUTO]:At the end of the attack this character blocked, choose 1 each of a [Growing] from your entry and retire areas, and you may exchange their positions.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-026",
+      "Name": {
+        "EN": "Let\u0027s Chase the Future Beyond, Kurumi",
+        "JP": "\u672A\u6765\u3092\u8FFD\u3044\u3053\u305B\u3001\u305D\u306E\u5148\u3078 \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Rebirth",
+          "JP": "\u308A\u3070\u3042\u3059"
+        },
+        {
+          "EN": "twinkle\u2661way",
+          "JP": "twinkle\u2661way"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):Your \u003Ctwinkle\u2661way\u003E get [Growing].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u3014twinkle\u2661way\u3015\u306F\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u5F97\u308B\u3002\uFF08\u624B\u672D\u3084\u30C7\u30C3\u30AD\u306E\u3014twinkle\u2661way\u3015\u306B\u3082\u6709\u52B9\uFF09"
+        },
+        {
+          "EN": "[CONT](Member):When you would refer to the Cost of a [Growing] in your hand for your character\u0027s card effect, it is treated as being the same as your entry\u0027s Cost.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\u306E\u3010\u306E\u3073\u3057\u308D\u3011\u306E\u30B3\u30B9\u30C8\u306F\u3001\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u306E\u52B9\u679C\u3067\u53C2\u7167\u3059\u308B\u969B\u306B\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u540C\u3058\u30B3\u30B9\u30C8\u3068\u3057\u3066\u6271\u3046\u3002"
+        },
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 3 \u003Ctwinkle\u2661way\u003E]:[Cost (2)], and put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014twinkle\u2661way\u3015\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-027",
+      "Name": {
+        "EN": "To Meet With You Again",
+        "JP": "\u541B\u3068\u307E\u305F\u3001\u4F1A\u3046\u305F\u3081\u306B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[ACT][Skill Showcase Level 4][1/Turn]:Choose a \u003CGo Go Stew\u0027s!\u003E or a \u0022Kei\u0022 with [ReCombo] from your hand, and put it onto your entry area. If you put, make this Rebirth become that character\u0027s [Soul], and until end of turn, that character gets \u002B1/\u00B10, and all of that character\u0027s [ReCombo] become active.",
+          "JP": "\u3010\u8D77\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3001\u3010Re\u30B3\u30F3\u30DC\u3011\u3092\u6301\u3064\u3001\u3014Go Go \u3057\u3061\u3085\u30FC\u0027s!\u3015\u304B\u300A\u572D\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u305D\u306E\u30AD\u30E3\u30E9\u306E\u3010\u9B42\u3011\u306B\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3057\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306E\u3010Re\u30B3\u30F3\u30DC\u3011\u304C\u3059\u3079\u3066\u6709\u52B9\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-028",
+      "Name": {
+        "EN": "Chemical Reaction of Destiny",
+        "JP": "\u904B\u547D\u306E\u5316\u5B66\u53CD\u5FDC"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Effect": [
+        {
+          "EN": "[AUTO][1/Turn]:When your \u003C\u2042 (Asterism)\u003E is put onto your entry area other than from your deck, choose 1 of its [Spark], and activate it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u305D\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u9078\u3073\u3001\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:Choose 1 of your \u003C\u2042 (Asterism)\u003E entries, and the next time that character retires an opponent\u0027s character, choose 1 of your entries\u0027 [Spark], and activate it.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u2042\uFF08\u30A2\u30B9\u30C6\u30EA\u30BA\u30E0\uFF09\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u305D\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u9078\u3073\u3001\u767A\u52D5\u3055\u305B\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-029",
+      "Name": {
+        "EN": "Our Trinity",
+        "JP": "\u79C1\u305F\u3061\u306E\u4E09\u4F4D\u4E00\u4F53"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "FS",
+      "Effect": [
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO][1/Turn]:When your \u003CTRenity\u003E attacks, choose up to 1 card from your waiting room, and put it onto your energy area. If you have 5 or more energy, your opponent cannot use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u3014\u30C8Re\u30CB\u30C6\u30A3\u3015\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    },
+    {
+      "Serial": "RE/001E-030",
+      "Name": {
+        "EN": "Harmony of Beginnings",
+        "JP": "\u306F\u3058\u307E\u308A\u306E\u30CF\u30FC\u30E2\u30CB\u30FC"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "FS",
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CVenus\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\n"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth blocks, set this Rebirth.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 7 \u003CVenus\u003E]:When this Rebirth is set, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[ACT][Skill Showcase Level 7 \u003CVenus\u003E][1/Turn]:Choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3014\u30F4\u30A3\u30FC\u30CA\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/REFS/re001e-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "RE/001E"
+      }
+    }
+  ]
+}

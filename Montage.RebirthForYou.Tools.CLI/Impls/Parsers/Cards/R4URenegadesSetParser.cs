@@ -234,7 +234,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.DEF = cursor.CurrentLine["DEF ".Length..]
                     .AsParsed<int>(int.TryParse);
 
-                Regex flavorTextMatcher = new(@"" + defLine + @"<br><em>(.+)</em><br>");
+                Regex flavorTextMatcher = new(@"" + defLine + @"<br><em>(.+)(?:</em><br>|<br></em>)");
                 if (flavorTextMatcher.IsMatch(content))
                 {
                     cursor.Next();
@@ -471,7 +471,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                                 JP = "体験入隊 恵那"
                             }
                         )
-                    }
+                    },
 
                 "LR/001T-017 TD 私はキミと会えて嬉しい！ I’m glad I was able to meet you"
                     => Enumerable.Range('a', 2)
@@ -520,7 +520,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             List<MultiLanguageString> newEffects = effects.Select((mls, i) => (Effect: mls, Index: i)) //
                                                             .Where((pair) => !overflowEffectTextMatcher.IsMatch(pair.Effect.EN))
                                                             .Select((pair) => GroupConcat(pair, overflowEffects))
-                                                            .ToList(); //.ToArray();
+                                                            .Where((pair) => !string.IsNullOrEmpty(pair.EN))
+                                                            .ToList();
             return newEffects;
 
             MultiLanguageString GroupConcat((MultiLanguageString Effect, int Index) pair, Dictionary<int, MultiLanguageString> overflowEffects)
