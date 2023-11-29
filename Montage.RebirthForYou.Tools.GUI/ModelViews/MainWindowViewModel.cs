@@ -355,7 +355,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             {
                 return DeckResults.Count(cr => cr.Card.Type == CardType.Partner) < 3;
             }
-            else if (DeckResults.Where(cr => cr.Card.Type != CardType.Partner).Count() >= 50 || DeckResults.Where(cr => cr.Card.Name.AsJPThenEN() == cardEntry.Card.Name.AsJPThenEN()).Count() >= 4)
+            else if (   DeckResults.Where(cr => cr.Card.Type != CardType.Partner).Count() >= 50 || 
+                        DeckResults .Where(cr => cr.Card.Type != CardType.Partner)
+                                    .Where(cr => cr.Card.Name.AsJPThenEN() == cardEntry.Card.Name.AsJPThenEN())
+                                    .Count() >= 4
+                                    )
             {
                 return false;
             }

@@ -459,6 +459,19 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         .Select(x => (char)x)
                         .Select(c => (Serial: $"KGND/001B-095{c}[VA]", Rarity: "Re", Name: new MultiLanguageString { EN = "–This, is the story of a small miracle", JP = "――これは、小さな奇跡の物語" }))
                         .ToArray(),
+                "KGND/001B-072[VA] R 兄妹の信頼関係 ちはや Sibling’s Trust Relationship, Kyou"
+                    => new[]
+                    {
+                        (
+                            Serial: "KGND/001B-072[VA]",
+                            Rarity: "R",
+                            Name: new MultiLanguageString
+                            {
+                                EN = "Sibling’s Trust Relationship, Chihaya",
+                                JP = "体験入隊 恵那"
+                            }
+                        )
+                    }
 
                 "LR/001T-017 TD 私はキミと会えて嬉しい！ I’m glad I was able to meet you"
                     => Enumerable.Range('a', 2)
