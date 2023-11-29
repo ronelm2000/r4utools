@@ -3,6 +3,18 @@
   "Cards": [
     {
       "Serial": "KGND/001B-001[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-001S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3088\u304F\u308F\u304B\u3089\u3093\u304C\u2026\u2026\u89AA\u53CB\u306E\u53F0\u8A5E\u30D1\u30AF\u308B\u307B\u3069\u73FE\u5B9F\u304C\u8F9B\u304B\u3063\u305F\u3093\u3060\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-001s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "First Generation Protagonist, Yuichi",
         "JP": "\u521D\u4EE3\u4E3B\u4EBA\u516C \u7950\u4E00"
@@ -33,11 +45,21 @@
       ],
       "Language": "Japanese",
       "Set": {
-        "ReleaseCode": "KGND/001B"
+        "ReleaseCode": "KGND/001B",
+        "Name":  "Booster Pack \"Kaginado\""
       }
     },
     {
       "Serial": "KGND/001B-002[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-002SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-002sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Ayu",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u3042\u3086"
@@ -74,6 +96,18 @@
     },
     {
       "Serial": "KGND/001B-003[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-003S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u660E\u65E5\u306F\u2015\u2015"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-003s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Nayuki Minase",
         "JP": "\u6C34\u702C \u540D\u96EA"
@@ -109,6 +143,18 @@
     },
     {
       "Serial": "KGND/001B-004[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-004S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3084\u3081\u3066\u304A\u6BCD\u3055\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-004s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "School Festival, Nayuki",
         "JP": "\u5B66\u5712\u796D \u540D\u96EA"
@@ -148,6 +194,18 @@
     },
     {
       "Serial": "KGND/001B-005[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-005S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u697D\u3057\u3044\u306D\uFF01 \u5B66\u5712\u796D\u304C\u6765\u3066\u3001\u305A\u3063\u3068\u5B66\u5712\u796D\u306A\u3089\u3044\u3044\u306E\u306B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-005s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Makoto Sawatari",
         "JP": "\u6CA2\u6E21 \u771F\u7434"
@@ -183,6 +241,18 @@
     },
     {
       "Serial": "KGND/001B-006[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-006S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u771F\u7434\u306E\u756A\u3060\u3088\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-006s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Swimming Lesson, Makoto",
         "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u771F\u7434"
@@ -218,6 +288,15 @@
     },
     {
       "Serial": "KGND/001B-007[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-007S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-007s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Shiori Misaka",
         "JP": "\u7F8E\u5742 \u681E"
@@ -254,6 +333,15 @@
     },
     {
       "Serial": "KGND/001B-008[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-008S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-008s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sister\u0027s Trust Relationship, Shiori",
         "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u681E"
@@ -286,6 +374,18 @@
     },
     {
       "Serial": "KGND/001B-009[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-009S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306F\u9B54\u7269\u3092\u8A0E\u3064\u8005\u3060\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-009s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Mai Kawasumi",
         "JP": "\u5DDD\u6F84 \u821E"
@@ -321,6 +421,18 @@
     },
     {
       "Serial": "KGND/001B-010[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-010S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306F\u9B54\u7269\u3092\u8A0E\u3064\u8005\u3060\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-010s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Demon Hunter, Mai",
         "JP": "\u9B54\u7269\u3092\u8A0E\u3064\u8005 \u821E"
@@ -356,8 +468,20 @@
     },
     {
       "Serial": "KGND/001B-011[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-011S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306A\u305F\u305F\u3061\u3001\u59C9\u306E\u98A8\u4E0A\u306B\u3082\u7F6E\u3051\u306A\u3044\u308F\u306D\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-011s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Shiori",
+        "EN": "Kaori Misaka",
         "JP": "\u7F8E\u5742 \u9999\u91CC"
       },
       "Traits": [
@@ -391,6 +515,18 @@
     },
     {
       "Serial": "KGND/001B-012[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-012S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306F\u306F\u30FC\u3001\u9060\u616E\u306A\u304F\u53EC\u3057\u4E0A\u304C\u3063\u3066\u304F\u3060\u3055\u3044\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-012s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sayuri Kurata",
         "JP": "\u5009\u7530 \u4F50\u7950\u7406"
@@ -426,8 +562,20 @@
     },
     {
       "Serial": "KGND/001B-013[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-013S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3046\u3067\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-013s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Nayuki",
+        "EN": "Akiko Minase",
         "JP": "\u6C34\u702C \u79CB\u5B50"
       },
       "Traits": [
@@ -465,6 +613,15 @@
     },
     {
       "Serial": "KGND/001B-014[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-014S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-014s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Wearing Uniform, Akiko",
         "JP": "\u5236\u670D\u7740\u7528 \u79CB\u5B50"
@@ -497,6 +654,15 @@
     },
     {
       "Serial": "KGND/001B-015[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-015S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-015s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Jun Kitagawa",
         "JP": "\u5317\u5DDD \u6F64"
@@ -529,8 +695,17 @@
     },
     {
       "Serial": "KGND/001B-016[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-016S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-016s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Nayuki",
+        "EN": "Piro",
         "JP": "\u30D4\u30ED"
       },
       "Traits": [
@@ -565,6 +740,18 @@
     },
     {
       "Serial": "KGND/001B-017[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-017S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3055\u3041\u3001\u697D\u3057\u3044\u4EBA\u5F62\u5287\u306E\u59CB\u307E\u308A\u3060\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-017s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Self-proclaimed Street Performer, Yukito",
         "JP": "\u81EA\u79F0\u5927\u9053\u82B8\u4EBA \u5F80\u4EBA"
@@ -600,6 +787,15 @@
     },
     {
       "Serial": "KGND/001B-018[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-018SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-018sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Misuzu",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u89B3\u9234"
@@ -635,8 +831,20 @@
     },
     {
       "Serial": "KGND/001B-019[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-019S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3084\u3044\u3084\u30D0\u30F3\u30C0\u30CA\u306F\u666E\u901A\u3060\u3088\u3049\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-019s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Yellow Bandana",
+        "EN": "Kano Kirishima",
         "JP": "\u9727\u5CF6 \u4F73\u4E43"
       },
       "Traits": [
@@ -670,6 +878,15 @@
     },
     {
       "Serial": "KGND/001B-020[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-020S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-020s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Music Contest, Kano",
         "JP": "\u6B4C\u5408\u6226 \u4F73\u4E43"
@@ -702,6 +919,18 @@
     },
     {
       "Serial": "KGND/001B-021[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-021S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\u3001\u3044\u305F\u3060\u304D\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-021s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Minagi Tohno",
         "JP": "\u9060\u91CE \u7F8E\u51EA"
@@ -737,6 +966,18 @@
     },
     {
       "Serial": "KGND/001B-022[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-022S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u306E\u3001\u5143\u6C17\u51FA\u3057\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-022s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Swimming Lesson, Minagi",
         "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u7F8E\u51EA"
@@ -772,6 +1013,15 @@
     },
     {
       "Serial": "KGND/001B-023[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-023S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-023s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Michiru",
         "JP": "\u307F\u3061\u308B"
@@ -804,8 +1054,20 @@
     },
     {
       "Serial": "KGND/001B-024[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-024S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3053\u3084\u3063\u2026\u2026\u89B3\u9234\u3001\u3046\u3061\u3001\u3053\u3053\u3084"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-024s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Misuzu",
+        "EN": "Haruko Kamio",
         "JP": "\u795E\u5C3E \u6674\u5B50"
       },
       "Traits": [
@@ -839,6 +1101,18 @@
     },
     {
       "Serial": "KGND/001B-025[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-025S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3088\u3057\uFF01\u6B21\u884C\u304F\u304B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-025s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Ryuya",
         "JP": "\u67F3\u4E5F"
@@ -874,8 +1148,20 @@
     },
     {
       "Serial": "KGND/001B-026[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-026S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u304C\u304A\u30FC\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-026s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Misuzu",
+        "EN": "Kannabino Mikoto",
         "JP": "\u795E\u5948\u5099\u547D"
       },
       "Traits": [
@@ -909,6 +1195,18 @@
     },
     {
       "Serial": "KGND/001B-027[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-027S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u7652\u3084\u3057\u7CFB\u306E\u65B9\u52E2\u63C3\u3044\u3067\u3059\u304B\u3089"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-027s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Uraha",
         "JP": "\u88CF\u8449"
@@ -944,6 +1242,15 @@
     },
     {
       "Serial": "KGND/001B-028[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-028S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-028s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Potato",
         "JP": "\u30DD\u30C6\u30C8"
@@ -976,8 +1283,20 @@
     },
     {
       "Serial": "KGND/001B-029[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-029S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3084\u3001\u305D\u308C\u306F\u3042\u3093\u305F\u304C\u3001\u3042\u30FC\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-029s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Ushio",
+        "EN": "School Festival Preparation, Tomoya",
         "JP": "\u5B66\u5712\u796D\u306E\u6E96\u5099 \u670B\u4E5F"
       },
       "Traits": [
@@ -1011,6 +1330,15 @@
     },
     {
       "Serial": "KGND/001B-030[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-030SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-030sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Nagisa",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u6E1A"
@@ -1046,6 +1374,18 @@
     },
     {
       "Serial": "KGND/001B-031[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-031S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u305D\u3082\u305D\u3082\u3060\u3051\u3069\u3001\u59B9\u304C\u53EF\u611B\u304F\u306A\u3044\u306A\u3093\u3066\u601D\u8003\u306E\u6301\u3061\u4E3B\u3044\u308B\u306E\u304B\u3057\u3089\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-031s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kyou Fujibayashi",
         "JP": "\u85E4\u6797 \u674F"
@@ -1081,6 +1421,15 @@
     },
     {
       "Serial": "KGND/001B-032[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-032S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-032s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sister\u0027s Trust Relationship, Kyou",
         "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u674F"
@@ -1113,6 +1462,15 @@
     },
     {
       "Serial": "KGND/001B-033[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-033S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-033s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Ryou Fujibayashi",
         "JP": "\u85E4\u6797 \u690B"
@@ -1145,6 +1503,15 @@
     },
     {
       "Serial": "KGND/001B-034[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-034S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-034s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kotomi Ichinose",
         "JP": "\u4E00\u30CE\u702C \u3053\u3068\u307F"
@@ -1177,6 +1544,18 @@
     },
     {
       "Serial": "KGND/001B-035[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-035S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3093\u3063\u2026\u2026\u3059\u3054\u304F\u3001\u51B7\u305F\u3044\u306E\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-035s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Swimming Lesson, Kotomi",
         "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u3053\u3068\u307F"
@@ -1212,6 +1591,15 @@
     },
     {
       "Serial": "KGND/001B-036[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-036S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-036s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Tomoyo Sakagami",
         "JP": "\u5742\u4E0A \u667A\u4EE3"
@@ -1244,6 +1632,15 @@
     },
     {
       "Serial": "KGND/001B-037[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-037S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-037s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Fuko Ibuki",
         "JP": "\u4F0A\u5439 \u98A8\u5B50"
@@ -1280,8 +1677,20 @@
     },
     {
       "Serial": "KGND/001B-038[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-038S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30D2\u30C8\u30C7\u306E\u3053\u306E\u7F8E\u3057\u3044\u30B9\u30BF\u30A4\u30EB\u3053\u305D\u3001\u4EBA\u3005\u306E\u5FC3\u3092\u7652\u3084\u3059\u6D77\u7523\u7269\u306A\u306E\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-038s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Shizuru",
+        "EN": "Differing Marine Life Choices, Fuko",
         "JP": "\u6D77\u7523\u6027\u306E\u9055\u3044 \u98A8\u5B50"
       },
       "Traits": [
@@ -1319,6 +1728,18 @@
     },
     {
       "Serial": "KGND/001B-039[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-039S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u7686\u3055\u3093\u30B3\u30FC\u30D2\u30FC\u306F\u3044\u304B\u304C\u3067\u3059\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-039s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yukine Miyazawa",
         "JP": "\u5BAE\u6CA2 \u6709\u7D00\u5BE7"
@@ -1354,6 +1775,18 @@
     },
     {
       "Serial": "KGND/001B-040[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-040S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3061\u308D\u3093\u3055"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-040s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Okazaki\u0027s Best Friend, Youhei",
         "JP": "\u5CA1\u5D0E\u306E\u89AA\u53CB \u967D\u5E73"
@@ -1389,6 +1822,18 @@
     },
     {
       "Serial": "KGND/001B-041[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-041S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304A\u5144\u3061\u3083\u3093\u3001\u30AD\u30E2\u3044\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-041s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Mei Sunohara",
         "JP": "\u6625\u539F \u82BD\u8863"
@@ -1424,6 +1869,15 @@
     },
     {
       "Serial": "KGND/001B-042[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-042S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-042s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Akio Furukawa",
         "JP": "\u53E4\u6CB3 \u79CB\u751F"
@@ -1456,6 +1910,18 @@
     },
     {
       "Serial": "KGND/001B-043[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-043S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30B5\u30F3\u30DE\u30AF\u30EA\u30FC\u30E0\u3092\u305F\u3063\u3077\u308A\u306E\u30B5\u30F3\u30DE\u30D1\u30F3\u3001\u4F55\u304C\u3044\u3051\u306A\u304B\u3063\u305F\u3093\u3067\u3057\u3087\u3046\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-043s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sanae Furukawa",
         "JP": "\u53E4\u6CB3 \u65E9\u82D7"
@@ -1491,6 +1957,15 @@
     },
     {
       "Serial": "KGND/001B-044[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-044S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-044s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Botan",
         "JP": "\u30DC\u30BF\u30F3"
@@ -1523,6 +1998,15 @@
     },
     {
       "Serial": "KGND/001B-045[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-045S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-045s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Ushio Okazaki",
         "JP": "\u5CA1\u5D0E \u6C50"
@@ -1555,6 +2039,15 @@
     },
     {
       "Serial": "KGND/001B-046[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-046S[VA]",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-046s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "After Tomoyo",
         "JP": "\u30A2\u30D5\u30BF\u30FC\u667A\u4EE3"
@@ -1594,18 +2087,27 @@
     },
     {
       "Serial": "KGND/001B-047[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-047S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-047s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Mister-Miss Kaginado Contest, Riki",
         "JP": "\u30DF\u30B9\u30BF\u30FC\u30DF\u30B9\u304B\u304E\u306A\u3069\u30B3\u30F3\u30C6\u30B9\u30C8 \u7406\u6A39"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1634,18 +2136,27 @@
     },
     {
       "Serial": "KGND/001B-048[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-048SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-048sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Rin",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u9234"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1670,18 +2181,27 @@
     },
     {
       "Serial": "KGND/001B-049[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-049S[VA]",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-049s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Leader of Little Busters, Kyosuke",
         "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA\u306E\u30EA\u30FC\u30C0\u30FC \u606D\u4ECB"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1709,18 +2229,30 @@
     },
     {
       "Serial": "KGND/001B-050[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-050S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u4FFA\u305F\u3061\u5144\u59B9\u306B\u99B4\u308C\u5408\u3044\u306F\u5FC5\u8981\u306A\u3044\u3002\u5E38\u306B\u771F\u5263\u52DD\u8CA0\u3092\u3057\u3066\u304D\u305F\u304B\u3089\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-050s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sibling\u0027s Trust Relationship, Kyosuke",
         "JP": "\u5144\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u606D\u4ECB"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1748,18 +2280,30 @@
     },
     {
       "Serial": "KGND/001B-051[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-051S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u7B4B\u8089\u3092\u8CB8\u3057\u3066\u304F\u308C\u3068\u8A00\u308F\u308C\u3061\u3083\u65AD\u308C\u306D\u3048"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-051s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Masato Inohara",
         "JP": "\u4E95\u30CE\u539F \u771F\u4EBA"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1787,18 +2331,30 @@
     },
     {
       "Serial": "KGND/001B-052[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-052S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5263\u9053\u3092\u6C5A\u3059\u8F29\u306B\u9244\u69CC\u3092"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-052s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kengo Miyazawa",
         "JP": "\u5BAE\u6CA2 \u8B19\u543E"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1826,18 +2382,27 @@
     },
     {
       "Serial": "KGND/001B-053[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-053S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-053s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Komari Kamikita",
         "JP": "\u795E\u5317 \u5C0F\u6BEC"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1862,6 +2427,18 @@
     },
     {
       "Serial": "KGND/001B-054[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-054S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u4F50\u7950\u7406\u3061\u3083\u3093\u304C\u4F5C\u3063\u3066\u304F\u308C\u305F\u30B1\u30FC\u30AD\u3001\u304A\u3044\u3057\u3044\u306D\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-054s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Healing Cafe, Komari",
         "JP": "\u7652\u3055\u308C\u55AB\u8336 \u5C0F\u6BEC"
@@ -1901,18 +2478,27 @@
     },
     {
       "Serial": "KGND/001B-055[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-055S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-055s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Haruka Saigusa",
         "JP": "\u4E09\u679D \u8449\u7559\u4F73"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1937,18 +2523,30 @@
     },
     {
       "Serial": "KGND/001B-056[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-056S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u4EFB\u305B\u3066\u304A\u3044\u3066\u304F\u3060\u3055\u3044\u30E8\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-056s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sister\u0027s Trust Relationship, Haruka",
         "JP": "\u59C9\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u8449\u7559\u4F73"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -1976,18 +2574,27 @@
     },
     {
       "Serial": "KGND/001B-057[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-057S[VA]",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-057s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kudryavka Noumi",
         "JP": "\u80FD\u7F8E \u30AF\u30C9\u30EA\u30E3\u30D5\u30AB"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2016,18 +2623,30 @@
     },
     {
       "Serial": "KGND/001B-058[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-058S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u3042\u308A\u304C\u3068\u3046\u2026\u2026\u3054\u3056\u3044\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-058s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Swimming Lesson, Kudryavka",
         "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u30AF\u30C9\u30EA\u30E3\u30D5\u30AB"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2055,18 +2674,30 @@
     },
     {
       "Serial": "KGND/001B-059[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-059S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u306F\u3042\u3042\u3042\u3042\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3041\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-059s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yuiko Kurugaya",
         "JP": "\u6765\u30F6\u8C37 \u552F\u6E56"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2094,18 +2725,27 @@
     },
     {
       "Serial": "KGND/001B-060[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-060S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-060s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Cutting in Two, Yukio",
         "JP": "\u4E00\u5200\u4E21\u65AD \u552F\u6E56"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2130,18 +2770,27 @@
     },
     {
       "Serial": "KGND/001B-061[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-061S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-061s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Mio Nishizono",
         "JP": "\u897F\u5712 \u7F8E\u9B5A"
       },
       "Traits": [
         {
-          "EN": "Little Busters",
-          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Little Busters",
+          "JP": "\u30EA\u30C8\u30EB\u30D0\u30B9\u30BF\u30FC\u30BA"
         }
       ],
       "Type": "Character",
@@ -2166,6 +2815,18 @@
     },
     {
       "Serial": "KGND/001B-062[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-062S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u7537\u3068\u7537\u304C\u5DF1\u306E\u7F8E\u3092\u7AF6\u3063\u3066\u3076\u3064\u304B\u308A\u3042\u3046\u2026\u2026 \u3075\u3075\u3075\u3001\u9F3B\u8840\u51FA\u305D\u3046"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-062s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "The Most Carefree? Mio",
         "JP": "\u4E00\u756A\u30D5\u30EA\u30FC\u30C0\u30E0\uFF1F \u7F8E\u9B5A"
@@ -2205,6 +2866,18 @@
     },
     {
       "Serial": "KGND/001B-063[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-063S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u8449\u7559\u4F73\u3001\u79C1\u305F\u3061\u306E\u7D46\u3092\u898B\u305B\u308B\u6642\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-063s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kanata Futaki",
         "JP": "\u4E8C\u6728 \u4F73\u5948\u591A"
@@ -2240,6 +2913,15 @@
     },
     {
       "Serial": "KGND/001B-064[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-064S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-064s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sasami Sasasegawa",
         "JP": "\u7B39\u702C\u5DDD \u4F50\u3005\u7F8E"
@@ -2272,6 +2954,15 @@
     },
     {
       "Serial": "KGND/001B-065[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-065S[VA]",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-065s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Saya Tokido",
         "JP": "\u6731\u9DFA\u6238 \u6C99\u8036"
@@ -2307,6 +2998,15 @@
     },
     {
       "Serial": "KGND/001B-066[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-066S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-066s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Dorj",
         "JP": "\u30C9\u30EB\u30B8"
@@ -2339,18 +3039,27 @@
     },
     {
       "Serial": "KGND/001B-067[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-067S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-067s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Pochi",
+        "EN": "One with Much Screentime, Kotarou",
         "JP": "\u51FA\u756A\u306E\u591A\u304B\u3063\u305F\u3082\u306E \u745A\u592A\u6717"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2375,6 +3084,15 @@
     },
     {
       "Serial": "KGND/001B-068[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-068SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-068sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Kagari",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u7BDD"
@@ -2407,18 +3125,27 @@
     },
     {
       "Serial": "KGND/001B-069[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-069S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-069s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Kotori Kanbe",
         "JP": "\u795E\u6238 \u5C0F\u9CE5"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2443,18 +3170,30 @@
     },
     {
       "Serial": "KGND/001B-070[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-070S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5409\u91CE\u304F\uFF5E\u3093\u3001\u53EF\u611B\u3044\u3088\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-070s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Cheering for the Stage, Kotori",
         "JP": "\u30B9\u30C6\u30FC\u30B8\u3078\u306E\u58F0\u63F4 \u5C0F\u9CE5"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2482,18 +3221,27 @@
     },
     {
       "Serial": "KGND/001B-071[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-071S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-071s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Chihaya Ohtori",
         "JP": "\u9CF3 \u3061\u306F\u3084"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2518,6 +3266,15 @@
     },
     {
       "Serial": "KGND/001B-072[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-072S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-072s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sibling\u0027s Trust Relationship, Kyou",
         "JP": "\u5144\u59B9\u306E\u4FE1\u983C\u95A2\u4FC2 \u3061\u306F\u3084"
@@ -2554,6 +3311,15 @@
     },
     {
       "Serial": "KGND/001B-073[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-073S[VA]",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-073s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Akane Senri",
         "JP": "\u5343\u91CC \u6731\u97F3"
@@ -2590,6 +3356,18 @@
     },
     {
       "Serial": "KGND/001B-074[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-074S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3093\u3063\u2026\u2026\u3001\u51B7\u305F\u3044\u308F\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-074s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Swimming Lesson, Akane",
         "JP": "\u6C34\u6CF3\u306E\u6388\u696D \u6731\u97F3"
@@ -2629,18 +3407,30 @@
     },
     {
       "Serial": "KGND/001B-075[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-075S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30D5\u30FC\u30AD\u30A4\u30FC\u30F3\u30C1\u30E7\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-075s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Soul Maid? Shizuru",
         "JP": "\u30BD\u30A6\u30EB\u30E1\u30A4\u30C8\uFF1F \u9759\u6D41"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2668,18 +3458,30 @@
     },
     {
       "Serial": "KGND/001B-076[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-076S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u5FA1\u8A17\u306F\u3044\u3044\u3002\u3053\u306E\u5834\u6240\u3092\u660E\u3051\u6E21\u3057\u3066\u3082\u3089\u3046\u305E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-076s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Lucia Konohana",
         "JP": "\u6B64\u82B1 \u30EB\u30C1\u30A2"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2707,18 +3509,30 @@
     },
     {
       "Serial": "KGND/001B-077[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-077S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u306F\u30AC\u30FC\u30C7\u30A3\u30A2\u30F3\u3002\u9B54\u7269\u306F\u72E9\u308B"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-077s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Guardian, Lucia",
         "JP": "\u30AC\u30FC\u30C7\u30A3\u30A2\u30F3 \u30EB\u30C1\u30A2"
       },
       "Traits": [
         {
-          "EN": "Occult Research Club",
-          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Occult Research Club",
+          "JP": "\u30AA\u30AB\u30EB\u30C8\u7814\u7A76\u4F1A"
         }
       ],
       "Type": "Character",
@@ -2746,6 +3560,15 @@
     },
     {
       "Serial": "KGND/001B-078[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-078S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-078s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Haruhiko Yoshino",
         "JP": "\u5409\u91CE \u6674\u5F66"
@@ -2778,6 +3601,18 @@
     },
     {
       "Serial": "KGND/001B-079[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-079S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u53CC\u5B50\u306E\u59B9\u306F\u95C7\u304C\u6DF1\u3044\u3088\u3046\u3067\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-079s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sakuya Ohtori",
         "JP": "\u9CF3 \u54B2\u591C"
@@ -2807,6 +3642,18 @@
     },
     {
       "Serial": "KGND/001B-080[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-080S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\uFF5E\u3001\u4ECA\u65E5\u306E\u4F53\u80B2\u306F\u6C34\u6CF3\u3088\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-080s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Touka Nishikujou",
         "JP": "\u897F\u4E5D\u6761 \u706F\u82B1"
@@ -2842,8 +3689,17 @@
     },
     {
       "Serial": "KGND/001B-081[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-081S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-081s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Kagari",
+        "EN": "Chibi-Moth",
         "JP": "\u3061\u3073\u3082\u3059"
       },
       "Traits": [
@@ -2874,8 +3730,20 @@
     },
     {
       "Serial": "KGND/001B-082[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-082S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30B7\u30E3\u30AB\u30B7\u30E3\u30AB\u30D8\u30A4\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-082s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Story of Many Shining Stars",
+        "EN": "Soul Maid? Yumemi",
         "JP": "\u30BD\u30A6\u30EB\u30E1\u30A4\u30C8\uFF1F \u3086\u3081\u307F"
       },
       "Traits": [
@@ -2909,6 +3777,15 @@
     },
     {
       "Serial": "KGND/001B-083[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-083S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-083s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yuzuru Otonashi",
         "JP": "\u97F3\u7121 \u7D50\u5F26"
@@ -2941,6 +3818,18 @@
     },
     {
       "Serial": "KGND/001B-084[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-084S[VA]",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3093\u306A\u30A4\u30D9\u30F3\u30C8\u3082\u3001\u3053\u3093\u306A\u5B66\u5712\u3082\u3001\u3053\u3093\u306A\u2015\u2015\u4E16\u754C\u3082"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-084s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Intrusion, Yuri",
         "JP": "\u4E71\u5165 \u3086\u308A"
@@ -2980,18 +3869,30 @@
     },
     {
       "Serial": "KGND/001B-085[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-085S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5929\u4F7F\u5C45\u305F\u30FC\uFF01\u4F55\u304B\u98DF\u3079\u306A\u304C\u3089\u73FE\u308C\u305F\u30FC\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-085s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Sudden Reunion, Yuri",
         "JP": "\u7A81\u7136\u306E\u518D\u4F1A \u3086\u308A"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3019,6 +3920,15 @@
     },
     {
       "Serial": "KGND/001B-086[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-086SP[VA]",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-086sp[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Many Shining Stars, Angel",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061 \u5929\u4F7F"
@@ -3054,8 +3964,20 @@
     },
     {
       "Serial": "KGND/001B-087[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-087S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AC\u30FC\u30C9\u30B9\u30AD\u30EB\u30FB\u30CF\u30A6\u30EA\u30F3\u30B0"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-087s[va].png"
+          ]
+        }
+      ],
       "Name": {
-        "EN": "Angel",
+        "EN": "Howling, Angel",
         "JP": "\u30CF\u30A6\u30EA\u30F3\u30B0 \u5929\u4F7F"
       },
       "Traits": [
@@ -3093,18 +4015,30 @@
     },
     {
       "Serial": "KGND/001B-088[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-088S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u4FFA\u304C\u512A\u52DD\u3057\u3066\u3084\u3093\u3088\u3063\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-088s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Hideki Hinata",
         "JP": "\u65E5\u5411 \u79C0\u6A39"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3132,18 +4066,27 @@
     },
     {
       "Serial": "KGND/001B-089[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-089S[VA]",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-089s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Ayato Naoi",
         "JP": "\u76F4\u4E95 \u6587\u4EBA"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3172,18 +4115,30 @@
     },
     {
       "Serial": "KGND/001B-090[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-090S[VA]",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u304A\u307E\u3048\u3089\u306F\u624B\u3076\u3089\u3067\u5E30\u3063\u3066\u6765\u3044\u3084\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-090s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yui",
         "JP": "\u30E6\u30A4"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3211,18 +4166,27 @@
     },
     {
       "Serial": "KGND/001B-091[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-091S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-091s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Noda",
         "JP": "\u91CE\u7530"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3247,18 +4211,30 @@
     },
     {
       "Serial": "KGND/001B-092[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-092S[VA]",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "...... \u3042\u3055\u306F\u304B\u306A\u308A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-092s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Shiina",
         "JP": "\u690E\u540D"
       },
       "Traits": [
         {
-          "EN": "Afterlife Battlefront",
-          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
-        },
-        {
           "EN": "Kaginado Academy",
           "JP": "\u304B\u304E\u306A\u3069\u5B66\u5712"
+        },
+        {
+          "EN": "Afterlife Battlefront",
+          "JP": "\u6B7B\u3093\u3060\u4E16\u754C\u6226\u7DDA"
         }
       ],
       "Type": "Character",
@@ -3286,6 +4262,15 @@
     },
     {
       "Serial": "KGND/001B-093[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-093S[VA]",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-093s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Yusa",
         "JP": "\u904A\u4F50"
@@ -3322,6 +4307,15 @@
     },
     {
       "Serial": "KGND/001B-094[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-094S[VA]",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-094s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Story of Many Shining Stars",
         "JP": "\u6570\u591A\u306E\u7DBA\u7F85\u661F\u305F\u3061\u306E\u7269\u8A9E"
@@ -3346,6 +4340,15 @@
     },
     {
       "Serial": "KGND/001B-095a[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095aS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095as[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3374,6 +4377,15 @@
     },
     {
       "Serial": "KGND/001B-095b[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095bS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095bs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3402,6 +4414,15 @@
     },
     {
       "Serial": "KGND/001B-095c[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095cS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095cs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3430,6 +4451,15 @@
     },
     {
       "Serial": "KGND/001B-095d[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095dS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ds[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3458,6 +4488,15 @@
     },
     {
       "Serial": "KGND/001B-095e[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095eS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095es[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3486,6 +4525,15 @@
     },
     {
       "Serial": "KGND/001B-095f[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095fS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095fs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3514,6 +4562,15 @@
     },
     {
       "Serial": "KGND/001B-095g[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095gS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095gs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3542,6 +4599,15 @@
     },
     {
       "Serial": "KGND/001B-095h[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095hS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095hs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3570,6 +4636,15 @@
     },
     {
       "Serial": "KGND/001B-095i[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095iS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095is[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3598,6 +4673,15 @@
     },
     {
       "Serial": "KGND/001B-095j[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095jS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095js[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3626,6 +4710,15 @@
     },
     {
       "Serial": "KGND/001B-095k[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095kS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ks[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3654,6 +4747,15 @@
     },
     {
       "Serial": "KGND/001B-095l[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095lS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ls[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3682,6 +4784,15 @@
     },
     {
       "Serial": "KGND/001B-095m[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095mS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ms[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3710,6 +4821,15 @@
     },
     {
       "Serial": "KGND/001B-095n[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095nS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ns[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3738,6 +4858,15 @@
     },
     {
       "Serial": "KGND/001B-095o[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095oS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095os[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3766,6 +4895,15 @@
     },
     {
       "Serial": "KGND/001B-095p[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095pS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095ps[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3794,6 +4932,15 @@
     },
     {
       "Serial": "KGND/001B-095q[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-095qS[VA]",
+          "Rarity": "ReSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-095qs[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "\u2013This, is the story of a small miracle",
         "JP": "\u2015\u2015\u3053\u308C\u306F\u3001\u5C0F\u3055\u306A\u5947\u8DE1\u306E\u7269\u8A9E"
@@ -3822,6 +4969,18 @@
     },
     {
       "Serial": "KGND/001B-096[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-096S[VA]",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3060\u3093\u3054\u5927\u5BB6\u65CF\u30D1\u30F3\u3092\u8CA9\u58F2\u4E2D\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-096s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Selling Great Dango Family Bread",
         "JP": "\u3060\u3093\u3054\u5927\u5BB6\u65CF\u30D1\u30F3\u8CA9\u58F2\u4E2D"
@@ -3849,6 +5008,15 @@
     },
     {
       "Serial": "KGND/001B-097[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-097S[VA]",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-097s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Operation Start",
         "JP": "\u30AA\u30DA\u30EC\u30FC\u30B7\u30E7\u30F3\u30B9\u30BF\u30FC\u30C8"
@@ -3877,6 +5045,15 @@
     },
     {
       "Serial": "KGND/001B-098[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-098S[VA]",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-098s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Out of the way~!",
         "JP": "\u3069\u3044\u3066\uFF5E\uFF01"
@@ -3905,6 +5082,18 @@
     },
     {
       "Serial": "KGND/001B-099[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-099S[VA]",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u304A\u5144\u3061\u3083\u3093\u3068\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-099s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "We covet that title!",
         "JP": "\u4FFA\u305F\u3061\u3082\u547C\u3070\u308C\u305F\u3044\uFF01"
@@ -3936,6 +5125,15 @@
     },
     {
       "Serial": "KGND/001B-100[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-100S[VA]",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-100s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Roar-!",
         "JP": "\u304C\u304A\u30FC\uFF01"
@@ -3964,6 +5162,15 @@
     },
     {
       "Serial": "KGND/001B-101[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-101S[VA]",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-101s[va].png"
+          ]
+        }
+      ],
       "Name": {
         "EN": "Princess is The Princess",
         "JP": "Princess is The Princess"
@@ -3984,6 +5191,209 @@
       ],
       "Images": [
         "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-101[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P001[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P001PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p001pp[va].png"
+          ]
+        },
+        {
+          "Serial": "KGND/001B-P001S[VA]",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p001s[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ayu Tsukimiya",
+        "JP": "\u6708\u5BAE \u3042\u3086"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p001[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P002[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P002PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p002pp[va].png"
+          ]
+        },
+        {
+          "Serial": "KGND/001B-P002S[VA]",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p002s[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Misuzu Kamio",
+        "JP": "\u795E\u5C3E \u89B3\u9234"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p002[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P003[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P003PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p003pp[va].png"
+          ]
+        },
+        {
+          "Serial": "KGND/001B-P003S[VA]",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p003s[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Nagisa Furukawa",
+        "JP": "\u53E4\u6CB3 \u6E1A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p003[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P004[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P004PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p004pp[va].png"
+          ]
+        },
+        {
+          "Serial": "KGND/001B-P004S[VA]",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p004s[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin Natsume",
+        "JP": "\u68D7 \u9234"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p004[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P005[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P005PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p005pp[va].png"
+          ]
+        },
+        {
+          "Serial": "KGND/001B-P005S[VA]",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p005s[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kagari",
+        "JP": "\u7BDD"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p005[va].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KGND/001B"
+      }
+    },
+    {
+      "Serial": "KGND/001B-P006[VA]",
+      "Alternates": [
+        {
+          "Serial": "KGND/001B-P006PP[VA]",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p006pp[va].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Angel",
+        "JP": "\u5929\u4F7F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KGBP/kgnd001b-p006[va].png"
       ],
       "Language": "Japanese",
       "Set": {

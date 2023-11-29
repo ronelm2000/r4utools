@@ -1,0 +1,4474 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "KJ/001B-001",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-001S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Path to Survive, Kaiji",
+        "JP": "\u751F\u304D\u6B8B\u308A\u306E\u9053 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 7]:When this character blocks, you may set a Rebirth without [Spark] from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u305F\u306A\u3044Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-002",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-002S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_002s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-002SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_002SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Slave Strikes Twice, Kaiji",
+        "JP": "\u5974\u96B7\u306F\u4E8C\u5EA6\u523A\u3059 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 each of a character from your hand and waiting room, and you may exchange their positions.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u3068\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 7][1/Turn]:When this character attacks, perform a [Check]. If you succeeded, choose an allied member, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-003",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-003S",
+          "Rarity": "RRR\u002B",
+          "Flavor": {
+            "JP": "\u5929\u8A85\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Moment of Retribution, Kaiji",
+        "JP": "\u5831\u3044\u306E\u6642 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u5929\u8A85\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, and put it into the waiting room], choose any number of characters from your member and waiting room, exchange their positions, and if you have 3 or more \u002245ers\u0022 or Cost 1 characters on your member area, until end of turn, this character gets \u002B4/\u002B5, and your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\u671B\u3080\u679A\u6570\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A45\u7D44\u300B\u304B\u30B3\u30B9\u30C8\uFF11\u306E\u30AD\u30E3\u30E9\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\uFF0B\uFF15\u3057\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-004",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-004S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_004s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-004SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_004SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Celebration of the First Salary, Kaiji",
+        "JP": "\u521D\u7D66\u6599\u306E\u304A\u795D\u3044 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose a card from your hand, and put it into the waiting room], set a Rebirth from your waiting room, and perform a [Check]. If you succeeded, then set an additional Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3001\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3055\u3089\u306B\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-005",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-005S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_005s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-005SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_005SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Encouragement to Survive, Kaiji",
+        "JP": "\u751F\u9084\u3078\u306E\u53F1\u54A4\u6FC0\u52B1 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, [choose a card from your hand, and put it into the waiting room], choose 1 of your opponent\u0027s members, put it into the waiting room, and perform a [Check]. If you succeeded, then choose an additional 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3055\u3089\u306B\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-006",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-006S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Two day long Spree, Kaiji",
+        "JP": "2\u65E5\u7D9A\u3051\u3066\u8C6A\u904A \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 5][1/Turn]:[Put a card from your hand on the bottom of your deck], and perform a [Check]. If you failed, choose 1 of the following.\ni. Choose a [Blocker] from your waiting room, and return it to your hand.\nii. Choose 2 characters with [Cancel] from your waiting room, and return them to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\n\u2171\uFF0E\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3092\uFF12\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-007",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-007S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Seized Chance of Victory, Kaiji",
+        "JP": "\u3064\u304B\u3093\u3060\u52DD\u6A5F \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Member):When you would perform a [Check], your opponent\u0027s entry gets -1/\u00B10 until end of that [Check].",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u304C\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u969B\u3001\u305D\u306E\u30C1\u30A7\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0D\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[1/Turn]:When you fail a [Check], choose 1 of your entries, and that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3042\u306A\u305F\u306E\u30C1\u30A7\u30C3\u30AF\u3067\u3042\u306A\u305F\u304C\u8CA0\u3051\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-008",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-008S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Extremely Unfortunate Result, Kaiji",
+        "JP": "\u3068\u3066\u3082\u6B8B\u5FF5\u306A\u7D50\u679C \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, [Cost (2)], and each player reveals 2 cards from the top of their deck, sets a Rebirth from among them, and puts the rest into the waiting room. If your Rebirth was set, choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF3B\u30A8\u30CD\u2461\uFF3D\u3059\u308B\u3053\u3068\u3067\u3001\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-009",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-009S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Loser\u0027s Pride, Kaiji",
+        "JP": "\u6557\u8005\u306E\u8A87\u308A \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 5]:At the end of this character\u0027s attack, perform a [Check]. If you succeeded, return this character to your hand. If you failed, choose 1 of your members, and put it into the waiting room. (This [Check] is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u81EA\u5206\u306E\u624B\u672D\u306B\u623B\u3059\u3002\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3053\u306E\u30C1\u30A7\u30C3\u30AF\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-010",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-010S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "What should Not have Happened, Kaiji",
+        "JP": "\u3042\u3063\u3066\u306F\u306A\u3089\u306A\u3044\u3053\u3068 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose 1 of your members, and put it into the waiting room], choose 1 of your opponent\u0027s entries, and put it on the bottom of the deck.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-011",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-011S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ruined Plan, Kaiji",
+        "JP": "\u7834\u7DBB\u3057\u305F\u8A08\u753B \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Put a total of 2 \u0022Furuhata\u0022, \u0022Ando\u0022, or [Growing] from your hand into the waiting room], and put this character onto your entry area. If you put, this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u300A\u53E4\u7551\u300B\u304B\u300A\u5B89\u85E4\u300B\u304B\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u5408\u8A08\uFF12\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-012",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-012S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AF\u30EB\u30DE\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u7121\u4E8B\u3067\u3088\u304B\u3063\u305F\u3063\u30B9\u306D\u30FB\u30FB\u30FB\u30FB\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fugitive, Kaiji",
+        "JP": "\u9003\u4EA1\u8005 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30AF\u30EB\u30DE\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u7121\u4E8B\u3067\u3088\u304B\u3063\u305F\u3063\u30B9\u306D\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6]:[Choose a card each from your member area and hand, and put them into the waiting room], and return this character to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-013",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-013S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Final Hurdle Before Victory, Kaiji",
+        "JP": "\u52DD\u3064\u70BA\u306E\u6700\u7D42\u30CF\u30FC\u30C9\u30EB \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s entries, and that character gets -3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-014",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-014S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reborn from the Underworld, Kaiji",
+        "JP": "\u9EC4\u6CC9\u306E\u4E16\u754C\u304B\u3089\u306E\u56DE\u751F \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 5,
+      "DEF": 2,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 4]:[Cost (4)], and put this character onto your entry area. If you put, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-015",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-015S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tasted to the point of Rot, Kaiji",
+        "JP": "\u8150\u308B\u307B\u3069\u5473\u308F\u3063\u3066\u304D\u305F\u3053\u3068 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[CONT]:If this character is a [Soul], your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u9B42\u3011\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have more cards in your retire area than your opponent, make this character become your entry\u0027s [Soul]. (This effect is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3010\u9B42\u3011\u306B\u3059\u308B\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-016",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-016S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u964D\u308D\u30FB\u30FB\u30FB\u30FB\n\u3078\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sleep to Hell, Kaiji",
+        "JP": "\u5730\u7344\u3078\u306E\u7720\u308A \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u964D\u308D\u30FB\u30FB\u30FB\u30FB\n\u3078\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-017",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-017S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Force Labor, Kaiji",
+        "JP": "\u5F37\u5236\u52B4\u50CD \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-018",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-018S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u304C\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u30AE\u30E3\u30F3\u30D6\u30EB\u8239\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u30A8\u30B9\u30DD\u30EF\u30FC\u30EB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ship of Hope, Kaiji",
+        "JP": "\u5E0C\u671B\u306E\u8239 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u308C\u304C\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u30AE\u30E3\u30F3\u30D6\u30EB\u8239\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u30A8\u30B9\u30DD\u30EF\u30FC\u30EB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4][1/Turn]:[Cost (1)], draw a card, and at the end of that turn, put this character and all cards in your hand into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-019",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-019S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Castle of Despair, Kaiji",
+        "JP": "\u7D76\u671B\u306E\u57CE \u30AB\u30A4\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Gamester",
+          "JP": "\u535A\u5955"
+        },
+        {
+          "EN": "Protagonist",
+          "JP": "\u4E3B\u4EBA\u516C"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card, choose a card from your hand, and put it into the waiting room. If you put an \u0022Ishida\u0022 or a \u0022Sahara\u0022, you may put that character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u300A\u77F3\u7530\u300B\u304B\u300A\u4F50\u539F\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-020",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-020S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Endo Finance President, Endo",
+        "JP": "\u9060\u85E4\u91D1\u878D\u793E\u9577 \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose 1 of your energy, and put it into the waiting room], and put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 7]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-021",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-021S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New Invitation, Endo",
+        "JP": "\u65B0\u305F\u306A\u8A98\u3044 \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your members, and you may put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-022",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-022S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Confident Words, Endo",
+        "JP": "\u78BA\u4FE1\u7684\u306A\u8A00\u8449 \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from your hand, choose 1 of your members, and that character cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-023",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-023S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30AB\u30A4\u30B8\u5951\u7D04\u30FB\u30FB\u30FB\u30FB\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Contract Established, Endo",
+        "JP": "\u5951\u7D04\u6210\u7ACB \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AB\u30A4\u30B8\u5951\u7D04\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a character from your waiting room, and you may put it onto your open member area. If you put a \u0022Kaiji\u0022, this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u300A\u30AB\u30A4\u30B8\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-024",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-024S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Invitation to Gamble, Endo",
+        "JP": "\u30AE\u30E3\u30F3\u30D6\u30EB\u3078\u306E\u8A98\u3044 \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-025",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-025S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Blessing for the Survivor, Endo",
+        "JP": "\u751F\u9084\u8005\u3078\u306E\u795D\u798F \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-026",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-026S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Literal Meaning, Endo",
+        "JP": "\u8A00\u8449\u901A\u308A\u306E\u610F\u5473 \u9060\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Endo Finance",
+          "JP": "\u9060\u85E4\u91D1\u878D"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-027",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-027S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_027s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-027SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_027SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Nature Many Lost, Tonegawa",
+        "JP": "\u591A\u304F\u306E\u8005\u304C\u898B\u5931\u3063\u3066\u3044\u308B\u672C\u8CEA \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If your opponent has less cards in their hand than their retire area, your opponent\u0027s entry gets -2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u76F8\u624B\u306E\u624B\u672D\u304C\u3001\u76F8\u624B\u306E\u30EA\u30BF\u30A4\u30A2\u3088\u308A\u5C11\u306A\u3044\u306A\u3089\u3001\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, you may perform a [Check]. If you succeeded, draw a card, and this character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u3088\u3044\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-028",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-028S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Insignificant Risk, Tonegawa",
+        "JP": "\u5FAE\u3005\u305F\u308B\u30EA\u30B9\u30AF \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to 1 character from your energy area, put it onto your entry area, and that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-029",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-029S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Proof of Sincerity, Tonegawa",
+        "JP": "\u8AA0\u610F\u306E\u8A3C\u660E \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 3]:[Cost (2)], and if you have more cards in your retire area than your opponent, perform a [Check]. If you succeeded, put this character onto your energy area as [Rest]. If you failed, put this character onto your member area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-030",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-030S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Slave Strikes Twice, Tonegawa",
+        "JP": "\u5974\u96B7\u306F\u4E8C\u5EA6\u523A\u3059 \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, look at 3 cards from the top of your deck, reveal up to 2 Rebirths from among them, add them to your hand, and put the rest on the bottom of your deck in any order.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF12\u679A\u307E\u3067\u516C\u958B\u3057\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Entry):[Cost (4)], choose a character from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-031",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-031S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Loser, Tonegawa",
+        "JP": "\u6557\u5317\u8005 \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into your retire area by your opponent\u0027s attack, choose 1 of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30A2\u30BF\u30C3\u30AF\u3067\u30EA\u30BF\u30A4\u30A2\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-032",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-032S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Transformation to Tyranny, Tonegawa",
+        "JP": "\u6A2A\u66B4\u306A\u308B\u5909\u8C8C \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s [Rest] members, put it into the waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-033",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-033S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3053\u3093\u3070\u3093\u306F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ship of Hope, Tonegawa",
+        "JP": "\u5E0C\u671B\u306E\u8239 \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3053\u3093\u3070\u3093\u306F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-034",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-034S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Foolish Murderer, Tonegawa",
+        "JP": "\u9593\u629C\u3051\u306A\u4EBA\u6BBA\u3057 \u5229\u6839\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Cost (1)], and look at all cards in your opponent\u0027s hand. At the end of this turn, put this character on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-035",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-035S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_035s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-035SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_035SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bottomless Desire, Hyodo",
+        "JP": "\u5E95\u77E5\u308C\u306C\u6B32\u671B \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 7][1/Turn]:[Cost (3)], and this character\u0027s next attack this turn becomes a partner attack. Perform a [Check]. If you succeeded, put the top card of your deck onto your energy area as [Rest], choose 1 of your opponent\u0027s members, and put it on the bottom of the deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-036",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-036S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "King\u0027s Name, Hyodo",
+        "JP": "\u738B\u306E\u540D\u524D \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):At the start of your main phase, [put this character on the bottom of your deck], put 2 cards from the top of your deck onto your energy area, choose 1 of your energy, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304D\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-037",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-037S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dancing Cells, Hyodo",
+        "JP": "\u8E0A\u308B\u7D30\u80DE \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character retires an opponent\u0027s character, if you have 5 or more energy, [choose 1 of your members, and put it into the waiting room], choose 1 of your opponent\u0027s members, and put it on the bottom of the deck.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF15\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-038",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-038S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u9ED2\u5E55\u30FB\u30FB\u30FB\u30FB\u2049\n\u3053\u306E\u7537\u304C\u3063\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u2049"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Teiai Corporation Chairman, Hyodo",
+        "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7\u4F1A\u9577 \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u9ED2\u5E55\u30FB\u30FB\u30FB\u30FB\u2049\n\u3053\u306E\u7537\u304C\u3063\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u2049"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-039",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-039S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u697D\u3057\u3044\u30FB\u30FB\u30FB\u30FB\n\u3044\u3084\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u697D\u3057\u3081\u305D\u3046\u306A\u7537\u3058\u3083\u306A\u3044\u304B\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Spectating from Afar, Hyodo",
+        "JP": "\u9AD8\u307F\u306E\u898B\u7269 \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u697D\u3057\u3044\u30FB\u30FB\u30FB\u30FB\n\u3044\u3084\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\n\u697D\u3057\u3081\u305D\u3046\u306A\u7537\u3058\u3083\u306A\u3044\u304B\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:Your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-040",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-040S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The One and Only Truth, Hyodo",
+        "JP": "\u4E00\u4E8B\u3060\u3051\u306E\u771F\u5B9F \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose 1 of your members, and put it into the waiting room], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-041",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-041S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_041s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Proof of Big Words, Hyodo",
+        "JP": "\u5927\u8A00\u306E\u8A3C\u660E \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:Each player chooses a card from their hand, and presents it face down. Reveal those cards, and each player who revealed a character with the highest Cost among them draws up to 1 card. (Draw even if the highest Cost is tied)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u88CF\u5411\u304D\u3067\u63D0\u793A\u3059\u308B\u3002\u305D\u308C\u3089\u3092\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u3067\u3001\u6700\u3082\u5927\u304D\u3044\u30B3\u30B9\u30C8\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3057\u305F\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\uFF11\u679A\u307E\u3067\u5F15\u304F\u3002\uFF08\u6700\u3082\u5927\u304D\u3044\u30B3\u30B9\u30C8\u304C\u540C\u3058\u3067\u3082\u5F15\u3051\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-042",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-042S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Third Condition, Hyodo",
+        "JP": "\u4E09\u3064\u76EE\u306E\u6761\u4EF6 \u5175\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-043",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-043S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Number Two of the Kingdom, Kurosaki",
+        "JP": "\u738B\u56FD\u306E\u30CA\u30F3\u30D0\u30FC2 \u9ED2\u5D0E"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 5]:[Cost (3)], and put this character onto your open member area. If you put, choose a card from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-044",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-044S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Benevolent Exception, Kurosaki",
+        "JP": "\u6148\u60B2\u306E\u7279\u4F8B \u9ED2\u5D0E"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [put this character on the bottom of your deck], and the supported character gets \u002B3/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-045",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-045S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kingdom Special A-Class Residency Grant, Kurosaki",
+        "JP": "\u738B\u56FD\u7279A\u5C45\u4F4F\u6A29\u6388\u4E0E \u9ED2\u5D0E"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:If you have 3 or more members, this character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-046",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-046S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Praise for Finishing the Run, Blacksuits",
+        "JP": "\u5B8C\u8D70\u306E\u79F0\u8CDB \u9ED2\u670D"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, the damage the blocked character took becomes zero.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u30AD\u30E3\u30E9\u304C\u53D7\u3051\u3066\u3044\u308B\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-047",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-047S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Branding the Fallen Ones, Blacksuits",
+        "JP": "\u5815\u3061\u305F\u8005\u3078\u306E\u713C\u304D\u5370 \u9ED2\u670D"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][1/Turn]:[Cost (2)], choose up to 3 \u0022Blacksuits\u0022 from your hand, and put them onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u9ED2\u670D\u300B\u3092\uFF13\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-048",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-048S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Current Demonstration, Blacksuits",
+        "JP": "\u96FB\u6D41\u30C7\u30E2\u30F3\u30B9\u30C8\u30EC\u30FC\u30B7\u30E7\u30F3 \u9ED2\u670D"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT]:You may have more than four of this character in your deck.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306F\u30C7\u30C3\u30AD\u306B\uFF14\u679A\u3088\u308A\u591A\u304F\u5165\u308C\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-049",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-049S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Meticulous Provision, Blacksuits",
+        "JP": "\u5468\u5230\u306A\u7528\u610F \u9ED2\u670D"
+      },
+      "Traits": [
+        {
+          "EN": "Teiai Corporation",
+          "JP": "\u5E1D\u611B\u30B0\u30EB\u30FC\u30D7"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], choose a character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-050",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-050S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Entrusted Will, Ishida",
+        "JP": "\u8A17\u3057\u305F\u907A\u8A00 \u77F3\u7530"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put into the waiting room from your member area by a card effect, choose 1 of your entries, and that character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-051",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-051S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Final Obstinacy, Ishida",
+        "JP": "\u6700\u5F8C\u306E\u610F\u5730 \u77F3\u7530"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (2)], declare a number from 1 to 9, and reveal the top card of your deck. If that card is a character with the same cost as the number declared, put it onto your energy area as [Rest]. If not, put that card and this character into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\uFF11\uFF5E\uFF19\u306E\u6570\u5B57\u3092\uFF11\u3064\u5BA3\u8A00\u3057\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u516C\u958B\u3059\u308B\u3002\u305D\u306E\u30AB\u30FC\u30C9\u304C\u5BA3\u8A00\u3057\u305F\u6570\u5B57\u3068\u540C\u3058\u30B3\u30B9\u30C8\u306E\u30AD\u30E3\u30E9\u306A\u3089\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u9055\u3046\u306A\u3089\u3001\u305D\u306E\u30AB\u30FC\u30C9\u3068\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-052",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-052S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3053\u304B\u306B\u3044\u308B\u306F\u305A\u3060\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Deceived Man, Ishida",
+        "JP": "\u9A19\u3055\u308C\u305F\u7537 \u77F3\u7530"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3069\u3053\u304B\u306B\u3044\u308B\u306F\u305A\u3060\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Look at all cards in your opponent\u0027s hand, choose a character from among them, and this character\u0027s original ATK becomes the same as that character\u0027s ATK.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u3066\u3001\u305D\u306E\u4E2D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u5143\u3005\u306EATK\u306F\u305D\u306E\u30AD\u30E3\u30E9\u306EATK\u3068\u540C\u3058\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-053",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-053S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Corroded Means, Furuhata",
+        "JP": "\u8150\u8755\u3057\u305F\u7B97\u6BB5 \u53E4\u7551"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Put a [Growing] from your hand into the waiting room], choose 1 of your [Growing] entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-054",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-054S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Trigger of the Fall, Furuhata",
+        "JP": "\u5815\u3061\u305F\u304D\u3063\u304B\u3051 \u53E4\u7551"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 6,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-055",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-055S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Corroded Means, Ando",
+        "JP": "\u8150\u8755\u3057\u305F\u7B97\u6BB5 \u5B89\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo]:When this character retires an opponent\u0027s character, choose up to 1 [Growing] from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-056",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-056S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "In a Vortex of Despair, Ando",
+        "JP": "\u7D76\u671B\u306E\u6E26\u4E2D \u5B89\u85E4"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-057",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-057S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_057s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Just Twenty Minutes of Betrayal, Funai",
+        "JP": "\u308F\u305A\u304B20\u5206\u306E\u88CF\u5207\u308A \u8239\u4E95"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:You may perform a [Check]. If you succeeded, choose 2 of your opponent\u0027s members, put them into the waiting room, and if you failed, choose 1 of your members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u3088\u3044\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u8CA0\u3051\u306A\u3089\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-058",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-058S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Clear-headed Man, Funai",
+        "JP": "\u3055\u3048\u3066\u308B\u7537 \u8239\u4E95"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When you fail a [Check], [put this character on the bottom of your deck], choose the card put into the waiting room for that [Check], and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30C1\u30A7\u30C3\u30AF\u3067\u3042\u306A\u305F\u304C\u8CA0\u3051\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u305D\u306E\u30C1\u30A7\u30C3\u30AF\u3067\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u30AB\u30FC\u30C9\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-059",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-059S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "All for Nothing, Funai",
+        "JP": "\u5168\u3066\u6C34\u306E\u6CE1 \u8239\u4E95"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have no cards in your hand, draw 2 cards. At the end of the turn you drew a card by this effect, if you have 1 or more cards in your hand, put this character and all cards in your hand into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\u304C\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002\u3053\u306E\u52B9\u679C\u3067\u5F15\u3044\u305F\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306E\u624B\u672D\u304C\uFF11\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-060",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-060S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The nonexistent \u0022X\u0022, Funai",
+        "JP": "\u3044\u306A\u304B\u3063\u305F\u300CX\u300D\u8239\u4E95"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have no members, you may put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u306A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-061",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-061S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Bunch that Bought Out all Paper, Kitami",
+        "JP": "\u30D1\u30FC\u3092\u8CB7\u3044\u5360\u3081\u305F\u9023\u4E2D \u5317\u898B"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Put a card from your hand into the waiting room], and if the number of cards in your hand is odd, perform a [Check]. If you succeeded, this character gets \u002B3/\u00B10 until end of turn. If you failed, choose 1 of your members, and put it into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306E\u624B\u672D\u306E\u679A\u6570\u304C\u5947\u6570\u306A\u3089\u3001\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-062",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-062S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Birds of a Feather, Kitami",
+        "JP": "\u540C\u3058\u7A74\u306E\u30E0\u30B8\u30CA \u5317\u898B"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-063",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-063S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Composed about Returning Alive, Okabayashi",
+        "JP": "\u751F\u9084\u3078\u306E\u4F59\u88D5 \u5CA1\u6797"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 5,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room):[Cost (2)], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-064",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-064S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Snatched Jewel, Okabayashi",
+        "JP": "\u63A0\u3081\u3089\u308C\u305F\u5B9D\u77F3 \u5CA1\u6797"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-065",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-065S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hostage\u0027s Money, Okabayashi",
+        "JP": "\u4EBA\u8CEA\u306E\u91D1 \u5CA1\u6797"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-066",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-066S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Encouragement to Survive, Sahara",
+        "JP": "\u751F\u9084\u3078\u306E\u53F1\u54A4\u6FC0\u52B1 \u4F50\u539F"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and you may put it onto your member area. if you put a \u0022Kaiji\u0022 or an \u0022Ishida\u0022, this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u300A\u30AB\u30A4\u30B8\u300B\u304B\u300A\u77F3\u7530\u300B\u3092\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-067",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-067S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Snatched Future, Sahara",
+        "JP": "\u3082\u304E\u53D6\u3089\u308C\u305F\u672A\u6765 \u4F50\u539F"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose 1 of your members, and put it into the waiting room], choose 1 each of your opponent\u0027s entries and [Rest] members, and put them on the bottom of your opponent\u0027s deck in any order.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u76F8\u624B\u306E\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-068",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-068S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Desired Breakthrough Point, Sahara",
+        "JP": "\u6C42\u3081\u3066\u3044\u305F\u7A81\u7834\u53E3 \u4F50\u539F"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have 3 or more members, choose up to 2 of your allied members, and put them on the bottom of the deck in any order.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u671B\u3080\u9806\u3067\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-069",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-069S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_069s.png"
+          ]
+        },
+        {
+          "Serial": "KJ/001B-069SP",
+          "Rarity": "SP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_069SP.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "No-count, Otsuki",
+        "JP": "\u30CE\u30FC\u30AB\u30A6\u30F3\u30C8 \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put into the waiting room by this character\u0027s [Cancel], you may perform a [Check]. If you succeeded, draw a card. If you failed, choose 1 of your members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u3088\u3044\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-070",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-070S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Refusal, Otsuki",
+        "JP": "\u62D2\u7D76 \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[ACT](Waiting room)[ReCombo][Skill Showcase Level 5]:[Cost (3)], and put this character onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-071",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-071S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u6CE8\u6587\u3057\u3066\u304A\u3044\u305F\u3082\u306E\u304C \u3084\u3063\u3068\u51FA\u6765\u4E0A\u304C\u3063\u305F..........\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magical Dice, Otsuki",
+        "JP": "\u9B54\u6CD5\u306E\u8CFD \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u6CE8\u6587\u3057\u3066\u304A\u3044\u305F\u3082\u306E\u304C \u3084\u3063\u3068\u51FA\u6765\u4E0A\u304C\u3063\u305F..........\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 7][1/Turn]:When this character attacks, perform a [Check]. If you succeeded, choose a [Cancel] from your waiting room, and return it to your hand. If a Cost is 4, 5, or 6 character was put into the waiting room of this [Check], choose 1 of those characters, and put it onto your member area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u3053\u306E\u30C1\u30A7\u30C3\u30AF\u3067\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u306B\u30B3\u30B9\u30C8\u304C\u3001\uFF14\u304B\uFF15\u304B\uFF16\u306E\u30AD\u30E3\u30E9\u304C\u7F6E\u304B\u308C\u305F\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u305D\u308C\u3089\u306E\u4E2D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-072",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-072S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u300C\u5F53\u7136\u8CA0\u3051\u308B..!\n\u8CA0\u3051\u308B....!\n\u8CA0\u3051\u7D9A\u3051\u308B..!\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_072s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Historical Crushing Defeat, Otsuki",
+        "JP": "\u6B74\u53F2\u7684\u5927\u6557 \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u300C\u5F53\u7136\u8CA0\u3051\u308B..!\n\u8CA0\u3051\u308B....!\n\u8CA0\u3051\u7D9A\u3051\u308B..!\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:You may perform a [Check]. If you failed, choose a card from your hand, put it on the bottom of your deck, choose a [Cancel] from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u3088\u3044\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304D\u3001\u63A7\u3048\u5BA4\u304B\u3089\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-073",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-073S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Third Throw of Fate, Otsuki",
+        "JP": "\u904B\u547D\u306E\u4E09\u6295\u76EE \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5]:[Cost (2), and put this character on the bottom of your deck], choose a Cost 4, 5, or 6 character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u30B3\u30B9\u30C8\u304C\u3001\uFF14\u304B\uFF15\u304B\uFF16\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-074",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-074S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Foreman\u0027s Duty, Otsuki",
+        "JP": "\u73ED\u9577\u306E\u52D9\u3081 \u5927\u69FB"
+      },
+      "Traits": [
+        {
+          "EN": "Foreman",
+          "JP": "\u73ED\u9577"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-075",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-075S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Composure of the Strong, Isawa",
+        "JP": "\u5F37\u8005\u306E\u4F59\u88D5 \u77F3\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:Your opponent\u0027s first attack each turn cannot be a partner attack.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        },
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5]:[Cost (2)], choose 1 of your entries, and exchange its position with this character. End this phase.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u3053\u306E\u30D5\u30A7\u30A4\u30BA\u3092\u7D42\u4E86\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-076",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-076S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Interest in the Proposal, Isawa",
+        "JP": "\u63D0\u6848\u3078\u306E\u95A2\u5FC3 \u77F3\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-077",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-077S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Revenge in the Name of Punishment, Isawa",
+        "JP": "\u5236\u88C1\u3068\u3044\u3046\u540D\u306E\u5831\u5FA9 \u77F3\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-078",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-078S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u77F3\u548C\u30FB\u30FB\u30FB\u30FB\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Silence after being Exposed, Isawa",
+        "JP": "\u66B4\u9732\u304B\u3089\u306E\u6C88\u9ED9 \u77F3\u548C"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u77F3\u548C\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character cannot be put onto your member area other than by card effects until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u52B9\u679C\u4EE5\u5916\u3067\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3051\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-079",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-079S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Forceful Means, Numakawa",
+        "JP": "\u5F37\u786C\u624B\u6BB5 \u6CBC\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a character from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-080",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-080S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Anxiety about the Dice Race, Numakawa",
+        "JP": "\u30B7\u30B4\u30ED\u8CFD\u3078\u306E\u4E0D\u5B89 \u6CBC\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, [put this character on the bottom of your deck], choose 1 of your Cost 4, 5, or 6 \u0022Otsuki\u0022 members, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u300A\u5927\u69FB\u300B\u304B\u30B3\u30B9\u30C8\u304C\u3001\uFF14\u304B\uFF15\u304B\uFF16\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-081",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-081S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Further Greed, Numakawa",
+        "JP": "\u3055\u3089\u306A\u308B\u6B32\u5FC3 \u6CBC\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark]:Each player chooses a card from their hand, and they may put it onto their energy area as [Rest]. (Each player decides)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u5404\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF08\u305D\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u304C\u6C7A\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-082",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-082S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u6CBC\u5DDD\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Undefendable Truth, Numakawa",
+        "JP": "\u64C1\u8B77\u3067\u304D\u306A\u3044\u4E8B\u5B9F \u6CBC\u5DDD"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u6CBC\u5DDD\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:You may perform a [Check]. If you failed, choose a card from your hand, put it on the bottom of your deck, and put this character onto your member area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u3088\u3044\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-083",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-083S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_083s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pinzoro, Miyoshi",
+        "JP": "\u30D4\u30F3\u30BE\u30ED \u4E09\u597D"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (2)], and put this character onto your member area. If you put, the next character to be put onto your entry area gets \u002B1/\u00B10 until end of turn. If that character is a \u0022Kaiji\u0022 or a \u002245ers\u0022, then it gets an additional \u002B2/\u00B10.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u305D\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u30AD\u30E3\u30E9\u304C\u3001\u300A\u30AB\u30A4\u30B8\u300B\u304B\u300A45\u7D44\u300B\u306A\u3089\u3001\u3055\u3089\u306B\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-084",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-084S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Personality Disorder, Miyoshi",
+        "JP": "\u4EBA\u683C\u7834\u7DBB\u8005 \u4E09\u597D"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (4)], choose 1 of your entries, and put it on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-085",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-085S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u304C\u3093\u3070\u308A\u307E\u3057\u3087\u3046\u2026\u2026\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unsavable Man, Miyoshi",
+        "JP": "\u6551\u3048\u306A\u3044\u7537 \u4E09\u597D"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304C\u3093\u3070\u308A\u307E\u3057\u3087\u3046\u2026\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area, choose 1 of your entries, and that character gets \u002B1/\u002B1 until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-086",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-086S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Match Time, 45ers",
+        "JP": "\u52DD\u8CA0\u306E\u6642 45\u7D44"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[1/Turn]:When your member is put into the waiting room by your opponent\u0027s card effect, choose up to 1 character from your hand, and put it onto your member area. After you put, if you have 3 or more \u002245ers\u0022 or Cost 1 characters on your member area, your members cannot be chosen by your opponent until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\u76F8\u624B\u306E\u52B9\u679C\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u5F8C\u306B\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A45\u7D44\u300B\u304B\u30B3\u30B9\u30C8\uFF11\u306E\u30AD\u30E3\u30E9\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-087",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-087S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_087s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unity, 45ers",
+        "JP": "\u7D50\u675F 45\u7D44"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-088",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-088S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hiromitsu Ishida",
+        "JP": "\u77F3\u7530 \u5E83\u5149"
+      },
+      "Traits": [
+        {
+          "EN": "Gambling",
+          "JP": "\u8CED\u535A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-089",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-089S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Act of Madness",
+        "JP": "\u72C2\u6C17\u306E\u6C99\u6C70"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u306F\u8FFD\u52A0\u3067\u3082\u3046\u4E00\u5EA6\u767A\u52D5\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-090",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-090S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "15 Years at the Bottom of this Place\u2026!",
+        "JP": "\u3053\u306E\u5730\u306E\u5E95\u306715\u5E74\u3063\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest]",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-091",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-091S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Silently\u2026\u2026\u2026\u2026\u2026.!",
+        "JP": "\u7121\u8A00\u3067\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u203C"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-092",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-092S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_092s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Final Fight",
+        "JP": "\u6700\u5F8C\u306E\u6226\u3044"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-093",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-093S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Indescribable Pain and Fear",
+        "JP": "\u7B46\u820C\u306B\u5C3D\u304F\u3057\u304C\u305F\u3044\u75DB\u307F\u3068\u6050\u308C"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your opponent\u0027s entry gets -1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0D\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:Perform a [Check]. If you succeeded, choose up to 1 character from your waiting room, put it onto your entry area, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn. If you failed, choose 1 of your members, and put it into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\u3042\u306A\u305F\u306F\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3002\u305D\u308C\u3067\u3042\u306A\u305F\u304C\u52DD\u3061\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u8CA0\u3051\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-094",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-094S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magical Dice",
+        "JP": "\u9B54\u6CD5\u306E\u8CFD"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-095",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-095S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Crowd filled with Stars",
+        "JP": "\u661F\u6E80\u305F\u306C\u8005"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-096",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-096S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Push..",
+        "JP": "\u62BC\u305B\u3063\u30FB\u30FB"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-097",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-097S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Life Risking Chance",
+        "JP": "\u547D\u3092\u5F35\u308B\u6A5F\u4F1A"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-098",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-098S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Brave men road",
+        "JP": "Brave men road"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-099",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-099S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "This is the Retribution\u2026\u2026. for your Cheating\u2026!",
+        "JP": "\u3053\u308C\u304C\u304A\u307E\u3048\u306E\u30A4\u30AB\u30B5\u30DE\u306E\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u30FB\u5831\u3044\u3063\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-100",
+      "Alternates": [
+        {
+          "Serial": "KJ/001B-100S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "With their Hands at the Time of God\u2026.!",
+        "JP": "\u795E\u306E\u6642\u9593\u306B\u624B\u3092\u30FB\u30FB\u30FB\u30FB\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark]",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into the waiting room], and the next character to be put on your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u56DE\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P001PP",
+      "Name": {
+        "EN": "Kaiji Itou",
+        "JP": "\u4F0A\u85E4 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P001PP.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P002PP",
+      "Name": {
+        "EN": "Kaiji Itou",
+        "JP": "\u4F0A\u85E4 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P002PP.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P003PP",
+      "Name": {
+        "EN": "Kaiji Itou",
+        "JP": "\u4F0A\u85E4 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P003PP.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P004",
+      "Name": {
+        "EN": "Kaiji Itou",
+        "JP": "\u4F0A\u85E4 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P005",
+      "Name": {
+        "EN": "Kaiji Itou",
+        "JP": "\u4F0A\u85E4 \u30AB\u30A4\u30B8"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P006",
+      "Name": {
+        "EN": "Yuji Endo",
+        "JP": "\u9060\u85E4 \u52C7\u6B21"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P007",
+      "Name": {
+        "EN": "Yukio Tonegawa",
+        "JP": "\u5229\u6839\u5DDD \u5E78\u96C4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P008",
+      "Name": {
+        "EN": "Kazutaka Hyodo",
+        "JP": "\u5175\u85E4 \u548C\u5C0A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    },
+    {
+      "Serial": "KJ/001B-P009",
+      "Name": {
+        "EN": "Yoshihiro Kurosaki",
+        "JP": "\u9ED2\u5D0E \u7FA9\u88D5"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/KJB/KJ_001B_P009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "KJ/001B"
+      }
+    }
+  ]
+}

@@ -54,30 +54,42 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private IAsyncEnumerable<R4UCard> ParseSetListPage(IDocument document)
         {
             Log.Information("Parsing as Set List page...");
-            var postContent = document.QuerySelector(".post-content");
             var setMap = new Dictionary<string, R4UReleaseSet>();
-            var allDivs = postContent.QuerySelectorAll(".wp-block-image").AsEnumerable()
-                .Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"))
-                .Concat(postContent.QuerySelectorAll(".wp-block-group"));
-
-            return allDivs.ToAsyncEnumerable().SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable());
+            return PatchExceptionalListFormats(document).SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable());
         }
 
         private IAsyncEnumerable<R4UCard> ParseTagPage(IDocument document)
         {
             Log.Information("Parsing as Tag page...");
             var setMap = new Dictionary<string, R4UReleaseSet>();
-            return document.QuerySelectorAll(".tag-cotd").AsEnumerable()
+            var querySelector = document.QuerySelectorAll(".tag-cotd").AsEnumerable()
                 .Select(a => a.QuerySelector<IHtmlAnchorElement>(".post-title > a").Href)
                 .ToAsyncEnumerable()
                 .SelectAwait(async a => await new Uri(a).DownloadHTML(("Referer", "rebirthforyourenegades.wordpress.com")).WithRetries(10))
-                .SelectMany(d => d.QuerySelectorAll(".wp-block-group")
-                                    .Concat(d.QuerySelectorAll(".wp-block-image"))
-                                    .Concat(d.QuerySelectorAll(".wp-block-jetpack-slideshow"))
-                                    .ToAsyncEnumerable()
-                                    )
-                .SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable())
-                ;
+                .SelectMany(PatchExceptionalListFormats);
+
+            return querySelector.SelectMany(f => CreateBaseCards(f, setMap).ToAsyncEnumerable());
+        }
+
+        private IAsyncEnumerable<IElement> PatchExceptionalListFormats(IDocument document)
+        {
+            Log.Information("Computing for all elements to parse: {}", document.DocumentUri.ToString());
+            var postContent = document.QuerySelector(".post-content");
+            var result = document.DocumentUri switch
+            {
+                // Alot of images for this site are missing and coalesced into a list of <p> tags
+                "https://rebirthforyourenegades.wordpress.com/2022/12/02/hp-007t-hololive-5th-gen-full-list/"
+                    => postContent.QuerySelectorAll(".wp-block-image").AsEnumerable()
+                        .Concat(postContent.QuerySelectorAll("p")
+                            .SkipWhile(e => e.InnerHtml.StartsWith("The full list, "))
+                        ),
+
+                // Default
+                _ => postContent.QuerySelectorAll(".wp-block-image").AsEnumerable()
+                    .Concat(postContent.QuerySelectorAll(".wp-block-jetpack-slideshow"))
+                    .Concat(postContent.QuerySelectorAll(".wp-block-group"))
+            };
+            return result.ToAsyncEnumerable();
         }
 
         private IEnumerable<R4UCard> CreateBaseCards(IElement figureOrImage, Dictionary<string, R4UReleaseSet> setMap)
@@ -91,7 +103,17 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             if (nextElementSibling.TagName.ToLower() == "figure")
             {
                 Log.Information("Another Figure is right after this Figure; we'll skip it and check for that figure instead.");
-                return Array.Empty<R4UCard>();
+                return Enumerable.Empty<R4UCard>();
+            }
+            if (nextElementSibling.ClassList.Contains("wp-block-group"))
+            {
+                Log.Information("Newer sets (starting from LycoReco) use a list of wp-block-groups; Skipping and Checking the Next Div.");
+                return Enumerable.Empty<R4UCard>();
+            }
+            if (figureOrImage.NextElementSibling is IHtmlSpanElement)
+            {
+                Log.Information("Under certain cirmstances <p> is used as a precursor to a set; <span> afterwards mean it's the ad html block. Skipping.");
+                return Enumerable.Empty<R4UCard>();
             }
             if (figureOrImage.NextElementSibling is IHtmlParagraphElement paragraph)
             {
@@ -433,36 +455,47 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 
                 // Exception due to a~q serial
                 "KGND/001B-095a~q[VA] Re ――これは、小さな奇跡の物語 –This, is the story of a small miracle"
-                => Enumerable.Range('a', 17)
-                    .Select(x => (char)x)
-                    .Select(c => (Serial: $"KGND/001B-095{c}[VA]", Rarity: "Re", Name: new MultiLanguageString { EN = "–This, is the story of a small miracle", JP = "――これは、小さな奇跡の物語" }))
-                    .ToArray(),
-                  
+                    => Enumerable.Range('a', 17)
+                        .Select(x => (char)x)
+                        .Select(c => (Serial: $"KGND/001B-095{c}[VA]", Rarity: "Re", Name: new MultiLanguageString { EN = "–This, is the story of a small miracle", JP = "――これは、小さな奇跡の物語" }))
+                        .ToArray(),
+
+                "LR/001T-017 TD 私はキミと会えて嬉しい！ I’m glad I was able to meet you"
+                    => Enumerable.Range('a', 2)
+                        .Select(x => (char)x)
+                        .Select(c => (
+                            Serial: $"LR/001T-017{c}", 
+                            Rarity: "TD", 
+                            Name: new MultiLanguageString { 
+                                EN = "I’m glad I was able to meet you", 
+                                JP = "私はキミと会えて嬉しい！"
+                            }
+                        ))
+                        .ToArray(),
+
                 "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null
             };  
             return exceptionalResult != null;
         }
 
-        private (String Serial, String Rarity, String NameJP, String NameEN) PatchExceptionalSerialRarityMatches(Match serialRarityNameMatch)
+        private SerialRarityNameRow PatchExceptionalSerialRarityMatches(Match serialRarityNameMatch)
         {
-            return serialRarityNameMatch switch
+            SerialRarityNameRow result = serialRarityNameMatch switch
             {
-                Match m when m.Groups[1].Value.StartsWith("HS/001B-P") && (m.Groups[2] is { Value: "SNP" or "PP" }) => 
-                (
-                    Serial: m.Groups[1].Value.Trim() + m.Groups[2].Value.Trim(),
-                    Rarity: serialRarityNameMatch.Groups[2].Value.Trim(),
-                    NameJP: rubyMatcher.Replace(serialRarityNameMatch.Groups[3].Value, "").Trim(),
-                    NameEN: serialRarityNameMatch.Groups[4].Value.Trim()
-                ),
+                Match m when m.Groups[1].Value.StartsWith("HS/001B-P") && (m.Groups[2] is { Value: "SNP" or "PP" }) =>
+                    new (Serial: m.Groups[1].Value.Trim() + m.Groups[2].Value.Trim()),
+                Match m when m.Groups[1].Value.StartsWith("KGND/001B-P") && !m.Groups[1].Value.EndsWith("[VA]") =>
+                    new (Serial: m.Groups[1].Value.Trim() + "[VA]"),
 
-                _ =>
-                (
-                    Serial: serialRarityNameMatch.Groups[1].Value.Trim(),
-                    Rarity: serialRarityNameMatch.Groups[2].Value.Trim(),
-                    NameJP: rubyMatcher.Replace(serialRarityNameMatch.Groups[3].Value, "").Trim(),
-                    NameEN: serialRarityNameMatch.Groups[4].Value.Trim()
-                )
+                _ => new()
+            };
+            return result with
+            {
+                Serial = result.Serial ?? serialRarityNameMatch.Groups[1].Value.Trim(),
+                Rarity = result.Rarity ?? serialRarityNameMatch.Groups[2].Value.Trim(),
+                NameJP = result.NameJP ?? rubyMatcher.Replace(serialRarityNameMatch.Groups[3].Value, "").Trim(),
+                NameEN = result.NameEN ?? serialRarityNameMatch.Groups[4].Value.Trim()
             };
         }
 
@@ -499,6 +532,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 ReleaseCode = releaseCode
             };
         }
-
     }
+
+    internal record SerialRarityNameRow (String Serial = null, String Rarity = null, String NameJP = null, String NameEN = null);
 }

@@ -1,0 +1,5002 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "LR/001B-001",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-001S",
+          "Rarity": "LR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Let\u0027s Go Together, Chisato \u0026amp; Takina",
+        "JP": "\u4E00\u7DD2\u306B\u884C\u3053\u3046 \u5343\u675F\u0026\u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022If We\u0027re Together\u0022][Skill Showcase Level 7][1/Turn]:When this character retires an opponent\u0027s character, [choose a card from your hand, and put it into the waiting room], and the next attack of your \u0022Chisato\u0022 or \u0022Takina\u0022 becomes a partner attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4E8C\u4EBA\u3067\u4E00\u7DD2\u306A\u3089\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3042\u306A\u305F\u306E\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put onto your member area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B",
+        "Name": "Booster Pack \"Lycoris Recoil\""
+      }
+    },
+    {
+      "Serial": "LR/001B-002",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-002S",
+          "Rarity": "LR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato \u0026amp; Takina",
+        "JP": "\u672C\u65E5\u3082\u55B6\u696D\u958B\u59CB\uFF01 \u5343\u675F\u0026\u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a character from your waiting room, put it onto your member area, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-003",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-003S",
+          "Rarity": "LR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Their Time together and the Future they chose, Chisato \u0026amp; Takina",
+        "JP": "\u3075\u305F\u308A\u306E\u6642\u9593\u3001\u9078\u3073\u53D6\u308B\u672A\u6765 \u5343\u675F\u0026\u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:At the start of your main phase, [put this character on the bottom of your deck], draw a card, and put the top card of your deck onto your energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-004",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-004SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-004ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Strongest Lycoris in History, Chisato",
+        "JP": "\u6B74\u4EE3\u6700\u5F37\u306E\u30EA\u30B3\u30EA\u30B9 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose a card from your waiting room, and put it onto your energy area as [Rest]. If you have a \u0022Takina\u0022 member, you may put from the top of your deck instead of from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u305F\u304D\u306A\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u63A7\u3048\u5BA4\u3067\u306F\u306A\u304F\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Partners from Today On\u0022][Skill Showcase Level 5]:This character gets \u002B2/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4ECA\u65E5\u304B\u3089\u76F8\u68D2\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-005",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-005SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-005ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mission Start, Chisato",
+        "JP": "\u30DF\u30C3\u30B7\u30E7\u30F3\u30B9\u30BF\u30FC\u30C8 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose 1 of your opponent\u0027s members, [Rest] it, and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-006",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-006SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-006ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Welcome, Chisato",
+        "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:[Choose 1 of your members, and put it onto your energy area as [Rest]], and this character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-007",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-007S",
+          "Rarity": "LR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "LycoReco Poster Girl, Chisato",
+        "JP": "\u30EA\u30B3\u30EA\u30B3\u306E\u770B\u677F\u5A18 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 7]:When this character is put onto your entry area other than from your deck, [you have one or more [Stand] energy, and [Rest] all of them], put this character onto your member area, and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u4EE5\u4E0A\u3059\u3079\u3066\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-008",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-008S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Truth of the Client, Chisato",
+        "JP": "\u4F9D\u983C\u4EBA\u306E\u771F\u5B9F \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each \u0022Chisato\u0022 in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u5343\u675F\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Mechanical Heart\u0022][Skill Showcase Level 5][1/Turn]:[Cost (1)], choose 2 of your members, and they cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6A5F\u68B0\u306E\u30CF\u30FC\u30C8\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u3089\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-009",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-009S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Summoning Cue, Chisato",
+        "JP": "\u547C\u3073\u51FA\u3057\u3067\u306E\u5408\u56F3 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (2)], choose a \u0022Takina\u0022 from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-010",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-010S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Their Own Paths, Chisato",
+        "JP": "\u305D\u308C\u305E\u308C\u306E\u9053 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022Time Spent Together\u0022][Skill Showcase Level 4]:[Cost (1), and put this character into the waiting room], choose 1 of your \u0022Chisato\u0022 or \u0022Takina\u0022 entries, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5171\u306B\u904E\u3054\u3057\u305F\u6642\u9593\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-011",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-011S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Opening Preparations, Chisato",
+        "JP": "\u958B\u5E97\u6E96\u5099 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your entry area other than from your deck, put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (3)], choose 1 of your \u0022Takina\u0022 entries, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-012",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-012S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Halloween, Chisato",
+        "JP": "\u30CF\u30ED\u30A6\u30A3\u30F3 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a card from your hand, put it into the waiting room], set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-013",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-013S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Overwhelm, Chisato",
+        "JP": "\u5727\u5012 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:You may put this character onto your open member area. When you put, if you have 3 or more members, the next character to be put on your entry area gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u7F6E\u3044\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-014",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-014S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "If I\u0027m With You, Chisato",
+        "JP": "\u541B\u3068\u4E00\u7DD2\u306A\u3089 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to 1 character from your energy area, put it onto your entry area, and that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-015",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-015S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Guarding with a Satchel, Chisato",
+        "JP": "\u30B5\u30C3\u30C1\u30A7\u30EB\u3067\u30AC\u30FC\u30C9 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT][Waiting room][ReCombo \u0022At This Place Again\u0022]:[Cost (3)], and put this character onto your entry area. If you put, choose up to 1 \u0022Takina\u0022 from your hand or waiting room, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u518D\u3073\u3053\u306E\u5834\u6240\u3078\u300B\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-016",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-016S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Prepared Sunday Clothes, Chisato",
+        "JP": "\u7528\u610F\u3057\u3066\u3044\u305F\u6674\u308C\u7740 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Cost (2)], choose a card from your hand, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D \u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-017",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-017S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u305F\u304D\u306A\u3068\u3044\u308C\u3070\u3055"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Enjoy Troubles, Chisato",
+        "JP": "\u30C8\u30E9\u30D6\u30EB\u3092\u697D\u3057\u3080 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305F\u304D\u306A\u3068\u3044\u308C\u3070\u3055"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your entry area other than from your deck, this character gets \u002B3/\u002B3 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-018",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-018S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3084\u308B\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Infiltration Operation, Chisato",
+        "JP": "\u6F5C\u5165\u4F5C\u6226 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3084\u308B\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 7]:When this character retires an opponent\u0027s character, choose 1 of your opponent\u0027s energy, and during your opponent\u0027s next turn, that energy does not [Stand].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u6B21\u306E\u76F8\u624B\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u306F\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3057\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-019",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-019S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Day Off Program, Chisato",
+        "JP": "\u4F11\u6687\u30D7\u30ED\u30B0\u30E9\u30E0 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supported, [put this character on the bottom of your deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-020",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-020S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u3046\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Two\u0027s Date, Chisato",
+        "JP": "\u4E8C\u4EBA\u3067\u30C7\u30FC\u30C8 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u2026\u2026\u3046\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:You may put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-021",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-021S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3067\u3082\u305D\u308C\u306F\u4ECA\u65E5\u3058\u3083\u306A\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Person not supposed to Exist, Chisato",
+        "JP": "\u3044\u306A\u3044\u306F\u305A\u306E\u4EBA \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3067\u3082\u305D\u308C\u306F\u4ECA\u65E5\u3058\u3083\u306A\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, [Cost (3)], and return this character to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2462\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-022",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-022S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3055\u3063\u3001\u5E30\u308D\u3046"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Remaining Time, Chisato",
+        "JP": "\u6B8B\u308A\u6642\u9593 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3055\u3063\u3001\u5E30\u308D\u3046"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-023",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-023S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3078\u3044\u304A\u5F85\u3061\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Special Menu, Chisato",
+        "JP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30E1\u30CB\u30E5\u30FC \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3078\u3044\u304A\u5F85\u3061\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-024",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-024S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3048\u3048\u3048\u3047\uFF01\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unbelievable Loss, Chisato",
+        "JP": "\u307E\u3055\u304B\u306E\u6557\u5317 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3048\u3048\u3048\u3047\uFF01\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a character from your energy area, and put it onto your entry area], and put this character onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Certain Victory Rock-Paper-Scissors\u0022][Skill Showcase Level 4]:When this character supports, the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5FC5\u52DD\u3058\u3083\u3093\u3051\u3093\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-025",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-025S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Counterattack, Chisato",
+        "JP": "\u53CD\u6483 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s members, and [Rest] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30EC\u30B9\u30C8\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-026",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-026S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3072\u3063\uFF01\uFF01\u2015\u2015\u304F\u30C3\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Close Call, Chisato",
+        "JP": "\u5371\u6A5F\u4E00\u9AEA \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3072\u3063\uFF01\uFF01\u2015\u2015\u304F\u30C3\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6]:[Choose 1 each of cards from your member area and hand, and put them into the waiting room], and return this character to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-027",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-027S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308A\u304C\u3068"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pleasant Present, Chisato",
+        "JP": "\u5B09\u3057\u3044\u30D7\u30EC\u30BC\u30F3\u30C8 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3042\u308A\u304C\u3068"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Cost (1)], and look at all cards in your opponent\u0027s hand. At the end of that turn, put this character on the bottom of your deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u624B\u672D\u3092\u3059\u3079\u3066\u898B\u308B\u3002\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-028",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-028S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30A6\u30C1\u306B\u6CCA\u307E\u3093\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cohabitation, Chisato",
+        "JP": "\u540C\u68F2\u751F\u6D3B \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30A6\u30C1\u306B\u6CCA\u307E\u3093\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When this character attacks, if you have more cards in your retire area than your opponent, this character gets \u002B3/\u00B10 until end of turn, and at the end of that turn, put this character on the bottom of your deck.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-029",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-029S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3061\u3001\u6CE8\u5C04\u3063"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Thing Not Good With, Chisato",
+        "JP": "\u82E6\u624B\u306A\u3082\u306E \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3061\u3001\u6CE8\u5C04\u3063"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each \u0022Chisato\u0022 in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u5343\u675F\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-030",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-030S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Zero Distance Shooting, Chisato",
+        "JP": "\u30BC\u30ED\u8DDD\u96E2\u5C04\u6483 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]:[Growing]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\uFF1A\u3010\u306E\u3073\u3057\u308D\u3011\n"
+        },
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards.",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[CONT]:This character\u0027s [Cancel] can only be used when you have a [Growing] entry.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u306F\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3010\u306E\u3073\u3057\u308D\u3011\u304C\u3044\u308B\u6642\u306E\u307F\u4F7F\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-031",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-031S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u5409\u677E\u300C\u305D\u3046\u3060\u3001\u305D\u308C\u3067\u3044\u3044\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Pulled Trigger, Chisato",
+        "JP": "\u5F15\u3044\u3066\u3057\u307E\u3063\u305F\u5F15\u304D\u91D1 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u5409\u677E\u300C\u305D\u3046\u3060\u3001\u305D\u308C\u3067\u3044\u3044\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-032",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-032S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Winter Clothes, Chisato",
+        "JP": "\u51AC\u670D \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:[Choose a card from your hand, and put it onto your energy area as [Rest]], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-033",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-033S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3048\u3001\u307E\u308B\u3054\u3068\u6A5F\u68B0\u306A\u3093\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-033s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Artificial Heart, Chisato",
+        "JP": "\u4EBA\u5DE5\u5FC3\u81D3 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3044\u3048\u3001\u307E\u308B\u3054\u3068\u6A5F\u68B0\u306A\u3093\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-034",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-034S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u305D\u306E\u901A\u308A\u3060\u3088\uFF01\n\u4F55\u3067\u898B\u305B\u305F\u306E\u79C1\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "When that Time Comes, Chisato",
+        "JP": "\u3044\u3056\u3068\u3044\u3046\u6642 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u305D\u306E\u901A\u308A\u3060\u3088\uFF01 \u4F55\u3067\u898B\u305B\u305F\u306E\u79C1\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], choose a character from your waiting room, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-035",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-035S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\uFF5E\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Payback, Chisato",
+        "JP": "\u4ED5\u8FD4\u3057 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\uFF5E\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a [Growing], [put this character on the bottom of your deck], and until end of that attack, the supported character gets \u002B3/\u00B10, and your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u306E\u3073\u3057\u308D\u3011\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-036",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-036S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shocking Spectacle, Chisato",
+        "JP": "\u885D\u6483\u306E\u5149\u666F \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-037",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-037S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3046\u30012\u56DE\u6B7B\u3093\u3067\u308B\u3088\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mock Battle, Chisato",
+        "JP": "\u6A21\u64EC\u6226 \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3082\u3046\u30012\u56DE\u6B7B\u3093\u3067\u308B\u3088\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo]:At the end of the attack this character supported, [put this character on the bottom of your deck], choose a [Growing] from your retire area, and exchange its position with your entry.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-038",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-038S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3068\u3044\u3046\u308F\u3051\u3067\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "After Closing Board Game Gathering, Chisato",
+        "JP": "\u9589\u5E97\u30DC\u30C9\u30B2\u4F1A \u5343\u675F"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3068\u3044\u3046\u308F\u3051\u3067\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, put it into the waiting room, choose 1 of your [Growing] members, and return it to your hand], and put this character onto your open member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3010\u306E\u3073\u3057\u308D\u3011\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-039",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-039SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-039ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Outstanding Lycoris, Takina",
+        "JP": "\u512A\u79C0\u306A\u30EA\u30B3\u30EA\u30B9 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Partners from Today On\u0022]:[Put a [Spark] from your hand into the waiting room], choose 1 of your \u0022Chisato\u0022 members, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u4ECA\u65E5\u304B\u3089\u76F8\u68D2\u300B\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u5343\u675F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 5]:When this character is put onto your member area, choose 1 of your opponent\u0027s members, and put it into the waiting room. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-040",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-040SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-040ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mission Start, Takina",
+        "JP": "\u30DF\u30C3\u30B7\u30E7\u30F3\u30B9\u30BF\u30FC\u30C8 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4][1/Turn]:[Cost (3)], choose 1 of your entries, and activate its [Spark] once.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3089\uFF11\u3064\u767A\u52D5\u3055\u305B\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-041",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-041SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-041ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Welcome, Takina",
+        "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-042",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-042S",
+          "Rarity": "LR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "LycoReco Accountant, Takina",
+        "JP": "\u30EA\u30B3\u30EA\u30B3\u306E\u7D4C\u7406 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose a character from your hand, and you may put it onto your entry area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-043",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-043S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Words of Comfort, Takina",
+        "JP": "\u6170\u3081\u306E\u8A00\u8449 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each \u0022Takina\u0022 on your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u305F\u304D\u306A\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Beating of the Chest\u0022][Skill Showcase Level 4]:[Cost (2)], choose up to 1 character from your hand, put it onto your member area, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u80F8\u306E\u9F13\u52D5\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-044",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-044S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Three Call Cue, Takina",
+        "JP": "3\u30B3\u30FC\u30EB\u306E\u5408\u56F3 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker] \u0022Chisato\u0022 or \u0022Takina\u0022",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u300A\u5343\u675F\u300Bor\u300A\u305F\u304D\u306A\u300B\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, choose 1 of your entries, and that character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-045",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-045S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Their Own Paths, Takina",
+        "JP": "\u305D\u308C\u305E\u308C\u306E\u9053 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022Perfect Schedule\u0022][Skill Showcase Level 3][1/Turn]:[Cost (2)], choose a \u0022Chisato\u0022 or a \u0022Takina\u0022 from your hand or energy area, and exchange its position with your entry.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5B8C\u74A7\u306A\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-046",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-046S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Management Check, Takina",
+        "JP": "\u7D4C\u55B6\u30C1\u30A7\u30C3\u30AF \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area, reveal 2 cards from the top of your deck, choose up to 2 Rebirths from among them, add them to your hand, put the rest into the waiting room, choose 1 of your \u0022Chisato\u0022 entries, and that character gets \u002B1/\u00B10 until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u300A\u5343\u675F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-047",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-047S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Halloween, Takina",
+        "JP": "\u30CF\u30ED\u30A6\u30A3\u30F3 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 7]:This character\u0027s next attack this turn becomes a partner attack.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-048",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-048S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30AF\u30EB\u30DF\u300C\u5343\u675F\u306E\u5FC3\u81D3\uFF01\u3082\u3046\u4E00\u3064\u3042\u308B\u305E\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "The Other Heart, Takina",
+        "JP": "\u3082\u3046\u4E00\u3064\u306E\u5FC3\u81D3 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AF\u30EB\u30DF\u300C\u5343\u675F\u306E\u5FC3\u81D3\uFF01\u3082\u3046\u4E00\u3064\u3042\u308B\u305E\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-049",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-049S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-049s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "If I\u0027m With You, Takina",
+        "JP": "\u541B\u3068\u4E00\u7DD2\u306A\u3089 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-050",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-050S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Place Supposed To Head Towards, Takina",
+        "JP": "\u5411\u304B\u3046\u3079\u304D\u5834\u6240 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Because I Cannot Save Her From Here\u0022][1/Turn]:When this character supports, choose 1 of your set \u0022Because I Cannot Save Her From Here\u0022 or \u0022If We\u0027re Together\u0022, return it to your hand, and the supported character gets \u002B2/\u00B10 until end of that attack. If this character supported a \u0022Chisato\u0022, then additionally, your opponent cannot use [Blocker] until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3053\u3053\u3067\u306F\u5F7C\u5973\u3092\u6551\u3048\u306A\u3044\u304B\u3089\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u3001\u300A\u3053\u3053\u3067\u306F\u5F7C\u5973\u3092\u6551\u3048\u306A\u3044\u304B\u3089\u300B\u304B\u300A\u4E8C\u4EBA\u3067\u4E00\u7DD2\u306A\u3089\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u300A\u5343\u675F\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u3089\u3001\u3055\u3089\u306B\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-051",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-051S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Overflowing Anger, Takina",
+        "JP": "\u6EA2\u308C\u51FA\u308B\u6012\u308A \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):If you have a \u0022Chisato\u0022 member, this character gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u5343\u675F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Member):When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-052",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-052S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Secret Destination, Takina",
+        "JP": "\u79D8\u5BC6\u306E\u884C\u304D\u5148 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from your hand, choose a \u0022Chisato\u0022 from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u5343\u675F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-053",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-053S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Infiltration Operation, Takina",
+        "JP": "\u6F5C\u5165\u4F5C\u6226 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your hand, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-054",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-054S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Minute-by-Minute Schedule, Takina",
+        "JP": "\u5206\u523B\u307F\u306E\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s [Rest] members for every 2 \u0022Takina\u0022 in your retire area, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u305F\u304D\u306A\u300B\uFF12\u679A\u306B\u3064\u304D\u3001\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-055",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-055S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5343\u675F\u300C\u304A\uFF1F\u304A\u3049\uFF1F\u304A\u304B\u3048\u308A\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "With Her Own Words, Takina",
+        "JP": "\u81EA\u5206\u306E\u8A00\u8449\u3067 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u5343\u675F\u300C\u304A\uFF1F\u304A\u3049\uFF1F\u304A\u304B\u3048\u308A\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:At the start of your main phase, [put this character on the bottom of your deck], choose 2 of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-056",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-056S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u306F\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Notice of Reinstatement, Takina",
+        "JP": "\u5FA9\u5E30\u306E\u8F9E\u4EE4 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3053\u308C\u306F\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each \u0022Takina\u0022 in your retire area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306E\u300A\u305F\u304D\u306A\u300B\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-057",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-057S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\uFF01\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-057s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sudden Reality, Takina",
+        "JP": "\u7A81\u304D\u3064\u3051\u3089\u308C\u305F\u73FE\u5B9F \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\uFF01\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo][Skill Showcase Level 5]:If you have a \u0022Chisato\u0022 or \u0022Takina\u0022 entry, your opponent cannot set Rebirths other than from entry area during your turn.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3067\u304D\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-058",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-058S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30DB\u30C3\u30C8\u30C1\u30E7\u30B3\u305F\u3063\u3077\u308A\u306A\u30D1\u30D5\u30A7\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New Menu, Takina",
+        "JP": "\u65B0\u30E1\u30CB\u30E5\u30FC \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30DB\u30C3\u30C8\u30C1\u30E7\u30B3\u305F\u3063\u3077\u308A\u306A\u30D1\u30D5\u30A7\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose an ATK 9 or DEF 9 character on your opponent\u0027s entry or member area, and put it into the waiting room], and put this character into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001ATK\uFF19\u304BDEF\uFF19\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-059",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-059S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30B8\u30E3\u30F3\u30FB\u30B1\u30F3\u2015"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Winning Strategy, Takina",
+        "JP": "\u5FC5\u52DD\u6CD5 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u30B8\u30E3\u30F3\u30FB\u30B1\u30F3\u2015"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose up to 1 character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022Fair Housework Allocation\u0022]:When this character supports, the supported character gets \u002B3/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u516C\u5E73\u306A\u5BB6\u4E8B\u5206\u62C5\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-060",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-060S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Surprise Attack, Takina",
+        "JP": "\u5947\u8972 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B1/\u00B10 until end of turn for each card in your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-061",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-061S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u771F\u5CF6\u306F\u5343\u675F\u304C\u5409\u677E\u3092\u635C\u3057\u3066\u3044\u308B\u306E\u3092\u77E5\u3063\u3066\u3044\u307E\u3057\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Abandoned Smartphone, Takina",
+        "JP": "\u7F6E\u304D\u53BB\u3089\u308C\u305F\u30B9\u30DE\u30DB \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u771F\u5CF6\u306F\u5343\u675F\u304C\u5409\u677E\u3092\u635C\u3057\u3066\u3044\u308B\u306E\u3092\u77E5\u3063\u3066\u3044\u307E\u3057\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area, choose 1 of your entries, and that character gets \u002B1/\u002B1 until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-062",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-062S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Because It\u0027s Important, Takina",
+        "JP": "\u5927\u5207\u3060\u304B\u3089 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s entries, and that character gets -2/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0D\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-063",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-063S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u5B89\u5168\u304C\u78BA\u4FDD\u3055\u308C\u308B\u307E\u306724\u6642\u9593\u4E00\u7DD2\u306B\u3044\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Act in Pair, Takina",
+        "JP": "\u30DA\u30A2\u3067\u884C\u52D5 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5B89\u5168\u304C\u78BA\u4FDD\u3055\u308C\u308B\u307E\u306724\u6642\u9593\u4E00\u7DD2\u306B\u3044\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s [Rest] members, put it into the waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-064",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-064S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unexpected Reason, Takina",
+        "JP": "\u4E88\u60F3\u5916\u306E\u7406\u7531 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:[Cost (3)], choose a character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-065",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-065S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30AF\u30EB\u30DF\u300C\u5F8C\u308D\u3060\u3001\u305F\u304D\u306A\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Caution Behind, Takina",
+        "JP": "\u5F8C\u65B9\u6CE8\u610F \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u30AF\u30EB\u30DF\u300C\u5F8C\u308D\u3060\u3001\u305F\u304D\u306A\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[1/Turn]:[Make a \u0022Chisato\u0022 or \u0022Takina\u0022 from your hand become this character\u0027s [Soul]], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u9B42\u3011\u306B\u3059\u308B\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Cost (2)], choose a \u0022Chisato\u0022 or a \u0022Takina\u0022 from your hand, and put it onto your member area. If you put, put this character into the waiting room.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-066",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-066S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Gaze of Contempt, Takina",
+        "JP": "\u4FAE\u8511\u306E\u773C\u5DEE\u3057 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-067",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-067S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Winter Clothes, Takina",
+        "JP": "\u51AC\u670D \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry):During the first attack of this character each turn, if you have a \u0022Chisato\u0022 member, this character gets \u002B5/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u5343\u675F\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-068",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-068S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3048\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unknown Fact, Takina",
+        "JP": "\u77E5\u3089\u306A\u3044\u4E8B\u5B9F \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3048\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put onto your member area, choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-069",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-069S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30D1\u30F3\u30C4\u3063\u3066\u3001\u898B\u305B\u308B\u3082\u306E\u3058\u3083\u306A\u304F\u306A\u3044\u3067\u3059\u304B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "When that Time Comes? Takina",
+        "JP": "\u3044\u3056\u3068\u3044\u3046\u6642\uFF1F \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u30D1\u30F3\u30C4\u3063\u3066\u3001\u898B\u305B\u308B\u3082\u306E\u3058\u3083\u306A\u304F\u306A\u3044\u3067\u3059\u304B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Cost (1)], choose a \u0022Chisato\u0022 from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u5343\u675F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-070",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-070S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3081\u3063\u3061\u3083\u53EF\u611B\u3044\u3067\u3059\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Payback, Takina",
+        "JP": "\u4ED5\u8FD4\u3057 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 5,
+      "ATK": 6,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3081\u3063\u3061\u3083\u53EF\u611B\u3044\u3067\u3059\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-071",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-071S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u5343\u675F\u300C\u3057\u3083\u30FC\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Revenge Success? Takina",
+        "JP": "\u30EA\u30D9\u30F3\u30B8\u6210\u529F\uFF1F \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u5343\u675F\u300C\u3057\u3083\u30FC\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-072",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-072S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u30CF\u30A1\u2026\u2026\u30CF\u30A1\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-072s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mock Battle, Takina",
+        "JP": "\u6A21\u64EC\u6226 \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u30CF\u30A1\u2026\u2026\u30CF\u30A1\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-072.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-073",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-073S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3082\u3046\u7D42\u308F\u308A\u307E\u3057\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Closing Tasks, Takina",
+        "JP": "\u9589\u5E97\u4F5C\u696D \u305F\u304D\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3082\u3046\u7D42\u308F\u308A\u307E\u3057\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-074",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-074S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mizuki",
+        "JP": "\u30DF\u30BA\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area from your hand, this character gets \u002B4/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-075",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-075S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Former DA, Mizuki",
+        "JP": "\u5143DA \u30DF\u30BA\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):When your member would be chosen by your opponent\u0027s card effect, this character is chosen first.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u76F8\u624B\u306F\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-076",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-076S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u30E0\u30B9\u30E1\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Daughter Separater At Birth? Mizuki",
+        "JP": "\u751F\u304D\u5225\u308C\u306E\u5A18\uFF1F \u30DF\u30BA\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u2026\u2026\u30E0\u30B9\u30E1\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand)[Skill Showcase Level 5]:[Cost (1), and reveal this character], choose 1 of your \u0022Kurumi\u0022 members, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u30AF\u30EB\u30DF\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-077",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-077S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u2026\u30C1\u30C3 \u5E30\u308D\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Helicopter Pilot, Mizuki",
+        "JP": "\u30D8\u30EA\u306E\u904B\u8EE2 \u30DF\u30BA\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u2026\u30C1\u30C3 \u5E30\u308D\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-078",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-078S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mika",
+        "JP": "\u30DF\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][1/Turn]:When this character retires an opponent\u0027s character, this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        },
+        {
+          "EN": "[AUTO](Member):When this character supports, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-079",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-079S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Noticed Intent, Mika",
+        "JP": "\u6C17\u304C\u4ED8\u3044\u305F\u610F\u56F3 \u30DF\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u2026\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 5]:Your entry gets \u00B10/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-080",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-080S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3042\u3001\u2015\u2015\u884C\u3063\u3066\u3053\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Send-off, Mika",
+        "JP": "\u898B\u9001\u308A \u30DF\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3042\u3042\u3001\u2015\u2015\u884C\u3063\u3066\u3053\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member):If this character is [Rest], and you have a [Rest] \u0022Shinji\u0022 member, this character cannot be chosen by your opponent.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u3066\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u300A\u30B7\u30F3\u30B8\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-081",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-081S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-081s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kurumi",
+        "JP": "\u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, [put this character on the bottom of your deck], put the top card of your deck onto your energy area as [Rest], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-081.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-082",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-082S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-082s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Identity of the Suitcase, Kurumi",
+        "JP": "\u30B9\u30FC\u30C4\u30B1\u30FC\u30B9\u306E\u6B63\u4F53 \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[Skill Showcase Level 4]:[Cost (4)], and put this character onto your member area. If you put, this character cannot be chosen by your opponent\u0027s characters until end of that attack.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-082.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-083",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-083S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u771F\u5CF6\u3055\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-083s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "None",
+        "JP": "\u7A81\u304D\u6B62\u3081\u305F\u6575\u306E\u540D \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u771F\u5CF6\u3055\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When your opponent heals, if it is your turn, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u76F8\u624B\u304C\u56DE\u5FA9\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-083.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-084",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-084S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "100\u5E74\u65E9\u3044\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-084s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "World\u0027s Best Hacker, Kurumi",
+        "JP": "\u4E16\u754C\u4E00\u306E\u30CF\u30C3\u30AB\u30FC \u30AF\u30EB\u30DF"
+      },
+      "Traits": [
+        {
+          "EN": "Cafe LycoReco",
+          "JP": "\u55AB\u8336\u30EA\u30B3\u30EA\u30B3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "100\u5E74\u65E9\u3044\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:If you have 3 or more members, choose a Cost 2 or less character from your hand, and you may put it onto your entry area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30B3\u30B9\u30C8\uFF12\u4EE5\u4E0B\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-084.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-085",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-085S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u9054\u3067\u3084\u308C\u307E\u3059\uFF01\u5C04\u6483\u8A31\u53EF\u3092\u304F\u3060\u3055\u3044\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-085s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fuki Harukawa",
+        "JP": "\u6625\u5DDD \u30D5\u30AD"
+      },
+      "Traits": [
+        {
+          "EN": "DA",
+          "JP": "DA"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u79C1\u9054\u3067\u3084\u308C\u307E\u3059\uFF01\u5C04\u6483\u8A31\u53EF\u3092\u304F\u3060\u3055\u3044\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 4]:During the first attack of this character each turn, this character gets \u002B5/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-085.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-086",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-086S",
+          "Rarity": "C\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3082\uFF5E\u3063\u3059\u3002\u4E59\u5973\u30B5\u30AF\u30E9\u3063\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-086s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sakura Otome",
+        "JP": "\u4E59\u5973 \u30B5\u30AF\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "DA",
+          "JP": "DA"
+        },
+        {
+          "EN": "Lycoris",
+          "JP": "\u30EA\u30B3\u30EA\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3069\u3082\uFF5E\u3063\u3059\u3002\u4E59\u5973\u30B5\u30AF\u30E9\u3063\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4]:[Put this character on the bottom of your deck], choose 1 of your opponent\u0027s entries, and put it on the bottom of the deck.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-086.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-087",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-087S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-087s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kusunoki",
+        "JP": "\u6960\u6728"
+      },
+      "Traits": [
+        {
+          "EN": "DA",
+          "JP": "DA"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "C",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-087.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-088",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-088S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3084\u3041\u3001\u30DF\u30AB\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-088s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shinji Yoshimatsu",
+        "JP": "\u5409\u677E \u30B7\u30F3\u30B8"
+      },
+      "Traits": [
+        {
+          "EN": "Alan Institute",
+          "JP": "\u30A2\u30E9\u30F3\u6A5F\u95A2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3084\u3041\u3001\u30DF\u30AB\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a \u0022Chisato\u0022 from your waiting room, and you may put it onto your member area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u5343\u675F\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-088.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-089",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-089S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-089s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Majima",
+        "JP": "\u771F\u5CF6"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Put the top card of your deck into the waiting room. If it is a Rebirth, choose all of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u305D\u308C\u304CRe\u30D0\u30FC\u30B9\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-089.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-090",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-090S",
+          "Rarity": "C\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-090s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Robota",
+        "JP": "\u30ED\u30DC\u592A"
+      },
+      "Traits": [],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "C",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-090.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-091",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-091S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-091s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "If We\u0027re Together",
+        "JP": "\u4E8C\u4EBA\u3067\u4E00\u7DD2\u306A\u3089"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[AUTO][1/Turn]:At the end of your character\u0027s attack, [choose 1 of your members, and put it onto your entry area], and put the character that was on your entry area onto your member area as [Rest]. If you put a \u0022Chisato\u0022 or a \u0022Takina\u0022 onto your entry or member area by this effect, choose 1 of your entries, and that character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3044\u305F\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3053\u306E\u52B9\u679C\u3067\u3001\u300A\u5343\u675F\u300B\u304B\u300A\u305F\u304D\u306A\u300B\u3092\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-091.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-092",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-092S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-092s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Partners from Today On",
+        "JP": "\u4ECA\u65E5\u304B\u3089\u76F8\u68D2"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark]",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into the waiting room], and the next character to be put on your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-092.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-093",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-093S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-093s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mechanical Heart",
+        "JP": "\u6A5F\u68B0\u306E\u30CF\u30FC\u30C8"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your opponent\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, choose a character from your waiting room, and you may return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-093.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-094",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-094S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u30DD\u30F3\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-094s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Certain Victory Rock-Paper-Scissors",
+        "JP": "\u5FC5\u52DD\u3058\u3083\u3093\u3051\u3093"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u30DD\u30F3\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest]",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-094.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-095",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-095S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3084\u308B\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-095s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Time Spent Together",
+        "JP": "\u5171\u306B\u904E\u3054\u3057\u305F\u6642\u9593"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u3084\u308B\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-095.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-096",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-096S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u2026\u2026\u884C\u304F\u304B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-096s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "At This Place Again",
+        "JP": "\u518D\u3073\u3053\u306E\u5834\u6240\u3078"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u2026\u2026\u884C\u304F\u304B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose a character from your waiting room, and you may put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-096.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-097",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-097S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u306F\u4ED6\u306E\u4EBA\u3044\u307E\u305B\u3093\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-097s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Beating of the Chest",
+        "JP": "\u80F8\u306E\u9F13\u52D5"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u4ECA\u306F\u4ED6\u306E\u4EBA\u3044\u307E\u305B\u3093\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-097.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-098",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-098S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u5171\u540C\u751F\u6D3B\u3092\u9001\u308B\u3046\u3048\u3067\u3001\u516C\u5E73\u306A\u5BB6\u4E8B\u5206\u62C5\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-098s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fair Housework Allocation",
+        "JP": "\u516C\u5E73\u306A\u5BB6\u4E8B\u5206\u62C5"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "JP": "\u5171\u540C\u751F\u6D3B\u3092\u9001\u308B\u3046\u3048\u3067\u3001\u516C\u5E73\u306A\u5BB6\u4E8B\u5206\u62C5\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-098.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-099",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-099S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-099s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Perfect Schedule",
+        "JP": "\u5B8C\u74A7\u306A\u30B9\u30B1\u30B8\u30E5\u30FC\u30EB"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-099.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-100",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-100S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-100s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Because I Cannot Save Her From Here",
+        "JP": "\u3053\u3053\u3067\u306F\u5F7C\u5973\u3092\u6551\u3048\u306A\u3044\u304B\u3089"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-100.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P001",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P001PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p001pp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato \u0026amp; Takina",
+        "JP": "\u5343\u675F\u0026\u305F\u304D\u306A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P002",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P002PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p002pp.png"
+          ]
+        },
+        {
+          "Serial": "LR/001B-P002S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato Nishikigi",
+        "JP": "\u9326\u6728 \u5343\u675F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P003",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P003S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato Nishikigi",
+        "JP": "\u9326\u6728 \u5343\u675F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P004",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P004S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato Nishikigi",
+        "JP": "\u9326\u6728 \u5343\u675F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P005",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P005S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chisato Nishikigi",
+        "JP": "\u9326\u6728 \u5343\u675F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P006",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P006PP",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p006pp.png"
+          ]
+        },
+        {
+          "Serial": "LR/001B-P006S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Takina Inoue",
+        "JP": "\u4E95\u30CE\u4E0A \u305F\u304D\u306A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P007",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P007S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Takina Inoue",
+        "JP": "\u4E95\u30CE\u4E0A \u305F\u304D\u306A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P008",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P008S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Takina Inoue",
+        "JP": "\u4E95\u30CE\u4E0A \u305F\u304D\u306A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P009",
+      "Alternates": [
+        {
+          "Serial": "LR/001B-P009S",
+          "Rarity": "NBP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Takina Inoue",
+        "JP": "\u4E95\u30CE\u4E0A \u305F\u304D\u306A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P010S",
+      "Name": {
+        "EN": "Lycoris Recoil",
+        "JP": "\u30EA\u30B3\u30EA\u30B9\u30FB\u30EA\u30B3\u30A4\u30EB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p010s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    },
+    {
+      "Serial": "LR/001B-P011S",
+      "Name": {
+        "EN": "Kurumi \u0026amp; Chisato",
+        "JP": "\u30AF\u30EB\u30DF\u0026\u5343\u675F"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "NBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/LRB/lr001b-p011s.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "LR/001B"
+      }
+    }
+  ]
+}

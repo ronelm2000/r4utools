@@ -99,6 +99,18 @@
     "Parse HS (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/10/05/hs-001t-hs-001b-full-set-list-translations/"
+    },
+    "Parse LR (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/11/22/lr-001t-lr-001b-full-set-list-translations/"
+    },
+    "Parse HP/007T (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2022/12/02/hp-007t-hololive-5th-gen-full-list/"
+    },
+    "Parse KJ (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/01/11/kj-001t-kj-001b-full-set-list-translations/"
     }
   }
 }

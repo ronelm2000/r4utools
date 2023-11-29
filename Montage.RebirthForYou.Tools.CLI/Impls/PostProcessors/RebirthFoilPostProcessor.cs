@@ -1,6 +1,7 @@
 ﻿using AngleSharp.Html.Dom;
 using Flurl;
 using Flurl.Http;
+using JasperFx.Core;
 using Montage.RebirthForYou.Tools.CLI.API;
 using Montage.RebirthForYou.Tools.CLI.Entities;
 using Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards;
@@ -10,12 +11,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
 {
     public class RebirthFoilPostProcessor : ICardPostProcessor, ISkippable<ICardSetParser>
     {
+        readonly Regex keywordSearchMatcher = new(@"(?:(.+?(?=\[(?:(?:.*))\]))(?:\[(?:(?:.*))\]))|(.+)");
         readonly string foilSearchURL = "https://rebirth-fy.com/cardlist/cardsearch?keyword=IMC%2F001T-001&keyword_type[]=no&search_type[]=or&expansion=&title=&card_kind=&cost_s=&cost_e=&atk_s=&atk_e=&def_s=&def_e=";
         public int Priority => 2;
 
@@ -36,7 +39,12 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 yield return card;
                 Log.Information("Getting possible foils for [{serial}]", card.Serial);
 
-                var urlRequest = new FlurlRequest(foilSearchURL).SetQueryParam("keyword", card.Serial);
+                var keywordMatch = keywordSearchMatcher.Match(card.Serial);
+                var keywordToUse = keywordMatch.Groups[1]?.Value;
+                if (keywordToUse?.IsEmpty() ?? true)
+                    keywordToUse = keywordMatch.Groups[2]?.Value;
+
+                var urlRequest = new FlurlRequest(foilSearchURL).SetQueryParam("keyword", keywordToUse);
                 Log.Debug("URL: {url}", urlRequest.Url);
                 var doc = await urlRequest.GetHTMLAsync();
                 var cardList = doc.QuerySelectorAll(".cardlist-item")
