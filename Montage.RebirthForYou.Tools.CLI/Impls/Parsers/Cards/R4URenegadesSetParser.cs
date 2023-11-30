@@ -17,6 +17,7 @@ using AngleSharp.Common;
 using CommandLine;
 using System.Reflection.Metadata.Ecma335;
 using System.ComponentModel;
+using System.Reactive.PlatformServices;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
@@ -395,8 +396,80 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                     }
                 },
 
+                "GU/002B-068" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (   EN:  """
+                                 [Spark]:Choose 1 between “Bread” and “Coffee“, and perform the following based on your choice.
+                                 Bread. Choose a character from your waiting room, and put it onto your open member area as [Rest].
+                                 Coffee. Your opponent chooses a character from their waiting room, and puts it onto their open member area as [Rest].
+                                 """,
+                            JP: null
+                        )
+                    }
+                },
+
+                "KS/002B-026" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (   EN: """
+                                [ACT](Member)[ReCombo “Resolution to Battle“][1/Turn]:[Choose 2 or more of your partners, and [Rest] them], and perform all of the following based on the number of chosen cards.
+                                2 or more: Choose 1 of your entries, and that character gets +3/±0 until end of turn.
+                                3: Draw a card, and put the top card of your deck onto your energy area.
+                                """,
+                            JP: null
+                        )
+                    }
+                },
+                "KS/002B-027" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (   EN: """
+                                [Spark]:Perform all of the following based on the characters on your member area.
+                                “Megumin“: Draw a card、choose a card from your hand, and put it into the waiting room.
+                                “Komekko“: Choose a character from your waiting room、and you may put it onto your open member area.
+                                Both “Megumin“ and “Komekko“: This character gets +3/+3 until end of turn.
+                                """,
+                            JP: null
+                        )
+                    }
+                },
+                "KS/002B-070" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (   EN: """
+                                [AUTO][Skill Showcase Level 4]:When this character is put onto your member area, choose 1 between “Dark God” and “Food“, and perform the following based on your choice. (Has priority over entry in)
+                                Dark God: Choose 1 of your opponent’s [Rest] members, and put it into the waiting room.
+                                Food: [Choose a card from your hand, and put it into the waiting room], and draw a card.
+                                """,
+                            JP: null
+                        )
+                    }
+                },
+                "KS/002B-091" => new RenegadesCharacterPatch
+                {
+                    FlavorText = (EN: "“Let the smoke from my explosion be a signal to the world’s mightiest!”", JP: null),
+                    Effects = new MultiLanguageString[]
+                    {
+                        (EN: "[Spark]:[Choose a card from your hand, and put it into the waiting room], choose up to 2 cards from your waiting room, and put them onto your energy area.", JP: null),
+                        (EN: "[AUTO][Skill Showcase Level 5]:When this Rebirth is set, [Cost (3)], choose the same number of your opponent’s members as cards in your retire area, and put them into the waiting room.", JP: null)
+                    }
+                },
+                "KS/002B-093" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (EN: "[Spark]:Choose up to 2 of your allied members, and put them into the waiting room.", JP: null),
+                        (EN: "[AUTO] When this Rebirth is set, if you have 3 or more cards in your retire area, choose one of your opponent’s entries or members, and put it into the waiting room.", JP: null)
+                    }
+                },
+
                _ => null
-            }; ;
+            };
         }
 
         private bool TryGetExceptionalSerialRarityName(string line, out (string Serial, string Rarity, MultiLanguageString Name)[] exceptionalResult)

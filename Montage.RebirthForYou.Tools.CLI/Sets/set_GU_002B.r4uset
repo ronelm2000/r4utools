@@ -1,0 +1,4457 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GU/002B-001",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-001GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-001gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Cocoa",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022I Can Take That Step Forward Because You Are Watching\u0022][Skill Showcase Level 6 \u003CRabbit House\u003E][1/Turn]:[Cost (2)], choose 1 of your opponent\u0027s members, and put it onto the entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u305D\u306E\u4E00\u6B69\u306F\u541B\u3092\u898B\u3066\u3044\u308B\u304B\u3089\u8E0F\u307F\u51FA\u305B\u308B\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5]:[Cost (3), and put this character on the bottom of your deck], choose 1 of your \u003CRabbit House\u003E entries, and return it to your hand.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B",
+        "Name": "Booster Pack \"Is the Order a Rabbit? BLOOM\" vol. 2"
+      }
+    },
+    {
+      "Serial": "GU/002B-002",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-002S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Cocoa",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CRabbit House\u003E]:[Choose 1 of your allied \u003CRabbit House\u003E, and put it into the waiting room], this character gets \u002B2/\u002B2 until end of turn, and if it is your turn, then choose up to 1 \u003CRabbit House\u003E from your waiting room, and put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3057\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u306A\u3089\u3001\u3055\u3089\u306B\u63A7\u3048\u5BA4\u304B\u3089\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-003",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-003S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30C1\u30CE\u300C\u30B3\u30B3\u30A2\u3055\u3093\u590F\u30D0\u30C6\u3067\u3059\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Heat Fatigue, Cocoa",
+        "JP": "\u590F\u30D0\u30C6 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CChino: \u201CCocoa is already suffering heat fatigue.\u201D\u201D",
+        "JP": "\u30C1\u30CE\u300C\u30B3\u30B3\u30A2\u3055\u3093\u590F\u30D0\u30C6\u3067\u3059\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5]:At the end of the attack this character supported, [choose this character and a card from your hand, and put them into the waiting room], choose 1 of your entries, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-004",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-004S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3046\u3089\u3081\u3057\u3084\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "A Curse Be Upon You, Cocoa",
+        "JP": "\u3046\u3089\u3081\u3057\u3084\u30FC\uFF01 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CA curse be upon you!\u201D",
+        "JP": "\u3046\u3089\u3081\u3057\u3084\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CRabbit House\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-005",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-005S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u307F\u3093\u306A\u30FC\uFF01\u76C3\u306F\u6301\u3063\u305F\u306D\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sake Cups of Sisterhood, Cocoa",
+        "JP": "\u7FA9\u5144\u5F1F\u306E\u76C3 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 7,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "\u201COkay, guys! Get your sake cups ready!\u201D",
+        "JP": "\u307F\u3093\u306A\u30FC\uFF01\u76C3\u306F\u6301\u3063\u305F\u306D\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your entry area other than from your deck, choose a character each from your hand and retire area, and you may exchange their positions.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-006",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-006S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Santa\u0027s Time, Cocoa",
+        "JP": "\u30B5\u30F3\u30BF\u306E\u6642\u9593 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 5]:[Cost (2)], and put this character onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-007",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-007S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u2026\u8FF7\u3063\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Like Another World, Cocoa",
+        "JP": "\u307E\u308B\u3067\u7570\u4E16\u754C \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201C\u2026I\u2019m lost.\u201D",
+        "JP": "\u2026\u8FF7\u3063\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]:If you have 6 cards in your retire area and 6 or less cards in your energy area, choose cards from your waiting room until the total number of chosen cards and cards on your energy area becomes 7, and put them onto your energy area. If you put, choose a \u0022Chino\u0022 from your hand or waiting room, and you may put it onto your entry area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30EA\u30BF\u30A4\u30A2\u304C\uFF16\u679A\u3067\u30A8\u30CD\u30EB\u30AE\u30FC\u304C\uFF16\u679A\u4EE5\u4E0B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u3068\u9078\u3093\u3060\u679A\u6570\u304C\u5408\u8A08\uFF17\u679A\u306B\u306A\u308B\u3088\u3046\u306B\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u30C1\u30CE\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-008",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-008S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u308F\uFF5E\u3002\u61D0\u304B\u3057\u3044"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Middle School Uniform, Cocoa",
+        "JP": "\u4E2D\u5B66\u306E\u5236\u670D \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201CWaah~. Just like the good old days!\u201D",
+        "JP": "\u308F\uFF5E\u3002\u61D0\u304B\u3057\u3044"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 6]:[Choose a card each from your member area and hand, and put them into the waiting room], and return this character to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u624B\u672D\u304B\u3089\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-009",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-009GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-009gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Chino",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022I Can Take That Step Forward Because You Are Watching\u0022][Skill Showcase Level 6 \u003CRabbit House\u003E][1/Turn]:When this character attacks, this attack becomes a partner attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u305D\u306E\u4E00\u6B69\u306F\u541B\u3092\u898B\u3066\u3044\u308B\u304B\u3089\u8E0F\u307F\u51FA\u305B\u308B\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF16\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u308B\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this character is put onto your member area other than from your entry area, draw a card, choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-010",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-010S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Chino",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 7]:When this character blocks, you may set a Rebirth with [ACT] from your waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF17\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3010\u8D77\u3011\u3092\u6301\u3064Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-011",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-011S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30B5\u30AD\u300C\u30C1\u30CE\u306F\u3044\u3064\u3082\u3053\u308C\u3067\u5143\u6C17\u304C\u51FA\u308B\u308F\u306D\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magic That Elicits a Smile, Chino",
+        "JP": "\u5143\u6C17\u306E\u51FA\u308B\u9B54\u6CD5 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CSaki: \u201CThis trick always puts a big smile on your face, huh?\u201D\u201D",
+        "JP": "\u30B5\u30AD\u300C\u30C1\u30CE\u306F\u3044\u3064\u3082\u3053\u308C\u3067\u5143\u6C17\u304C\u51FA\u308B\u308F\u306D\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Magic Tricks My Mother Was Good At\u0022][Skill Showcase Level 4]:[Cost (2)], put this character onto your member area, reveal the top 3 cards of your deck, choose up to 2 characters from among them, put them onto your member area, choose up to 1 Rebirth from among them, add it to your hand, and put the rest into the waiting room. (Has priority over entry in)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u6BCD\u304C\u5F97\u610F\u3060\u3063\u305F\u624B\u54C1\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF13\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u624B\u672D\u306B\u52A0\u3048\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-012",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-012S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30B3\u30B3\u30A2\u3055\u30FC\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Honey Trap, Chino",
+        "JP": "\u30CF\u30CB\u30FC\u30C8\u30E9\u30C3\u30D7 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CCocoa!\u201D",
+        "JP": "\u30B3\u30B3\u30A2\u3055\u30FC\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:The next time this character attacks this turn, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u304C\u6B21\u306B\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-013",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-013S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30B7\u30E3\u30ED\u300C\u30EF\u30A4\u30EB\u30C9\u30AE\u30FC\u30B9\u4E57\u305B\u3066\u30B0\u30EC\u3066\u308B\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Wild, Chino",
+        "JP": "\u30EF\u30A4\u30EB\u30C9 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CSharo: \u201CShe\u2019s turned rogue just like Wild Geese!\u201D\u201D",
+        "JP": "\u30B7\u30E3\u30ED\u300C\u30EF\u30A4\u30EB\u30C9\u30AE\u30FC\u30B9\u4E57\u305B\u3066\u30B0\u30EC\u3066\u308B\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 5 \u003CRabbit House\u003E]:At the start of your main phase, [put this character on the bottom of your deck], draw a card, choose all of your opponent\u0027s members, and put them into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3059\u3079\u3066\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-014",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-014S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Warm Smile, Chino",
+        "JP": "\u6E29\u304B\u3044\u7B11\u9854 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put into the waiting room by this character\u0027s [Cancel], you may put this character onto your member area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-015",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-015S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u79C1\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u52A9\u3051\u3089\u308C\u3066\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "To Become an Adult Who Can Return the Favor Someday, Chino",
+        "JP": "\u3053\u306E\u6C17\u6301\u3061\u3092\u3044\u3064\u304B\u8FD4\u305B\u308B\u4EBA\u306B \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CI\u2019ve been saved by so many different people lately.\u201D",
+        "JP": "\u79C1\u305F\u304F\u3055\u3093\u306E\u4EBA\u306B\u52A9\u3051\u3089\u308C\u3066\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-016",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-016S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u6C7A\u3081\u307E\u3057\u305F\u3002\u738B\u306E\u547D\u4EE4\u3092\u767A\u52D5\u3057\u307E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "King\u0027s Order, Chino",
+        "JP": "\u738B\u306E\u547D\u4EE4 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CI\u2019ve made up my mind. I shall now give you my order as king.\u201D",
+        "JP": "\u6C7A\u3081\u307E\u3057\u305F\u3002\u738B\u306E\u547D\u4EE4\u3092\u767A\u52D5\u3057\u307E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-017",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-017GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-017gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Rize",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of any player\u0027s [Rest] members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u3044\u305A\u308C\u304B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Ballet Waitressing\u0022][Skill Showcase Level 5 \u003CRabbit House\u003E][1/Turn]:When this character attacks, if your opponent has an open member area, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30D0\u30EC\u30A8\u63A5\u5BA2\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-018",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-018S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-018s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Rize",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CRabbit House\u003E]:Reveal the top 2 cards of your deck, choose up to 1 character from among them, put it onto your member area, and put the rest into your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u516C\u958B\u3057\u3001\u305D\u306E\u4E2D\u304B\u3089\u3001\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u6B8B\u308A\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-019",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-019S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3044\u3084\u2026\u307E\u3060\u4F53\u529B\u306F\u3042\u308B\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Worn Out, Rize",
+        "JP": "\u30D0\u30C6\u30D0\u30C6 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CNo\u2026 I still have the stamina to go on\u2026\u201D",
+        "JP": "\u3044\u3084\u2026\u307E\u3060\u4F53\u529B\u306F\u3042\u308B\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003CRabbit House\u003E]:When this character is put onto your member area, choose 1 of your opponent\u0027s members, put it into the waiting room, choose 1 of your Cost 3 or lower members, and that character cannot be chosen by your opponent\u0027s characters until end of turn. (Has priority over entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30B3\u30B9\u30C8\uFF13\u4EE5\u4E0B\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002\uFF08\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-020",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-020S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\uFF12\u4EBA\u5171\u899A\u609F\u3057\u308D\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Sniping, Rize",
+        "JP": "\u72D9\u6483 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CGet ready for a real surprise, you two!\u201D",
+        "JP": "\uFF12\u4EBA\u5171\u899A\u609F\u3057\u308D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports a \u003CRabbit House\u003E, [Cost (2)], draw a card, and the supported character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-021",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-021S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5168\u54E1\u30CF\u30F3\u30B3\u3064\u3051\u3066\u3084\u308B\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-021s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Thank you, Miss Rize",
+        "JP": "\u3042\u308A\u304C\u3068\u3046\u5148\u751F \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 1,
+      "DEF": 1,
+      "Flavor": {
+        "EN": "\u201CI\u2019m giving you all so many stamps!\u201D",
+        "JP": "\u5168\u54E1\u30CF\u30F3\u30B3\u3064\u3051\u3066\u3084\u308B\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose all \u0022Cocoa\u0022, \u0022Chino\u0022, \u0022Chiya\u0022, \u0022Syaro\u0022, \u0022Maya\u0022, and \u0022Megu\u0022 on your member and retire areas, give them \u003CStamp\u003E until end of turn, and this character gets \u002B1/\u002B1 until end of turn for each of those \u003CStamp\u003E. If a \u003CStamp\u003E was given, this character gets \u003CStamp\u003E until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u3001\u300A\u30B3\u30B3\u30A2\u300B\u3068\u300A\u30C1\u30CE\u300B\u3068\u300A\u5343\u591C\u300B\u3068\u300A\u30B7\u30E3\u30ED\u300B\u3068\u300A\u30DE\u30E4\u300B\u3068\u300A\u30E1\u30B0\u300B\u3092\u3059\u3079\u3066\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u308C\u3089\u306B\u3014\u30B9\u30BF\u30F3\u30D7\u3015\u3092\u4E0E\u3048\u3001\u305D\u306E\u3014\u30B9\u30BF\u30F3\u30D7\u3015\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\u3014\u30B9\u30BF\u30F3\u30D7\u3015\u3092\u4E0E\u3048\u305F\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306F\u3014\u30B9\u30BF\u30F3\u30D7\u3015\u3092\u5F97\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-022",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-022S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3057\u3087\u2026\u5C0F\u5B66\u6821\u306E\u5148\u751F\u306B\u306A\u308A\u305F\u3044\u3063\u3066\u8A00\u3063\u305F\u3089\u7B11\u308F\u308C\u305F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reason for Quarrel, Rize",
+        "JP": "\u55A7\u5629\u306E\u7406\u7531 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CTeach\u2026 I told him that I wanted to be an elementary school teacher and he laughed at me.\u201D",
+        "JP": "\u3057\u3087\u2026\u5C0F\u5B66\u6821\u306E\u5148\u751F\u306B\u306A\u308A\u305F\u3044\u3063\u3066\u8A00\u3063\u305F\u3089\u7B11\u308F\u308C\u305F"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003CRabbit House\u003E]:When this character blocks, [choose a card from your hand, and put it into the waiting room], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-023",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-023S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u6C17\u3065\u304B\u308C\u306A\u3044\u306E\u304C\u5BC2\u3057\u304F\u3066\u78BA\u304B\u3081\u308B\u3088\u3046\u306A\u3053\u3068\u3092\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-023s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Roze\u0027s True Identity, Rize",
+        "JP": "\u30ED\u30BC\u306E\u6B63\u4F53 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CI was sad you guys didn\u2019t recognize me, so I put on this act to see if it was true.\u201D",
+        "JP": "\u6C17\u3065\u304B\u308C\u306A\u3044\u306E\u304C\u5BC2\u3057\u304F\u3066\u78BA\u304B\u3081\u308B\u3088\u3046\u306A\u3053\u3068\u3092\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Hand):[Reveal this character], and put this character onto your open member area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u624B\u672D\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3092\u516C\u958B\u3059\u308B\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-024",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-024S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3054\u3081\u30FC\u3093\uFF01\u4ECA\u306E\u306F\u79C1\u3060"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-024s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unruly High School Senior, Rize",
+        "JP": "\u308F\u3093\u3071\u304F\u9AD8\u6821\uFF13\u5E74\u751F \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CSorry! It was me who threw that last one!\u201D",
+        "JP": "\u3054\u3081\u30FC\u3093\uFF01\u4ECA\u306E\u306F\u79C1\u3060"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-025",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-025GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-025gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Chiya",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Put the top 2 cards of your deck onto your energy area as [Rest], choose 1 of your energy, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[CONT](Entry)[ReCombo \u0022Class Overboss\u0022][Skill Showcase Level 5]:This character gets \u002B4/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u30AF\u30E9\u30B9\u306E\u756A\u9577\u300B \u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-026",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-026S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-026s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Chiya",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RRR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area by a card effect, choose an \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E, or \u0022Cocoa\u0022 from your hand without [Blocker], and you may exchange its position with this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u52B9\u679C\u3067\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u6301\u305F\u306A\u3044\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-027",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-027S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u5F53\u65E5\u306F\uFF01\u7518\u514E\u5EB5\u65CB\u98A8\u3092\u5439\u304B\u305B\u3066\u3084\u308B\u3093\u3060\u304B\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-027s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ama Usa An Whirlwind, Chiya",
+        "JP": "\u7518\u514E\u5EB5\u65CB\u98A8 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201COn the day of the marathon\u2026 I\u2019m going to draw all sorts of attention to Ama Usa An!\u201D",
+        "JP": "\u5F53\u65E5\u306F\uFF01\u7518\u514E\u5EB5\u65CB\u98A8\u3092\u5439\u304B\u305B\u3066\u3084\u308B\u3093\u3060\u304B\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CAma Usa An\u003E \u0026 \u003CFleur de Lapin\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u7518\u514E\u5EB5\u3015\uFF06\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-028",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-028S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u308F\u2026\u79C1\u307F\u3093\u306A\u3092\u4ED5\u5207\u308B\u306A\u3093\u3066\u521D\u3081\u3066\u3067\u2026\u7121\u4E8B\u2026\u6210\u529F\u3067\u304D\u308B\u306E\u304B\u3057\u3089\uFF5E\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "First Time Anxiety, Chiya",
+        "JP": "\u521D\u3081\u3066\u3078\u306E\u4E0D\u5B89 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "\u201CUh, I\u2026 This is my first time being a leader, I\u2019m not sure if I can make the event a success\u2026\u201D",
+        "JP": "\u308F\u2026\u79C1\u307F\u3093\u306A\u3092\u4ED5\u5207\u308B\u306A\u3093\u3066\u521D\u3081\u3066\u3067\u2026\u7121\u4E8B\u2026\u6210\u529F\u3067\u304D\u308B\u306E\u304B\u3057\u3089\uFF5E\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose a card from your waiting room, and put it onto your energy area as [Rest]. If you have a \u0022Cocoa\u0022 or \u0022Sharo\u0022 member, you may put from the top of your deck instead of your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3001\u300A\u30B3\u30B3\u30A2\u300B\u304B\u300A\u30B7\u30E3\u30ED\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u63A7\u3048\u5BA4\u3067\u306F\u306A\u304F\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-029",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-029S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u7D20\u6674\u3089\u3057\u3044\u793E\u54E1\u9054\u306B\u6075\u307E\u308C\u3066\u5E78\u305B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-029s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "President Before You Know It, Chiya",
+        "JP": "\u3044\u3064\u306E\u307E\u306B\u304B\u793E\u9577 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "\u201CI feel blessed to have such wonderful employees working for me!\u201D",
+        "JP": "\u7D20\u6674\u3089\u3057\u3044\u793E\u54E1\u9054\u306B\u6075\u307E\u308C\u3066\u5E78\u305B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose up to 1 of your \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E, or \u0022Cocoa\u0022 energy, put it onto your entry area, and that character gets \u002B1/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u307E\u3067\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-030",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-030S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30BC\u3061\u3083\u3093\u306E\u53E4\u7740\u8CB7\u3063\u305F\u306E\uFF5E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-030s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Friend\u0027s Old Clothes, Chiya",
+        "JP": "\u53CB\u4EBA\u306E\u53E4\u7740 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "\u201CI bought one of Rize\u2019s old t-shirts!\u201D",
+        "JP": "\u30EA\u30BC\u3061\u3083\u3093\u306E\u53E4\u7740\u8CB7\u3063\u305F\u306E\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry):When your opponent heals by a Rebirth\u0027s card effect, and that Rebirth is set, choose 1 of your opponent\u0027s members, and put it onto the entry area. If you have an open member area, then choose a character from your waiting room, and you may put it onto your member area as [Rest]. (Has priority over your opponent\u0027s entry in)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u76F8\u624B\u304CRe\u30D0\u30FC\u30B9\u306E\u52B9\u679C\u3067\u56DE\u5FA9\u3057\u3001\u305D\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7A7A\u5E2D\u304C\u3042\u308B\u306A\u3089\u3001\u3055\u3089\u306B\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u3044\u3066\u3088\u3044\u3002\uFF08\u76F8\u624B\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u30A4\u30F3\u3088\u308A\u512A\u5148\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-031",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-031S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3088\u3046\u3053\u305D\u9B54\u5973\u306E\u9928\u3078"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-031s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Welcome to the Witches\u0027 Magic Manor, Chiya",
+        "JP": "\u3088\u3046\u3053\u305D\u9B54\u5973\u306E\u9928\u3078 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "EN": "\u201CWelcome to the Witches\u2019 Magic Manor.\u201D",
+        "JP": "\u3088\u3046\u3053\u305D\u9B54\u5973\u306E\u9928\u3078"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose an \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E, or \u0022Cocoa\u0022 from your hand, and you may put it onto your entry area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-031.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-032",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-032S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u738B\u306B\u306A\u3063\u305F\u8005\u306F\u307F\u3093\u306A\u306B\u4F55\u304B\u4E00\u3064\u547D\u4EE4\u3067\u304D\u308B\u6A29\u5229\u304C\u4E0E\u3048\u3089\u308C\u308B\u308F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-032s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Galette Des Rois, Chiya",
+        "JP": "\u30AC\u30EC\u30C3\u30C8\u30FB\u30C7\u30FB\u30ED\u30A2 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CAnd the king is given the right to issue one order that everyone else must follow!\u201D",
+        "JP": "\u738B\u306B\u306A\u3063\u305F\u8005\u306F\u307F\u3093\u306A\u306B\u4F55\u304B\u4E00\u3064\u547D\u4EE4\u3067\u304D\u308B\u6A29\u5229\u304C\u4E0E\u3048\u3089\u308C\u308B\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CAma Usa An\u003E or \u003CFleur de Lapin\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CAma Usa An\u003E or \u003CFleur de Lapin\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7518\u514E\u5EB5\u3015or\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-032.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-033",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-033GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-033gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Syaro",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Huge Success\u0022]:[Cost (2)], choose an \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E, or \u0022Cocoa\u0022 from your waiting room, and put it onto your member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5927\u6210\u529F\u300B\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, during this character\u0027s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-033.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-034",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-034S",
+          "Rarity": "RRR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-034s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Syaro",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 5 \u003CAma Usa An\u003E \u0026 \u003CFleur de Lapin\u003E][1/Turn]:When this character attacks, [choose 2 of your energy, and put them into the waiting room], choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u7518\u514E\u5EB5\u3015\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-034.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-035",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-035S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3053\u308C\u306F\u79C1\u306E\u6226\u5834\u3067\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-035s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dependable Appearance, Syaro",
+        "JP": "\u983C\u3082\u3057\u3044\u59FF \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CThis is my kind of battlefield!\u201D",
+        "JP": "\u3053\u308C\u306F\u79C1\u306E\u6226\u5834\u3067\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CAma Usa An\u003E or \u003CFleur de Lapin\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7518\u514E\u5EB5\u3015or\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, put this character onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-035.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-036",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-036S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-036s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I will take your hand, Syaro",
+        "JP": "\u79C1\u304C\u3042\u306A\u305F\u306E\u624B\u3092\u5F15\u3044\u3066 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3][1/Turn]:[Cost (1), and put an \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E or \u0022Cocoa\u0022 from your hand into the waiting room], and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u624B\u672D\u304B\u3089\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-036.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-037",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-037S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30B3\u30B3\u30A2\u300C\u30AB\u30D5\u30A7\u30A4\u30F3\u3067\u9154\u3063\u3061\u3083\u3063\u3066\u3082\u3044\u3044\u306E\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-037s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I want to let loose for today, Syaro",
+        "JP": "\u4ECA\u65E5\u306F\u98F2\u307F\u305F\u3044\u6C17\u5206 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CCocoa: \u201CAre you sure you want to be drinking caffeine?\u201D\u201D",
+        "JP": "\u30B3\u30B3\u30A2\u300C\u30AB\u30D5\u30A7\u30A4\u30F3\u3067\u9154\u3063\u3061\u3083\u3063\u3066\u3082\u3044\u3044\u306E\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Put the top card of your deck into the waiting room, if it is a character, choose another character from your waiting room with the same Cost as that card, and return it to your hand. If a \u0022Chiya\u0022 or a \u0022Cocoa\u0022 was put into the waiting room, you may choose that card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u305D\u308C\u304C\u30AD\u30E3\u30E9\u306A\u3089\u3001\u63A7\u3048\u5BA4\u304B\u3089\u3001\u305D\u308C\u3068\u540C\u3058\u30B3\u30B9\u30C8\u306E\u4ED6\u306E\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\u300A\u5343\u591C\u300B\u304B\u300A\u30B3\u30B3\u30A2\u300B\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u305F\u3089\u3001\u305D\u306E\u30AB\u30FC\u30C9\u3092\u9078\u3093\u3067\u3082\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-037.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-038",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-038S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u6B21\u306F\u672C\u5C4B\u3055\u3093\u306E\u30D0\u30A4\u30C8\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-038s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Busy With Work, Syaro",
+        "JP": "\u30D0\u30A4\u30C8\u3067\u5927\u5FD9\u3057 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CNext up, my job at the bookstore\u2026\u201D",
+        "JP": "\u6B21\u306F\u672C\u5C4B\u3055\u3093\u306E\u30D0\u30A4\u30C8\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo][Skill Showcase Level 5]:If you have an \u003CAma Usa An\u003E, \u003CFleur de Lapin\u003E, or \u0022Cocoa\u0022 entry, during your turn, your opponent cannot set Rebirths other than from entry area.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3001\u3014\u7518\u514E\u5EB5\u3015\u304B\u3014\u30D5\u30EB\u30FC\u30EB\u30FB\u30C9\u30FB\u30E9\u30D1\u30F3\u3015\u304B\u300A\u30B3\u30B3\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3067\u304D\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-038.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-039",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-039S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u305D\u308C\u306B\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-039s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Stalk Me Any Day of the Week, Syaro",
+        "JP": "\u30B9\u30C8\u30FC\u30AD\u30F3\u30B0\u3069\u3093\u3068\u3053\u30FC\u3044 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201CAnd also\u2026!\u201D",
+        "JP": "\u305D\u308C\u306B\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B4 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF14\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-039.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-040",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-040S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u5343\u591C\u3068\u30B3\u30B3\u30A2\u306B\u306F\u5F53\u305F\u308A\u307E\u305B\u3093\u3088\u3046\u306B\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-040s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Galette Des Rois, Syaro",
+        "JP": "\u30AC\u30EC\u30C3\u30C8\u30FB\u30C7\u30FB\u30ED\u30A2 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "EN": "\u201CPlease Lord, don\u2019t let Chiya or Cocoa win.\u201D",
+        "JP": "\u5343\u591C\u3068\u30B3\u30B3\u30A2\u306B\u306F\u5F53\u305F\u308A\u307E\u305B\u3093\u3088\u3046\u306B\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (4)], choose a card from your retire area, and exchange its position with this character. After you exchanged, if you have a \u0022Cocoa\u0022 on your retire area, choose 1 of your members, and exchange its position with this character. After this character is put onto your member area by this effect, if you have a \u0022Cocoa\u0022 member, draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002\u5165\u308C\u66FF\u3048\u305F\u5F8C\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u30B3\u30B3\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u3053\u306E\u52B9\u679C\u3067\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u305F\u5F8C\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30B3\u30B3\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-040.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-041",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-041GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-041gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Maya",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RRR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Bean Sprouts Discussion\u0022][Skill Showcase Level 5 \u003CChimame Corps\u003E][1/Turn]:When this character retires an opponent\u0027s character, draw a card, choose 1 of your allied members, and [Stand] it.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u3082\u3084\u3057\u8AC7\u7FA9\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-041.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-042",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-042S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-042s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Maya",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3 \u003CChimame Corps\u003E]:When this character is put onto your member area other than from your entry area, draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-042.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-043",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-043S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u771F\u9006\u306E\u30BF\u30A4\u30D7\u3060\u3088\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-043s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Polar Opposites, Maya",
+        "JP": "\u771F\u9006\u306E\u30BF\u30A4\u30D7 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CBut we\u2019re polar opposites!\u201D",
+        "JP": "\u771F\u9006\u306E\u30BF\u30A4\u30D7\u3060\u3088\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CChimame Corps\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-043.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-044",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-044S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-044s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "High School Visit, Maya",
+        "JP": "\u9AD8\u6821\u898B\u5B66 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 of your opponent\u0027s [Rest] members, put it into the waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-044.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-045",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-045S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u304A\u83D3\u5B50\u3088\u3053\u305B\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-045s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Trick or Treat, Maya",
+        "JP": "\u30C8\u30EA\u30C3\u30AF\u30AA\u30A2\u30C8\u30EA\u30FC\u30C8 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CGimme candy!\u201D",
+        "JP": "\u304A\u83D3\u5B50\u3088\u3053\u305B\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[ReCombo][Skill Showcase Level 5]:If your entry is a \u003CChimame Corps\u003E, during your turn, your opponent cannot set Rebirths other than from entry area.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u3014\u30C1\u30DE\u30E1\u968A\u3015\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u76F8\u624B\u306F\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3067\u304D\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-045.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-046",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-046S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u52C9\u5F37\u3070\u3063\u304B\u3060\u3068\u606F\u82E6\u3057\u304F\u306A\u3063\u3061\u3083\u3046\u3082\u3093\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-046s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Taking a Break, Maya",
+        "JP": "\u3061\u3087\u3063\u3068\u4F11\u61A9 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CWell, all study and no play is a total drag!\u201D",
+        "JP": "\u52C9\u5F37\u3070\u3063\u304B\u3060\u3068\u606F\u82E6\u3057\u304F\u306A\u3063\u3061\u3083\u3046\u3082\u3093\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3 \u003CChimame Corps\u003E]:When this character supports, [put this character on the bottom of your deck], choose 1 of your members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-046.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-047",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-047S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u898B\u3066\uFF01\u3053\u306E\u5236\u670D\uFF01\u30B3\u30B3\u30A2\u3068\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-047s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reinforcements for the Day, Maya",
+        "JP": "\u4ECA\u65E5\u306E\u63F4\u8ECD \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201CCheck out these uniforms! Cocoa and\u2026\u201D",
+        "JP": "\u898B\u3066\uFF01\u3053\u306E\u5236\u670D\uFF01\u30B3\u30B3\u30A2\u3068\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3 \u003CChimame Corps\u003E]:When this character is put into your waiting room by this character\u0027s [Cancel], [choose a card from your hand, and put it into the waiting room], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3067\u63A7\u3048\u5BA4\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-047.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-048",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-048S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-048s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Snowball Fight to Celebrate, Maya",
+        "JP": "\u96EA\u5408\u6226\u3067\u304A\u3081\u3067\u3068\u3046 \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CChimame Corps\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, choose 1 of your entries, and that character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-048.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-049",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-049GUR",
+          "Rarity": "GUR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-049gur.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Good Night Time, Megu",
+        "JP": "\u304A\u3084\u3059\u307F\u306E\u6642\u9593 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RRR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4 \u003CChimame Corps\u003E]:Draw a card, choose a card from your hand, and put it into the waiting room. Choose 1 of your \u003CChimame Corps\u003E members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3014\u30C1\u30DE\u30E1\u968A\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-049.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-050",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-050S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-050s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Megu",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[ReCombo \u0022I wish I could have her cut my hair like that too\u0022][Skill Showcase Level 4]:When this character supports, the supported character gets \u002B2/\u00B10 until end of that attack. If you have 3 or more \u003CChimame Corps\u003E members, [put this character on the bottom of your deck], choose a Rebirth from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u79C1\u3082\u3042\u3093\u306A\u98A8\u306B\u5207\u3063\u3066\u3082\u3089\u3048\u305F\u3089\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3014\u30C1\u30DE\u30E1\u968A\u3015\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-050.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-051",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-051S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u30DE\u30E4\u300C\u5343\u591C\u3068\u30B7\u30E3\u30ED\u3060\u3063\u3066\u771F\u9006\u306E\u30BF\u30A4\u30D7\u3060\u3088\u306D\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-051s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Polar Opposites, Megu",
+        "JP": "\u771F\u9006\u306E\u30BF\u30A4\u30D7 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CMaya: \u201CThe same goes for you two, doesn\u2019t it?\u201D\u201D",
+        "JP": "\u30DE\u30E4\u300C\u5343\u591C\u3068\u30B7\u30E3\u30ED\u3060\u3063\u3066\u771F\u9006\u306E\u30BF\u30A4\u30D7\u3060\u3088\u306D\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:[Choose a card from your hand, and put it on the bottom of your deck], choose a Cost 2 or lower \u003CChimame Corps\u003E from your waiting room, put it onto your member area, and set a Rebirth from your waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089\u30B3\u30B9\u30C8\uFF12\u4EE5\u4E0B\u306E\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-051.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-052",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-052S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30C1\u30CE\u300C\u30E1\u30B0\u3055\u3093\u697D\u3057\u305D\u3046\u3067\u3059\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-052s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "High School Visit, Megu",
+        "JP": "\u9AD8\u6821\u898B\u5B66 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "\u201CChino: \u201CMegu is really enjoying this.\u201D\u201D",
+        "JP": "\u30C1\u30CE\u300C\u30E1\u30B0\u3055\u3093\u697D\u3057\u305D\u3046\u3067\u3059\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3 \u003CChimame Corps\u003E]:During the first attack of this character each turn, this character gets \u002B5/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF15/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-052.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-053",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-053S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3088\u3053\u3055\u306A\u3044\u3068\u98DF\u3063\u3061\u307E\u3046\u305E\u30FC"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-053s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Trick or Treat, Megu",
+        "JP": "\u30C8\u30EA\u30C3\u30AF\u30AA\u30A2\u30C8\u30EA\u30FC\u30C8 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CFork it over or I eat you instead!\u201D",
+        "JP": "\u3088\u3053\u3055\u306A\u3044\u3068\u98DF\u3063\u3061\u307E\u3046\u305E\u30FC"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CChimame Corps\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CChimame Corps\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u30C1\u30DE\u30E1\u968A\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3014\u30C1\u30DE\u30E1\u968A\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-053.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-054",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-054S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30C1\u30CE\u3061\u3083\u3093\u3082\u6765\u306A\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-054s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Field Trip, Megu",
+        "JP": "\u79FB\u52D5\u6559\u5BA4 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CYou should come too, Chino.\u201D",
+        "JP": "\u30C1\u30CE\u3061\u3083\u3093\u3082\u6765\u306A\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your member area other than from your entry area, choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn. If it is a \u003CChimame Corps\u003E, put the top card of your deck onto your energy area as [Rest].",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\u305D\u308C\u304C\u3014\u30C1\u30DE\u30E1\u968A\u3015\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-054.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-055",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-055S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30BC\u3055\u3093\u304C\u4F5C\u3063\u3066\u304F\u308C\u305F\u3093\u3060\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-055s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Reinforcements for the Day, Megu",
+        "JP": "\u4ECA\u65E5\u306E\u63F4\u8ECD \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201C\u2026Rize made them for us!\u201D",
+        "JP": "\u30EA\u30BC\u3055\u3093\u304C\u4F5C\u3063\u3066\u304F\u308C\u305F\u3093\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 5][1/Turn]:[Cost (3)], choose a card from your hand, put it onto your energy area as [Rest], choose 1 of your entries, and that character gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-055.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-056",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-056S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-056s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Snowball Fight to Celebrate, Megu",
+        "JP": "\u96EA\u5408\u6226\u3067\u304A\u3081\u3067\u3068\u3046 \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:[Choose a \u003CChimame Corps\u003E from your hand, and put it into the waiting room], choose a \u0022Chino\u0022 from your retire area, and exchange its position with this character.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014\u30C1\u30DE\u30E1\u968A\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u30C1\u30CE\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-056.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-057",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-057S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-057s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, \u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CNovel Writer\u003E \u0026 \u003CEditor\u003E]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u5C0F\u8AAC\u5BB6\u3015\uFF06\u3014\u7DE8\u96C6\u8005\u3015\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-057.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-058",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-058S",
+          "Rarity": "RR\u002B",
+          "Flavor": {
+            "JP": "\u3053\u306E\u6587\u5316\u796D\u306E\u6D3B\u6C17\u3067\u57F7\u7B46\u6D3B\u52D5\u304C\u306F\u304B\u3069\u308A\u307E\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-058s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Progress Motivated by the Hustle and Bustle, \u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u6D3B\u6C17\u3067\u6357\u308B \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 9,
+      "Flavor": {
+        "EN": "\u201CThe hustle and bustle of this Culture Festival is really motivating me to write!\u201D",
+        "JP": "\u3053\u306E\u6587\u5316\u796D\u306E\u6D3B\u6C17\u3067\u57F7\u7B46\u6D3B\u52D5\u304C\u306F\u304B\u3069\u308A\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 4 \u003CNovel Writer\u003E \u0026 \u003CEditor\u003E]:When this character is put onto your entry area other than from your deck, draw a card, and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3014\u5C0F\u8AAC\u5BB6\u3015\uFF06\u3014\u7DE8\u96C6\u8005\u3015\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30C7\u30C3\u30AD\u4EE5\u5916\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-058.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-059",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-059S",
+          "Rarity": "R\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-059s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Autograph Session, \u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u30B5\u30A4\u30F3\u4F1A \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[ACT](Entry)[ReCombo \u0022Entrusted Fountain Pen\u0022][Skill Showcase Level 4]:[Cost (2), choose a \u003CNovel Writer\u003E or \u003CEditor\u003E from your waiting room, and put it onto your entry area], put this character onto your member area, and draw a card.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u8A17\u3055\u308C\u305F\u4E07\u5E74\u7B46\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3014\u5C0F\u8AAC\u5BB6\u3015\u304B\u3014\u7DE8\u96C6\u8005\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-059.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-060",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-060S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u30EA\u30BC\u300C\u3042\u306E\u56F3\u592A\u3055\u3092\u898B\u7FD2\u3046\u3079\u304D\u3060\uFF01\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-060s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Making Amends, \u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u7F6A\u6EC5\u307C\u3057\uFF1F \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "EN": "\u201CRize: \u201CHaving that much sass is something to be admired.\u201D\u201D",
+        "JP": "\u30EA\u30BC\u300C\u3042\u306E\u56F3\u592A\u3055\u3092\u898B\u7FD2\u3046\u3079\u304D\u3060\uFF01\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member):[Cost (3)], choose a \u0022Rin\u0022 from your waiting room, and exchange its position with this character.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A[\u30A8\u30CD\u2462]\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u300A\u51DB\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-060.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-061",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-061S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3067\u306F\u65E9\u901F\u9B3C\u5F79\u306B\u96FB\u8A71\u3057\u307E\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-061s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hide-and-seek, \u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u9B3C\u3054\u3063\u3053 \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201COkay, I have just the person in mind to be \u201Cit\u201D.\u201D",
+        "JP": "\u3067\u306F\u65E9\u901F\u9B3C\u5F79\u306B\u96FB\u8A71\u3057\u307E\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When your \u0022Rin\u0022 is put onto your entry area, put this character into the waiting room. (This effect is mandatory)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u300A\u51DB\u300B\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u3053\u306E\u52B9\u679C\u306F\u5F37\u5236\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-061.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-062",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-062S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-062s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Rin",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u51DB"
+      },
+      "Traits": [
+        {
+          "EN": "Editor",
+          "JP": "\u7DE8\u96C6\u8005"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "RR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Fitting For Us\u0022][1/Turn]:At the end of this character\u0027s attack, choose a \u0022\u0022Blue Mountain\u0022 Aoyama\u0022 from your hand, and exchange its position with this character.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u79C1\u9054\u3089\u3057\u3044\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u30A2\u30BF\u30C3\u30AF\u7D42\u4E86\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u300A\u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-062.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-063",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-063S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u660E\u65E5\u7DE0\u3081\u5207\u308A\u30FC\uFF01\u9752\u5C71\u5148\u751F\u30D5\u30A1\u30A4\u30C8\u30FC\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-063s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Crunch Time Support, Rin",
+        "JP": "\u4FEE\u7F85\u5834\u306E\u5FDC\u63F4 \u51DB"
+      },
+      "Traits": [
+        {
+          "EN": "Editor",
+          "JP": "\u7DE8\u96C6\u8005"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CThe deadline is tomorrow! Keep it up, Sensei!\u201D",
+        "JP": "\u660E\u65E5\u7DE0\u3081\u5207\u308A\u30FC\uFF01\u9752\u5C71\u5148\u751F\u30D5\u30A1\u30A4\u30C8\u30FC\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+        },
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (1), and put this character into your waiting room], choose a card from your hand, and put it onto your energy area as [Rest].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-063.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-064",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-064S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3046\uFF5E\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-064s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Team \u0022At-Their-Mercy\u0022, Rin",
+        "JP": "\u30C1\u30FC\u30E0\u632F\u308A\u56DE\u3055\u308C\u968A \u51DB"
+      },
+      "Traits": [
+        {
+          "EN": "Editor",
+          "JP": "\u7DE8\u96C6\u8005"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CUuuuu\u2026\u201D",
+        "JP": "\u3046\uFF5E\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CNovel Writer\u003E or \u003CEditor\u003E]\n(If you discard it from hand, the damage from one attack to your allied \u003CNovel Writer\u003E or \u003CEditor\u003E becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u5C0F\u8AAC\u5BB6\u3015or\u3014\u7DE8\u96C6\u8005\u3015\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u306E\u3001\u3014\u5C0F\u8AAC\u5BB6\u3015\u304B\u3014\u7DE8\u96C6\u8005\u3015\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-064.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-065",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-065S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3059\u3059\u3059\u3059\u307F\u307E\u305B\u3093\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-065s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Costume from The Barista That Became a Rabbit, Rin",
+        "JP": "\u3046\u3055\u304E\u306B\u306A\u3063\u305F\u30D0\u30EA\u30B9\u30BF\u8863\u88C5 \u51DB"
+      },
+      "Traits": [
+        {
+          "EN": "Editor",
+          "JP": "\u7DE8\u96C6\u8005"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "\u201CM-m-m-m-my apologies!\u201D",
+        "JP": "\u3059\u3059\u3059\u3059\u307F\u307E\u305B\u3093\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker \u003CNovel Writer\u003E or \u003CEditor\u003E]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u5C0F\u8AAC\u5BB6\u3015or\u3014\u7DE8\u96C6\u8005\u3015\n"
+        },
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, choose 1 of your entries, that character gets \u00B10/\u002B2 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-065.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-066",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-066S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3082\u30FC\uFF01\u3053\u3046\u306A\u3063\u305F\u3089\u4ECA\u65E5\u306F\u5FB9\u5E95\u7684\u306B\u4ED8\u304D\u5408\u3063\u3066\u3082\u3089\u3046\u304B\u3089\u306D\uFF01\u7FE0\u3061\u3083\u3093\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-066s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "New Year Greetings, Rin",
+        "JP": "\u65B0\u5E74\u306E\u6328\u62F6 \u51DB"
+      },
+      "Traits": [
+        {
+          "EN": "Editor",
+          "JP": "\u7DE8\u96C6\u8005"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "\u201CUgh! I swear, I\u2019m gonna drag you around to do what I want for once! Got that, Midori?\u201D",
+        "JP": "\u3082\u30FC\uFF01\u3053\u3046\u306A\u3063\u305F\u3089\u4ECA\u65E5\u306F\u5FB9\u5E95\u7684\u306B\u4ED8\u304D\u5408\u3063\u3066\u3082\u3089\u3046\u304B\u3089\u306D\uFF01\u7FE0\u3061\u3083\u3093\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3 \u003CNovel Writer\u003E \u0026 \u003CEditor\u003E]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3014\u5C0F\u8AAC\u5BB6\u3015\uFF06\u3014\u7DE8\u96C6\u8005\u3015\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-066.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-067",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-067S",
+          "Rarity": "RR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-067s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Oktoberfest, Mocha",
+        "JP": "\u30AA\u30AF\u30C8\u30FC\u30D0\u30FC\u30D5\u30A7\u30B9\u30C8 \u30E2\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "RR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B3/\u00B10 until end of turn, and during this character\u0027s next attack, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3057\u3001\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-067.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-068",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-068S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3088\u3046\u3053\u305D\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3078\uFF01\u672C\u65E5\u306E\u304A\u3059\u3059\u3081\u306F\u30E2\u30AB\u30D6\u30EC\u30F3\u30C9\u3067\u30FC\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-068s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Playing Rabbit House Waitress, Mocha",
+        "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3054\u3063\u3053 \u30E2\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "R",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CWelcome to Rabbit House! Today\u2019s special is our mocha blend!\u201D",
+        "JP": "\u3088\u3046\u3053\u305D\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3078\uFF01\u672C\u65E5\u306E\u304A\u3059\u3059\u3081\u306F\u30E2\u30AB\u30D6\u30EC\u30F3\u30C9\u3067\u30FC\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose 1 between \u0022Bread\u0022 and \u0022Coffee\u0022, and perform the following based on your choice.\nBread. Choose a character from your waiting room, and put it onto your open member area as [Rest].\nCoffee. Your opponent chooses a character from their waiting room, and puts it onto their open member area as [Rest].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u300C\u30D1\u30F3\u300D\u304B\u300C\u30B3\u30FC\u30D2\u30FC\u300D\u304B\u3089\uFF11\u3064\u9078\u3073\u3001\u4EE5\u4E0B\u3092\u884C\u3046\u3002\n\u30D1\u30F3\uFF0E\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\n\u30B3\u30FC\u30D2\u30FC\uFF0E\u76F8\u624B\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-068.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-069",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-069S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u30FC\u3059\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-069s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Free Surprise Bread, Mocha",
+        "JP": "\u30B5\u30D7\u30E9\u30A4\u30BA\u30D1\u30F3\u30B5\u30FC\u30D3\u30B9 \u30E2\u30AB"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CI appreciate it so much!\u201D",
+        "JP": "\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u30FC\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Waiting room)[Skill Showcase Level 5]:[Cost (2)], and put this character onto your member area. After you put, if you have a \u0022Cocoa\u0022 on your retire area, choose a \u0022Cocoa\u0022 from your retire area, and you may exchange its position with this character. If you exchanged, choose all your members other than \u0022Mocha\u0022, and they get \u003CLittle Sister\u003E until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u63A7\u3048\u5BA4\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u5F8C\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u306B\u300A\u30B3\u30B3\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u81EA\u5206\u306E\u30EA\u30BF\u30A4\u30A2\u304B\u3089\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002\u5165\u308C\u66FF\u3048\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u30E2\u30AB\u300B\u4EE5\u5916\u306E\u30AD\u30E3\u30E9\u3092\u3059\u3079\u3066\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3014\u59B9\u3015\u3092\u4E0E\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-069.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-070",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-070S",
+          "Rarity": "R\u002B",
+          "Flavor": {
+            "JP": "\u3084\u3063\u305F\uFF5E\u3002\u30B7\u30E3\u30ED\u3061\u3083\u3093\u3082\u4E00\u7DD2\u306B\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-070s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yura",
+        "JP": "\u30E6\u30E9"
+      },
+      "Traits": [
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "R",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "\u201CHooray! Please bring Syaro, too.\u201D",
+        "JP": "\u3084\u3063\u305F\uFF5E\u3002\u30B7\u30E3\u30ED\u3061\u3083\u3093\u3082\u4E00\u7DD2\u306B\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports a \u0022Rize\u0022, [put this character into the waiting room], choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u300A\u30EA\u30BC\u300B\u3092\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-070.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-071",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-071S",
+          "Rarity": "GRe\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-071s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cuteness in Full Bloom \u266A",
+        "JP": "\u304B\u308F\u3044\u3044\u304C\u82B1\u76DB\u308A\u266A"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "GRe",
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[ACT]:[Put a card from your hand into the waiting room], and until end of turn, this Rebirth gets \u0022[CONT]:All of your [ReCombo] are active.\u0022.",
+          "JP": "\u3010\u8D77\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306ERe\u30D0\u30FC\u30B9\u306F\u3008\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010Re\u30B3\u30F3\u30DC\u3011\u304C\u3059\u3079\u3066\u6709\u52B9\u306B\u306A\u308B\u3002\u3009\u3092\u5F97\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-071.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-072a",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-072aS",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-072as.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I Can Take That Step Forward Because You Are Watching",
+        "JP": "\u305D\u306E\u4E00\u6B69\u306F\u541B\u3092\u898B\u3066\u3044\u308B\u304B\u3089\u8E0F\u307F\u51FA\u305B\u308B"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        },
+        {
+          "EN": "[ACT][Skill Showcase Level 3][1/Turn]:[Put the top card of your deck into the waiting room], choose up to 2 total \u0022Cocoa\u0022 and \u0022Chino\u0022 (1 each) from your hand or waiting room, and put them onto your member area. (You may choose 1 each from your hand and waiting room or 2 from either)",
+          "JP": "\u3010\u8D77\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u624B\u672D\u304B\u63A7\u3048\u5BA4\u304B\u3089\u3001\u300A\u30B3\u30B3\u30A2\u300B\u3068\u300A\u30C1\u30CE\u300B\u3092\u305D\u308C\u305E\u308C\uFF11\u679A\u305A\u3064\u5408\u8A08\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\uFF08\u624B\u672D\u3068\u63A7\u3048\u5BA4\u304B\u3089\uFF11\u679A\u305A\u3064\u3067\u3082\u3069\u3061\u3089\u304B\u304B\u3089\uFF12\u679A\u3067\u3082\u3088\u3044\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-072a.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-073",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-073S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u6BCD\u304C\u305D\u306E\u624B\u54C1\u2026\u5F97\u610F\u3060\u3063\u305F\u306E\u3067"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-073s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Magic Tricks My Mother Was Good At",
+        "JP": "\u6BCD\u304C\u5F97\u610F\u3060\u3063\u305F\u624B\u54C1"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CIt\u2019s just that my mother was always good at doing that particular trick.\u201D",
+        "JP": "\u6BCD\u304C\u305D\u306E\u624B\u54C1\u2026\u5F97\u610F\u3060\u3063\u305F\u306E\u3067"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3042\u306A\u305F\u306E\u30D1\u30FC\u30C8\u30CA\u30FC\u3092\u3059\u3079\u3066\u3010\u30B9\u30BF\u30F3\u30C9\u3011\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-073.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-074",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-074S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30D6\u30EC\u30F3\u30C9\u3068\u30C1\u30E7\u30B3\u30B1\u30FC\u30AD\u306B\u306A\u308A\u307E\uFF5E\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-074s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ballet Waitressing",
+        "JP": "\u30D0\u30EC\u30A8\u63A5\u5BA2"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CHere is your special blend and chocolate cake, miss!\u201D",
+        "JP": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30D6\u30EC\u30F3\u30C9\u3068\u30C1\u30E7\u30B3\u30B1\u30FC\u30AD\u306B\u306A\u308A\u307E\uFF5E\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u306F\u8FFD\u52A0\u3067\u3082\u3046\u4E00\u5EA6\u767A\u52D5\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-074.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-075",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-075S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u756A\u9577\uFF01\u7D20\u6575\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-075s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Class Overboss",
+        "JP": "\u30AF\u30E9\u30B9\u306E\u756A\u9577"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CThe overboss? That\u2019s wonderful!\u201D",
+        "JP": "\u756A\u9577\uFF01\u7D20\u6575\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to one [Spark] of a character in your waiting room. [Set this Rebirth], and activate it as this card\u0027s [Spark].",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u307E\u3067\u9078\u3076\u3002\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30AB\u30FC\u30C9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3068\u3057\u3066\u767A\u52D5\u3055\u305B\u308B\u3002"
+        },
+        {
+          "EN": "[ACT][1/Turn]:[Put one of your entries into the waiting room], and the next character to be put on your entry area gets \u002B1/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-075.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-076",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-076S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-076s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Huge Success",
+        "JP": "\u5927\u6210\u529F"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Blue",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[CONT]:Your entry gets \u002B2/\u002B3.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF12/\uFF0B\uFF13\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-076.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-077",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-077S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u5F85\u3063\u305F\uFF01\u610F\u7FA9\u3042\u308A\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-077s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Bean Sprouts Discussion",
+        "JP": "\u3082\u3084\u3057\u8AC7\u7FA9"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CHold it! Objection!\u201D",
+        "JP": "\u5F85\u3063\u305F\uFF01\u610F\u7FA9\u3042\u308A\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-077.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-078",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-078S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u3042\u2026\u79C1\u3082\u2026\uFF1F\u3048\u3063\u3068\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-078s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "I wish I could have her cut my hair like that too",
+        "JP": "\u79C1\u3082\u3042\u3093\u306A\u98A8\u306B\u5207\u3063\u3066\u3082\u3089\u3048\u305F\u3089"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Green",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CAh\u2026 Me too\u2026 um\u2026\u201D",
+        "JP": "\u3042\u2026\u79C1\u3082\u2026\uFF1F\u3048\u3063\u3068\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-078.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-079",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-079S",
+          "Rarity": "Re\u002B",
+          "Flavor": {
+            "JP": "\u66F8\u304D\u4E0A\u3052\u308B\u3053\u3068\u304C\u3067\u304D\u305F\u306E\u306F\u3053\u306E\u4E07\u5E74\u7B46\u306E\u304A\u304B\u3052\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-079s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Entrusted Fountain Pen",
+        "JP": "\u8A17\u3055\u308C\u305F\u4E07\u5E74\u7B46"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Flavor": {
+        "EN": "\u201CThe whole reason I was able to finish it, was thanks to this fountain pen you lent me.\u201D",
+        "JP": "\u66F8\u304D\u4E0A\u3052\u308B\u3053\u3068\u304C\u3067\u304D\u305F\u306E\u306F\u3053\u306E\u4E07\u5E74\u7B46\u306E\u304A\u304B\u3052\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        },
+        {
+          "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\uFF13\u679A\u4EE5\u4E0A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-079.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-080",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-080S",
+          "Rarity": "Re\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-080s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Fitting For Us",
+        "JP": "\u79C1\u9054\u3089\u3057\u3044"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "Re",
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw two cards.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-080.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P001",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P001S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cocoa",
+        "JP": "\u30B3\u30B3\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P002",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P002S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cocoa",
+        "JP": "\u30B3\u30B3\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P003",
+      "Name": {
+        "EN": "Cocoa",
+        "JP": "\u30B3\u30B3\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P004",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P004S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chino",
+        "JP": "\u30C1\u30CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P005",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P005S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chino",
+        "JP": "\u30C1\u30CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P006",
+      "Name": {
+        "EN": "Chino",
+        "JP": "\u30C1\u30CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P007",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P007S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rize",
+        "JP": "\u30EA\u30BC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P008",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P008S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rize",
+        "JP": "\u30EA\u30BC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P009",
+      "Name": {
+        "EN": "Rize",
+        "JP": "\u30EA\u30BC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P010",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P010S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiya",
+        "JP": "\u5343\u591C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P011",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P011S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chiya",
+        "JP": "\u5343\u591C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P012",
+      "Name": {
+        "EN": "Chiya",
+        "JP": "\u5343\u591C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P013",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P013S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Syaro",
+        "JP": "\u30B7\u30E3\u30ED"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P014",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P014S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Syaro",
+        "JP": "\u30B7\u30E3\u30ED"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P015",
+      "Name": {
+        "EN": "Syaro",
+        "JP": "\u30B7\u30E3\u30ED"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P016",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P016S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Maya",
+        "JP": "\u30DE\u30E4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P017",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P017S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Maya",
+        "JP": "\u30DE\u30E4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P018",
+      "Name": {
+        "EN": "Maya",
+        "JP": "\u30DE\u30E4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p018.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P019",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P019S",
+          "Rarity": "PP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p019s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Megu",
+        "JP": "\u30E1\u30B0"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p019.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P020",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P020S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p020s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Megu",
+        "JP": "\u30E1\u30B0"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p020.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P021",
+      "Name": {
+        "EN": "Megu",
+        "JP": "\u30E1\u30B0"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p021.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P022",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P022S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p022s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "\u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p022.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P023",
+      "Name": {
+        "EN": "\u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p023.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P024",
+      "Name": {
+        "EN": "\u0022Blue Mountain\u0022 Aoyama",
+        "JP": "\u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p024.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P025",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P025S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p025s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u51DB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p025.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P026",
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u51DB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p026.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P027",
+      "Name": {
+        "EN": "Rin",
+        "JP": "\u51DB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p027.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P028",
+      "Alternates": [
+        {
+          "Serial": "GU/002B-P028S",
+          "Rarity": "BP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p028s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mocha",
+        "JP": "\u30E2\u30AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p028.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P029",
+      "Name": {
+        "EN": "Mocha",
+        "JP": "\u30E2\u30AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p029.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    },
+    {
+      "Serial": "GU/002B-P030",
+      "Name": {
+        "EN": "Mocha",
+        "JP": "\u30E2\u30AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "P",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUB2/gu002b-p030.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/002B"
+      }
+    }
+  ]
+}
