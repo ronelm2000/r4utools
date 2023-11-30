@@ -208,7 +208,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Type = CardType.Rebirth;
                 var rebirthLine = secondLine;
 
-                Regex flavorTextMatcher = new(@"" + rebirthLine + @"<br><em>(.+)</em><br>");
+                Regex flavorTextMatcher = new(@"" + Regex.Escape(rebirthLine) + @"<br><em>(.+)</em><br>");
                 if (flavorTextMatcher.IsMatch(content))
                 {
                     cursor.Next();
