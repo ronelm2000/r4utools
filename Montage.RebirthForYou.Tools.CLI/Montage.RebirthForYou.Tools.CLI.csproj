@@ -6,10 +6,10 @@
     <AssemblyName>r4utools</AssemblyName>
     <RootNamespace>Montage.RebirthForYou.Tools.CLI</RootNamespace>
     <Product>Rebirth For You Tools (r4utools)</Product>
-    <AssemblyVersion>0.4.1.0</AssemblyVersion>
+    <AssemblyVersion>0.4.2.0</AssemblyVersion>
     <FileVersion>${AssemblyVersion}</FileVersion>
     <VersionSuffix>$(VersionSuffix)</VersionSuffix>
-    <Version>0.4.1</Version>
+    <Version>0.4.2</Version>
     <Version Condition=" '$(VersionSuffix)' != '' ">$(Version)-$(VersionSuffix)</Version>
 
     <PackageId>r4utools</PackageId>

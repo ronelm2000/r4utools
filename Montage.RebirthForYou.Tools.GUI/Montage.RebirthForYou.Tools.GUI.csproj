@@ -8,10 +8,10 @@
     <Product>Deck Builder for Rebirth For You (deckbuilder4u)</Product>
     <Description>Included GUI for making decks for R4U.</Description>
     <Copyright>Copyright (c) 2020 ronelm2000 / Rebirth For You (c) Bushiroad All Rights Reserved.</Copyright>
-    <Version>0.4.1</Version>
+    <Version>0.4.2</Version>
     <RepositoryUrl>https://github.com/ronelm2000/r4utools</RepositoryUrl>
     <RuntimeIdentifiers>win-x64;linux-x64;osx-x64</RuntimeIdentifiers>
-    <AssemblyVersion>0.4.1.0</AssemblyVersion>
+    <AssemblyVersion>0.4.2.0</AssemblyVersion>
     <Title>Deck Builder For You</Title>
   </PropertyGroup>
   <ItemGroup>
