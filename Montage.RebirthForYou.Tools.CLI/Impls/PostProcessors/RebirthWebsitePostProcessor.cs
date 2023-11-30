@@ -31,7 +31,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                     return false;
                 else
                     return true;
-            } catch (InvalidOperationException)
+            }
+            catch (InvalidOperationException)
             {
                 return false;
             }
@@ -50,9 +51,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
         {
             if (!HasMissingInformation(card)) return card;
             var updatedCard = card.Clone();
-            var url = rebirthURLPrefix
-                .SetQueryParam("cardno", updatedCard.Serial.Replace("+", "＋"))
-                ;
+            var url = GetSerialPageExceptions(card);
             Log.Debug("Opening Link: {url}", url);
             try
             {
@@ -123,6 +122,16 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 updatedCard.Images.Add(new Uri(exceptionalRecord.ImageLink));
                 return updatedCard;
             }
+        }
+
+        private Flurl.Url GetSerialPageExceptions(R4UCard card)
+        {
+            return card switch
+            {
+                R4UCard c when card.Serial.StartsWith("KS/002T-") && card.Type != CardType.Partner
+                    => rebirthURLPrefix.SetQueryParam("cardno", card.Serial.Replace("+", "＋").Replace("KS/002T-", "KS/002-T")),
+                _ => rebirthURLPrefix.SetQueryParam("cardno", card.Serial.Replace("+", "＋"))
+            };
         }
 
         private string GetWebsiteErrata(R4UCard card)
