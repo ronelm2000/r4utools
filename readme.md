@@ -1,6 +1,6 @@
 R4UTools (Rebirth For You Tools)
 ===========
-[![.NET 5](https://github.com/ronelm2000/r4utools/workflows/.NET%205/badge.svg)](https://github.com/ronelm2000/r4utools/actions/workflows/nightly.yml)
+[![.NET](https://github.com/ronelm2000/r4utools/workflows/.NET/badge.svg)](https://github.com/ronelm2000/r4utools/actions/workflows/nightly.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/ronelm2000/r4utools/badge)](https://www.codefactor.io/repository/github/ronelm2000/)
 [![Gitter](https://badges.gitter.im/wsmtools/community.svg)](https://gitter.im/wsmtools/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Downloads](https://img.shields.io/github/downloads/ronelm2000/r4utools/total.svg)](https://tooomm.github.io/github-release-stats/?username=ronelm2000&repository=r4utools)
@@ -42,4 +42,4 @@ Requirements to build are:
 * [Avalonia for Visual Studio](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)
 
 -----
-©BanG Dream! Project　©異世界かるてっと／ＫＡＤＯＫＡＷＡ 　©上海アリス幻樂団　©Project Revue Starlight © 2020 Ateam Inc. ©Tokyo Broadcasting System Television, Inc. ©Koi・芳文社／ご注文はBLOOM製作委員会ですか？　© 2017-2020 cover corp. © 2017 Manjuu Co.,Ltd. & YongShi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved. © Donuts Co. Ltd. All rights reserved. ©bushiroad All Rights Reserved.　illust.西あすか　illust: やちぇ(D4DJ)　
+©BanG Dream! Project ©Craft Egg Inc. ©bushiroad All Rights Reserved.　©異世界かるてっと／ＫＡＤＯＫＡＷＡ　©上海アリス幻樂団　©Project Revue Starlight © 2023 Ateam Entertainment Inc. ©Tokyo Broadcasting System Television, Inc. ©bushiroad All Rights Reserved. ©Koi・芳文社／ご注文はBLOOM製作委員会ですか？　© 2016 COVER Corp.　© 2017 Manjuu Co.,Ltd. & YongShi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved.　© Donuts Co. Ltd. All rights reserved.　©bushiroad All Rights Reserved.　illust：西あすか　illust: やちぇ(D4DJ)　©円谷プロ ©2018 TRIGGER・雨宮哲／「GRIDMAN」製作委員会　©長月達平・株式会社KADOKAWA刊／Re:ゼロから始める異世界生活2製作委員会　©2020竜騎士07／ひぐらしのなく頃に製作委員会　© New Japan Pro-Wrestling Co.,Ltd. All right reserved.　TM & © TOHO CO., LTD.　©円谷プロ ©2021 TRIGGER・雨宮哲／「DYNAZENON」製作委員会　© NEXON Games & Yostar ©木緒なち・KADOKAWA／ぼくたちのリメイク製作委員会 ©2016 暁なつめ・三嶋くろね／ＫＡＤＯＫＡＷＡ／このすば製作委員会 ©World Wonder Ring STARDOM © VISUAL ARTS/Key/KAGINADO ©あfろ・芳文社／野外活動委員会 ©C4 Connect Inc. ©てっぺんグランプリ実行委員会　©Spider Lily／アニプレックス・ABCアニメーション・BS11 ©福本伸行／講談社 ®KODANSHA　©TYPE-MOON / FGC PROJECT　©逢沢大介・KADOKAWA刊／シャドウガーデン　©柴・伏瀬・講談社／転スラ日記製作委員会 ®KODANSHA　©2023 暁なつめ・三嶋くろね／KADOKAWA／このすば爆焔製作委員会　©Bandai Namco Entertainment Inc. / PROJECT U149 ©Bandai Namco Entertainment Inc. ©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会・MBS ©中村力斗・野澤ゆき子／集英社・君のことが大大大大大好きな製作委員会
