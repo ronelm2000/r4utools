@@ -68,16 +68,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                 return JP;
         }
 
-        /*
-        internal MultiLanguageString ResolveConflicts(MultiLanguageString oldString)
-        {
-            if (oldString.Version >= Version)
-            {
-                resources = oldString.resources;
-                Version = oldString.Version;
-            }
-            return this;
-        }
-        */
+        public static implicit operator MultiLanguageString((string EN, string JP) tuple)
+            => new MultiLanguageString { EN = tuple.EN, JP = tuple.JP };
     }
 }

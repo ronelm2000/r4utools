@@ -16,6 +16,7 @@ using System.Reflection.Metadata;
 using AngleSharp.Common;
 using CommandLine;
 using System.Reflection.Metadata.Ecma335;
+using System.ComponentModel;
 
 namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
 {
@@ -258,11 +259,23 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                 card.Color = CardUtils.InferFromEffect(card.Effect);
             }
 
-            if (TryGetErrata(card) is (int ATK, int DEF, MultiLanguageString[] Effects) errataEntry)
+            if (TryGetErrata(card) is RenegadesCharacterPatch errataEntry)
             {
-                card.ATK = ATK;
-                card.DEF = DEF;
-                card.Effect = Effects;
+                (   int? ATK,
+                    int? DEF, 
+                    int? Cost,
+                    MultiLanguageString[]? Traits,
+                    MultiLanguageString? FlavorText,
+                    MultiLanguageString[]? Effects
+                    ) = errataEntry;
+                card.Type = CardType.Character;
+                card.Color = CardUtils.InferFromEffect(Effects ?? card.Effect);
+                card.ATK = ATK ?? card.ATK;
+                card.DEF = DEF ?? card.DEF;
+                card.Cost = Cost ?? card.Cost;
+                card.Traits = Traits?.ToList() ?? card.Traits;
+                card.Flavor = FlavorText ?? card.Flavor;
+                card.Effect = Effects ?? card.Effect;
             }
 
             if (card.Serial == null)
@@ -299,28 +312,30 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
             return errata != null;
         }
 
-        private (int ATK, int DEF, MultiLanguageString[] Effects)? TryGetErrata(R4UCard card)
+        private RenegadesCharacterPatch? TryGetErrata(R4UCard card)
         {
             return card.Serial switch
             {
-                "KGND/001B-079[VA]" => 
-                (
-                    ATK: 6, 
-                    DEF: 7, 
-                    Effects: new[] { new MultiLanguageString() { EN = "[Growing](Expect growth in the future!)" } }
-                ),
+                "KGND/001B-079[VA]" => new RenegadesCharacterPatch {
+                    ATK = 6,
+                    DEF = 7,
+                    FlavorText = new MultiLanguageString { EN = "It seems like my twin sister has a deep dark side." },
+                    Effects = new[] { new MultiLanguageString() { EN = "[Growing](Expect growth in the future!)" } }
+                },
 
-                "YC/001B-046" =>
-                (
-                    ATK: 4,
-                    DEF: 5,
-                    Effects: new[] { new MultiLanguageString { EN = "[Spark]:Perform all of the following based on the characters on your member area. \"Nadeshiko\": Draw a card, choose a card from your hand, and put it into the waiting room. \"Chiaki\": Choose a character from your waiting room, and you may put it onto an open member area.\r\n“Nadeshiko” and “Chiaki“: This character gets +3/+3 until end of turn." } }
-                 ),
-                "YC/001B-075" =>
-                (
-                    ATK: 2,
-                    DEF: 3,
-                    Effects: new[]
+                "YC/001B-046" => new RenegadesCharacterPatch
+                {
+                    ATK = 4,
+                    DEF = 5,
+                    FlavorText = new MultiLanguageString { EN = "It costs about 2 to 3 thousand more than synthetic fibers at the same cold-resistant temperature..." },
+                    Effects = new[] { new MultiLanguageString { EN = "[Spark]: Perform all of the following based on the characters on your member area. \"Nadeshiko\": Draw a card, choose a card from your hand, and put it into the waiting room. \"Chiaki\": Choose a character from your waiting room, and you may put it onto an open member area.\r\n“Nadeshiko” and “Chiaki“: This character gets +3/+3 until end of turn." } }
+                },
+                "YC/001B-075" => new RenegadesCharacterPatch
+                {
+                    ATK = 2,
+                    DEF = 3,
+                    FlavorText = new MultiLanguageString { EN = "I'll be there soon." },
+                    Effects = new[]
                     {
                         new MultiLanguageString
                         {
@@ -331,13 +346,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                             EN = "[AUTO] When this character blocks, you may place this card into your vacant member area."
                         }
                     }
-                ),
+                },
 
-                "HS/001B-049" =>
-                (
-                    ATK: 3,
-                    DEF: 5,
-                    Effects: new[]
+                "HS/001B-049" => new RenegadesCharacterPatch
+                {
+                    ATK = 3,
+                    DEF = 5,
+                    FlavorText = new MultiLanguageString { EN = "Hehe, shopping together like this... somehow feels like we're newlyweds, doesn't it?" },
+                    Effects = new[]
                     {
                         new MultiLanguageString
                         {
@@ -352,10 +368,35 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                             EN = "[CONT]:This character’s [Cancel] can only be used when you have a [Growing] entry."
                         }
                     }
-                ),
+                },
+
+                "TOP/001B-024" => new RenegadesCharacterPatch
+                {
+                    ATK = 4,
+                    DEF = 6,
+                    Cost = 3,
+                    FlavorText = (EN: "Welcome~", JP: null),
+                    Traits = new MultiLanguageString[]
+                    {
+                        (EN: "Comedy", JP: null),
+                        (EN: "Dangan Kunoichi", JP: null)
+                    },
+                    Effects = new MultiLanguageString[]
+                    {
+                        (EN: "[Spark]: This character gets +3/±０ until end of turn.", JP: null)
+                    }
+                },
+
+                "TS/001B-036" => new RenegadesCharacterPatch
+                {
+                    Effects = new MultiLanguageString[]
+                    {
+                        (EN: "[Spark][Skill Showcase Level 3]:Choose up to 1 [Spark] of a card on your opponent’s retire area, and activate it as this character’s [Spark].", JP: null)
+                    }
+                },
 
                _ => null
-            };
+            }; ;
         }
 
         private bool TryGetExceptionalSerialRarityName(string line, out (string Serial, string Rarity, MultiLanguageString Name)[] exceptionalResult)
@@ -486,6 +527,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
                         ))
                         .ToArray(),
 
+                "TOP/001B-024 Rarity JPName **ENName**"
+                    => new[]
+                    {
+                        (
+                            Serial: "TOP/001B-024",
+                            Rarity: "C",
+                            Name: new MultiLanguageString
+                            {
+                                EN = "Self-Defense Mindset, Kana",
+                                JP = "自己防衛の心がけ かな"
+                            }
+                        )
+                    },
+
                 "Source" => new (string Serial, string Rarity, MultiLanguageString Name)[] { },
                 _ => null
             };  
@@ -549,4 +604,24 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
     }
 
     internal record SerialRarityNameRow (String Serial = null, String Rarity = null, String NameJP = null, String NameEN = null);
+
+    internal record struct RenegadesCharacterPatch
+    {
+        internal int? ATK { get; init; }
+        internal int? DEF { get; init; }
+        internal int? Cost { get; init; }
+        internal MultiLanguageString[]? Traits { get; init; }
+        internal MultiLanguageString? FlavorText { get; init; }
+        internal MultiLanguageString[]? Effects { get; init; }
+
+        internal void Deconstruct(out int? ATK, out int? DEF, out int? Cost, out MultiLanguageString[] Traits, out MultiLanguageString FlavorText, out MultiLanguageString[] Effects)
+        {
+            ATK = this.ATK;
+            DEF = this.DEF;
+            Cost = this.Cost;
+            Traits = this.Traits;
+            FlavorText = this.FlavorText;
+            Effects = this.Effects;
+        }
+    }
 }

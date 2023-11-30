@@ -930,6 +930,48 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_KGJT_001T.r4uset",
                         DateAdded = new DateTime(638368796020821339L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 113,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_001P.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 114,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_STD_001P.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 115,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TOP_001T.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 116,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TOP_001B.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 117,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TS_001T.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 118,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TS_001B.r4uset",
+                        DateAdded = new DateTime(638369657986655019L)
                     }
                 );
             });

@@ -1,0 +1,893 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "STD/001P-001",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-001S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Mayu Iwatani",
+        "JP": "2023 \u5CA9\u8C37 \u9EBB\u512A"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "STARS",
+          "JP": "STARS"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 9,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 5]:[Cost (2)], and if you have a set Rebirth without [Spark], choose 2 of your opponent\u0027s members, put them into the waiting room, and during this character\u0027s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306E\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u305F\u306A\u3044Re\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P",
+        "Name": "Premium Booster \"New Japan Pro-Wrestling & STARDOM\""
+      }
+    },
+    {
+      "Serial": "STD/001P-002",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-002S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Utami Hayashishita",
+        "JP": "2023 \u6797\u4E0B \u8A69\u7F8E"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Queen\u0027s Quest",
+          "JP": "Queen\u0027s Quest"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry)[ReCombo][Skill Showcase Level 5][1/Turn]:[Cost (2)], choose a character from your waiting room, put it onto your member area, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-003",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-003S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, AZM",
+        "JP": "2023 \uFF21\uFF3A\uFF2D"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Queen\u0027s Quest",
+          "JP": "Queen\u0027s Quest"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PBR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card, choose a card from your hand, put it into the waiting room, and this character gets \u002B2/\u002B1 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-004",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-004S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Saya Kamitani",
+        "JP": "2023 \u4E0A\u8C37 \u6C99\u5F25"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Queen\u0027s Quest",
+          "JP": "Queen\u0027s Quest"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "PBR",
+      "Cost": 3,
+      "ATK": 2,
+      "DEF": 5,
+      "Effect": [
+        {
+          "EN": "[Blocker]",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+        },
+        {
+          "EN": "[AUTO]:When this character blocks, the damage the blocked character took becomes 0.",
+          "JP": "\u3010\u81EA\u3011\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u30D6\u30ED\u30C3\u30AF\u3055\u308C\u305F\u30AD\u30E3\u30E9\u304C\u53D7\u3051\u3066\u3044\u308B\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-005",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-005S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Saki Kashima",
+        "JP": "2023 \u9E7F\u5CF6 \u6C99\u5E0C"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Oedo Tai",
+          "JP": "\u5927\u6C5F\u6238\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:At the start of your main phase, [put this character on the bottom of your deck], and draw a card. If you drew, choose 1 each of a character from your entry area and hand, and you may exchange their positions.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30A4\u30F3\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304F\u3002\u5F15\u3044\u305F\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u305A\u3064\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-006",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-006S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Starlight Kid",
+        "JP": "2023 \u30B9\u30BF\u30FC\u30E9\u30A4\u30C8\u30FB\u30AD\u30C3\u30C9"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Oedo Tai",
+          "JP": "\u5927\u6C5F\u6238\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, [Cost (2)], draw a card, and the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\uFF11\u679A\u5F15\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-007",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-007S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Giulia",
+        "JP": "2023 \u30B8\u30E5\u30EA\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Donna del Mondo",
+          "JP": "Donna del Mondo"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PBR",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Choose 1 of the following.\ni. [Choose a card from your hand, and put it into the waiting room], and set a Rebirth from your waiting room.\nii. This character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\u4EE5\u4E0B\u304B\u3089\uFF11\u3064\u9078\u3076\u3002\n\u2170\uFF0E\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u30BB\u30C3\u30C8\u3059\u308B\u3002\n\u2171\uFF0E\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-008",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-008S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Maika",
+        "JP": "2023 \u821E\u83EF"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Donna del Mondo",
+          "JP": "Donna del Mondo"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PBR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-009",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-009S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Tam Nakano",
+        "JP": "2023 \u4E2D\u91CE \u305F\u3080"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "COSMIC ANGELS",
+          "JP": "COSMIC ANGELS"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PBR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:Choose 1 of your opponent\u0027s [Rest] members, and you may put it into the waiting room. If you put, choose 1 of either player\u0027s members, and put it into the waiting room.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002\u7F6E\u3044\u305F\u3089\u3001\u3044\u305A\u308C\u304B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-010",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-010S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Natsupoi",
+        "JP": "2023 \u306A\u3064\u307D\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "COSMIC ANGELS",
+          "JP": "COSMIC ANGELS"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[AUTO][Skill Showcase Level 3]:When this character is put onto your member area other than from your entry area, [choose a character with [Spark] from your hand, and put it into the waiting room], choose a Rebirth from your waiting room, and return it to your hand.",
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A8\u30F3\u30C8\u30EA\u30FC\u4EE5\u5916\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u63A7\u3048\u5BA4\u304B\u3089Re\u30D0\u30FC\u30B9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-011",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-011S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Syuri",
+        "JP": "2023 \u6731\u91CC"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "God\u0027s Eye",
+          "JP": "God\u2019s Eye"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PBR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][Skill Showcase Level 5]:When this character retires an opponent\u0027s character, choose a character from your waiting room, and put it onto your member area as [Rest]. When you put, if you have 3 or more members, during this character\u0027s next attack this turn, your opponent cannot use [Blocker].",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\u7F6E\u3044\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF13\u679A\u4EE5\u4E0A\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u76F8\u624B\u306F\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3092\u4F7F\u3048\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-012",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-012S",
+          "Rarity": "PBR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "2023, Mina Shirakawa",
+        "JP": "2023 \u767D\u5DDD \u672A\u5948"
+      },
+      "Traits": [
+        {
+          "EN": "Wrestler",
+          "JP": "\u30EC\u30B9\u30E9\u30FC"
+        },
+        {
+          "EN": "Club Venus",
+          "JP": "Club Venus"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PBR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 5]:When you would put Rebirths into the waiting room at the end of your turn, you may leave one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306F\u3053\u306E\u30BF\u30FC\u30F3\u7D42\u4E86\u6642\u306BRe\u30D0\u30FC\u30B9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u969B\u3001\uFF11\u679A\u6B8B\u3057\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P001",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P001S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p001s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mayu Iwatani",
+        "JP": "\u5CA9\u8C37 \u9EBB\u512A"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P002",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P002S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p002s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Utami Hayashishita",
+        "JP": "\u6797\u4E0B \u8A69\u7F8E"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P003",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P003S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p003s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "AZM",
+        "JP": "\uFF21\uFF3A\uFF2D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P004",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P004S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p004s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saya Kamitani",
+        "JP": "\u4E0A\u8C37 \u6C99\u5F25"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P005",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P005S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p005s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saki Kashima",
+        "JP": "\u9E7F\u5CF6 \u6C99\u5E0C"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P006",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P006S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Starlight Kid",
+        "JP": "\u30B9\u30BF\u30FC\u30E9\u30A4\u30C8\u30FB\u30AD\u30C3\u30C9"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P007",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P007S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p007s.png"
+          ]
+        },
+        {
+          "Serial": "STD/001P-P007SSP",
+          "Rarity": "SSP",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p007ssp.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Giulia",
+        "JP": "\u30B8\u30E5\u30EA\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P008",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P008S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p008s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Maika",
+        "JP": "\u821E\u83EF"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P009",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P009S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p009s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Tam Nakano",
+        "JP": "\u4E2D\u91CE \u305F\u3080"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P010",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P010S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p010s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Natsupoi",
+        "JP": "\u306A\u3064\u307D\u3044"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P011",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P011S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p011s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Syuri",
+        "JP": "\u6731\u91CC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    },
+    {
+      "Serial": "STD/001P-P012",
+      "Alternates": [
+        {
+          "Serial": "STD/001P-P012S",
+          "Rarity": "PBP\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mina Shirakawa",
+        "JP": "\u767D\u5DDD \u672A\u5948"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "PBP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/NPBb/std_001p_p012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "STD/001P"
+      }
+    }
+  ]
+}

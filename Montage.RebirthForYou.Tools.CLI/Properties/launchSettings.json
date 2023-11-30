@@ -119,6 +119,10 @@
     "Parse RE/001E (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/05/08/re-001e-full-set-list-translations/"
+    },
+    "Parse TS (Renegades)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/06/07/ts-001t-ts-001b-full-set-list-translations/"
     }
   }
 }

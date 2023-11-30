@@ -1,0 +1,1014 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "TOP/001T-001",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-001S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u5927\u4E08\u592B\u3084\u3067\u3001\u3088\u3082\u304E\uFF01\u79C1\u3082\u4E00\u7DD2\u306B\u8B1D\u308B\u304B\u3089\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_001p.png"
+          ]
+        },
+        {
+          "Serial": "TOP/001T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_001snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yayoi Sakamoto",
+        "JP": "\u962A\u672C \u3084\u3088\u3044"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Young YY",
+          "JP": "\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u5927\u4E08\u592B\u3084\u3067\u3001\u3088\u3082\u304E\uFF01\u79C1\u3082\u4E00\u7DD2\u306B\u8B1D\u308B\u304B\u3089\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B3 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF13\u3002"
+        },
+        {
+          "EN": "[ACT][Entry][ReCombo \u0022Laughing \u0027til You Cry\u0022][1/Turn]:[Cost (1)], and this character gets \u002B3/\u00B10 until end of turn. If this character\u0027s [Spark] was [Cancelled] this turn, your members cannot be chosen by your opponent\u0027s characters until end of turn.\n(Active if you have \u0022Laughing \u0027til You Cry\u0022 set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5C4A\u3051\u3001\u7B11\u3044\u306E\u9802\u70B9\u3078\uFF01\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2460\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u306B\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304C\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3055\u308C\u3066\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306F\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u304B\u3089\u9078\u3070\u308C\u306A\u3044\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u5C4A\u3051\u3001\u7B11\u3044\u306E\u9802\u70B9\u3078\uFF01\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T",
+        "Name": "Trial Deck \"Teppen!!!!!!!!!!!!!!!\""
+      }
+    },
+    {
+      "Serial": "TOP/001T-002",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-002S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3048\uFF1F\u306A\u306B\u305D\u306E\u3046\u3061\u304C\u72AF\u4EBA\u307F\u305F\u3044\u306A\u8A00\u3044\u65B9\u306F\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_002p.png"
+          ]
+        },
+        {
+          "Serial": "TOP/001T-002SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_002snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yomogi Takahashi",
+        "JP": "\u9AD8\u6A4B \u3088\u3082\u304E"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Young YY",
+          "JP": "\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u3048\uFF1F\u306A\u306B\u305D\u306E\u3046\u3061\u304C\u72AF\u4EBA\u307F\u305F\u3044\u306A\u8A00\u3044\u65B9\u306F\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-003",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-003S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u304A\u3081\u306F\u3093\u3060\u3061\u306A\u3089\u3001\u3066\u3063\u307A\u3093\u3068\u308C\u308B\u3079\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_003p.png"
+          ]
+        },
+        {
+          "Serial": "TOP/001T-003SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_003snr.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuzu Hosono",
+        "JP": "\u7D30\u91CE \u3086\u305A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Young YY",
+          "JP": "\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u304A\u3081\u306F\u3093\u3060\u3061\u306A\u3089\u3001\u3066\u3063\u307A\u3093\u3068\u308C\u308B\u3079\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:Draw a card.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-004",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-004S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u307B\u3093\u307E\u306B\uFF1F\u30A6\u30C1\u306A\u3001\u53EF\u611B\u3044\u3084\u3093\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_004p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Kana Kiyotsuru",
+        "JP": "\u6E05\u9DB4 \u304B\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Dangan Kunoichi",
+          "JP": "\u5F3E\u4E38\u30AF\u30CE\u30A4\u30C1"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u307B\u3093\u307E\u306B\uFF1F\u30A6\u30C1\u306A\u3001\u53EF\u611B\u3044\u3084\u3093\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-005",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-005S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u91D1\u3084\u3068\u8DB3\u304C\u3064\u304F\u3055\u304B\u3044\u3001\u725B\u8089\u3067\u8CB7\u53CE\u3068\u306F\u3001\u306A\u304B\u306A\u304B\u306E\u77E5\u80FD\u72AF\u3084\u306A\uFF01"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_005p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chitose Amano",
+        "JP": "\u5929\u91CE \u3061\u3068\u305B"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Dangan Kunoichi",
+          "JP": "\u5F3E\u4E38\u30AF\u30CE\u30A4\u30C1"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u91D1\u3084\u3068\u8DB3\u304C\u3064\u304F\u3055\u304B\u3044\u3001\u725B\u8089\u3067\u8CB7\u53CE\u3068\u306F\u3001\u306A\u304B\u306A\u304B\u306E\u77E5\u80FD\u72AF\u3084\u306A\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-006",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-006S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u4ECA\u65E5\u3082\u7D20\u6674\u3089\u3057\u3044\u4E0A\u8155\u4E8C\u982D\u7B4B\u3067\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_006p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Iroha Ikishika",
+        "JP": "\u79CB\u9E7F \u3044\u308D\u306F"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Dangan Kunoichi",
+          "JP": "\u5F3E\u4E38\u30AF\u30CE\u30A4\u30C1"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u4ECA\u65E5\u3082\u7D20\u6674\u3089\u3057\u3044\u4E0A\u8155\u4E8C\u982D\u7B4B\u3067\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Member]:When this character supports, [put this character on the bottom of the deck], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-007",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-007S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3089\u3001\u305D\u3046\u306A\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_007p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Saeka Yabukita",
+        "JP": "\u85EA\u5317 \u3055\u3048\u304B"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Celebri-Tea",
+          "JP": "\u30BB\u30EC\u30D6\u30EA\u8336"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3042\u3089\u3001\u305D\u3046\u306A\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT][Entry]:[Cost (2)], and this character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-008",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-008S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u5FC3\u3092\u6E80\u305F\u3059\u306B\u306F\u7D4C\u6E08\u529B\u3082\u5927\u4E8B\u3067\u3057\u3087"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_008p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hikari Jogasaki",
+        "JP": "\u57CE\u30F6\u5D0E \u3072\u304B\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Celebri-Tea",
+          "JP": "\u30BB\u30EC\u30D6\u30EA\u8336"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u5FC3\u3092\u6E80\u305F\u3059\u306B\u306F\u7D4C\u6E08\u529B\u3082\u5927\u4E8B\u3067\u3057\u3087"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Member][Skill Showcase Level 3]:When this character supports, [Cost (2)], and the supported character gets \u002B2/\u00B10 until end of turn.\n([Skill Showcase Level 3]:Active if there are 3 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-009",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-009S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u304A\u91D1\u3092\u3042\u3052\u308B\u3093\uFF1F\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4\u306E\u307F\u3093\u306A\u306B\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_009p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mako Shirakabe",
+        "JP": "\u767D\u58C1 \u307E\u3053"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Celebri-Tea",
+          "JP": "\u30BB\u30EC\u30D6\u30EA\u8336"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u304A\u91D1\u3092\u3042\u3052\u308B\u3093\uFF1F\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4\u306E\u307F\u3093\u306A\u306B\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u00B10/\u002B4 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF14\u3002"
+        },
+        {
+          "EN": "[AUTO][Entry]:When this character\u0027s [Spark] is [Cancelled], you may put this character onto your energy area.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304C\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3055\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_009.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-010",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-010S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3069\u3046\u3057\u3066\u3001\u3057\u3087\u307C\u308D\u7D0D\u8C46\u304C\u3069\u3053\u306B\u3082\u58F2\u3063\u3066\u306A\u3044\u3093\u3060\u3088\u3049"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_010p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Miyu Komatsuzaki",
+        "JP": "\u5C0F\u677E\u5D0E \u307F\u3086"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Akudare Oukoku",
+          "JP": "\u3042\u304F\u3060\u308C\u738B\u56FD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u3069\u3046\u3057\u3066\u3001\u3057\u3087\u307C\u308D\u7D0D\u8C46\u304C\u3069\u3053\u306B\u3082\u58F2\u3063\u3066\u306A\u3044\u3093\u3060\u3088\u3049"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT][Entry][Skill Showcase Level 3]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.\n([Skill Showcase Level 3]:Active if there are 3 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-011",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-011S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3042\u3001\u4ECA\u3001\u3061\u3087\u3063\u3068\u8CB7\u3044\u51FA\u3057"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_011p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Misao Ushiku",
+        "JP": "\u725B\u4E45 \u307F\u3055\u304A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Akudare Oukoku",
+          "JP": "\u3042\u304F\u3060\u308C\u738B\u56FD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u3042\u3001\u4ECA\u3001\u3061\u3087\u3063\u3068\u8CB7\u3044\u51FA\u3057"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-012",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-012S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u6240\u8A6E\u8328\u57CE\u3068\u3044\u3046\u7247\u7530\u820E\u3060\u3051\u306E\u30BD\u30A6\u30EB\u30D5\u30FC\u30C9\u3060\u3082\u3093\u3002\u306A\u304F\u3066\u5F53\u7136\u3060\u3088\u2026\u2026"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_012p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hina Kasama",
+        "JP": "\u7B20\u9593 \u3072\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Akudare Oukoku",
+          "JP": "\u3042\u304F\u3060\u308C\u738B\u56FD"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u6240\u8A6E\u8328\u57CE\u3068\u3044\u3046\u7247\u7530\u820E\u3060\u3051\u306E\u30BD\u30A6\u30EB\u30D5\u30FC\u30C9\u3060\u3082\u3093\u3002\u306A\u304F\u3066\u5F53\u7136\u3060\u3088\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-013",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-013S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u306D\u3048\u3001\u3053\u3093\u306A\u3084\u308A\u65B9\u3067\u672C\u5F53\u306BUFO\u547C\u3079\u308B\u306E\uFF1F"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_013p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Yuina Rokkatei",
+        "JP": "\u516D\u9999\u4EAD \u3086\u3044\u306A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Shinryakusha",
+          "JP": "\u30B7\u30F3\u30EA\u30E3\u30AF\u30B7\u30E3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u306D\u3048\u3001\u3053\u3093\u306A\u3084\u308A\u65B9\u3067\u672C\u5F53\u306BUFO\u547C\u3079\u308B\u306E\uFF1F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO][Entry][ReCombo][1/Turn]:When this character retires an opponent\u0027s character, choose a character with [Spark] or [Cancel] from your waiting room, and return it to your hand.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\u6301\u3064\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3059\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-014",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-014S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u547C\u3079\u308B\u3088\u3002\u30CD\u30C3\u30C8\u306B\u66F8\u3044\u3066\u3042\u3063\u305F\u3093\u3060\u3082\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_014p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Mone Ishiya",
+        "JP": "\u77F3\u5C4B \u3082\u306D"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Shinryakusha",
+          "JP": "\u30B7\u30F3\u30EA\u30E3\u30AF\u30B7\u30E3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u547C\u3079\u308B\u3088\u3002\u30CD\u30C3\u30C8\u306B\u66F8\u3044\u3066\u3042\u3063\u305F\u3093\u3060\u3082\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-015",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-015S",
+          "Rarity": "TD\u002B",
+          "Flavor": {
+            "JP": "\u3060\u304B\u3089\u6700\u8FD1\u306F\u3001\u7528\u4E8B\u3082\u306A\u3044\u306E\u306B\u3088\u304F\u547C\u3076\u4EBA\u3063\u3066\u3001\u5B87\u5B99\u4EBA\u306E\u9593\u3067\u30D6\u30E9\u30C3\u30AF\u30EA\u30B9\u30C8\u5171\u6709\u3057\u3066\u308B\u3093\u3060\u3088"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_015p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chihori Hokuto",
+        "JP": "\u5317\u6597 \u3061\u307B\u308A"
+      },
+      "Traits": [
+        {
+          "EN": "Comedy",
+          "JP": "\u304A\u7B11\u3044"
+        },
+        {
+          "EN": "Shinryakusha",
+          "JP": "\u30B7\u30F3\u30EA\u30E3\u30AF\u30B7\u30E3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "JP": "\u3060\u304B\u3089\u6700\u8FD1\u306F\u3001\u7528\u4E8B\u3082\u306A\u3044\u306E\u306B\u3088\u304F\u547C\u3076\u4EBA\u3063\u3066\u3001\u5B87\u5B99\u4EBA\u306E\u9593\u3067\u30D6\u30E9\u30C3\u30AF\u30EA\u30B9\u30C8\u5171\u6709\u3057\u3066\u308B\u3093\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are 4 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-016",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-016S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_016p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Teppen All-Stars",
+        "JP": "\u3066\u3063\u307A\u3093\u3063\u30AA\u30FC\u30EB\u30B9\u30BF\u30FC\u30BA"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal 1.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-017",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-017S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_017p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Laughing \u0027til You Cry",
+        "JP": "\u5C4A\u3051\u3001\u7B11\u3044\u306E\u9802\u70B9\u3078\uFF01"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-P001",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-P001S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p001p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Young YY",
+        "JP": "\u30E4\u30F3\u30B0\u30EF\u30A4\u30EF\u30A4"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-P002",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-P002S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p002p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Dangan Kunoichi",
+        "JP": "\u5F3E\u4E38\u30AF\u30CE\u30A4\u30C1"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-P003",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-P003S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p003p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Celebri-Tea",
+        "JP": "\u30BB\u30EC\u30D6\u30EA\u8336"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-P004",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-P004S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p004p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Akudare Oukoku",
+        "JP": "\u3042\u304F\u3060\u308C\u738B\u56FD"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    },
+    {
+      "Serial": "TOP/001T-P005",
+      "Alternates": [
+        {
+          "Serial": "TOP/001T-P005S",
+          "Rarity": "TD\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p005p.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Shinryakusha",
+        "JP": "\u30B7\u30F3\u30EA\u30E3\u30AF\u30B7\u30E3"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/TOPT/top_001t_p005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "TOP/001T"
+      }
+    }
+  ]
+}
