@@ -13,7 +13,7 @@
         }
       ],
       "Name": {
-        "EN": "Illusionary Barrier Team, Reimu \u0026amp; Yukari",
+        "EN": "Illusionary Barrier Team, Reimu & Yukari",
         "JP": "\u5E7B\u60F3\u306E\u7D50\u754C\u30C1\u30FC\u30E0 \u970A\u5922\uFF06\u7D2B"
       },
       "Traits": [
@@ -75,7 +75,7 @@
         }
       ],
       "Name": {
-        "EN": "Aria of Forbidden Magic Team, Marisa \u0026amp; Alice",
+        "EN": "Aria of Forbidden Magic Team, Marisa & Alice",
         "JP": "\u7981\u546A\u306E\u8A60\u5531\u30C1\u30FC\u30E0 \u9B54\u7406\u6C99\u0026\u30A2\u30EA\u30B9"
       },
       "Traits": [
@@ -136,7 +136,7 @@
         }
       ],
       "Name": {
-        "EN": "Visionary Scarlet Devil Team, Sakuya \u0026amp; Remilia",
+        "EN": "Visionary Scarlet Devil Team, Sakuya & Remilia",
         "JP": "\u5922\u5E7B\u306E\u7D05\u9B54\u30C1\u30FC\u30E0 \u54B2\u591C\u0026\u30EC\u30DF\u30EA\u30A2"
       },
       "Traits": [
@@ -197,7 +197,7 @@
         }
       ],
       "Name": {
-        "EN": "Netherworld Dwellers\u0027 Team, Youmu \u0026amp; Yuyuko",
+        "EN": "Netherworld Dwellers\u0027 Team, Youmu & Yuyuko",
         "JP": "\u5E7D\u51A5\u306E\u4F4F\u4EBA\u30C1\u30FC\u30E0 \u5996\u5922\u0026\u5E7D\u3005\u5B50"
       },
       "Traits": [
@@ -5734,7 +5734,7 @@
     {
       "Serial": "TH/002B-P013",
       "Name": {
-        "EN": "Reimu \u0026amp; Yukari",
+        "EN": "Reimu & Yukari",
         "JP": "\u970A\u5922\uFF06\u7D2B"
       },
       "Traits": [],
@@ -5753,7 +5753,7 @@
     {
       "Serial": "TH/002B-P014",
       "Name": {
-        "EN": "Marisa \u0026amp; Alice",
+        "EN": "Marisa & Alice",
         "JP": "\u9B54\u7406\u6C99\u0026\u30A2\u30EA\u30B9"
       },
       "Traits": [],
@@ -5772,7 +5772,7 @@
     {
       "Serial": "TH/002B-P015",
       "Name": {
-        "EN": "Sakuya \u0026amp; Remilia",
+        "EN": "Sakuya & Remilia",
         "JP": "\u54B2\u591C\u0026\u30EC\u30DF\u30EA\u30A2"
       },
       "Traits": [],
@@ -5791,7 +5791,7 @@
     {
       "Serial": "TH/002B-P016",
       "Name": {
-        "EN": "Youmu \u0026amp; Yuyuko",
+        "EN": "Youmu & Yuyuko",
         "JP": "\u5996\u5922\u0026\u5E7D\u3005\u5B50"
       },
       "Traits": [],

@@ -33,7 +33,7 @@
           "JP": "【スパーク】：このターン中、このキャラを＋２/＋２。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10293.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0001.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -73,7 +73,47 @@
           "JP": "【起】【エントリー】：［エネ2］このターン中、このキャラを＋２/±０。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10294.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0002.png" ],
+      "Remarks": null,
+      "Set": {
+        "ReleaseCode": "AL/PR",
+        "Name": "Azur Lane Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "AL/PR-0003",
+      "Name": {
+        "EN": "Nelson",
+        "JP": "ネルソン"
+      },
+      "Traits": [
+        {
+          "EN": "Royal Navy",
+          "JP": "ロイヤル"
+        },
+        {
+          "EN": "Battleship",
+          "JP": "戦艦"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 6,
+      "ATK": 4,
+      "DEF": 6,
+      "Flavor": {
+        "EN": null,
+        "JP": "私はネルソンよ。ひとまず宜しく頼むわ"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Lv3]: Put the top card of your deck into your waiting room. If it's a Rebirth, choose all of your opponent's members, and put them into their waiting room.\n ([Skill Showcase Lv3]: This ability is active if you have 3 or more total cards in your member and retire areas.)",
+          "JP": "【スパーク】【本領発揮Lv３】：あなたは自分のデッキの上から１枚控え室に置く。それがReバースなら、あなたは相手のメンバーからすべて選び、控え室に置く。\n（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
+        }
+      ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0002.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -87,7 +127,7 @@
         {
           "Serial": "AL/PR-0004SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10271.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0004sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -96,7 +136,7 @@
         {
           "Serial": "AL/PR-0004S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10272.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0004s.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -133,7 +173,7 @@
           "JP": "【自】【エントリー】：このキャラが相手のキャラをリタイアさせた時、このターン中、あなたのメンバーのコスト合計３につき、このキャラを＋１/±０。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10273.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0004.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -147,7 +187,7 @@
         {
           "Serial": "AL/PR-0005SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10274.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0005sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -156,7 +196,7 @@
         {
           "Serial": "AL/PR-0005S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10275.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0005s.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -193,7 +233,7 @@
           "JP": "【自】【メンバー】：このキャラがサポートした時、あなたはエネ1することで、このアタック中、サポートされたキャラを＋１/±０。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10276.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0005.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -207,7 +247,7 @@
         {
           "Serial": "AL/PR-0006SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10277.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0006sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -216,7 +256,7 @@
         {
           "Serial": "AL/PR-0006S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10278.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0006s.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -253,7 +293,7 @@
           "JP": "【永】エントリー【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10279.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0006.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -267,7 +307,7 @@
         {
           "Serial": "AL/PR-0007SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10280.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0007sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -276,10 +316,10 @@
         {
           "Serial": "AL/PR-0007S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10281.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0007s.png" ],
           "Flavor": {
             "EN": null,
-            "JP": null
+            "JP": "ホロライブ所属の美少女JK夏色まつりでーす！！"
           }
         }
       ],
@@ -309,11 +349,11 @@
       },
       "Effect": [
         {
-          "EN": "(Spark)[Skill Showcase Level 3]:Choose one of your opponent's members, and put it into the waiting room",
+          "EN": "(Spark)[Skill Showcase Level 3]:Choose one of your opponent's members, and put it into the waiting room.",
           "JP": "【スパーク】【本領発揮Lv３】：あなたは相手のメンバーから１枚選び、控え室に置く。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10282.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0007.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -327,7 +367,7 @@
         {
           "Serial": "AL/PR-0008SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10283.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0008sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -336,10 +376,10 @@
         {
           "Serial": "AL/PR-0008S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10284.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0008s.png" ],
           "Flavor": {
             "EN": null,
-            "JP": null
+            "JP": "こんなきりー！ホロライブ所属のバーチャル鬼神の百鬼あやめだぞ！"
           }
         }
       ],
@@ -373,7 +413,7 @@
           "JP": "【自】【エントリー】【本領発揮Lv４】：このキャラがアタックした時、このターン中、このキャラを＋１/±０。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10285.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0008.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -387,7 +427,7 @@
         {
           "Serial": "AL/PR-0009SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10286.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0009sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -396,10 +436,10 @@
         {
           "Serial": "AL/PR-0009S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10287.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0009s.png" ],
           "Flavor": {
             "EN": null,
-            "JP": null
+            "JP": "天才魔法使い、紫咲シオン様だぞ！大人の魅力あふれる新衣装で暴れまわるんだから！"
           }
         }
       ],
@@ -429,11 +469,11 @@
       },
       "Effect": [
         {
-          "EN": "(Spark):[Put a card from your hand into your waiting room], and choose one of the following:\n i.During this turn, this character gets ±０/＋３.\n ii. Choose one of your Cost 3 or less members, exchange its position with this character.",
+          "EN": "(Spark):[Put a card from your hand into your waiting room], and choose one of the following:\n i.During this turn, this character gets ±０/+3.\n ii. Choose one of your Cost 3 or less members, exchange its position with this character.",
           "JP": "【スパーク】：あなたは自分の手札から１枚控え室に置くことで、以下から１つ選ぶ。,\ni．このターン中、このキャラを±０/＋３。\nii．あなたのメンバーからコスト３以下のキャラを１枚選び、このキャラと入れ替える。"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10288.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0009.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -447,7 +487,7 @@
         {
           "Serial": "AL/PR-0010SP[HP]",
           "Rarity": "SP",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10289.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0010sp.png" ],
           "Flavor": {
             "EN": null,
             "JP": null
@@ -456,10 +496,10 @@
         {
           "Serial": "AL/PR-0010S[HP]",
           "Rarity": "PR+",
-          "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10290.jpg" ],
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0010s.png" ],
           "Flavor": {
             "EN": null,
-            "JP": null
+            "JP": "こんばんみぉーん！「大神ミオ」だよ～。"
           }
         }
       ],
@@ -493,7 +533,7 @@
           "JP": "【ブロッカー】（手札から控え室に置くと、味方へのアタック１回のダメージを０にする）"
         }
       ],
-      "Images": [ "https://yuyu-tei.jp/card_image/re/front/al1.0/10291.jpg" ],
+      "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0010.png" ],
       "Remarks": null,
       "Set": {
         "ReleaseCode": "AL/PR",
@@ -526,7 +566,103 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/al1.0/10292.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0011.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "AL/PR",
+        "Name": "Azur Lane Promo Cards",
+        "Description": null
+      }
+    },
+
+    {
+      "Serial": "AL/PR-0012",
+      "Name": {
+        "EN": "Maury",
+        "JP": "モーリー"
+      },
+      "Traits": [
+        {
+          "EN": "Eagle Union",
+          "JP": "ユニオン"
+        },
+        {
+          "EN": "Destroyer",
+          "JP": "駆逐艦"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 2,
+      "Flavor": {
+        "EN": null,
+        "JP": "モーリーといいます。ユニオン最速の、最高速度42.8ノットの記録保持者です。"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: If you have 5 or more energy, this character gets +3/+3 until the end of the turn.",
+          "JP": "【スパーク】：あなたのエネルギーが５枚以上なら、このターン中、このキャラを＋３/３。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0012.png"
+      ],
+      "Remarks": "",
+      "Set": {
+        "ReleaseCode": "AL/PR",
+        "Name": "Azur Lane Promo Cards",
+        "Description": null
+      }
+    },
+    {
+      "Serial": "AL/PR-0013",
+      "Name": {
+        "EN": "Rodney",
+        "JP": "モーリー"
+      },
+      "Alternates": [
+        {
+          "Serial": "AL/PR-0013S",
+          "Rarity": "PR+",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0013s.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": "はじめまして、ロドニーです。これからよろしくお願いします。"
+          }
+        }
+      ],
+      "Traits": [
+        {
+          "EN": "Royal Navy",
+          "JP": "ロイヤル"
+        },
+        {
+          "EN": "Battleship",
+          "JP": "戦艦"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "PR",
+      "Cost": 6,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "EN": null,
+        "JP": "はじめまして、ロドニーです。これからよろしくお願いします。"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[1/Turn]: Choose 1 [Growing] card with 3 or less cost from your hand, put it into your entry, and that character gets +2/±0 until the end of the turn.",
+          "JP": "【起】【メンバー】【ターン１】：あなたは自分の手札からコスト３以下の【のびしろ】を１枚選び、エントリーに置き、このターン中、そのキャラを＋２/±０。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/al_pr_0012.png"
       ],
       "Remarks": "",
       "Set": {
@@ -559,7 +695,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10061.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0001_yoko.png"
       ],
       "Remarks": "",
       "Set": {
@@ -596,12 +732,12 @@
       },
       "Effect": [
         {
-          "EN": "(Spark):If you have 2 or more cards in hand, until end of turn, this character gets ＋１/±０.",
+          "EN": "[Spark]: If you have 2 or more cards in hand, this character gets +1/±0 until the end of the turn.",
           "JP": "【スパーク】：あなたの手札２枚につき、このターン中、このキャラを＋１/±０。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10062.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0002.png"
       ],
       "Remarks": "",
       "Set": {
@@ -613,7 +749,7 @@
     {
       "Serial": "GP/PR-0003",
       "Name": {
-        "EN": "Tae, Reliefed",
+        "EN": "Breathe, Tae",
         "JP": "息をつく たえ"
       },
       "Traits": [
@@ -633,17 +769,17 @@
       "ATK": 3,
       "DEF": 8,
       "Flavor": {
-        "EN": null,
+        "EN": "Saaya: \"Did we go back?\"",
         "JP": "沙綾「元に戻った？」"
       },
       "Effect": [
         {
-          "EN": "[AUTO]:When this character is put onto your entry area from hand, until end of turn, this character gets ＋３/±０.",
+          "EN": "[AUTO]:When this character is put onto your entry area from hand, this character gets +3/±0 until the end of the turn.",
           "JP": "【自】：このキャラが手札からエントリーに置かれた時、このターン中、このキャラを＋３/±０。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10063.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0003.png"
       ],
       "Remarks": "",
       "Set": {
@@ -655,7 +791,7 @@
     {
       "Serial": "GP/PR-0004",
       "Name": {
-        "EN": "Rimi, Sudden Collapse",
+        "EN": "Sudden Collapse, Rimi",
         "JP": "さーくるの崩壊 りみ"
       },
       "Traits": [
@@ -685,7 +821,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10064.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0004.png"
       ],
       "Remarks": "",
       "Set": {
@@ -697,7 +833,7 @@
     {
       "Serial": "GP/PR-0005",
       "Name": {
-        "EN": "Saya, Popipa Calm Down",
+        "EN": "Popipa's Stabilizer, Saya",
         "JP": "ポピパの安定剤 沙綾"
       },
       "Traits": [
@@ -717,17 +853,17 @@
       "ATK": 5,
       "DEF": 8,
       "Flavor": {
-        "EN": null,
+        "EN": "Hahaha, I'll have it all sorted out next time......",
         "JP": "あはは、次回までにちゃんとまとめてきますんで……"
       },
       "Effect": [
         {
-          "EN": "[ACT](Entry)[1/Turn]:[Rest (2) Energy] Choose a card from your hand, put it into energy as Rest.",
+          "EN": "[ACT](Entry)[1/Turn]:[Rest (2) Energy] Choose a card from your hand, put it into energy as [REST].",
           "JP": "【起】【エントリー】【ターン１】：［エネ2］ あなたの手札から１枚選び、自分のエネルギーに【レスト】で置く。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10065.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0005.png"
       ],
       "Remarks": "",
       "Set": {
@@ -739,7 +875,7 @@
     {
       "Serial": "GP/PR-0006",
       "Name": {
-        "EN": "Arisa, Weak Body",
+        "EN": "Complete Exhaustion, Arisa",
         "JP": "全身脱力 有咲"
       },
       "Traits": [
@@ -759,7 +895,7 @@
       "ATK": 5,
       "DEF": 6,
       "Flavor": {
-        "EN": null,
+        "EN": "Honestly, for a moment there I wonder what could've happened...",
         "JP": "まったく、一時はどうなる事かとおもった……"
       },
       "Effect": [
@@ -769,7 +905,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gp1.0/10066.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gp_pr_0006.png"
       ],
       "Remarks": "",
       "Set": {
@@ -866,7 +1002,7 @@
       "Serial": "GU/PR-0001",
       "Name": {
         "JP": "ご注文はうさぎですか？？",
-        "EN": "Is the order a rabbit??"
+        "EN": "Is The Order a Rabbit??"
       },
       "Traits": [],
       "Type": "Rebirth",
@@ -886,7 +1022,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gu1.0/10046.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gu_pr_0001_yoko.png"
       ],
       "Remarks": "illust：ceco/ルノテオ",
       "Set": {
@@ -1191,7 +1327,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gu1.0/10054.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gu_pr_0009.png"
       ],
       "Remarks": "illust：ceco/ルノテオ",
       "Set": {
@@ -1226,7 +1362,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/gu1.0/10281.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gu_pr_0010.png"
       ],
       "Remarks": "illust：ceco/ルノテオ",
       "Set": {
@@ -1236,11 +1372,67 @@
       }
     },
     {
+      "Serial": "GU/PR-0011",
+      "Name": {
+        "JP": "chimame march メグ",
+        "EN": "chimame march Megu"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "チマメ隊"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "PR",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": null,
+      "Effect": [
+        {
+          "EN": "[Spark]: Choose a card from your hand, and you may put it into your energy as [REST].",
+          "JP": "【スパーク】：あなたは自分の手札から１枚選び、エネルギーに【レスト】で置いてよい。"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/gu_pr_0011.png"
+      ],
+      "Remarks": "illust：ceco/ルノテオ",
+      "Set": {
+        "ReleaseCode": "GU/PR",
+        "Name": "Is the Order a Rabbit? Promo Cards",
+        "Description": null
+      }
+    },
+
+    {
       "Serial": "HP/PR-0001",
       "Name": {
         "JP": "##アツいぞホロライブ そら",
         "EN": "#Hot Hololive Sora"
       },
+      "Alternates": [
+        {
+          "Serial": "HP/PR-0001P",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0001p.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        },
+        {
+          "Serial": "HP/PR-0001PS",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0001ps.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        }
+      ],
       "Traits": [
         {
           "EN": "Hololive",
@@ -1261,7 +1453,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10098.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0001.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1274,8 +1466,28 @@
       "Serial": "HP/PR-0002",
       "Name": {
         "JP": "#アツいぞホロライブ あくあ",
-        "EN": "Hot Hololive Aqua"
+        "EN": "#Hot Hololive Aqua"
       },
+      "Alternates": [
+        {
+          "Serial": "HP/PR-0002P",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0002p.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        },
+        {
+          "Serial": "HP/PR-0002PS",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0002ps.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        }
+      ],
       "Traits": [
         {
           "EN": "Hololive",
@@ -1295,12 +1507,12 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[AUTO](Member)[1/Turn]: When your Rebirth is placed from Entry, if you have 1 or less partner from your energy area, you may return that Rebirth from hand.",
+          "EN": "[AUTO](Member)[1/Turn]: When your Rebirth is placed from Entry, if your energy area has 1 or less partners, you may return that Rebirth into your hand.",
           "JP": "【自】【メンバー】【ターン１】：あなたのReバースがエントリーからセットされた時、あなたのパートナーが１枚以下なら、そのReバースを手札に戻してよい。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10197.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0002.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1313,8 +1525,28 @@
       "Serial": "HP/PR-0003",
       "Name": {
         "JP": "#アツいぞホロライブ まつり",
-        "EN": "Hot Hololive Matsuri"
+        "EN": "#Hot Hololive Matsuri"
       },
+      "Alternates": [
+        {
+          "Serial": "HP/PR-0003P",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0003p.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        },
+        {
+          "Serial": "HP/PR-0003PS",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0003ps.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        }
+      ],
       "Traits": [
         {
           "EN": "Hololive",
@@ -1334,12 +1566,12 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Skill Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]: During the first attack, this character gets +4/+0.",
           "JP": "【永】【エントリー】【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10198.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0003.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1352,8 +1584,28 @@
       "Serial": "HP/PR-0004",
       "Name": {
         "JP": "#アツいぞホロライブ ミオ",
-        "EN": "Hot Hololive Mio"
+        "EN": "#Hot Hololive Mio"
       },
+      "Alternates": [
+        {
+          "Serial": "HP/PR-0004P",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0004p.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        },
+        {
+          "Serial": "HP/PR-0004PS",
+          "Rarity": "PR",
+          "Images": [ "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0004ps.png" ],
+          "Flavor": {
+            "EN": null,
+            "JP": null
+          }
+        }
+      ],
       "Traits": [
         {
           "EN": "Hololive",
@@ -1373,12 +1625,12 @@
       "Flavor": null,
       "Effect": [
         {
-          "EN": "[CONT](Entry)[Skill Showcase Level 3]: During the first attack, this character gets ＋４/±０.",
-          "JP": "【永】【エントリー】【本領発揮Lv３】：各ターンこのキャラの１回目のアタック中、このキャラを＋４/±０。（【本領発揮Lv３】：あなたの、メンバーとリタイアが合計３枚以上で有効）"
+          "EN": "[Spark]: Your opponent cannot use [Cancel] from their hand until the end of the turn.",
+          "JP": "【スパーク】：このターン中、相手は手札から【キャンセル】を使えない。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10199.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0004.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1406,12 +1658,16 @@
       },
       "Effect": [
         {
-          "EN": "[CONT]:Your [Spark] effects activate an additional time.\n[CONT]:During the first attack of each turn, your entry gets +1/±0.",
-          "JP": "【永】：あなたの【スパーク】は追加でもう一度発動する。\n【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。"
+          "EN": "[CONT]:Your [Spark] effects activate an additional time.",
+          "JP": "【永】：あなたの【スパーク】は追加でもう一度発動する。"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets +1/±0.",
+          "JP": "【永】：各ターン１回目のアタック中、あなたのエントリーを＋１/±０。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10099.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0005.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1448,12 +1704,12 @@
       },
       "Effect": [
         {
-          "EN": "[Spark]: [Choose 1 of your partners and return it into your hand] You may pay the cost. If you do, move this card into a member area. (It does not have to be empty.)",
+          "EN": "[Spark]: [Choose 1 of your partners and return it into your hand], and move this card into your member area. (It does not have to be empty.)",
           "JP": "【スパーク】：あなたは自分のパートナーから1枚選び、手札に戻すことで、このキャラをメンバーに置く。（空席でなくてもよい）"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10298.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0006.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1492,7 +1748,7 @@
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10299.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0007.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1505,7 +1761,7 @@
       "Serial": "HP/PR-0008",
       "Name": {
         "JP": "静かに怒らせる ココ",
-        "EN": "Party, Coco"
+        "EN": "Quiet Provocation, Coco"
       },
       "Traits": [
         {
@@ -1529,12 +1785,12 @@
       },
       "Effect": [
         {
-          "EN": "[ACT](Entry): If you have a member with “Kanata” in its card name, [Rest (3) Energy], and put this character onto your member area.",
-          "JP": "【起】【エントリー】：［エネ3。あなたのメンバーに《かなた》がいるなら、かわりにエネ2］このキャラをメンバーに置く。"
+          "EN": "[ACT](Entry): [Rest (3) Energy. But if you have a member with “Kanata” in its card name, Rest (2) Energy instead] Put this character onto your member area.",
+          "JP": "【起】【エントリー】：［エネ③。あなたのメンバーに《かなた》がいるなら、かわりにエネ②］このキャラをメンバーに置く。"
         }
       ],
       "Images": [
-        "https://yuyu-tei.jp/card_image/re/front/hptd/10300.jpg"
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/PR/hp_pr_0008.png"
       ],
       "Remarks": null,
       "Set": {
@@ -1543,6 +1799,7 @@
         "Description": null
       }
     },
+
     {
       "Serial": "IQ/PR-0003",
       "Name": {
@@ -2322,7 +2579,7 @@
           "JP": "【スパーク】【本領発揮Lv５】：あなたのターンの終わりまで、このキャラの１回目のアタックはパートナーアタックになる。"
         }
       ],
-      "Alternative": [
+      "Alternates": [
         {
           "Serial": "RE/PR-0036b",
           "Rarity": "PR",
@@ -3101,12 +3358,10 @@
       "Cost": 1,
       "ATK": 3,
       "DEF": 3,
-      "Flavor": 
-      {
+      "Flavor": {
         "EN": null,
         "JP": "特別キャンペーン当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう！"
-      }
-      ,
+      },
       "Effect": [
         {
           "EN": "[Growing](Expect growth in the future!)",
@@ -3141,10 +3396,9 @@
       "Cost": 2,
       "ATK": 2,
       "DEF": 4,
-      "Flavor": 
-      {
-          "EN": null,
-          "JP": "３ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
+      "Flavor": {
+        "EN": null,
+        "JP": "３ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
       },
       "Effect": [
         {
@@ -3180,12 +3434,10 @@
       "Cost": 2,
       "ATK": 2,
       "DEF": 4,
-      "Flavor": 
-      {
+      "Flavor": {
         "EN": null,
         "JP": "１ポイント当たり！おめでとう！\nQRコードを読み取って詳細を確認しよう"
-      }
-      ,
+      },
       "Effect": [
         {
           "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",

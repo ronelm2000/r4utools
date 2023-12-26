@@ -17,11 +17,13 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
 {
     public class R4UCard : IExactCloneable<R4UCard>
     {
+        private readonly static string _imageCachePath = "./Images/";
+        private readonly static Regex _neoStandardCodesSerialSelector = new(@"(^|\[|\/)([^\[]+?)(?=[\/\]])", RegexOptions.Compiled);
+
         private static ILogger Log;
         private static readonly Uri EmptyURL = new Uri("https://i.imgur.com/31iwAc9.jpg");
 
         public static IEqualityComparer<R4UCard> SerialComparer { get; internal set; } = new R4USerialComparerImpl();
-        private readonly static string _imageCachePath = "./Images/";
 
         public string Serial { get; set; }
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
@@ -119,6 +121,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
         public bool IsFoil => NonFoil != null;
         [JsonIgnore]
         public string ReleaseID => Set?.ReleaseCode;
+        [JsonIgnore]
+        public IEnumerable<string> NeoStandardCodes => _neoStandardCodesSerialSelector
+            .Matches(Serial)
+            .Select(m => m.Groups[2].Value);
 
         /// <summary>
         /// Automatically fills up the card with any missing details, usually sourced from a Non Foil version.

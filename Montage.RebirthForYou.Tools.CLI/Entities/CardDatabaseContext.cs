@@ -58,6 +58,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             options.UseSqlite($"Data Source={_config.DbName}");
             options.EnableDetailedErrors();
             options.EnableSensitiveDataLogging();
+            if (_config.EnableDbDebug)
+                options.LogTo(Log.Debug, Microsoft.Extensions.Logging.LogLevel.Debug);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -589,7 +591,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 64,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset",
-                        DateAdded = new DateTime(2021, 09, 26, 15, 16, 0)
+                        DateAdded = new DateTime(2021, 09, 26, 15, 16, 0),
+                        IsDone = true
                     },
                     new ActivityLog
                     {
@@ -796,7 +799,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 93,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_001TV.r4uset",
-                        DateAdded = new DateTime(638366221721891022L)
+                        DateAdded = new DateTime(638366221721891022L),
+                        IsDone = true
                     },
                     new ActivityLog
                     {
@@ -901,7 +905,8 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         LogID = 108,
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TH_002B.r4uset",
-                        DateAdded = new DateTime(638368796020821339L)
+                        DateAdded = new DateTime(638368796020821339L),
+                        IsDone = true
                     },
                     new ActivityLog
                     {
@@ -1007,6 +1012,29 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_KS_002T.r4uset",
                         DateAdded = new DateTime(638369657986655019L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 124,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_001TV.r4uset",
+                        DateAdded = new DateTime(638391989296113309L),
+                        IsDone = true
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 125,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_TH_002B.r4uset",
+                        DateAdded = new DateTime(638391989296113309L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 126,
+                        Activity = ActivityType.Parse,
+                        IsDone = true,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset",
+                        DateAdded = new DateTime(638391989296113309L)
                     }
                 );
             });

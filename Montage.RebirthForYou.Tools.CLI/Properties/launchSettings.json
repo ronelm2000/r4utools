@@ -131,6 +131,14 @@
     "Parse KS/002 (Renegades)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2023/11/14/ks-002t-ks-002b-full-set-list-translations/"
+    },
+    "Parse U149/001B (Raw)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-fy.com/cardlist/cardsearch?expansion=IMB2"
+    },
+    "Export U149": {
+      "commandName": "Project",
+      "commandLineArgs": "export https://decklog-en.bushiroad.com/ja/view/QZQS --exporter local"
     }
   }
 }
