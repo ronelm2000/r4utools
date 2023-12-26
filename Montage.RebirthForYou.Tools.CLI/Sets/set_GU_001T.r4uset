@@ -1,0 +1,894 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "GU/001T-001",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-001S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u79C1\u3082\u304A\u59C9\u3061\u3083\u3093\u307F\u305F\u3044\u306B\u307F\u3093\u306A\u3092\u697D\u3057\u307E\u305B\u3089\u308C\u308B\u4EBA\u306B\u306A\u308A\u305F\u3044\u306A"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_001s.png"
+          ]
+        },
+        {
+          "Serial": "GU/001T-001SN",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_001sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "First Dream, Cocoa",
+        "JP": "\u4E00\u756A\u306E\u61A7\u308C \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u79C1\u3082\u304A\u59C9\u3061\u3083\u3093\u307F\u305F\u3044\u306B\u307F\u3093\u306A\u3092\u697D\u3057\u307E\u305B\u3089\u308C\u308B\u4EBA\u306B\u306A\u308A\u305F\u3044\u306A"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have more cards in your retire area than your opponent, the supported character gets \u002B1/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_001.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-002",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-002S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Our store is quite large.",
+            "JP": "\u3046\u3061\u306E\u5E97\u3063\u3066\u5E83\u3044\u3067\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_002s.png"
+          ]
+        },
+        {
+          "Serial": "GU/001T-002SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "Our store is quite large.",
+            "JP": "\u3046\u3061\u306E\u5E97\u3063\u3066\u5E83\u3044\u3067\u3059\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_002sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Peaceful Store, Chino",
+        "JP": "\u9759\u304B\u306A\u5E97\u5185 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "Our store is quite large.",
+        "JP": "\u3046\u3061\u306E\u5E97\u3063\u3066\u5E83\u3044\u3067\u3059\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B1/\u00B10 for each of your \u003CRabbit House\u003E and \u003CChimame Corps\u003E members.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3001\u3014\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3015\u3068\u3014\u30C1\u30DE\u30E1\u968A\u3015\u5408\u8A08\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_002.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-003",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-003S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Chiya: \u0022I think she\u0027s considerate like Rize.\u0022",
+            "JP": "\u5343\u591C\u300C\u30EA\u30BC\u3061\u3083\u3093\u3089\u3057\u3044\u601D\u3044\u3084\u308A\u3060\u3068\u601D\u3046\u308F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_003s.png"
+          ]
+        },
+        {
+          "Serial": "GU/001T-003SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "Chiya: \u0022I think she\u0027s considerate like Rize.\u0022",
+            "JP": "\u5343\u591C\u300C\u30EA\u30BC\u3061\u3083\u3093\u3089\u3057\u3044\u601D\u3044\u3084\u308A\u3060\u3068\u601D\u3046\u308F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_003sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Unadorned Thoughts, Rize",
+        "JP": "\u98FE\u3089\u306A\u3044\u601D\u3044 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Flavor": {
+        "EN": "Chiya: \u0022I think she\u0027s considerate like Rize.\u0022",
+        "JP": "\u5343\u591C\u300C\u30EA\u30BC\u3061\u3083\u3093\u3089\u3057\u3044\u601D\u3044\u3084\u308A\u3060\u3068\u601D\u3046\u308F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose one of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are four or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_003.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-004",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-004S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Sharo: \u0022Is she... Cocoa-sick!?\u0022",
+            "JP": "\u30B7\u30E3\u30ED\u300C\u307E\u3055\u304B\u306E\u30B3\u30B3\u30A2\u30B7\u30C3\u30AF\uFF01\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_004s.png"
+          ]
+        },
+        {
+          "Serial": "GU/001T-004SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "Sharo: \u0022Is she... Cocoa-sick!?\u0022",
+            "JP": "\u30B7\u30E3\u30ED\u300C\u307E\u3055\u304B\u306E\u30B3\u30B3\u30A2\u30B7\u30C3\u30AF\uFF01\uFF1F\u300D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_004sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Lonely, Chiya",
+        "JP": "\u3082\u306E\u3055\u307F\u3057\u3055 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "EN": "Sharo: \u0022Is she... Cocoa-sick!?\u0022",
+        "JP": "\u30B7\u30E3\u30ED\u300C\u307E\u3055\u304B\u306E\u30B3\u30B3\u30A2\u30B7\u30C3\u30AF\uFF01\uFF1F\u300D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_004.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-005",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-005S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "You made me worry.",
+            "JP": "\u3082\u3046\u3001\u5FC3\u914D\u3055\u305B\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_005s.png"
+          ]
+        },
+        {
+          "Serial": "GU/001T-005SN",
+          "Rarity": "SNR",
+          "Flavor": {
+            "EN": "You made me worry.",
+            "JP": "\u3082\u3046\u3001\u5FC3\u914D\u3055\u305B\u3066"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_005sn.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Hidden Feelings, Sharo",
+        "JP": "\u79D8\u3081\u305F\u6C17\u6301\u3061 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB \u30C9 \u30E9\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 8,
+      "Flavor": {
+        "EN": "You made me worry.",
+        "JP": "\u3082\u3046\u3001\u5FC3\u914D\u3055\u305B\u3066"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo \u0022Evening\u0027s Return Trip\u0022]:When this character is supported by a card with \u0022Cocoa\u0022 or \u0022Chiya\u0022 in its card name, this character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5915\u66AE\u308C\u306E\u5E30\u308A\u9053\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3001\u300A\u30B3\u30B3\u30A2\u300B\u304B\u300A\u5343\u591C\u300B\u306B\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u6642\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u300A\u5915\u66AE\u308C\u306E\u5E30\u308A\u9053\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_005.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-006",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-006S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Don\u0027t worry, Cocoa.",
+            "JP": "\u5FC3\u914D\u3057\u306A\u3044\u3067\u30B3\u30B3\u30A2"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_006s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Little Helper, Maya",
+        "JP": "\u5C0F\u3055\u306A\u52A9\u3063\u4EBA \u30DE\u30E4"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "Don\u0027t worry, Cocoa.",
+        "JP": "\u5FC3\u914D\u3057\u306A\u3044\u3067\u30B3\u30B3\u30A2"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_006.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-007",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-007S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "We also go to the store to help out.",
+            "JP": "\u79C1\u305F\u3061\u3082\u304A\u5E97\u624B\u4F1D\u3044\u306B\u884C\u304F\u304B\u3089\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_007s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Little Helper, Megu",
+        "JP": "\u5C0F\u3055\u306A\u52A9\u3063\u4EBA \u30E1\u30B0"
+      },
+      "Traits": [
+        {
+          "EN": "Chimame Corps",
+          "JP": "\u30C1\u30DE\u30E1\u968A"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "EN": "We also go to the store to help out.",
+        "JP": "\u79C1\u305F\u3061\u3082\u304A\u5E97\u624B\u4F1D\u3044\u306B\u884C\u304F\u304B\u3089\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_007.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-008",
+      "Name": {
+        "EN": "Memories of Those Days, Blue Mountain Aoyama",
+        "JP": "\u3042\u306E\u9803\u306E\u601D\u3044\u51FA \u9752\u5C71\u30D6\u30EB\u30FC\u30DE\u30A6\u30F3\u30C6\u30F3"
+      },
+      "Traits": [
+        {
+          "EN": "Novel Writer",
+          "JP": "\u5C0F\u8AAC\u5BB6"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u305D\u308C\u306A\u3089\u3001\u5FDC\u63F4\u3057\u306A\u304C\u3089\u7740\u3066\u307B\u3057\u3044\u670D\u304C\u3042\u308B\u3093\u3067\u3059\u304C\u2026\u2026"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate one [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_008.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-010",
+      "Name": {
+        "EN": "Kagami Mochi, Tippy",
+        "JP": "\u304B\u304C\u307F\u3082\u3061 \u30C6\u30A3\u30C3\u30D4\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3082\u3075\u3082\u3075\u3058\u3083"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 3]:When this character supports, [Rest (2) Energy], and the supported character gets \u002B2/\u00B10 until end of that attack.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u30A8\u30CD\u2461\u3059\u308B\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_010.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-011",
+      "Name": {
+        "EN": "Special Gift, Cocoa",
+        "JP": "\u7279\u5225\u306A\u8D08\u308A\u7269 \u30B3\u30B3\u30A2"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        },
+        {
+          "EN": "Bread",
+          "JP": "\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "EN": "It\u0027s a present.",
+        "JP": "\u30D7\u30EC\u30BC\u30F3\u30C8\u3060\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 3]:During the first attack of this character each turn, this character gets \u002B4/\u00B10.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF14/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_011.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-012",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-012S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u3084\u308C\u3084\u308C\u3067\u3059"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_012s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Special Gift, Chino",
+        "JP": "\u7279\u5225\u306A\u8D08\u308A\u7269 \u30C1\u30CE"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u3084\u308C\u3084\u308C\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4]:[Put this character on the bottom of your deck], choose one of your entries with \u0022Cocoa\u0022 or \u0022Rize\u0022 in its card name, and that character gets \u002B1/\u00B10 until end of turn.\n([Skill Showcase Level 4]:Active if there are four or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\uFF3B\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\uFF3D \u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\u3001\u300A\u30B3\u30B3\u30A2\u300B\u304B\u300A\u30EA\u30BC\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_012.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-013",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-013S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u7279\u5225\u3060\u305E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_013s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Special Gift, Rize",
+        "JP": "\u7279\u5225\u306A\u8D08\u308A\u7269 \u30EA\u30BC"
+      },
+      "Traits": [
+        {
+          "EN": "Rabbit House",
+          "JP": "\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u7279\u5225\u3060\u305E"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_013.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-014",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-014S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u306F\u3044\u3001\u3069\u3046\u305E"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_014s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Special Gift, Chiya",
+        "JP": "\u7279\u5225\u306A\u8D08\u308A\u7269 \u5343\u591C"
+      },
+      "Traits": [
+        {
+          "EN": "Ama Usa An",
+          "JP": "\u7518\u514E\u5EB5"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u306F\u3044\u3001\u3069\u3046\u305E"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 3]:If you have a member with \u0022Cocoa\u0022 in its card name, choose one of your members with \u0022Cocoa\u0022 in its card name, and put this character and that character into your waiting room.\n([Skill Showcase Level 3]:Active if there are three or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u300A\u30B3\u30B3\u30A2\u300B\u304C\u3044\u308B\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u300A\u30B3\u30B3\u30A2\u300B\u3092\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u305D\u306E\u30AD\u30E3\u30E9\u3092\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_014.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-015",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-015S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u3057\u3087\u3046\u304C\u306A\u3044\u308F\u306D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_015s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Special Gift, Sharo",
+        "JP": "\u7279\u5225\u306A\u8D08\u308A\u7269 \u30B7\u30E3\u30ED"
+      },
+      "Traits": [
+        {
+          "EN": "Fleur de Lapin",
+          "JP": "\u30D5\u30EB\u30FC\u30EB \u30C9 \u30E9\u30D1\u30F3"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u3057\u3087\u3046\u304C\u306A\u3044\u308F\u306D"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_015.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-016",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-016S",
+          "Rarity": "SR",
+          "Flavor": {
+            "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B\u3001\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3078\u3088\u3046\u3053\u305D"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_016s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Ordinary Everyday",
+        "JP": "\u3044\u3064\u3082\u306E\u65E5\u5E38"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "JP": "\u3044\u3089\u3063\u3057\u3083\u3044\u307E\u305B\u3001\u30E9\u30D3\u30C3\u30C8\u30CF\u30A6\u30B9\u3078\u3088\u3046\u3053\u305D"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal one.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_016.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-017",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-017S",
+          "Rarity": "SR",
+          "Flavor": {
+            "EN": "Thank you for helping at your part-time job, Sharo.",
+            "JP": "\u30D0\u30A4\u30C8\u4E0A\u304C\u308A\u306A\u306E\u306B\u624B\u4F1D\u3063\u3066\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046\u3001\u30B7\u30E3\u30ED\u3061\u3083\u3093"
+          },
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_017s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Evening\u0027s Return Trip",
+        "JP": "\u5915\u66AE\u308C\u306E\u5E30\u308A\u9053"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Flavor": {
+        "EN": "Thank you for helping at your part-time job, Sharo.",
+        "JP": "\u30D0\u30A4\u30C8\u4E0A\u304C\u308A\u306A\u306E\u306B\u624B\u4F1D\u3063\u3066\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046\u3001\u30B7\u30E3\u30ED\u3061\u3083\u3093"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_017.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-P01",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-P01S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p01s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Cocoa",
+        "JP": "\u30B3\u30B3\u30A2"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p01.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-P02",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-P02S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p02s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Chino",
+        "JP": "\u30C1\u30CE"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p02.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    },
+    {
+      "Serial": "GU/001T-P03",
+      "Alternates": [
+        {
+          "Serial": "GU/001T-P03S",
+          "Rarity": "SR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p03s.png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Rize",
+        "JP": "\u30EA\u30BC"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/GUT/gu001t_p03.png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "GU/001T",
+        "Name": "Trial Start Deck Is the Order a Rabbit? BLOOM"
+      }
+    }
+  ]
+}

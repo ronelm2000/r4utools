@@ -1019,7 +1019,6 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_NJPW_001TV.r4uset",
                         DateAdded = new DateTime(638391989296113309L),
-                        IsDone = true
                     },
                     new ActivityLog
                     {
@@ -1032,8 +1031,14 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                     {
                         LogID = 126,
                         Activity = ActivityType.Parse,
-                        IsDone = true,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/PR.r4uset",
+                        DateAdded = new DateTime(638391989296113309L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 127,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GU_001T.r4uset",
                         DateAdded = new DateTime(638391989296113309L)
                     }
                 );
