@@ -1,14 +1,19 @@
-﻿using System;
+﻿using Serilog;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
 namespace Montage.RebirthForYou.Tools.CLI.Utilities
 {
-    public class RegexUtils
+    public static class RegexUtils
     {
-        public Regex CreateBalancedRegexQuotedText(string beginningQuotes, string endingQuotes)
+        private static ILogger Logger = Serilog.Log.ForContext(typeof(RegexUtils));
+
+        public static Regex CreateBalancedRegexQuotedText(string beginningQuotes, string endingQuotes)
         {
+
             return new Regex(string.Format(@"^
               {0}                       # Match first opeing delimiter
               (?<inner>

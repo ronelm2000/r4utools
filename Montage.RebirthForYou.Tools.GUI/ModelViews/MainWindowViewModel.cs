@@ -33,6 +33,7 @@ using Serilog;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Collections.Immutable;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Net.Http.Headers;
@@ -126,6 +127,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
 
         public MainWindow Parent { get; internal set; }
+        public DeckFormat DeckFormat { get; internal set; }
 
         public MainWindowViewModel()
         {
@@ -215,15 +217,14 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
 
             await using (var db = ioc.GetInstance<CardDatabaseContext>())
             {
-                GetCardDatabase(db).ForAll(card =>
+                GetCardDatabase(db).ForAll(async card =>
                 {
                     _database.AddOrUpdate(card.Card.Serial, card, (k, o) => o);
-                    Dispatcher.UIThread.InvokeAsync(() => DatabaseResults.Add(card));
-                    card.SubscribeOnImageLoaded(async () =>
-                    {
-                        await ApplyFilter(Filter);
-                    });
+                    Dispatcher.UIThread.InvokeAsync(() => DatabaseResults.Add(card)).GetHashCode();
                 });
+                _isFilteringDisabled = false;
+                await ApplyFilter(Filter);
+                Dispatcher.UIThread.InvokeAsync(() => Parent.RefreshView()).GetHashCode();
             }
 
             Log.Information("Completed!");
@@ -269,6 +270,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             if (IsDeckConstructionValid(cardEntry))
             {
                 DeckResults.Add(cardEntry);
+                Task.Run(async () => await ApplyFilter(Filter, TimeSpan.FromSeconds(5)));
                 SortDeck();
             } else
             {
@@ -278,6 +280,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         internal void RemoveDeckCard(CardEntryModel cardEntry)
         {
             DeckResults.Remove(cardEntry);
+            Task.Run(async () => await ApplyFilter(Filter, TimeSpan.FromSeconds(5)));
             SortDeck();
         }
         private async Task SaveDeck(CancellationToken token)
@@ -387,15 +390,25 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         // Task _currentApplyFilter = null;
         CancellationTokenSource _currentApplyFilterCancelToken = default;
         SemaphoreSlim _applyFilterLock = new SemaphoreSlim(1, 1);
+        bool _isFilteringDisabled = true;
+
         public async Task ApplyFilter(Predicate<R4UCard> filter) => await ApplyFilter(filter, TimeSpan.Zero);
 
         public async Task ApplyFilter(Predicate<R4UCard> filter, TimeSpan delayTimeSpan)
         {
             Filter = filter;
+            if (_isFilteringDisabled)
+                return;
             if (_currentApplyFilterCancelToken != null)
             {
-                _currentApplyFilterCancelToken.Cancel();
-                _currentApplyFilterCancelToken.Dispose();
+                try
+                {
+                    _currentApplyFilterCancelToken.Cancel();
+                    _currentApplyFilterCancelToken.Dispose();
+                }
+                catch 
+                {
+                }
             }
             _currentApplyFilterCancelToken = new CancellationTokenSource();
             try
@@ -403,7 +416,11 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 var cancelToken = _currentApplyFilterCancelToken.Token;
                 await Task.Delay(delayTimeSpan, cancelToken);
                 await ApplyFilter(filter, cancelToken);
-            } catch (TaskCanceledException)
+            }
+            catch (ObjectDisposedException)
+            {
+            }
+            catch (TaskCanceledException)
             {
                 // Do nothing, this was expected.
             }
@@ -414,6 +431,27 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             try
             {
                 if (ioc == null) return;
+                if (DeckFormat == DeckFormat.NeoStandard && deckResults.Where(c => c.Card.Type != CardType.Partner).Any())
+                {
+                    var deckNSCodes = deckResults
+                        .Where(c => c.Card.Type != CardType.Partner)
+                        .Select(c => c.NeoStandardCodes)
+                        .Aggregate((one, two) => one.Intersect(two))
+                        .ToArray();
+
+                    var distinctCodes = deckResults.SelectMany(c => c.NeoStandardCodes).Distinct();
+
+                    Log.Information("Filtered non-compliant Neo-Standard Codes.");
+                    Log.Information("Deck's NS Codes: {deckCodes}", deckNSCodes);
+                    filter = filter.And(c => c.Type == CardType.Partner || deckNSCodes.Intersect(c.NeoStandardCodes, StringComparer.InvariantCulture).Any());
+                }
+
+                if (deckResults.Where(c => c.Card.Type == CardType.Partner).Take(0..3).Count() >= 3)
+                {
+                    Log.Information("Filtered all Partners.");
+                    filter = filter.And(c => c.Type != CardType.Partner);
+                }
+
                 var values = _database.Values.AsParallel()
                     .WithCancellation(token)
                     .Where(ce => filter(ce.Card))
@@ -426,11 +464,13 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                     databaseResults.AddRange(values);
                 }
                 await new ValueTask<bool>(true);
-            }finally
+            }
+            catch (OperationCanceledException) {
+                Log.Verbose("Cancelled Operation.");
+            }
+            finally
             {
                 if (isLocked) _applyFilterLock.Release();
-                //if (!token.IsCancellationRequested)
-                //    token.Dispose(); // Some bug occurs if I tried to dispose the token.
             }
         }
 
@@ -471,6 +511,7 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 var deck = await exporter.Parse(stream, token);
                 var deckName = string.IsNullOrWhiteSpace(deck.Name) ? "An unnamed deck": deck.Name;
                 await ApplyDeck(deck);
+                await ApplyFilter(Filter);
                 return ("Success", $"{deckName} was loaded successfully!");
             }
             catch (DeckParsingException e)
@@ -485,13 +526,12 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             var range = deck.Ratios.Keys
                 .SelectMany(c => Enumerable.Range(0, deck.Ratios[c]).Select(i => c.Serial))
                 .Select(serial => _database[serial]);
-            await range .Select(ce => ce.LoadImageAsync())
-                        .ProcessAllAsync(new SemaphoreSlim(initialCount: 1, maxCount: 30));
+
             DeckResults.AddRange(range);
+            SortDeck();
             DeckName = deck.Name;
             DeckRemarks = deck.Remarks;
             Saved = "";
-            SortDeck();
         }
 
         private static R4UDeck GenerateDeck(ObservableCollection<CardEntryModel> deckResults, string deckName, string deckRemarks)
@@ -579,5 +619,33 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
             OutCommand = outCommand;
             Flags = new[] { "upscaling" }.Concat(flags);                                                                                
         }
+    }
+
+    public enum DeckFormat
+    {
+        NeoStandard,
+        Standard
+    }
+
+    public static class DeckFormats
+    {
+        public static DeckFormat Parse(string formatString)
+            => formatString switch
+            {
+                "NeoStandard" or "NS" => DeckFormat.NeoStandard,
+                "Standard" or "S" => DeckFormat.Standard,
+                _ => DeckFormat.Standard
+            };
+    }
+
+    public static class DeckFormatExtensions
+    {
+        public static string AsStringCode(this DeckFormat format)
+            => format switch
+            {
+                DeckFormat.NeoStandard => "NS",
+                DeckFormat.Standard => "S",
+                _ => "S"
+            };
     }
 }

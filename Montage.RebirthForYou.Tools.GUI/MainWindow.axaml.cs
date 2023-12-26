@@ -5,11 +5,13 @@ using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Input;
 using Avalonia.Input.Raw;
+using Avalonia.Interactivity;
 using Avalonia.Layout;
 using Avalonia.Logging;
 using Avalonia.Markup.Xaml;
 using Avalonia.Markup.Xaml.Templates;
 using Avalonia.Media;
+using Avalonia.Media.Imaging;
 using Avalonia.Threading;
 using DynamicData;
 using DynamicData.Binding;
@@ -33,6 +35,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reactive;
+using System.Reactive.Threading.Tasks;
 using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
@@ -44,10 +47,12 @@ namespace Montage.RebirthForYou.Tools.GUI
         private readonly TextBox _searchBarTextBox;
         private readonly ItemsRepeater _decklistRepeater;
         private readonly ScrollViewer _deckScroller;
-        private readonly ItemsRepeater _databaseRepeater;
-        private readonly ScrollViewer _databaseScroller;
+//        private readonly ItemsRepeater _databaseRepeater;
+        private readonly ListBox _databaseScroller;
         private readonly Func<MainWindowViewModel> _dataContext;
         private readonly IContainer _ioc;
+        private Dictionary<Border, IBrush> oldBrush = new Dictionary<Border, IBrush>();
+        private string _originalTitle;
 
         #region Public Properties
         public ILogger Log { get; }
@@ -110,6 +115,7 @@ namespace Montage.RebirthForYou.Tools.GUI
 
             _deckScroller.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
             _deckScroller.VerticalScrollBarVisibility = ScrollBarVisibility.Auto;
+
             _decklistRepeater.Layout = new UniformGridLayout
             {
                 Orientation = Orientation.Horizontal,
@@ -118,16 +124,18 @@ namespace Montage.RebirthForYou.Tools.GUI
                 MaximumRowsOrColumns = 10
             };
 
-            _databaseRepeater = this.FindControl<ItemsRepeater>("databaseRepeater");
-            _databaseScroller = this.FindControl<ScrollViewer>("databaseScroller");
-
-            _databaseScroller.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
-            _databaseScroller.VerticalScrollBarVisibility = ScrollBarVisibility.Auto;
+//            _databaseRepeater = this.FindControl<ItemsRepeater>("databaseRepeater");
+            _databaseScroller = this.FindControl<ListBox>("databaseScroller");
+//            _databaseScroller.HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled;
+//            _databaseScroller.VerticalScrollBarVisibility = ScrollBarVisibility.Auto;
+//            _databaseScroller.ScrollChanged += _databaseScroller_ScrollChanged;
+            /*
             _databaseRepeater.Layout = new StackLayout
             {
                 Orientation = Orientation.Vertical,
                 Spacing = 4
             };
+            */
 
             var dataContext = new MainWindowViewModel();
             DataContext = dataContext;
@@ -145,6 +153,11 @@ namespace Montage.RebirthForYou.Tools.GUI
 #if DEBUG
             this.AttachDevTools();
 #endif
+        }
+
+        private void _databaseScroller_ScrollChanged(object sender, ScrollChangedEventArgs e)
+        {
+            _databaseScroller.InvalidateVisual();
         }
 
         private async void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
@@ -181,8 +194,13 @@ namespace Montage.RebirthForYou.Tools.GUI
             AvaloniaXamlLoader.Load(this);
         }
 
-        private Dictionary<Border, IBrush> oldBrush = new Dictionary<Border, IBrush>();
-        private string _originalTitle;
+        public void Item_OnSetVisible(object sender, VisualTreeAttachmentEventArgs e)
+        {
+            var border = sender as Border;
+            var item = border?.DataContext as CardEntryModel;
+            item.IsLoading = true;
+            Log.Information("Loading in Database: {card}", item.Card.Serial);
+        }
 
         public void Item_OnPointerEnter(object sender, PointerEventArgs e)
         {
@@ -196,10 +214,12 @@ namespace Montage.RebirthForYou.Tools.GUI
                 Opacity = 1d
             };
             var stops = gradientBrush.GradientStops;// new GradientStops();
-            stops.Add(new GradientStop(Color.FromUInt32(0x7391C8FF), 0)); // #7391C8
-            stops.Add(new GradientStop(Color.FromUInt32(0x52688FFF), 1)); // #52688F
+            stops.Add(new GradientStop(Avalonia.Media.Color.FromUInt32(0x7391C8FF), 0)); // #7391C8
+            stops.Add(new GradientStop(Avalonia.Media.Color.FromUInt32(0x52688FFF), 1)); // #52688F
             oldBrush[border] = border.Background;
             border.Background = gradientBrush;
+
+            item.IsLoading = true;
 
             _dataContext().SelectedDatabaseCardEntry = item;
         }
@@ -224,11 +244,6 @@ namespace Montage.RebirthForYou.Tools.GUI
                 Log.Information("Got: {serial}", cardEntry?.Card.Serial);
                 _dataContext().RemoveDeckCard(cardEntry);
             }
-            /*else
-            {
-
-            }
-            */
         }
         private async void SearchBarText_OnTextChanged(string newText)
         {
@@ -242,7 +257,36 @@ namespace Montage.RebirthForYou.Tools.GUI
             };
             await _dataContext().ApplyFilter(query.ToQuery(), TimeSpan.FromSeconds(1));
         }
-        public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
 
+        private void ToggleFormat(string formatCode)
+        {
+            _dataContext().DeckFormat = DeckFormats.Parse(formatCode);
+        }
+
+        private void DatabaseImage_ResourcesChanged(object sender, ResourcesChangedEventArgs e)
+        {
+            /*
+            Log.Information("Database Image Changed");
+            var image = sender as Image;
+            image.InvalidateVisual();
+            Dispatcher.UIThread.Post(() =>
+            {
+                //                if (image.Source is Bitmap bitmap)
+                image.InvalidateVisual();
+
+
+                image.IsVisible = false;
+                image.InvalidateVisual();
+                image.IsVisible = true;
+            });
+            */
+            // image.InvalidateVisual();
+        }
+
+        internal async Task RefreshView()
+        {
+        }
+
+        public int DeckItemWidth => (int)(_deckScroller.Width / 10f);
     }
 }

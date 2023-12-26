@@ -55,6 +55,8 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
                 results.Add((card) => card.DEF == _this.DEF);
             if (Traits != null)
                 results.Add((card) => card.Traits?.Any(x => _this.Traits.Any(t => (x.EN?.ToLower().Contains(t.ToLower()) ?? false) || (x.JP ?? "").Contains(t))) ?? false);
+            if (NeoStandardCode != null)
+                results.Add((card) => card.NeoStandardCodes.Any(nsc => nsc == _this.NeoStandardCode));
             if (results.Count > 0)
                 return results.Aggregate(AndAggregate());
             else

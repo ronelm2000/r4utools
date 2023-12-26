@@ -2,6 +2,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:models="clr-namespace:Montage.RebirthForYou.Tools.GUI.Models"
         mc:Ignorable="d" 
         d:DesignWidth="600" d:DesignHeight="500"
         x:Class="Montage.RebirthForYou.Tools.GUI.MainWindow"
@@ -84,13 +85,32 @@
         <MenuItem Header="_Tabletop Simulator" Command="{Binding ExportViaTTSCommand}"/>
         <MenuItem Header="_Deck Image" Command="{Binding ExportViaDeckImageCommand}"/>
       </MenuItem>
-      <!-- Commented for v0.2.0 Publication
+
+      <MenuItem Header="_Format">
+        <MenuItem Header="_Neo-Standard" Command="" CommandParameter="NS">
+          <MenuItem.Icon>
+            <RadioButton BorderThickness="1"
+                         GroupName="Format"              
+                         Content="Neo-Standard"
+                         IsChecked="true"
+                         />
+          </MenuItem.Icon>
+        </MenuItem>
+        <MenuItem Header="_Standard" Command="" CommandParameter="S">
+          <MenuItem.Icon>
+            <RadioButton BorderThickness="1"
+                         GroupName="Format"
+                         Content="Standard"
+                         />
+          </MenuItem.Icon>
+        </MenuItem>
+      </MenuItem>
+      
       <MenuItem Header="_About" Command="{Binding OpenAboutCommand}" />
-      -->
     </Menu>
 
     <Grid>
-      <Grid   ColumnDefinitions="75*,10*,15*"
+      <Grid   ColumnDefinitions="70*,5*,25*"
               RowDefinitions="Auto,30*,Auto,Auto"  Margin="4">
         <Border   Background="Black"
                   BorderBrush="Black"
@@ -104,14 +124,17 @@
           <ScrollViewer Name="deckScroller"
                         HorizontalScrollBarVisibility="Auto"
                         VerticalScrollBarVisibility="Auto"
-                      >
+                        >
             <ItemsRepeater Name="decklistRepeater"
                            Background="Transparent"
                            ItemsSource="{Binding DeckResults}">
               <ItemsRepeater.ItemTemplate>
-                <DataTemplate>
+                <DataTemplate DataType="{x:Type models:CardEntryModel}">
                   <StackPanel>
-                    <Image Source="{Binding ImageSource}" Width="100" PointerReleased="DeckItem_OnPointerReleased">
+                    <Image  Source="{Binding ImageSource^, FallbackValue={x:Static models:CardEntryModel.LoadingImage} }"
+                            Width="110"
+                            PointerReleased="DeckItem_OnPointerReleased"
+                            >
                       <ToolTip.Tip>
                         <StackPanel MaxWidth="300">
                           <TextBlock Classes="h1" Text="{Binding Name}" />
@@ -156,110 +179,129 @@
                   BorderBrush="{DynamicResource BBBDatabaseCards}"
                   >
 
-          <ScrollViewer Name="databaseScroller"
-                        HorizontalScrollBarVisibility="Auto"
-                        VerticalScrollBarVisibility="Auto"
+            <ListBox  Name="databaseScroller"
+                      Background="Transparent"
+                      ItemsSource="{Binding DatabaseResults}"
+                      SelectionMode="Single"
                       >
-            <ItemsRepeater Name="databaseRepeater"
-                            Background="Transparent"
-                            ItemsSource="{Binding DatabaseResults}"
-                         >
-              <ItemsRepeater.ItemTemplate>
+              
+              <ListBox.Styles>
+                <Style Selector="ListBoxItem">
+                  <Setter Property="HorizontalAlignment" Value="Stretch" />
+                </Style>
+              </ListBox.Styles>
+
+              <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                  <VirtualizingStackPanel 
+                    ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                    />
+                </ItemsPanelTemplate>
+              </ItemsControl.ItemsPanel>
+  
+              <ItemsControl.ItemTemplate>
                 <DataTemplate>
-                  <Border   Padding="5"
-                            Margin="2"
-                            PointerEntered="Item_OnPointerEnter"
-                            PointerExited="Item_OnPointerLeave"
-                            PointerReleased="Item_OnPointerReleased"
-                            Background="{DynamicResource BBDatabaseCards}"
-                            BorderBrush="{DynamicResource BBBDatabaseCards}"
-                          >
-                    <ToolTip.Tip>
+                    <Border   Padding="5"
+                              Margin="2"
+                              MaxHeight="500"
+                              HorizontalAlignment="Stretch"
+                              PointerEntered="Item_OnPointerEnter"
+                              PointerExited="Item_OnPointerLeave"
+                              PointerReleased="Item_OnPointerReleased"
+                              Background="{DynamicResource BBDatabaseCards}"
+                              BorderBrush="{DynamicResource BBBDatabaseCards}"
+                              AttachedToVisualTree="Item_OnSetVisible"
+                            >
+                      <ToolTip.Tip>
                       <StackPanel MaxWidth="300">
-                        <TextBlock Classes="h1" Text="{Binding Name}" />
-                        <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
-                        <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
-                      </StackPanel>
-                    </ToolTip.Tip>
+                          <TextBlock Classes="h1" Text="{Binding Name}" />
+                          <TextBlock TextWrapping="Wrap" Text="{Binding Effects}"/>
+                          <TextBlock TextWrapping="Wrap" FontStyle="Italic" Text="{Binding Flavor}"/>
+                        </StackPanel>
+                      </ToolTip.Tip>
 
-                    <Border.Styles>
-                      <Style Selector="Border.Box:PointerPressed">
-                        <Style.Animations>
-                          <Animation Duration="0:0:1"
-                                     IterationCount="Infinite"
-                                     PlaybackDirection="Alternate"
-                                     Easing="QuinticEaseOut"
-                                   >
-                            <KeyFrame Cue="0%"></KeyFrame>
-                            <KeyFrame Cue="100%">
-                              <Setter Property="Background" Value="White" />
-                            </KeyFrame>
-                          </Animation>
-                        </Style.Animations>
-                      </Style>
-                    </Border.Styles>
+                      <Border.Styles>
+                        <Style Selector="Border.Box:PointerPressed">
+                          <Style.Animations>
+                            <Animation Duration="0:0:1"
+                                       IterationCount="Infinite"
+                                       PlaybackDirection="Alternate"
+                                       Easing="QuinticEaseOut"
+                                     >
+                              <KeyFrame Cue="0%"></KeyFrame>
+                              <KeyFrame Cue="100%">
+                                <Setter Property="Background" Value="White" />
+                              </KeyFrame>
+                            </Animation>
+                          </Style.Animations>
+                        </Style>
+                      </Border.Styles>
 
-                    <Grid ColumnDefinitions="30*,45*,25*"
-                          RowDefinitions="Auto,Auto,Auto,Auto,Auto"
-                          Margin="1"
-                      >
-                      <TextBlock  Focusable="True"
-                                  Text="{Binding CardName}"
-                                  TextWrapping="Wrap"
-                                  Grid.Row="0"
-                                  Grid.Column="0"
-                                  Grid.ColumnSpan="2"
-                              />
-                      <Image  Source="{Binding ImageSource}"
-                              Grid.Row="0"
-                              Grid.Column="2"
-                              Grid.RowSpan="5"
-                          />
-                      <TextBlock  Text="Cost"
-                                  Grid.Row="1"
-                                  Grid.Column="0"
-                              />
-                      <TextBlock Text="{Binding Card.Cost}"
-                                 Grid.Row="1"
-                                 Grid.Column="1"
-                             />
+                      <Grid ColumnDefinitions="30*,45*,25*"
+                            RowDefinitions="Auto,Auto,Auto,Auto,Auto"
+                            Margin="1"
+                            VerticalAlignment="Center"
+                        >
+                        <Grid.Styles>
+                          <Style Selector="TextBlock">
+                            <Setter Property="Padding" Value="5,5,5,5" />
+                          </Style>
+                        </Grid.Styles>
+                        
+                        <TextBlock  Focusable="True"
+                                    Text="{Binding CardName}"
+                                    TextWrapping="Wrap"
+                                    Grid.Row="0"
+                                    Grid.Column="0"
+                                    Grid.ColumnSpan="2"
+                                />
+                        <Image  Source="{Binding ImageSource^, FallbackValue={x:Static models:CardEntryModel.LoadingImage} }"
+                                Grid.Row="0"
+                                Grid.Column="2"
+                                Grid.RowSpan="5"
+                                Margin="5"
+                            />
+                        <TextBlock  Text="Cost"
+                                    Grid.Row="1"
+                                    Grid.Column="0"
+                                />
+                        <TextBlock Text="{Binding Card.Cost}"
+                                   Grid.Row="1"
+                                   Grid.Column="1"
+                               />
 
-                      <TextBlock Text="ATK/DEF"
-                                 Grid.Row="2"
-                                 Grid.Column="0"
-                             />
-                      <TextBlock Text="{Binding ATKDEF}"
-                                 Grid.Row="2"
-                                 Grid.Column="1"
-                             />
+                        <TextBlock Text="ATK/DEF"
+                                   Grid.Row="2"
+                                   Grid.Column="0"
+                               />
+                        <TextBlock Text="{Binding ATKDEF}"
+                                   Grid.Row="2"
+                                   Grid.Column="1"
+                               />
 
-                      <TextBlock Text= "Type"
-                                 Grid.Row="3"
-                                 Grid.Column="0"
-                             />
-                      <TextBlock Text="{Binding Card.Type}"
-                                 Grid.Row="3"
-                                 Grid.Column="1"
-                             />
+                        <TextBlock Text= "Type"
+                                   Grid.Row="3"
+                                   Grid.Column="0"
+                               />
+                        <TextBlock Text="{Binding Card.Type}"
+                                   Grid.Row="3"
+                                   Grid.Column="1"
+                               />
 
-                      <TextBlock Text="Traits"
-                                 Grid.Row="4"
-                                 Grid.Column="0"
-                             />
-                      <TextBlock Text="{Binding Traits}"
-                                 TextWrapping="Wrap"
-                                 Grid.Row="4"
-                                 Grid.Column="1"
-                             />
-                    </Grid>
-                  </Border>
+                        <TextBlock Text="Traits"
+                                   Grid.Row="4"
+                                   Grid.Column="0"
+                               />
+                        <TextBlock Text="{Binding Traits}"
+                                   TextWrapping="Wrap"
+                                   Grid.Row="4"
+                                   Grid.Column="1"
+                               />
+                      </Grid>
+                    </Border>
                 </DataTemplate>
-              </ItemsRepeater.ItemTemplate>
-            </ItemsRepeater>
-          </ScrollViewer>
-          <!--
-        <TextBox Text="Card Lists Go Here." />
-        -->
+              </ItemsControl.ItemTemplate>
+            </ListBox>
         </Border>
         <Border Padding="0"
                 Margin="0"
@@ -288,12 +330,6 @@
             </Border>
           </Grid>
         </Border>
-        <!--
-      <TextBlock Text="Col0Row1:" Grid.Row="1" Grid.Column="0"/>
-      <TextBlock Text="Col0Row2:" Grid.Row="2" Grid.Column="0"/>
-      <CheckBox Content="Col2Row0" Grid.Row="0" Grid.Column="2"/>
-      <Button Content="SpansCol1-2Row1-2" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
-      -->
       </Grid>
       <Border Name="loadingBox" Background="{DynamicResource BBLoading}" MinWidth="600" MaxWidth="800" Height="60" Padding="2" IsVisible="true">
         <StackPanel VerticalAlignment="Center">

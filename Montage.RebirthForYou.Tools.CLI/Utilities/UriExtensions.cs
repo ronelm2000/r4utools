@@ -21,7 +21,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
         static readonly IFlurlClient rateLimitingClient = new FlurlClient() //
             .Configure(se =>
             {
-                se.HttpClientFactory = new HTTPRateHandlerHttpClientFactory(new RateLimiterOptions { MaxTries = 10, Rate = 100, PerSecond = 1 });
+                se.HttpClientFactory = new HTTPRateHandlerHttpClientFactory(new RateLimiterOptions { MaxTries = 10, Rate = 500, PerSecond = 1 });
             });
         //static readonly Dictionary<string, HTTPRateHandler> siteHandlers = new Dictionary<string, HTTPRateHandler>();
 
@@ -154,18 +154,17 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
 
         }
 
-        public static async Task<IDocument> RecieveHTML(this Task<HttpResponseMessage> flurlReq)
+        public static async Task<IDocument> RecieveHTML(this HttpResponseMessage flurlReq)
         {
             var config = Configuration.Default.WithDefaultLoader()
                     .WithCss()
                     //.With(I)
                     ;
             var context = BrowsingContext.New(config);
-            var resReq = await flurlReq;
-            var stream = await resReq.Content.ReadAsStreamAsync(); //.ReceiveStream();
+            var stream = await flurlReq.Content.ReadAsStreamAsync(); //.ReceiveStream();
             return await context.OpenAsync(req =>
             {
-                req.Address(resReq.RequestMessage.RequestUri.AbsoluteUri);
+                req.Address(flurlReq.RequestMessage.RequestUri.AbsoluteUri);
                 req.Content(stream, true);
             });
         }

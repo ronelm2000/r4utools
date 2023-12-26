@@ -19,7 +19,7 @@ namespace Montage.RebirthForYou.Tools.GUI
         public static AppBuilder BuildAvaloniaApp()
             => AppBuilder.Configure<App>()
                 .UseReactiveUI()
-                .UsePlatformDetect()
+                .UsePlatformDetect()            
                 .LogToTrace();
     }
 }
