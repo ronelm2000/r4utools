@@ -523,9 +523,12 @@ namespace Montage.RebirthForYou.Tools.GUI.ModelViews
         private async Task ApplyDeck(R4UDeck deck)
         {
             DeckResults.Clear();
+
             var range = deck.Ratios.Keys
-                .SelectMany(c => Enumerable.Range(0, deck.Ratios[c]).Select(i => c.Serial))
-                .Select(serial => _database[serial]);
+                .Select(c => (Card: c, Model: _database[c.Serial]))
+                .Peek(p => p.Model.IsLoading = true)
+                .SelectMany(p => Enumerable.Range(0, deck.Ratios[p.Card]).Select(i => p.Model))
+                ;
 
             DeckResults.AddRange(range);
             SortDeck();

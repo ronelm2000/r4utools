@@ -10,6 +10,23 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
 {
     public static class EnumerableExtensions
     {
+        public static IEnumerable<T> Peek<T>(this IEnumerable<T> source, Action<T> action)
+        {
+            if (source == null) throw new ArgumentNullException(nameof(source));
+            if (action == null) throw new ArgumentNullException(nameof(action));
+
+            return Iterator();
+
+            IEnumerable<T> Iterator() // C# 7 Local Function
+            {
+                foreach (var item in source)
+                {
+                    action(item);
+                    yield return item;
+                }
+            }
+        }
+
         public static Task ProcessAllAsync(this IEnumerable<Task> source, SemaphoreSlim concurrencyLimiter) {
             return Task.WhenAll(from item in source select ProcessAsync(item, concurrencyLimiter));
         }

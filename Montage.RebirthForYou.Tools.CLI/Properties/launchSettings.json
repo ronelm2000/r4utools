@@ -139,6 +139,10 @@
     "Export U149": {
       "commandName": "Project",
       "commandLineArgs": "export https://decklog-en.bushiroad.com/ja/view/QZQS --exporter local"
+    },
+    "Parse R4U Wiki (GU/001T)": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
     }
   }
 }
