@@ -35,6 +35,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
                 {
                     return System.IO.File.Open(path.FullPath, fileMode);
                 }
+                catch (System.IO.FileNotFoundException e)
+                {
+                    throw e;
+                }
                 catch (System.IO.IOException)
                 { }
             while (true);
@@ -47,21 +51,15 @@ namespace Montage.RebirthForYou.Tools.CLI.Utilities
                     token.ThrowIfCancellationRequested();
                     return System.IO.File.Open(path.FullPath, fileMode);
                 }
+                catch (System.IO.FileNotFoundException e)
+                {
+                    throw e;
+                }
                 catch (System.IO.IOException)
                 {
                     await Task.Delay(500, token);
                 }
             while (true);
         }
-
-
-        /// 
-        /// <summary>
-        /// Creates a file under the first path in the set.
-        /// </summary>
-        /// <param name="fileName">The name of the file.</param>
-        /// <param name="fileContent">The content of the file.</param>
-        /// <returns>A set with the created file.</returns>
-        // public static Path CreateFile(this Path path, string fileName, string fileContent) => path.First().CreateFiles(p => path.Create(fileName), p => fileContent);
     }
 }

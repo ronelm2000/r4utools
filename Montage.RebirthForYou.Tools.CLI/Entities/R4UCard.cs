@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Montage.RebirthForYou.Tools.CLI.Entities
@@ -96,23 +97,32 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
             return newCard;
         }
 
-        public async Task<System.IO.Stream> GetImageStreamAsync(CookieSession session = default)
+        public async Task<System.IO.Stream> GetImageStreamAsync(CookieSession session = default, CancellationToken token = default)
         {
-            // int retry = 0;
             if (!String.IsNullOrWhiteSpace(CachedImagePath) && !CachedImagePath.Contains(".."))
                 try
                 {
-                    return System.IO.File.OpenRead(CachedImagePath);
+                    return await Fluent.IO.Path.Get(CachedImagePath).OpenStreamAsync(FileMode.Open, token);
                 }
                 catch (System.IO.FileNotFoundException)
                 {
                     Log.Warning("Cannot find cache file: {cacheImagePath}.", CachedImagePath);
                     Log.Warning("Falling back on remote URL.");
                 }
-                catch (Exception) { }
+                catch (System.IO.IOException e)
+                {
+                    Log.Warning("IOException occurred: {exception}", e.Message);
+                }
+                catch (Exception e)
+                {
+                    Log.Warning("Other exception occurred: {exception}", e.Message);
+                }
             var img = Images?.Prepend(EmptyURL).Last();
             Log.Debug("Loading URL: {url}", img.AbsoluteUri);
-            var bytes = await Images?.Prepend(EmptyURL).Last().WithImageHeaders().WithCookies(session).GetAsync().WithRetries(10).ReceiveBytes() ?? await EmptyURL.WithImageHeaders().GetBytesAsync();
+            var request = img.WithImageHeaders();
+            if (session != default)
+                request = request.WithCookies(session);
+            var bytes = await request.GetAsync().WithRetries(10).ReceiveBytes() ?? await EmptyURL.WithImageHeaders().GetBytesAsync();
             return new MemoryStream(bytes);
         }
 
