@@ -94,7 +94,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 updatedCard.Effect = rulesTextEnumerable.Select((m, i) =>
                 {
                     var result = card.Effect[i].Clone();
-                    result.JP = m.Value;
+                    result.JP = m.Value.Trim();
                     return result;
                 }).ToArray();
                 updatedCard.Images.Add(new Uri(imageLink));

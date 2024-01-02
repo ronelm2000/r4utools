@@ -2,6 +2,45 @@
   "Version": 1,
   "Cards": [
     {
+      "Serial": "HP/001B-006",
+      "Name": {
+        "EN": "Always a Positive Mood Maker, Miria",
+        "JP": " \u3044\u3064\u3082\u524D\u5411\u304D\u306A\u30E0\u30FC\u30C9\u30E1\u30FC\u30AB\u30FC \u307F\u308A\u3042"
+      },
+      "Traits": [
+        {
+          "EN": "3rd Entertainment Div.",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8D64\u57CE\u307F\u308A\u3042\uFF01\u3088\u308D\u3057\u304F\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]: Choose up to 1 character in your hand and put it into your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-006[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
       "Serial": "U149/001T-001[IMC]",
       "Name": {
         "EN": "Though small, still Idol! Arisu",
@@ -722,7 +761,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Heal 1.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002"
         },
         {
           "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
@@ -750,7 +789,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
         },
         {
           "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",

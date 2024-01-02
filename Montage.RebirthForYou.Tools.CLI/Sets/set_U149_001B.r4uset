@@ -506,7 +506,7 @@
       "Effect": [
         {
           "EN": "[CONT](Member)[ReCombo \u0022Conveying Love\u0022][Skill Showcase Level 5]:Your \u003CThird Entertainment Division\u003E entry gets \u002B1/\u002B1 for every 2 cards in your hand.",
-          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u611B\u3092\u4F1D\u3048\u3088\u3046\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF12\u679A\u306B\u3064\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002\n"
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u611B\u3092\u4F1D\u3048\u3088\u3046\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3042\u306A\u305F\u306E\u624B\u672D\uFF12\u679A\u306B\u3064\u304D\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306E\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
         },
         {
           "EN": "[ACT](Entry)[Skill Showcase Level 5 \u003CThird Entertainment Division\u003E][1/Turn]:[Cost (3)], and draw a card. Choose 1 of your members, and you may exchange its position with this character.",
@@ -792,7 +792,7 @@
       "Effect": [
         {
           "EN": "[AUTO](Entry)[ReCombo \u0022Delightful Like the Sun\u0022][Skill Showcase Level 5][1/Turn]:When this character retires an opponent\u0027s character, choose a \u003CThird Entertainment Division\u003E from your energy area, and put it onto your member area.",
-          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u592A\u967D\u306E\u3088\u3046\u306A\u697D\u3057\u3044\u3092\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002\n"
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u592A\u967D\u306E\u3088\u3046\u306A\u697D\u3057\u3044\u3092\u300B\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30CD\u30EB\u30AE\u30FC\u304B\u3089\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304F\u3002"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 4]:When this character is put onto your entry area other than from your deck, set up to 1 Rebirth from your energy area.",
@@ -1648,7 +1648,7 @@
       "Effect": [
         {
           "EN": "[CONT](Entry)[ReCombo \u0022Oneself\u0027s Chosen Possibility\u0022]:This character gets \u002B2/\u00B10.",
-          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u9078\u3093\u3060\u81EA\u5206\u306E\u53EF\u80FD\u6027\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\n"
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u9078\u3093\u3060\u81EA\u5206\u306E\u53EF\u80FD\u6027\u300B\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
         },
         {
           "EN": "[AUTO](Entry)[Skill Showcase Level 4 \u003CThird Entertainment Division\u003E][1/Turn]:When your member is put into the waiting room by a card effect, choose 1 of your opponent\u0027s members, and put it on the bottom of the deck.",
@@ -2024,7 +2024,7 @@
       "Effect": [
         {
           "EN": "[Cancel]:[Spark] of non-Rebirth cards",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
         },
         {
           "EN": "[ACT](Waiting room)[ReCombo \u0022Growing Towards Her Aspiration\u0022][Skill Showcase Level 4 \u003CThird Entertainment Division\u003E]:[Cost (2)], put this character onto your entry area, and this character gets \u002B2/\u00B10 until end of turn.",
@@ -2355,7 +2355,7 @@
       "Effect": [
         {
           "EN": "[Blocker \u003CThird Entertainment Division\u003E]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\n"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, put this character onto your energy area as [Rest].",
@@ -2410,7 +2410,7 @@
       "Effect": [
         {
           "EN": "[ACT](Entry)[ReCombo \u0022Lively Flower Garden\u0022][1/Turn]:[Put a card from your hand into the waiting room], draw a card, and put the top card of your deck onto your energy area as [Rest].",
-          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5143\u6C17\u306E\u304A\u82B1\u7551\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\n"
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5143\u6C17\u306E\u304A\u82B1\u7551\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u624B\u672D\u304B\u3089\uFF11\u679A\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\uFF3D\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304D\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
         },
         {
           "EN": "[AUTO](Member)[Skill Showcase Level 5]:When this character supports, [Cost (1)], and the supported character gets \u002B2/\u00B10 until end of that attack.",
@@ -3299,7 +3299,7 @@
       "Effect": [
         {
           "EN": "[CONT](Member):If this character is [Rest], when your member would be chosen by your opponent\u0027s card effects, this character is chosen first.",
-          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u306A\u3089\u3001\u76F8\u624B\u306F\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002\n"
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u306A\u3089\u3001\u76F8\u624B\u306F\u52B9\u679C\u3067\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u30AD\u30E3\u30E9\u3092\u9078\u3076\u969B\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\u512A\u5148\u3059\u308B\u3002"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 4]:When this character is returned to your hand from your member area, draw a card, choose 1 of your members, and that character cannot be chosen by your opponent\u0027s characters until end of turn.",
@@ -3979,7 +3979,7 @@
       "Effect": [
         {
           "EN": "[Blocker]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 3]:When this character blocks, you may put this character onto your open member area.",
@@ -4595,7 +4595,7 @@
       "Effect": [
         {
           "EN": "[Cancel]:[Spark] of non-Rebirth cards",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
         },
         {
           "EN": "[ACT](Member)[Skill Showcase Level 3]:[Cost (1), and put this character into the waiting room], choose a card from your hand, and put it onto your energy area as [Rest].",
@@ -4719,7 +4719,7 @@
       "Effect": [
         {
           "EN": "[AUTO](Entry):At the start of your attack phase, if you have a [Rest] member, this character\u0027s next attack this turn may be performed without being supported.",
-          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30B5\u30DD\u30FC\u30C8\u306A\u3057\u3067\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u308B\u3002\n"
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A2\u30BF\u30C3\u30AF\u30D5\u30A7\u30A4\u30BA\u958B\u59CB\u6642\u3001\u3042\u306A\u305F\u306E\u3010\u30EC\u30B9\u30C8\u3011\u3057\u3066\u3044\u308B\u30E1\u30F3\u30D0\u30FC\u304C\u3044\u308B\u306A\u3089\u3001\u3053\u306E\u30BF\u30FC\u30F3\u3053\u306E\u30AD\u30E3\u30E9\u306E\u6B21\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30B5\u30DD\u30FC\u30C8\u306A\u3057\u3067\u30A2\u30BF\u30C3\u30AF\u3067\u304D\u308B\u3002"
         },
         {
           "EN": "[ACT](Member)[Skill Showcase Level 5]:[[Rest] this character], choose 1 of your opponent\u0027s entries, and put it onto the member area as [Rest].",
@@ -5047,7 +5047,7 @@
       "Effect": [
         {
           "EN": "[CONT](Entry)[Skill Showcase Level 4]:This character gets \u00B10/\u002B1.",
-          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\n"
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002"
         },
         {
           "EN": "[CONT](Entry)[Skill Showcase Level 7]:This character gets \u002B3/\u002B3.",
@@ -5093,7 +5093,7 @@
       "Effect": [
         {
           "EN": "[Cancel]:[Spark] of non-Rebirth cards",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 3]:When this character is put into the waiting room by this character\u0027s [Cancel], you may put this character onto your member area as [Rest].",
@@ -5346,7 +5346,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Draw a card.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
         },
         {
           "EN": "[ACT][Skill Showcase Level 3][1/Turn]:[If your entry is a \u003CU149\u003E, reveal a \u003CU149\u003E with greater Cost than it from your hand or energy area], draw a card, put the revealed character onto your entry area, and until end of turn, that character gets \u002B1/\u00B10, and characters cannot be put onto your entry area by your card effects.",
@@ -5383,11 +5383,11 @@
       "Effect": [
         {
           "EN": "[Blocker \u003CThird Entertainment Division\u003E]",
-          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\n"
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015"
         },
         {
           "EN": "[AUTO][Skill Showcase Level 5]:When this Rebirth blocks, set this Rebirth, and draw a card.",
-          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3057\u3001\uFF11\u679A\u5F15\u304F\u3002\n"
+          "JP": "\u3010\u81EA\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306ERe\u30D0\u30FC\u30B9\u304C\u30D6\u30ED\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306ERe\u30D0\u30FC\u30B9\u3092\u30BB\u30C3\u30C8\u3057\u3001\uFF11\u679A\u5F15\u304F\u3002"
         },
         {
           "EN": "[CONT]:Your entry gets \u002B1/\u00B10.",
@@ -5424,7 +5424,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Draw two cards.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF12\u679A\u5F15\u304F\u3002"
         },
         {
           "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
@@ -5461,7 +5461,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Put two cards from the top of your deck onto your energy area as [Rest].",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF12\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304F\u3002"
         },
         {
           "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B3/\u00B10.",
@@ -5498,7 +5498,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09"
         },
         {
           "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
@@ -5535,7 +5535,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Choose up to two of your allied members, and put them into the waiting room.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u5473\u65B9\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF12\u679A\u307E\u3067\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002"
         },
         {
           "EN": "[AUTO]:When this Rebirth is set, if you have three or more cards in your retire area, choose one of your opponent\u0027s entries or members, and put it into the waiting room.",
@@ -5572,7 +5572,7 @@
       "Effect": [
         {
           "EN": "[Cancel]:[Spark] or [Cancel]\n(If you discard it from hand, negate one [Spark] or [Cancel])",
-          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09\n"
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1A\u3010\u30B9\u30D1\u30FC\u30AF\u3011or\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u304B\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
         },
         {
           "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
@@ -5642,7 +5642,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
         },
         {
           "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
@@ -5679,7 +5679,7 @@
       "Effect": [
         {
           "EN": "[Spark]:Choose one of your members, and you may return it to your hand.",
-          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002\n"
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u624B\u672D\u306B\u623B\u3057\u3066\u3088\u3044\u3002"
         },
         {
           "EN": "[ACT][1/Turn]:[Stand] all of your partners.",
