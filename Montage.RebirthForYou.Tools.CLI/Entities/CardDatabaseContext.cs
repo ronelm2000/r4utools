@@ -1040,6 +1040,20 @@ namespace Montage.RebirthForYou.Tools.CLI.Entities
                         Activity = ActivityType.Parse,
                         Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_GU_001T.r4uset",
                         DateAdded = new DateTime(638391989296113309L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 128,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_U149_001T.r4uset",
+                        DateAdded = new DateTime(638398373920331112L)
+                    },
+                    new ActivityLog
+                    {
+                        LogID = 129,
+                        Activity = ActivityType.Parse,
+                        Target = "https://raw.githubusercontent.com/ronelm2000/r4utools/master/Montage.RebirthForYou.Tools.CLI/Sets/set_U149_001B.r4uset",
+                        DateAdded = new DateTime(638398373920331112L)
                     }
                 );
             });

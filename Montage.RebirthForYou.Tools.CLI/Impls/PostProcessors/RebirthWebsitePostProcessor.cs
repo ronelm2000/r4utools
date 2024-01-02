@@ -18,7 +18,10 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
     {
         private readonly ILogger Log = Serilog.Log.ForContext<RebirthWebsitePostProcessor>();
         private readonly string rebirthURLPrefix = "https://rebirth-fy.com/cardlist/";
-        private readonly Regex effectMatcher = new Regex(@"(【)(?(スパーク|起|永|自)(スパーク|起|永|自)(([^】]*)】：?)([^\n]*)((\n[^【](.*))*)|(キャンセル|ブロッカー|のびしろ)(】)(：)?([^\n]*)(\n)?(（(.+)）)?)");
+        private readonly Regex effectMatcher = new Regex(
+            @"(【(スパーク|起|永|自|Reコンボ(.*?)|キャンセル(.*?)|ブロッカー|エントリー|メンバー|本領発揮Lv(.*?)|控え室|のびしろ|ターン１)】|《(.*?)》|〔(.*?)〕|（今後の成長に期待！）)+(：(.*?)|)(\n|$)((((.*?)．(.*))|(（(.*)）))(\n|$))*?(\n|$)",
+            RegexOptions.Multiline | RegexOptions.Compiled
+            );
 
         public int Priority => 1;
 
@@ -154,6 +157,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.PostProcessors
                 "KS/002B-018" => "【永】【エントリー】：あなたのメンバーがいないなら、このキャラを±０/＋４。\n【自】【メンバー】：あなたのターン終了時、あなたは自分の他のメンバーから１枚以上、すべて選び、控え室に置くことで、このキャラをエントリーに置く。",
                 "KS/002B-093" => "【スパーク】：あなたは味方のメンバーから２枚まで選び、控え室に置く。\n【自】：このReバースがセットされた時、あなたのリタイアが３枚以上なら、あなたは相手の、エントリーかメンバーから１枚選び、控え室に置く。",
                 "KS/002B-096" => "【スパーク】：あなたは自分のメンバーから１枚選び、手札に戻してよい。\n【起】【ターン１】：あなたのパートナーをすべて【スタンド】する。",
+                "U149/001B-019[IMC]" => "【自】【本領発揮Lv４】〔第3芸能課〕：このキャラがデッキ以外からエントリーに置かれた時、このターン中、このキャラを＋２/＋２。あなたは自分のエネルギーから１枚選び、控え室に置くことで、さらに＋１/＋１。",
                 _ => null
             };
         }

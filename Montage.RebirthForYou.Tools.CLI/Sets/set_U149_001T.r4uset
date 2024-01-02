@@ -1,0 +1,1153 @@
+{
+  "Version": 1,
+  "Cards": [
+    {
+      "Serial": "U149/001T-001[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Arisu",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u3042\u308A\u3059"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 5,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[ReCombo][1/Turn]:When this character attacks, [choose 1 of your members, and put it on the bottom of your deck], and this character gets \u002B2/\u00B10 until end of that attack. If this character was put onto your entry area from your hand this turn, then it gets an additional \u002B2/\u00B10 until end of turn.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30A2\u30BF\u30C3\u30AF\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3053\u306E\u30AD\u30E3\u30E9\u304C\u3053\u306E\u30BF\u30FC\u30F3\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u306A\u3089\u3001\u3055\u3089\u306B\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\uFF0B\uFF12/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-001[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T",
+        "Name": "Trial Deck - TV Anime \"THE IDOLM@STER CINDERELLA GIRLS U149\""
+      }
+    },
+    {
+      "Serial": "U149/001T-002[IMC]",
+      "Name": {
+        "EN": "Argumentative\u200B and Stubborn, Arisu",
+        "JP": "\u7406\u5C48\u3063\u307D\u304F\u3066\u3061\u3087\u3063\u3068\u9811\u56FA \u3042\u308A\u3059"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u6A58\u2026\u2026\u3042\u308A\u3059\u3067\u3059"
+      },
+      "Effect": [
+        {
+          "EN": "[Cancel]:[Spark] of non-Rebirth cards\n(If you discard it from hand, negate 1 [Spark] of a non-Rebirth card)",
+          "JP": "\u3010\u30AD\u30E3\u30F3\u30BB\u30EB\u3011\uFF1ARe\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001Re\u30D0\u30FC\u30B9\u4EE5\u5916\u306E\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3092\uFF11\u3064\u6B62\u3081\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-002[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-003[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Momoka",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u6843\u83EF"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 3,
+      "DEF": 1,
+      "Effect": [
+        {
+          "EN": "[Spark][Skill Showcase Level 4]:Choose 1 of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are 4 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-003[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-004[IMC]",
+      "Name": {
+        "EN": "Elegant and Mature, Momoka",
+        "JP": "\u512A\u96C5\u3067\u5927\u4EBA\u3063\u307D\u3044 \u6843\u83EF"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 3,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u6AFB\u4E95\u6843\u83EF\u3067\u3059\u308F"
+      },
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your entry area from your hand, this character gets \u002B3/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF13/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-004[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-005[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Miria",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u307F\u308A\u3042"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[ReCombo]:This character gets \u002B1/\u00B10 for each of your \u003CThird Entertainment Division\u003E members.\n([ReCombo]:Active if you have a Rebirth set)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u306E\u3014\u7B2C3\u82B8\u80FD\u8AB2\u3015\uFF11\u679A\u306B\u3064\u304D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002\n\uFF08\u3010Re\u30B3\u30F3\u30DC\u3011\uFF1A\u3042\u306A\u305F\u306ERe\u30D0\u30FC\u30B9\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-005[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-006[IMC]",
+      "Name": {
+        "EN": "Positive Mood Maker, Miria",
+        "JP": "\u3044\u3064\u3082\u524D\u5411\u304D\u306A\u30E0\u30FC\u30C9\u30E1\u30FC\u30AB\u30FC \u307F\u308A\u3042"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Flavor": {
+        "JP": "\u8D64\u57CE\u307F\u308A\u3042\uFF01\u3088\u308D\u3057\u304F\u306D\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:You may choose a character from your hand, and put it onto your member area.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-006[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-007[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Risa",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u68A8\u6C99"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Effect": [
+        {
+          "EN": "[Spark]:Draw a card.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-007[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-008[IMC]",
+      "Name": {
+        "EN": "World\u0027s most daddy\u0027s girl, Risa",
+        "JP": "\u4E16\u754C\u3067\u4E00\u756A\u30D1\u30D1\u304C\u5927\u597D\u304D \u68A8\u6C99"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Flavor": {
+        "JP": "\u7684\u5834\u68A8\u6C99\u3088"
+      },
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-008[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-009[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Haru",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u6674"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO](Entry)[Skill Showcase Level 4][1/Turn]:When this character retires an opponent\u0027s character, choose 1 of your opponent\u0027s members, and put it into the waiting room.\n([Skill Showcase Level 4]:Active if there are 4 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u30E1\u30F3\u30D0\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF14\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-009[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-010[IMC]",
+      "Name": {
+        "EN": "Soccer Lover, Haru",
+        "JP": "\u30B5\u30C3\u30AB\u30FC\u5927\u597D\u304D \u6674"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u30AA\u30EC\u3001\u7D50\u57CE\u6674"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-010[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-011[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Chie",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u5343\u679D"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[AUTO]:When this character is put onto your member area from your hand, choose 1 of your entries, and that character gets \u002B2/\u00B10 until end of turn.",
+          "JP": "\u3010\u81EA\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u624B\u672D\u304B\u3089\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u304B\u308C\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u9078\u3073\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-011[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-012[IMC]",
+      "Name": {
+        "EN": "Docile and Reserved, Chie",
+        "JP": "\u304A\u3068\u306A\u3057\u304F\u3066\u63A7\u3048\u3081 \u5343\u679D"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 3,
+      "Flavor": {
+        "JP": "\u3055\u2026\u4F50\u3005\u6728\u5343\u679D\u3001\u3067\u3059\u2026\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Spark]:This character gets \u002B2/\u002B2 until end of turn.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\uFF0B\uFF12\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-012[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-013[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Kaoru",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u85AB"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 1,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member):When this character supports, if you have more cards in your retire area than your opponent, [put this character on the bottom of your deck], and draw a card.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u304C\u76F8\u624B\u3088\u308A\u591A\u3044\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-013[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-014[IMC]",
+      "Name": {
+        "EN": "Always Energetic, Kaoru",
+        "JP": "\u3044\u3064\u3067\u3082\u660E\u308B\u304F\u5143\u6C17\u3044\u3063\u3071\u3044 \u85AB"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 5,
+      "Flavor": {
+        "JP": "\u9F8D\u5D0E\u85AB\u3067\u30FC\u3063\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[CONT](Member)[Skill Showcase Level 3]:Your entry gets \u00B10/\u002B1.\n([Skill Showcase Level 3]:Active if there are 3 or more cards in total on your member and retire areas)",
+          "JP": "\u3010\u6C38\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\u00B1\uFF10/\uFF0B\uFF11\u3002\n\uFF08\u3010\u672C\u9818\u767A\u63EELv\uFF13\u3011\uFF1A\u3042\u306A\u305F\u306E\u3001\u30E1\u30F3\u30D0\u30FC\u3068\u30EA\u30BF\u30A4\u30A2\u304C\u5408\u8A08\uFF13\u679A\u4EE5\u4E0A\u3067\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-014[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-015[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Nina",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u4EC1\u5948"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Entry):[Cost (3)], choose this character and a Cost 4 or greater \u003CU149\u003E from your hand, and exchange their positions.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\uFF1A\uFF3B\u30A8\u30CD\u2462\uFF3D\u3042\u306A\u305F\u306F\u3001\u3053\u306E\u30AD\u30E3\u30E9\u3068\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u30B3\u30B9\u30C8\uFF14\u4EE5\u4E0A\u306E\u3014U149\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u305D\u308C\u3089\u3092\u5165\u308C\u66FF\u3048\u308B\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-015[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-016[IMC]",
+      "Name": {
+        "EN": "Upfront and Innocent, Nina",
+        "JP": "\u3059\u306A\u304A\u3067\u5929\u771F\u721B\u6F2B \u4EC1\u5948"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 7,
+      "Flavor": {
+        "JP": "\u5E02\u539F\u4EC1\u5948\u3067\u3054\u305C\u30FC\u307E\u3059\uFF01"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-016[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-017[IMC]",
+      "Name": {
+        "EN": "Though small, still Idol! Koharu",
+        "JP": "\u5C0F\u3055\u304F\u305F\u3063\u3066\u3001\u30A2\u30A4\u30C9\u30EB\uFF01 \u5C0F\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Green",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 2,
+      "DEF": 4,
+      "Effect": [
+        {
+          "EN": "[Blocker]\n(If you discard it from hand, the damage from one attack to your allied character becomes zero)",
+          "JP": "\u3010\u30D6\u30ED\u30C3\u30AB\u30FC\u3011\n\uFF08\u624B\u672D\u304B\u3089\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3068\u3001\u5473\u65B9\u3078\u306E\u30A2\u30BF\u30C3\u30AF\uFF11\u56DE\u306E\u30C0\u30E1\u30FC\u30B8\u3092\uFF10\u306B\u3059\u308B\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-017[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-018[IMC]",
+      "Name": {
+        "EN": "Gentle Calm Easy-going, Kaoru",
+        "JP": "\u3075\u3093\u308F\u308A\u304A\u3063\u3068\u308A\u3057\u305F\u306E\u3093\u3073\u308A\u5C4B\u3055\u3093 \u5C0F\u6625"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 3,
+      "ATK": 4,
+      "DEF": 8,
+      "Flavor": {
+        "JP": "\u53E4\u8CC0\u5C0F\u6625\u3067\u3059\uFF5E"
+      },
+      "Effect": [
+        {
+          "EN": "[Growing](Expect growth in the future!)",
+          "JP": "\u3010\u306E\u3073\u3057\u308D\u3011\uFF08\u4ECA\u5F8C\u306E\u6210\u9577\u306B\u671F\u5F85\uFF01\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-018[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-019[IMC]",
+      "Name": {
+        "EN": "Producer",
+        "JP": "\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TD",
+      "Cost": 2,
+      "ATK": 3,
+      "DEF": 6,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[ReCombo \u0022To the Stage of Dreams\u0022][1/Turn]:[Cost (2)], choose a \u003CU149\u003E from your hand, put it onto your entry area, and that character gets \u0022[AUTO](Entry)[1/Turn]:When this character retires an opponent\u0027s character, draw a card.\u0022 until end of turn.\n(Active if you have \u0022To the Stage of Dreams\u0022 set)",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010Re\u30B3\u30F3\u30DC\u3011\u300A\u5922\u306E\u30B9\u30C6\u30FC\u30B8\u3078\u300B\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2461\uFF3D\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u624B\u672D\u304B\u3089\u3014U149\u3015\u3092\uFF11\u679A\u9078\u3073\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304D\u3001\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u305D\u306E\u30AD\u30E3\u30E9\u306B\u3008\u3010\u81EA\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u76F8\u624B\u306E\u30AD\u30E3\u30E9\u3092\u30EA\u30BF\u30A4\u30A2\u3055\u305B\u305F\u6642\u3001\u3042\u306A\u305F\u306F\uFF11\u679A\u5F15\u304F\u3002\u3009\u3092\u4E0E\u3048\u308B\u3002\n\uFF08\u3042\u306A\u305F\u306E\u300A\u5922\u306E\u30B9\u30C6\u30FC\u30B8\u3078\u300B\u304C\u30BB\u30C3\u30C8\u3057\u3066\u3042\u308C\u3070\u6709\u52B9\uFF09"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-019[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-020[IMC]",
+      "Name": {
+        "EN": "Riding the Overlapping Tones",
+        "JP": "\u91CD\u306A\u308B\u97F3\u8272\u306B\u4E57\u305B\u3066"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Heal 1.",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\uFF11\u70B9\u56DE\u5FA9\u3059\u308B\u3002\n"
+        },
+        {
+          "EN": "[CONT]:During the first attack of each turn, your entry gets \u002B1/\u00B10.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u5404\u30BF\u30FC\u30F3\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-020[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-021[IMC]",
+      "Name": {
+        "EN": "To the Stage of Dreams",
+        "JP": "\u5922\u306E\u30B9\u30C6\u30FC\u30B8\u3078"
+      },
+      "Traits": [],
+      "Type": "Rebirth",
+      "Color": "Yellow",
+      "Rarity": "TD",
+      "Effect": [
+        {
+          "EN": "[Spark]:Choose the same number of cards from your opponent\u0027s entry and member areas as cards in your retire area, and put them into the waiting room. (Choose as many as possible)",
+          "JP": "\u3010\u30B9\u30D1\u30FC\u30AF\u3011\uFF1A\u3042\u306A\u305F\u306F\u76F8\u624B\u306E\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u3068\u30E1\u30F3\u30D0\u30FC\u304B\u3089\u3001\u3042\u306A\u305F\u306E\u30EA\u30BF\u30A4\u30A2\u3068\u540C\u3058\u679A\u6570\u9078\u3073\u3001\u63A7\u3048\u5BA4\u306B\u7F6E\u304F\u3002\uFF08\u9078\u3079\u308B\u9650\u308A\u9078\u3076\uFF09\n"
+        },
+        {
+          "EN": "[CONT]:Your entry gets \u002B1/\u002B1.",
+          "JP": "\u3010\u6C38\u3011\uFF1A\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u3092\uFF0B\uFF11/\uFF0B\uFF11\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-021[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-022[IMC]",
+      "Alternates": [
+        {
+          "Serial": "U149/001T-022SN[IMC]",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-022sn[imc].png"
+          ]
+        },
+        {
+          "Serial": "U149/001T-022S[IMC]",
+          "Rarity": "TDR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-022s[imc].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Third Entertainment Division, Arisu",
+        "JP": "\u7B2C3\u82B8\u80FD\u8AB2 \u3042\u308A\u3059"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TDR",
+      "Cost": 5,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[CONT](Entry)[Skill Showcase Level 5]:This character gets \u00B10/\u002B2, and your opponent\u0027s first attack each turn cannot be a partner attack.",
+          "JP": "\u3010\u6C38\u3011\u3010\u30A8\u30F3\u30C8\u30EA\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF15\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u3092\u00B1\uFF10/\uFF0B\uFF12\u3057\u3001\u5404\u30BF\u30FC\u30F3\u76F8\u624B\u306E\uFF11\u56DE\u76EE\u306E\u30A2\u30BF\u30C3\u30AF\u306F\u30D1\u30FC\u30C8\u30CA\u30FC\u30A2\u30BF\u30C3\u30AF\u306B\u306A\u3089\u306A\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-022[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-023[IMC]",
+      "Alternates": [
+        {
+          "Serial": "U149/001T-023SN[IMC]",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-023sn[imc].png"
+          ]
+        },
+        {
+          "Serial": "U149/001T-023S[IMC]",
+          "Rarity": "TDR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-023s[imc].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Third Entertainment Division, Momoka",
+        "JP": "\u7B2C3\u82B8\u80FD\u8AB2 \u6843\u83EF"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TDR",
+      "Cost": 4,
+      "ATK": 5,
+      "DEF": 7,
+      "Effect": [
+        {
+          "EN": "[ACT](Member)[Skill Showcase Level 4][1/Turn]:[Cost (4), and return a card from your entry area to your hand], and the next character to be put onto your entry area gets \u002B2/\u00B10 until end of turn. If you have 1 member, you may choose a character from your waiting room, and put it onto your open member area.",
+          "JP": "\u3010\u8D77\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\u3010\u30BF\u30FC\u30F3\uFF11\u3011\uFF1A\uFF3B\u30A8\u30CD\u2463\u3001\u30A8\u30F3\u30C8\u30EA\u30FC\u304B\u3089\uFF11\u679A\u624B\u672D\u306B\u623B\u3059\uFF3D\u3053\u306E\u30BF\u30FC\u30F3\u4E2D\u3001\u6B21\u306B\u3042\u306A\u305F\u306E\u30A8\u30F3\u30C8\u30EA\u30FC\u306B\u7F6E\u304B\u308C\u308B\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002\u3042\u306A\u305F\u306E\u30E1\u30F3\u30D0\u30FC\u304C\uFF11\u679A\u306A\u3089\u3001\u3042\u306A\u305F\u306F\u81EA\u5206\u306E\u63A7\u3048\u5BA4\u304B\u3089\u30AD\u30E3\u30E9\u3092\uFF11\u679A\u9078\u3073\u3001\u7A7A\u5E2D\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u7F6E\u3044\u3066\u3088\u3044\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-023[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-024[IMC]",
+      "Alternates": [
+        {
+          "Serial": "U149/001T-024SN[IMC]",
+          "Rarity": "SNR",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-024sn[imc].png"
+          ]
+        },
+        {
+          "Serial": "U149/001T-024S[IMC]",
+          "Rarity": "TDR\u002B",
+          "Images": [
+            "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-024s[imc].png"
+          ]
+        }
+      ],
+      "Name": {
+        "EN": "Third Entertainment Division, Miria",
+        "JP": "\u7B2C3\u82B8\u80FD\u8AB2 \u307F\u308A\u3042"
+      },
+      "Traits": [
+        {
+          "EN": "Third Entertainment Division",
+          "JP": "\u7B2C3\u82B8\u80FD\u8AB2"
+        },
+        {
+          "EN": "U149",
+          "JP": "U149"
+        }
+      ],
+      "Type": "Character",
+      "Color": "Blue",
+      "Rarity": "TDR",
+      "Cost": 4,
+      "ATK": 4,
+      "DEF": 8,
+      "Effect": [
+        {
+          "EN": "[AUTO](Member)[Skill Showcase Level 4]:When this character supports, [put this character on the bottom of your deck], put the top card of your deck onto your energy area as [Rest], and the supported character gets \u002B2/\u00B10 until end of that attack.",
+          "JP": "\u3010\u81EA\u3011\u3010\u30E1\u30F3\u30D0\u30FC\u3011\u3010\u672C\u9818\u767A\u63EELv\uFF14\u3011\uFF1A\u3053\u306E\u30AD\u30E3\u30E9\u304C\u30B5\u30DD\u30FC\u30C8\u3057\u305F\u6642\u3001\u3042\u306A\u305F\u306F\u3053\u306E\u30AD\u30E3\u30E9\u3092\u30C7\u30C3\u30AD\u306E\u4E0B\u306B\u7F6E\u304F\u3053\u3068\u3067\u3001\u81EA\u5206\u306E\u30C7\u30C3\u30AD\u306E\u4E0A\u304B\u3089\uFF11\u679A\u30A8\u30CD\u30EB\u30AE\u30FC\u306B\u3010\u30EC\u30B9\u30C8\u3011\u3067\u7F6E\u304D\u3001\u3053\u306E\u30A2\u30BF\u30C3\u30AF\u4E2D\u3001\u30B5\u30DD\u30FC\u30C8\u3055\u308C\u305F\u30AD\u30E3\u30E9\u3092\uFF0B\uFF12/\u00B1\uFF10\u3002"
+        }
+      ],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-024[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P001[IMC]",
+      "Name": {
+        "EN": "Arisu Tachibana",
+        "JP": "\u6A58 \u3042\u308A\u3059"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p001[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P002[IMC]",
+      "Name": {
+        "EN": "Momoka Sakurai",
+        "JP": "\u6AFB\u4E95 \u6843\u83EF"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p002[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P003[IMC]",
+      "Name": {
+        "EN": "Miria Akagi",
+        "JP": "\u8D64\u57CE \u307F\u308A\u3042"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p003[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P004[IMC]",
+      "Name": {
+        "EN": "Risa Matoba",
+        "JP": "\u7684\u5834 \u68A8\u6C99"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p004[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P005[IMC]",
+      "Name": {
+        "EN": "Haru Yuuki",
+        "JP": "\u7D50\u57CE \u6674"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p005[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P006[IMC]",
+      "Name": {
+        "EN": "Chie Sasaki",
+        "JP": "\u4F50\u3005\u6728 \u5343\u679D"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p006[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P007[IMC]",
+      "Name": {
+        "EN": "Kaoru Ryuzaki",
+        "JP": "\u9F8D\u5D0E \u85AB"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p007[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P008[IMC]",
+      "Name": {
+        "EN": "Nina Ichihara",
+        "JP": "\u5E02\u539F \u4EC1\u5948"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p008[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P009[IMC]",
+      "Name": {
+        "EN": "Koharu Koga",
+        "JP": "\u53E4\u8CC0 \u5C0F\u6625"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TD",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p009[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P010TPP[IMC]",
+      "Name": {
+        "EN": "Arisu \u0026amp; Momoka",
+        "JP": "\u3042\u308A\u3059\u0026\u6843\u83EF"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TPP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p010tpp[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P011TPP[IMC]",
+      "Name": {
+        "EN": "Nina \u0026amp; Miria",
+        "JP": "\u4EC1\u5948\uFF06\u307F\u308A\u3042"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TPP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p011tpp[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    },
+    {
+      "Serial": "U149/001T-P012TPP[IMC]",
+      "Name": {
+        "EN": "Risa \u0026amp; Haru",
+        "JP": "\u68A8\u6C99\u0026\u6674"
+      },
+      "Traits": [],
+      "Type": "Partner",
+      "Color": "Red",
+      "Rarity": "TPP",
+      "Effect": [],
+      "Images": [
+        "https://s3-ap-northeast-1.amazonaws.com/rebirth-fy.com/wordpress/wp-content/images/cardlist/IMT2/u149001t-p012tpp[imc].png"
+      ],
+      "Language": "Japanese",
+      "Set": {
+        "ReleaseCode": "U149/001T"
+      }
+    }
+  ]
+}

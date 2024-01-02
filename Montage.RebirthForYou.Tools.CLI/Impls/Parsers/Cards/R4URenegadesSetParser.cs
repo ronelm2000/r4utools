@@ -31,7 +31,7 @@ namespace Montage.RebirthForYou.Tools.CLI.Impls.Parsers.Cards
         private readonly Regex seriesRebirthMatcher = new(@"(.+)(?: )*(\/|\\)(?: )*(.+) Rebirth");
         private readonly Regex rubyMatcher = new(@"(<rt>)([^>]+)(<\/rt>)|(<ruby>)|(<\/ruby>)");
         private readonly Regex releaseIDMatcher = new(@"(([A-Za-z0-9]+)(\/)([^-]+))-");
-        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:|(One|Two|Three|Four|Five|Six|Seven) or more:|(1st|2nd|3rd|4th|5th|1st and 2nd) time:).+");
+        private readonly Regex overflowEffectTextMatcher = new(@"^(?=(\()|i\.|ii\.|iii\.|iv\.|(\d+) or more:|(One|Two|Three|Four|Five|Six|Seven) or more:|(1st|2nd|3rd|4th|5th|1st and 2nd) time:|\[(Spark|Cancel|Blocker)\]\.).+");
 
         public bool IsCompatible(IParseInfo parseInfo)
         {

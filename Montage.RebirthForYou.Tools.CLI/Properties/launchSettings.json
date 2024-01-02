@@ -143,6 +143,10 @@
     "Parse R4U Wiki (GU/001T)": {
       "commandName": "Project",
       "commandLineArgs": "parse https://rebirth-for-you.fandom.com/wiki/Trial_Start_Deck_Is_the_Order_a_Rabbit%3F_BLOOM"
+    },
+    "Parse U149/001": {
+      "commandName": "Project",
+      "commandLineArgs": "parse https://rebirthforyourenegades.wordpress.com/2024/01/02/u149-001t-u149-001b-full-set-list-translations/"
     }
   }
 }
